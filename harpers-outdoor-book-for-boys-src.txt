@@ -3,8 +3,6 @@
 .pn +1
 
 
-
-
 HARPER'S "TELL ME HOW" BOOKS
 
 <i>A New Series</i>
@@ -70,8 +68,6 @@ FIG. 11--A SINGLE-TREE HUT]
 .pn +1
 
 
-
-
 /*
 HARPER'S
 OUTDOOR BOOK
@@ -96,8 +92,6 @@ NEW YORK AND LONDON
 */
 // 006.png
 .pn +1
-
-
 
 
 /*
@@ -1664,7 +1658,7 @@ live and thrive.
 
 In Fig. 20 a double-floored rabbit-hutch is shown, and
 if it is made large enough quite a family of rabbits can live
-in it, the larger ones down-stairs and the smaller ones up-*stairs.
+in it, the larger ones down-stairs and the smaller ones upstairs.
 An inclined plane will make it possible for the
 friends and relatives to visit each other.
 
@@ -1832,7 +1826,7 @@ and coil. The more short branches it has, the better, for it
 will then give the snakes a more satisfactory perch to move
 about on. At the bottom of each end a small trap doorway
 four inches high and six inches long is cut, and protected by
-a stout wire-cloth door, hinged and locked. These trap-*doors
+a stout wire-cloth door, hinged and locked. These trap-doors
 are for the purpose of removing refuse or for feeding
 the reptiles; or a smaller opening at the back, near the top,
 and about two inches in diameter, can be used as a food
@@ -1939,7 +1933,7 @@ wire nails. Put one middle rafter in on each side between
 .pn +1
 eaves to the roof. It would not look well to have the roof
 the corner ones; then nail shingle lath or scantling on the
-four sides to receive the shingles. The rafters should over-*hang
+four sides to receive the shingles. The rafters should overhang
 the top frame about twelve inches, so as to form the
 stop on a line with the posts. Begin at the bottom and at
 the middle of each side to shingle the roof, working out to
@@ -2660,10 +2654,10 @@ welded on the shaft, which for the balance of its length is
 three-quarters of an inch in diameter.
 
 Just beyond the shoulder or collar, C, the crank is formed,
-two inches wide and three inches out from the shaft. Be-*
+two inches wide and three inches out from the shaft. Beyond 
 // 088.png
 .pn +1
-*yond the crank another collar, C\_C, is welded on, and beyond
+the crank another collar, C\_C, is welded on, and beyond
 this the shaft should measure six inches in length.
 
 The total length of the shaft is fifteen inches, and all the
@@ -2858,11 +2852,11 @@ needle so that it will fit nicely and snugly.
 
 [Illustration: <i>Fig. 3</i>]
 
-This must be fastened to the forward end of the back-*bone.
-The best and lightest way is to braze it, as the tin-*
+This must be fastened to the forward end of the backbone.
+The best and lightest way is to braze it, as the tinsmiths 
 // 095.png
 .pn +1
-*smiths call it. File the polish from the end of the needle,
+call it. File the polish from the end of the needle,
 and wet it with soldering fluid, which may be bought at a
 tinner's, or made by adding zinc to muriatic acid until no
 more is dissolved. Slip on the brass support just where
@@ -3124,12 +3118,12 @@ are one-half by one-quarter-inch pine, free from knots,
 ten common brass rings three-quarters of an inch in diameter,
 two round-headed brass screws one inch in length,
 two flat-headed ones of the same dimensions, two small
-screw-hooks, and eight assorted brass screw-eyes, there be-*
+screw-hooks, and eight assorted brass screw-eyes, there being 
 // 104.png
 .pn +1
 *[Illustration: <i>Fig. 7</i>]
 
-*ing two of each size. Now that we have the material for
+two of each size. Now that we have the material for
 the frames, we will begin with Fig. 7, which shows the
 sail and sheer plan. The frame is made of six pieces of
 wood. The top piece is exactly two feet in length. The
@@ -3564,7 +3558,7 @@ Laps are cut in the top of the sides, and with screws the
 ends of the braces are securely held in place. Under each
 cross-piece and at the sides brackets must be securely
 fastened with screws as shown at Fig. 9, to strengthen the
-sides and take some of the strain from the cross-piece fas-*
+sides and take some of the strain from the cross-piece fastenings. 
 // 120.png
 .pn +1
 *[Illustration: <i>Fig. 7</i>]
@@ -3579,7 +3573,7 @@ sides and take some of the strain from the cross-piece fas-*
 
 *[Illustration: <i><sc>Fig 8</sc></i>]
 
-*tenings. Eight inches from the rear end a stout block is set
+Eight inches from the rear end a stout block is set
 in the runners through which the king-bolt passes that
 fastens the seat to the sled. This is of hard-wood fourteen
 inches long, two inches and a half wide, and four inches
@@ -3596,7 +3590,7 @@ The head of the five-eighths-inch king-bolt should be
 embedded in the top of the block that is fast to the plank
 before it is attached, and the bolt should be provided with
 two nuts for safety. In the summer-time, when the bob is
-stored away, the forward sled can be removed by un-*screwing
+stored away, the forward sled can be removed by unscrewing
 the nuts from the lower end of the bolt under the
 sled.
 
@@ -3646,10 +3640,10 @@ for he must always land feet down when jumping.
 
 A skee of the right proportions should be seven feet long
 and four inches wide. Hickory, oak, or other hard-wood
-three-quarters of an inch in thickness will be the best mate-*
+three-quarters of an inch in thickness will be the best material 
 // 123.png
 .pn +1
-*rial from which to make the skees. Two or three grooves
+from which to make the skees. Two or three grooves
 cut in a straight line along the entire bottom length will
 hold the skee slider on his course, as the keel does a boat.
 
@@ -3719,7 +3713,7 @@ snow.
 
 The shoe in the form of a tennis racket (Fig. 14 B) is the
 shape commonly used by the Esquimaux and is about thirty-four
-inches long and fifteen inches wide. It is made some-*
+inches long and fifteen inches wide. It is made somewhat 
 // 125.png
 .pn +1
 
@@ -3730,7 +3724,7 @@ inches long and fifteen inches wide. It is made some-*
 SNOW-SHOES]
 // 126.png
 .pn +1
-*what similar to the Iroquois shoe but the mesh is more
+similar to the Iroquois shoe but the mesh is more
 open.
 
 The oval shoe (Fig. 14 C) is made from two U-shaped
@@ -3924,7 +3918,7 @@ middle ones proportioned in length to the two side-strings
 tied at the ends of the top and bottom sticks--that is, at
 A and B on both sides of Fig. 2.
 
-The keel of the frame is made from a thin piece of hard-*wood
+The keel of the frame is made from a thin piece of hard-wood
 that will spring and keep its shape, such as hickory,
 oak, or birch; and after soaking it in boiling hot water for
 a few minutes lash it fast to the bottom of the mast and
@@ -4218,10 +4212,10 @@ way to handle it.
 
 The drawings which I have made of one of these kites
 will enable any enterprising boy to make one. As no tail
-is used great care must be taken to make it perfectly sym-*
+is used great care must be taken to make it perfectly symmetrical. 
 // 143.png
 .pn +1
-*metrical. It is also desirable to have the kite very light
+It is also desirable to have the kite very light
 and yet as stiff as possible.
 
 The proper construction of the frame is shown in Fig. 15.
@@ -4243,7 +4237,7 @@ plane at both ends. It would be well to pour boiling water
 on this stick for a distance of three feet at both ends, so as
 to make it easier to bend. Leave it in this position for a
 few hours until the water dries out and the wood is shaped,
-then lash the top ends of the cross-sticks to the bow-*piece.
+then lash the top ends of the cross-sticks to the bow-piece.
 
 While bending the bow the two lower sticks may be
 shaped at the same time. They should be of hickory or
@@ -4337,10 +4331,10 @@ or paper six inches wide. From the four ends some thin
 wire such as florists use is connected with a cork about
 twelve inches in the rear of the sail, where it is bound
 fast with a few wraps of the wire. A pin is passed through
-the middle of the top yard to the sail and is bent over form-*
+the middle of the top yard to the sail and is bent over forming 
 // 147.png
 .pn +1
-*ing a hook, and in the cork another one is arranged in a
+a hook, and in the cork another one is arranged in a
 similar manner. The messenger can be hung on the string,
 and if there are no knots to intercept its progress it will
 quickly speed away to the kite.
@@ -4440,7 +4434,7 @@ chisel cut the hole square so that the axle will fit snugly into
 it. The flanges are to be made fast to the ends of the rolling-pin
 hub with nails or screws, and this revolving barrel is
 hung in the inverted V-shaped frame of the reel. To hold
-this reel down when winding in a line make several hard-*wood
+this reel down when winding in a line make several hard-wood
 stakes as shown at C. These are cut out with a saw;
 and to protect the head and prevent it from splitting off,
 // 151.png
@@ -4539,10 +4533,10 @@ shown in the illustration of a box-reel (Fig. 31). The large
 wheel should be attached to an axle and one of the pedal-cranks
 made fast to it. Instead of the pedal a wooden
 handle will slip on the pedal axle where it can be secured
-by the nut that held the pedal in place.   The relative posi-*
+by the nut that held the pedal in place.   The relative positions 
 // 154.png
 .pn +1
-*tions of wheels, axles, and other parts of this reel can be
+of wheels, axles, and other parts of this reel can be
 seen at Fig. 33. A represents the crank, handle, and large
 wheel; B the axle that passes through the box; C the axle
 and flanges made fast to the small sprocket-wheel; and D
@@ -4719,10 +4713,10 @@ and weak in another will give you more trouble than one
 which is not so strong but uniform.
 
 The strain upon the tackle is equalized by the elasticity
-of the rod, which to some extent makes up for want of dex-*
+of the rod, which to some extent makes up for want of dexterity. 
 // 160.png
 .pn +1
-*terity. But never have a rod so flexible that it will not
+But never have a rod so flexible that it will not
 control the tackle, and, above all, avoid one which is weak
 in the middle.
 
@@ -5087,7 +5081,7 @@ waxed silk thread.
 
 We need say but a few words about knots. In order to
 knot your gut it must be first softened, which is done by
-laying it in water; it softens much more rapidly in luke-*warm
+laying it in water; it softens much more rapidly in lukewarm
 water than in cold. Two lengths of gut are joined
 together by lapping the end of one by the end of the other
 and making a knot in both together. Fig. 6 A shows
@@ -5223,7 +5217,7 @@ shown at Fig. 11, will be found very useful.
 Fig. 12 A and B are hand-made sinkers beaten and
 carved out of old lead pipe. The carved one, B, is first
 roughed out with a jack-knife and finished up with fine
-emery or sand paper. A is beaten into shape with a rail-*road
+emery or sand paper. A is beaten into shape with a railroad
 spike on an anvil or smooth stone. This beating and
 carving of lead is very pleasant work, the lead being of such
 an easy and good-natured temper.
@@ -5482,10 +5476,10 @@ same general plan, a bottle-shaped basket having a funnel
 fitted at the bottom and provided with a hat that is held
 on by two straps of green oak.
 
-Three forms are used on which to build up the basket-*
+Three forms are used on which to build up the basket-work. 
 // 185.png
 .pn +1
-*work. The large form is usually ten inches in diameter and
+The large form is usually ten inches in diameter and
 shaped down to eight inches at the top or neck. This form
 is two feet long and has a round stick driven in the small
 end. This in turn rests in a hole bored in a solid piece of
@@ -5691,12 +5685,12 @@ end, one inch in thickness, and tapered so that it will be
 about an inch square with the corners rounded where it is
 grasped by the hand. The handle part of it should be
 bound with linen cord to improve the grip. Give the deck
-wood-work and timbering a few coats of red, buff, or light-*green
+wood-work and timbering a few coats of red, buff, or light-green
 paint.
 
 The mast-step is rigged over the forward cross-timber.
 Two upright pieces of board twenty inches long and eight
-inches wide are attached to the outside edges of the frame-*joist
+inches wide are attached to the outside edges of the frame-joist
 with screws.   On top of these a cross-piece is made
 // 192.png
 .pn +1
@@ -5871,10 +5865,10 @@ or cotton line a trifle smaller than clothes-line.
 A Pushmobile
 
 The pushmobile (Fig. 10) is another interesting road or
-sidewalk car and one with which two boys can share con-*
+sidewalk car and one with which two boys can share considerable 
 // 198.png
 .pn +1
-*siderable fun. In general appearance the pushmobile resembles
+fun. In general appearance the pushmobile resembles
 something between an automobile and a buck-board,
 as there is a long reach between the fore and aft wheels. The
 body consists of a long board one inch and a quarter in thickness,
@@ -6079,7 +6073,7 @@ not cut the pipe. At the bottom, slits are cut in the pipe
 two inches in from the edge, about three-quarters of an inch
 apart, and with a flat-nosed pliers the ears are bent out so
 that they will lie flat on the barrel-top when the smoke-pipe
-is set in place. A piece of tin or zinc is placed on the barrel-*head
+is set in place. A piece of tin or zinc is placed on the barrel-head
 under the smoke-pipe, and with large tacks the pipe is
 then made fast.
 
@@ -6145,7 +6139,7 @@ fire company a rope should be made fast to the axle at both
 ends or to the body frame, and the boy nearest the engine
 can steer it with the pole. All the wood-work should be
 painted red and the metal parts with asphaltum varnish,
-which will give them a good appearance, and as it is water-*proof
+which will give them a good appearance, and as it is water-proof
 it will prevent the metal parts from rusting.
 
 Trip-gongs and signal-lamps should, of course, be provided,
@@ -6294,7 +6288,7 @@ should be of hickory. The plan for a scaling-ladder is
 shown in Fig. 9. The stick is three by one and a half inches
 and the rungs are three-quarters by two inches, driven
 through mortises cut in the stick twelve inches apart and
-held by a steel nail driven through the centre. The goose-*neck
+held by a steel nail driven through the centre. The goose-neck
 base is divided like the front-wheel fork of a bicycle
 and with corresponding holes bored in each side. Bolts
 should be passed through them and the head of the stick
@@ -6338,10 +6332,10 @@ seasons and storms. While at one time it may be flushed
 up to the hub, at another the water may hardly touch the
 blades of the wheel.
 
-These forms of old-style wheels have become almost ob-*
+These forms of old-style wheels have become almost obsolete 
 // 214.png
 .pn +1
-*solete now as the modern turbine has superseded it as a
+now as the modern turbine has superseded it as a
 means of employing water as a motive power. Less than
 one-quarter of the surface of the old-time wheels would be
 actively engaged at any one time, and the waste of power
@@ -6593,7 +6587,7 @@ the bottom boards make the total depth of the sides nineteen
 inches. The wider boards are the lower ones, and they
 are fastened together near both ends and at the middle
 with battens as shown in Fig. 4. The middle battens are
-six inches wide, and into the upper ends of them the row-*lock
+six inches wide, and into the upper ends of them the row-lock
 pins are driven. The bottom planking should not be
 more than four or five inches wide, and it is securely
 nailed to the edges of the sides and to an inner keel-strip
@@ -6787,7 +6781,7 @@ her when rowing, as well as making a deeper stern-post
 to which a rudder may be hung as shown in Fig. 2. Six
 inches to the rear of the middle seat plates of wood six
 inches wide are attached to the sides of the sharpy, as shown
-in the illustration (Fig. 5), and on the tops of these oar-*locks
+in the illustration (Fig. 5), and on the tops of these oar-locks
 or pins are inserted after the usual fashion.
 
 At the outside of the sides and an inch below the top edge
@@ -7559,7 +7553,7 @@ heavily on an anchor as does a boat.
 
 The wood-work of the boat and deck should be painted
 and the spars varnished. A pretty effect will be to paint
-the boat a rich olive green, with buff decks, and all the cross-*pieces
+the boat a rich olive green, with buff decks, and all the cross-pieces
 and deck planking in ivory white.
 
 The ordinary sailing rules will apply to the handling of a
@@ -7778,7 +7772,7 @@ at all times.
 
 [Illustration: <i><sc>Fig 4</sc></i>]
 
-This is a very easy rig to handle as it relieves the steers-*man
+This is a very easy rig to handle as it relieves the steersman
 from the bother of the jib-sheets which are annoying
 in a stiff breeze.
 // 267.png
@@ -7866,11 +7860,11 @@ When sailing on the ice the centre-board should be hauled
 up as high as it will go, for it is of use only when the boat is
 in the water.
 
-A scoot is a cranky boat on the ice as the runners or fore-*shoes
-are closer together than on an ice-boat with a trian-*
+A scoot is a cranky boat on the ice as the runners or fore-shoes
+are closer together than on an ice-boat with a triangular 
 // 270.png
 .pn +1
-*gular frame. Going before the wind it is all right, but when
+frame. Going before the wind it is all right, but when
 sailing on or up into a stiff wind it will keep a boy moving
 to hold his balance and steady the boat.
 
@@ -7934,7 +7928,7 @@ fifteen inches long and the rudder-blade is ten inches long.
 
 This is a rapid sailer before the wind, and with a little
 man[oe]uvring the runner can be made to sail on the wind,
-though it will not run nearly as close to the wind as the ice-*boats
+though it will not run nearly as close to the wind as the ice-boats
 or scoots. Paint or varnish will give the wood-work a
 good finish, and under a stiff breeze this wind-runner will
 carry four or five boys.
@@ -8093,10 +8087,10 @@ canopy. The cabin sheathing is of narrow matched boards
 planed on both sides and as free from knots and sappy places
 as it is possible to get them. The boards must be thoroughly
 sun-dried before they are laid on and nailed fast, and it
-would be well also to paint the matched edges so that moist-*
+would be well also to paint the matched edges so that moisture 
 // 278.png
 .pn +1
-*ure may not get in and swell them. The inside and outside
+may not get in and swell them. The inside and outside
 of the cabin is to be painted to protect the wood from
 moisture, and if painted a light tint of any color, or white, it
 will be cooler in summer when the sun is shining than if
@@ -8287,7 +8281,7 @@ house and how it is divided into the several compartments.
 In the front, the dining and living saloon is a room measuring
 about eight feet in width and eleven feet in length. At
 one end a couch is placed which, if necessary, can be used as
-a bed; and close to it are two large windows--one overlook-*
+a bed; and close to it are two large windows--one overlooking 
 // 284.png
 .pn +1
 [Illustration: <i><sc>Fig 11</sc></i>
@@ -8299,7 +8293,7 @@ Fig. 13
 DETAILS OF A HOUSE-RAFT]
 // 285.png
 .pn +1
-*ing the fore-deck, the other giving a view from the side of
+the fore-deck, the other giving a view from the side of
 the house. At the other end of the room a neat china-cupboard
 is built into the corner, and in the opposite corner the
 front door and a window are placed. One of the illustrations
@@ -8956,10 +8950,10 @@ represented by the arrow.
 [Illustration: <i>Fig. 44</i>]
 
 <sc>Catspaw Hitch</sc> (Fig. 39).--Like the Blackwall Hitch,
-this one is used for making a rope fast to a hook for hoist-*
+this one is used for making a rope fast to a hook for hoisting 
 // 304.png
 .pn +1
-*ing purposes. Seize the bight of the rope in your two
+purposes. Seize the bight of the rope in your two
 hands, and by turning the wrists form the two loops, then
 hang these loops on the hook as in Fig. 40.
 
@@ -9216,7 +9210,7 @@ tent backward and forward as well as from side to side.
 
 A flag-pole four feet high may be erected on the middle
 upright by leaving the pin at the top longer, so that it will
-extend up and into a hole bored in the lower end of the flag-*pole.
+extend up and into a hole bored in the lower end of the flag-pole.
 The lower end of the pole must be bound with cord
 or wire to prevent splitting. A small pulley at the top, and
 a set of halyards, will make it possible to raise a club flag
@@ -9523,10 +9517,10 @@ folding ends, a middle pole, and four iron brace-hooks.
 
 [Illustration: <i><sc>Fig 22</sc></i>]
 
-To make the cot twenty-six inches wide, procure the can-*
+To make the cot twenty-six inches wide, procure the canvas 
 // 324.png
 .pn +1
-*vas and poles as directed for the first cot. Bind the ends
+and poles as directed for the first cot. Bind the ends
 of the poles with wire or have a blacksmith band them with
 iron ferrules, then bore the ends and drive threaded pins in,
 having nuts at the ends as shown at Fig. 20 A. From
@@ -10197,7 +10191,7 @@ wing (and sometimes when least expected), which gives the
 idea that he is making much greater speed than he really
 is. Beginners are apt to become excited, and throw up the
 gun anywhere in that direction, and blaze away with no
-definite aim. For this reason it is best to begin with black-*birds,
+definite aim. For this reason it is best to begin with blackbirds,
 rice-birds, and rails.
 
 In almost every shot it is necessary to hold ahead of the
@@ -10292,7 +10286,7 @@ driven into the ground. About seven inches from the ground,
 and on the sides which face, a deep notch is cut into each
 stake, and a stick flattened at each end is placed across, like
 the letter H. The sapling is bent down, a strong cord
-fastened to the end, and tied around the middle of the cross-*piece.
+fastened to the end, and tied around the middle of the cross-piece.
 The noose dangles below, clearing the ground by
 two inches (Fig. 3). If the pole is strong enough it lifts the
 game into the air out of reach of predatory animals. All
@@ -10620,7 +10614,7 @@ then a slit down the back of the leg to the tail, the skin to
 be peeled off the legs and the root of the tail to be put into
 the end of a split stick and the core pulled right out. Then
 the skin is pulled off over the head. In the case of
-certain animals, like the mink and muskrat, there is a scent-*bag
+certain animals, like the mink and muskrat, there is a scent-bag
 near the tail which is liable to get cut, with unpleasant
 consequences, so the best trappers prefer to remove the hide
 by commencing at the lips and peeling it off through the
@@ -11286,7 +11280,7 @@ The following kinds of native woods are used for walking-sticks:
 
 <sc>Holly.</sc>--Sticks of this wood are found growing out from
 the sides of older growths, and shooting up in nearly a
-straight line. Occasionally they may be cut with a crutch-*piece
+straight line. Occasionally they may be cut with a crutch-piece
 across the growing end, or with a crook or knob.
 These are the most valuable. They may be found on a
 well-grown sapling in the deep woods.   This should be
@@ -11584,7 +11578,7 @@ Camps and camping, 295-333;
   a tent of medium size, 295-300;
   a large camping-tent, 300-303;
   flies and canopies, 303, 304;
-  a house-*tent, 304-307;
+  a house-tent, 304-307;
   the new tent, 307-310;
   canvas cots and hammocks, 310-313;
   tables and benches, 301, 313-315;
@@ -11752,17 +11746,16 @@ Hitches:  the "Becket," 160;
   two half, 289, 290;
   the clove, <i>ibid.</i>;
   the slippery, 290, 291;
-   the Black-*
+  the Blackwall, <i>ibid.</i>;
 */
 // 391.png
 .pn +1
 /*
-*wall, <i>ibid.</i>;
   the timber, <i>ibid.</i>;
   the rolling, <i>ibid.</i>;
   the Magnus, 291;
   the catspaw, 291, 292;
-  the sheep-*shank, <i>ibid.</i>;
+  the sheep-shank, <i>ibid.</i>;
   the marling, <i>ibid.</i>
   <i>See also</i> Bends and Knots.
 
@@ -11813,7 +11806,7 @@ Kites: the ship, 120-122;
   the Chinese-junk, 122-124;
   the schooner, 124, 125;
   a balloon, 125, 126;
-  an air-*ship, 126, 127;
+  an air-ship, 126, 127;
   bat-wing, 128;
   crown-top, <i>ibid.</i>;
   Sandwich Island bird, 129-131;
@@ -11898,12 +11891,11 @@ Paddle-wheels: different kinds, 201;
   a simple paddle-wheel, 202, 203;
   a wagon wheel, 203, 204;
   a barrel-wheel, 204, 205;
-  an undershot-*
+  an undershot-wheel, 206;
 */
 // 392.png
 .pn +1
 /*
-*wheel, 206;
   a power-wheel, 206, 207, 208.
 
 Pens for reptiles, 47-51.
