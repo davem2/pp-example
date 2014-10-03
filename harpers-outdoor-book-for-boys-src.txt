@@ -864,7 +864,7 @@ treated in a manner similar to that already described, and
 the corner-posts are held in place by long brass screws
 driven up through the bottom and into the lower ends of
 the posts. The top rail is made the same as shown in Fig.
-15 C, and the glass is set as described.   At the corner-posts
+15 C, and the glass is set as described. At the corner-posts
 // 030.png
 .pn +1
 *[Illustration: <i><sc>Fig 17</sc></i>]
@@ -881,7 +881,7 @@ the posts. The top rail is made the same as shown in Fig.
 
 the lap is well smeared with asphaltum varnish and putty
 and the angle strips are screwed fast to the posts as indicated
-at A in Fig. 17.   While this is somewhat easier to make it
+at A in Fig. 17. While this is somewhat easier to make it
 // 031.png
 .pn +1
 is not quite so substantial for large tanks as the square post
@@ -2728,7 +2728,7 @@ A Windmill and Tower
 
 Windmills, of course, can be put to many different uses
 and are generally of sufficient size to develop a considerable
-amount of power.   Fig. 24 shows a windmill and tower that
+amount of power. Fig. 24 shows a windmill and tower that
 any smart boy can make of wood, an old buggy wheel, and a
 few iron fittings that a blacksmith will make at a nominal cost.
 
@@ -2829,7 +2829,7 @@ machines, and then you can make one for yourself. The
 backbone was a knitting-needle. The wings, or more
 properly aëroplanes, were light bamboo strips (taken from
 a Japanese fan) and covered with the Japanese paper which
-is used for napkins.   (Fig. 1.)
+is used for napkins. (Fig. 1.)
 
 Fig. 2 shows the backbone and its parts. Cut from thin
 brass or copper a piece shaped like No. 1, and bend the top
@@ -2838,7 +2838,7 @@ bought at any hardware-store, or an old article made of
 proper metal may be cut up. The shell of a metallic cartridge
 is excellent. The brass should be as thin as possible,
 to be light, and so that it may be cut with an old pair of
-shears and bent easily.   First cut the piece out roughly
+shears and bent easily. First cut the piece out roughly
 // 094.png
 .pn +1
 with the shears, and then trim it into shape with a small
@@ -3038,7 +3038,7 @@ knife-blade through the upper piece of wood, and turning
 find you can cut a perfect circle in the lower piece of wood.
 The wheels are formed by this process. It takes four pieces
 of stiff card-board and two of wood to make the wheels for
-the carriage.   The diameter of the wooden wheel is one and
+the carriage. The diameter of the wooden wheel is one and
 one-half inches, while the card-board disks are two and one-quarter
 inches. The wheels in the draught are a trifle smaller,
 but by experiments it is found that the above-sized wheel
@@ -3174,7 +3174,7 @@ inch, the wheel cut out will be exactly one inch in diameter.
 
 Insert a wire nail through the two button moulds, and
 place the inch wheel in the centre, gluing it at each contact
-surface.   This will give you the grooved wheel.
+surface. This will give you the grooved wheel.
 
 The drawing (Fig. 7) indicates how this wheel is fastened
 to the frame. The wheel can be made of two card-board
@@ -3502,7 +3502,7 @@ kind of sled and called it a single-runner coaster or jumper-coaster.
 They sit upon it, keeping their balance with the
 feet, and it is remarkable how rapidly and easily they go
 downhill on this queer-looking affair, and without the
-slightest danger of toppling over.   Fig. 6.
+slightest danger of toppling over. Fig. 6.
 
 The coaster is very simple in construction and any boy
 can make it from pine or hard-wood, the latter being preferable
@@ -4533,7 +4533,7 @@ shown in the illustration of a box-reel (Fig. 31). The large
 wheel should be attached to an axle and one of the pedal-cranks
 made fast to it. Instead of the pedal a wooden
 handle will slip on the pedal axle where it can be secured
-by the nut that held the pedal in place.   The relative positions
+by the nut that held the pedal in place. The relative positions
 // 154.png
 .pn +1
 of wheels, axles, and other parts of this reel can be
@@ -5101,7 +5101,7 @@ drawn through <i>a</i>.
 
 D shows the ordinary simple method of fastening a line to
 the loop of a leader or of a snell. It is the “becket hitch”
-of the seaman.   It explains itself.   Its great advantage is
+of the seaman. It explains itself. Its great advantage is
 that it cannot slip if drawn down snugly and can be instantly
 loosened by pushing the main line back a little way.
 
@@ -5321,7 +5321,7 @@ small stream. Take a rather baggy net with a small mesh,
 and after setting it at one end of the pool drive the minnows
 into it by striking on the water with a pole and punching
 about on the bottom. If you stir up the water the little fish
-will drive more easily.   If your supply must be procured
+will drive more easily. If your supply must be procured
 // 180.png
 .pn +1
 from a lake or pond, look among the shallows close inshore
@@ -5403,7 +5403,7 @@ than anything else, I used it. The way I made it was as follows:
 
 I took a piece of wire-netting about three feet square and
 bent it so as to form a tube three feet long and about one
-foot in diameter (Fig. 15).   I then took two other strips of
+foot in diameter (Fig. 15). I then took two other strips of
 wire-netting, three feet long at the top, one foot wide, and
 two feet at the bottom (Fig. 16); these I bent into funnel
 // 183.png
@@ -5547,7 +5547,7 @@ edges of the form and carried one or two inches below the
 form so the lower edges of the ribs can be shaved and bent
 easily. A long strap of the green oak is passed under one
 of the ribs in the hat and caught under bands of the body as
-shown in the drawing of a complete eel-pot.   Fig. 22.
+shown in the drawing of a complete eel-pot. Fig. 22.
 
 The funnel is sewed to the bottom edge of the body with
 thin bands. As soon as the pots are finished they should
@@ -5571,7 +5571,7 @@ the end of a hard-wood stick. Scap-nets may be purchased
 in most any general store near a bay or pond, but the ingenious
 boy can make one himself from a hoop and a ball
 of cotton twine. Hang long pieces of string over the ring
-and tie them fast with a square knot.   Then tie one string
+and tie them fast with a square knot. Then tie one string
 // 188.png
 .pn +1
 with its next neighbor all around the circle. Begin lower
@@ -5639,13 +5639,13 @@ to the ground and is less liable to upset and much easier to
 handle.
 
 To begin with, obtain some spruce joist clear-grained and
-free from knots.   They should be two-by-four inches and
+free from knots. They should be two-by-four inches and
 // 190.png
 .pn +1
 twelve feet long. Cut one of them eight feet long and use
 it for the main cross-piece to which the front wheels are
 attached. Form a V of two twelve-foot joists, and fasten
-them to the cross-piece as shown in Fig. 2.   About ten
+them to the cross-piece as shown in Fig. 2. About ten
 inches of each piece should project beyond the cross-piece.
 The timbers are bolted fast and at the rear end they are
 bevelled and brought together, then bolted through from
@@ -5691,7 +5691,7 @@ paint.
 The mast-step is rigged over the forward cross-timber.
 Two upright pieces of board twenty inches long and eight
 inches wide are attached to the outside edges of the frame-joist
-with screws.   On top of these a cross-piece is made
+with screws. On top of these a cross-piece is made
 // 192.png
 .pn +1
 fast so that the step presents the appearance of a bench.
@@ -5716,7 +5716,7 @@ be seen in the illustration.
 A hole three inches in diameter is cut at the middle of the
 step-board, and through this the mast is slipped. A half-inch
 round iron is driven into the bottom of the mast after a
-hole has been bored with a bit.   It should be long enough
+hole has been bored with a bit. It should be long enough
 // 193.png
 .pn +1
 to project out about two inches. This steps into a hole
@@ -6046,7 +6046,7 @@ To prevent the side-rails from spreading, a cross-rib should
 be made fast to the under side of the side-rails about at the
 middle as shown at B\_B. This is a precaution taken to
 prevent the rails spreading and letting the heavy barrel full
-of water drop.   In addition to the screws that are driven
+of water drop. In addition to the screws that are driven
 // 205.png
 .pn +1
 through the side-rails and into the barrel, it would be well to
@@ -6187,7 +6187,7 @@ the nails in about two inches apart all around the edge.
 Attach one end to the flat end of the hub. The other
 piece should have a square hole cut in it so that it will fit
 over the square shoulder cut on the other end of the axle
-as shown at Fig. 6 A.   Attach both ends to the axle with
+as shown at Fig. 6 A. Attach both ends to the axle with
 // 209.png
 .pn +1
 
@@ -6214,7 +6214,7 @@ opposite end from the crank an iron pin half an inch in
 diameter is to be driven through the side and into the end
 of the hub through a half-inch hole bored with auger or bit
 and brace. This is shown in the drawing of the complete
-reel.   Fig. 6 C.
+reel. Fig. 6 C.
 
 On the end of the hub and close to the square crank-shaft
 the hub is turned round for a distance of two inches. This
@@ -6237,7 +6237,7 @@ the boys in the fire company; but for serviceable use for
 both small and large boys a truck eight feet long will be a
 very good size. The frame or body is made of boards six
 inches wide, seven-eighths of an inch thick, and is eight
-feet long by thirty inches wide.   The frame should be braced
+feet long by thirty inches wide. The frame should be braced
 // 211.png
 .pn +1
 across the bottom, at the middle, and near both ends to prevent
@@ -6366,7 +6366,7 @@ directions as shown at A. These holes are one inch and a
 quarter wide and three inches long. Into them the spokes
 are driven and held with screws or iron pins. Another pair
 of holes are cut thirty inches from the first and two more
-spokes driven in them.   The spokes are thirty inches long,
+spokes driven in them. The spokes are thirty inches long,
 // 215.png
 .pn +1
 thus leaving thirteen and a half inches of each one projecting
@@ -6392,7 +6392,7 @@ A Wagon Wheel
 
 Another variety of water-wheel may be made from the
 hubs and spokes of two old wheels, preferably those from a
-buggy or light wagon.   Fig. 2.
+buggy or light wagon. Fig. 2.
 
 Remove the iron boxes from the hubs by driving them
 out, then cut a hole in each hub with a chisel and mallet, as
@@ -6465,7 +6465,7 @@ or forty-eight inches in diameter and thirty inches wide.
 Two ends are made from matched boards held together with
 battens as shown in Fig. 4 A. These are arranged on a
 square axle and the blades are made fast between them with
-long screws or steel nails.   Fig. 4 B.
+long screws or steel nails. Fig. 4 B.
 
 
 A Power-wheel
@@ -6677,7 +6677,7 @@ joints.
 From a piece of hard-wood cut a stem eighteen inches
 long and four inches wide, with bevelled planes, as shown
 in Fig. 6. A section or end view of this post will appear
-like Fig. 6 A.   Against the cut-in sides of this post the bow
+like Fig. 6 A. Against the cut-in sides of this post the bow
 // 228.png
 .pn +1
 ends of the side boards are to be attached with screws or
@@ -6809,7 +6809,7 @@ more water than a wide, flat-bottomed sharpy.
 
 A boy can make a dory from twelve to sixteen feet long,
 but a fourteen-foot dory will be quite large enough to hold
-from four to six boys comfortably and safely.   The sides
+from four to six boys comfortably and safely. The sides
 should be twenty-four inches high and the bottom twenty-four
 inches across amidships.
 
@@ -7411,7 +7411,7 @@ material at hand from which to make one as the wood is
 similar to that used for house construction.
 
 Fig. 5 shows a side elevation of a safe catamaran, and in
-Fig. 6 the deck plan is shown.   In Fig. 7 an elevation view
+Fig. 6 the deck plan is shown. In Fig. 7 an elevation view
 // 254.png
 .pn +1
 of the stern shows the arrangement of the boats, deck timbers,
@@ -7494,7 +7494,7 @@ The mast is of spruce dressed from a four-inch spruce stick
 and slightly tapered at the top. It is fifteen feet long and
 stepped at the middle of the front cross-piece and on top of
 the bowsprit where it is held in place with a collar and iron
-braces as shown in the illustration.   Fig. 5.
+braces as shown in the illustration. Fig. 5.
 
 Standing rigging of wire-cable stays the mast from the
 top to both ends of the front cross-piece as indicated by the
@@ -7927,7 +7927,7 @@ The shoes attached to the triangle frame with bolts are
 fifteen inches long and the rudder-blade is ten inches long.
 
 This is a rapid sailer before the wind, and with a little
-man[oe]uvring the runner can be made to sail on the wind,
+manœuvring the runner can be made to sail on the wind,
 though it will not run nearly as close to the wind as the ice-boats
 or scoots. Paint or varnish will give the wood-work a
 good finish, and under a stiff breeze this wind-runner will
@@ -9375,7 +9375,7 @@ swung.
 
 When camp is broken up in the fall the canvas is to be
 removed from the framework and kept for next season,
-but the frame may be left standing.   It would be better to
+but the frame may be left standing. It would be better to
 // 319.png
 .pn +1
 remove the door and sashes and slide them under the floor,
@@ -9813,7 +9813,7 @@ should prove sufficient, unless the party intends having quite
 elaborate menus. If it is intended to remain at the camp
 only while cooking one or two meals, make your fire in this
 manner: Cut two green poles about five or six inches thick
-and about two feet long.   In these cut notches about a foot
+and about two feet long. In these cut notches about a foot
 // 333.png
 .pn +1
 *[Illustration: Fig. 33]
@@ -9827,7 +9827,7 @@ and about two feet long.   In these cut notches about a foot
 apart. Level the ground where you intend to build your
 fire, and lay these poles down with the notches up and about
 three feet apart. Now cut two or three poles about four
-feet long and lay them in these notches.   Gather a good
+feet long and lay them in these notches. Gather a good
 // 334.png
 .pn +1
 supply of dry wood, grass, bark, or chips, and make your
@@ -9896,14 +9896,14 @@ We will assume that before going into camp your dear
 mother has taught you how to mix a batch of dough or a
 pan of biscuit. We will now make an oven in which to bake
 the bread or biscuit. A bank from four to six feet is the best
-for the purpose.  Dig down the bank to a vertical face, and at
+for the purpose. Dig down the bank to a vertical face, and at
 // 336.png
 .pn +1
 the base excavate a hole, say three to four feet horizontally,
 care being taken to keep the entrance as small as possible.
 Hollow out the sides of the excavation and arch the roof,
 till the floor of the oven is about two feet wide and the arch
-about sixteen inches at the centre.   Fig. 37 A and B.
+about sixteen inches at the centre. Fig. 37 A and B.
 
 [Illustration: Fig. 36]
 
@@ -9911,7 +9911,7 @@ about sixteen inches at the centre.   Fig. 37 A and B.
 
 Now carefully “tap” the back end for the chimney, and
 insert a piece of stove-pipe if handy. A hole from four to
-six inches will give a good draught.   Wet the inside of the
+six inches will give a good draught. Wet the inside of the
 // 337.png
 .pn +1
 oven, and smooth over the walls so that the mud presents a
@@ -10054,7 +10054,7 @@ which I think three hungry boys will do ample justice.
 
 “When you become tired of fish, catch frogs. They are
 considered delicacies on first-class tables, and add a pleasant
-variety to a woodman’s fare.   Catch them with a light rod,
+variety to a woodman’s fare. Catch them with a light rod,
 // 341.png
 .pn +1
 short line, and small hook baited with a bit of scarlet flannel,
@@ -10070,7 +10070,7 @@ of the back, and strip it off in two parts, fore and aft;
 also cut the body crosswise into two parts. Throw them
 into a kettle, and let the hind-quarters parboil until tender.
 Then fry them, until of a rich brown, in oil or pork fat, hissing
-hot.   Use the fore-quarters for a stew.
+hot. Use the fore-quarters for a stew.
 
 “To make a stew use almost any kind of flesh or fowl.
 The chief thing to be remembered in making a stew is to
@@ -10129,7 +10129,7 @@ should have at least three tools—a wool swab, a wire
 scratch-brush, and a wiper to run rags through. Have
 plenty of water at hand—warm if you have it, if not cold
 will do nicely. Put a swab on the rod, and some water in
-a tin basin or wooden pail.   By placing one end of the
+a tin basin or wooden pail. By placing one end of the
 // 343.png
 .pn +1
 barrel in the water, you can pump it up and down the barrel
@@ -10196,14 +10196,14 @@ rice-birds, and rails.
 
 In almost every shot it is necessary to hold ahead of the
 bird, to allow for the time it takes to explode the cartridge
-and throw the shot to the bird.   Even in this short space
+and throw the shot to the bird. Even in this short space
 // 345.png
 .pn +1
 of time a cross-flying bird would be safely out of the shot
 circle if you aimed right at him. If a bird flies straight
 away from you, neither rising nor dropping, you should aim
 right at it. If flying straight across, you should hold well
-ahead of it.  If quartering, still hold ahead, but less.
+ahead of it. If quartering, still hold ahead, but less.
 
 Many will ask how far to hold ahead, and this is a difficult
 question to answer accurately, as we have no means of
@@ -10374,7 +10374,7 @@ is raised five inches, and one string tied to a nail in the top.
 The other string is tied to the upper end of the trigger, the
 notch of which is caught on the under side of the top board.
 The trap thus set is placed at right angles to the path, not
-directly in it.   Foolish Bunny comes along.   A good hole is
+directly in it. Foolish Bunny comes along. A good hole is
 // 351.png
 .pn +1
 something a rabbit is ever on the lookout for. Here is a new
@@ -11283,7 +11283,7 @@ the sides of older growths, and shooting up in nearly a
 straight line. Occasionally they may be cut with a crutch-piece
 across the growing end, or with a crook or knob.
 These are the most valuable. They may be found on a
-well-grown sapling in the deep woods.   This should be
+well-grown sapling in the deep woods. This should be
 pulled or dug up for the sake of its roots. Saplings and
 hedge-sticks may often be found from three to four feet long,
 and from three-eighths to a quarter of an inch in diameter.
@@ -12213,7 +12213,7 @@ THE END
 .de div.transnote { background-color: #eeeeff; border: dashed 1px #aaaaaa; color: black; padding: 1em; margin-bottom: 3em; font-family: sans-serif, serif; }
 .if h
 .li
-<div class=∯transnote∯>
+<div class="transnote">
 .li-
 .if-
 .ce
@@ -12227,7 +12227,7 @@ Resolved the following inconsistent spelling and hyphenation usage within text:
 .ma • *
 .nf l
 • Pg 10 earthern-ware changed to earthen-ware
-• Pg 40 “mi way” changed to midway
+• Pg 40 "mi way" changed to midway
 • Pg 178 joist changed to joists
 .nf-
 .in
