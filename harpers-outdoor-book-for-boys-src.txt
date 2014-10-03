@@ -12207,3 +12207,34 @@ Yacht, a land, 177-182.
 
 THE END
 
+
+// Standard TN (copy to end of ppgen source)
+.pb
+.de div.transnote { background-color: #eeeeff; border: dashed 1px #aaaaaa; color: black; padding: 1em; margin-bottom: 3em; font-family: sans-serif, serif; }
+.if h
+.li
+<div class="transnote">
+.li-
+.if-
+.ce
+<l>TRANSCRIBER’S NOTE:</l>
+.sp 2
+.in 2
+Silently corrected obvious punctuation errors.
+
+Resolved the following inconsistent spelling and hyphenation usage within text:
+.in +3
+.ma • *
+.nf l
+• Pg 10 earthern-ware changed to earthen-ware
+• Pg 40 "mi way" changed to midway
+• Pg 178 joist changed to joists
+.nf-
+.in
+.in
+.if h
+.li
+</div>
+.li-
+.if-
+
