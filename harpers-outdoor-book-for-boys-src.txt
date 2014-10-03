@@ -97,7 +97,7 @@ NEW YORK AND LONDON
 /*
 Copyright, 1907, by <sc>Harper & Brothers</sc>.
 
-PRINTED IN THE  UNIT£D STATES OF AMERICA
+PRINTED IN THE  UNITÂ£D STATES OF AMERICA
 
 B-W
 */
@@ -164,11 +164,11 @@ CHAPTER IV.--WEATHER-VANES AND WINDMILLS      59
 -----File: 008.png---\Persephone\gerryfx\Zora\Amsel\Hermit00\--------------
 
 /*
-CHAPTER V.--AËRIAL TOYS       81
+CHAPTER V.--AÃ‹RIAL TOYS       81
 
 <sc>The Elastic Flying-machine</sc>
-<sc>Self-acting Aërial Car</sc>
-<sc>Aërial Boat-sailing</sc>
+<sc>Self-acting AÃ«rial Car</sc>
+<sc>AÃ«rial Boat-sailing</sc>
 <sc>A "High-flyer"</sc>
 
 
@@ -896,7 +896,7 @@ and a proper proportion of fish to the volume of water are
 absolutely necessary to the successful aquarium. A few
 tadpoles and snails are advantageous in an aquarium, as they
 consume decaying vegetable matter and help to prevent the
-formation of algæ on the glass.
+formation of algÃ¦ on the glass.
 
 For the aquarium large enough to contain them, some
 artificial rockeries may be made from cement, gravel, and
@@ -916,7 +916,7 @@ It is generally supposed that it is necessary to change
 the water in an aquarium at least once a day; but that
 is not the case. The true principle on which an aquarium
 should be conducted is not to change the water at all, but
-so to aërate and refresh the original supply as to maintain
+so to aÃ«rate and refresh the original supply as to maintain
 it always in a pure and perfect state. There are several
 means by which this may be done. The healthy growth
 of plants is very important, and active and brisk contact
@@ -974,7 +974,7 @@ remove your finger, and the water will rush in, carrying the
 object with it into the tube, which should then be closed
 at the upper end by placing your finger over it as before.
 A glass or hard-rubber syringe is necessary with which to
-aërate the water thoroughly at least once a day, and oftener
+aÃ«rate the water thoroughly at least once a day, and oftener
 if possible. Fill the syringe, hold it high above the
 tank, and then squirt the water back again.
 
@@ -2726,7 +2726,7 @@ of a horse-power in a fifteen-mile breeze.
 
 Chapter V
 
-AËRIAL TOYS
+AÃ‹RIAL TOYS
 
 
 The Elastic Flying-machine
@@ -2741,7 +2741,7 @@ without the danger of a broken neck.
 I will tell you exactly how I constructed one of these
 machines, and then you can make one for yourself. The
 backbone was a knitting-needle. The wings, or more
-properly aëroplanes, were light bamboo strips (taken from
+properly aÃ«roplanes, were light bamboo strips (taken from
 a Japanese fan) and covered with the Japanese paper which
 is used for napkins.   (Fig. 1.)
 
@@ -2902,7 +2902,7 @@ when complete--backbone, wings, rubber, screw, etc.--only
 one-third of an ounce.
 
 
-Self-acting Aërial Car
+Self-acting AÃ«rial Car
 
 Here is an idea for a mechanical toy to be used either on
 a kite-string or a cord stretched from a flag-pole in the yard
@@ -3015,7 +3015,7 @@ of its flight. See Fig. 5, a side and end view, and
 Fig. 6, the parachute and the car on its return.
 
 
-Aërial Boat-sailing
+AÃ«rial Boat-sailing
 
 Study with care the accompanying plans. The materials
 are one-half by one-quarter-inch pine, free from knots,
@@ -9526,7 +9526,7 @@ the kettle will just clear the fire.
 If the camp is to be of a permanent nature, or it is expected
 to remain there for some days or weeks, it will be well to
 arrange for a better kitchen that will not be affected by the
-winds, the <i>bête noire</i> of camp-cooking. Dig a trench (cutting
+winds, the <i>bÃªte noire</i> of camp-cooking. Dig a trench (cutting
 the sides square) as long as the distance between your uprights,
 and about eighteen inches wide and a foot deep.
 Make your fire in this hole, on the ground, and you will find
@@ -11103,7 +11103,7 @@ Aquarium, an, construction of, 14-18;
   rockeries for, 20;
   how to manage, <i>ibid.</i>;
   plants for, 21;
-  aërating, 22.
+  aÃ«rating, 22.
 
 Arrow weather-vane, the, 64, 65.
 
@@ -11136,7 +11136,7 @@ Basket-ball vane, a, 67, 68, 69.
 
 Bat-wing kite, the, 128.
 
-Bear, curing the skin of, 347, 349·
+Bear, curing the skin of, 347, 349Â·
 
 Beaver, curing the skin of, 347.
 
@@ -11611,7 +11611,7 @@ Scow, a, how to make, 214, 215.
 
 Seine for catching live bait, 161, 162, 163.
 
-Self-acting aërial-car, 86-91.
+Self-acting aÃ«rial-car, 86-91.
 
 Sharpy, a, how to make, 215-218;
   a sailing, 221-225;
@@ -11768,7 +11768,7 @@ Walking-sticks, 367-375;
 
 Wall knot, the, 284, 285.
 
-Water in aquariums, to aërate, 22.
+Water in aquariums, to aÃ«rate, 22.
 
 Water-turtles, a trap for, 171, 172.
 
