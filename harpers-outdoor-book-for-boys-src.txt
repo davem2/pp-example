@@ -3,34 +3,34 @@
 .pn +1
 
 
-HARPER'S "TELL ME HOW" BOOKS
+HARPER’S “TELL ME HOW” BOOKS
 
 <i>A New Series</i>
 
 /*
-HARPER'S GASOLINE ENGINE BOOK
-HARPER'S AIRCRAFT BOOK
-HARPER'S WIRELESS BOOK
-HARPER'S BEGINNING ELECTRICITY
-HARPER'S EVERY-DAY ELECTRICITY
+HARPER’S GASOLINE ENGINE BOOK
+HARPER’S AIRCRAFT BOOK
+HARPER’S WIRELESS BOOK
+HARPER’S BEGINNING ELECTRICITY
+HARPER’S EVERY-DAY ELECTRICITY
 
 Illustrated. Crown 8vo.
 */
 
 
-HARPER'S PRACTICAL BOOKS
+HARPER’S PRACTICAL BOOKS
 
 /*
-HARPER'S BOOK FOR YOUNG GARDENERS
-HARPER'S BOOK FOR YOUNG NATURALISTS
-HARPER'S HOW TO UNDERSTAND ELECTRICAL WORK
-HARPER'S ELECTRICITY BOOK FOR BOYS
-HARPER'S BOATING BOOK FOR BOYS
-HARPER'S CAMPING AND SCOUTING
-HARPER'S OUTDOOR BOOK FOR BOYS
-HARPER'S INDOOR BOOK FOR BOYS
-HARPER'S MACHINERY BOOK FOR BOYS
-HARPER'S HANDY BOOK FOR GIRLS
+HARPER’S BOOK FOR YOUNG GARDENERS
+HARPER’S BOOK FOR YOUNG NATURALISTS
+HARPER’S HOW TO UNDERSTAND ELECTRICAL WORK
+HARPER’S ELECTRICITY BOOK FOR BOYS
+HARPER’S BOATING BOOK FOR BOYS
+HARPER’S CAMPING AND SCOUTING
+HARPER’S OUTDOOR BOOK FOR BOYS
+HARPER’S INDOOR BOOK FOR BOYS
+HARPER’S MACHINERY BOOK FOR BOYS
+HARPER’S HANDY BOOK FOR GIRLS
 
 Illustrated. Crown 8vo.
 */
@@ -69,7 +69,7 @@ FIG. 11—A SINGLE-TREE HUT]
 
 
 /*
-HARPER'S
+HARPER’S
 OUTDOOR BOOK
 FOR BOYS
 
@@ -171,7 +171,7 @@ CHAPTER V.—AËRIAL TOYS       81
 <sc>The Elastic Flying-machine</sc>
 <sc>Self-acting Aërial Car</sc>
 <sc>Aërial Boat-sailing</sc>
-<sc>A "High-flyer"</sc>
+<sc>A “High-flyer”</sc>
 
 
 Part II
@@ -321,7 +321,7 @@ CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES       350
 <sc>A Single-tree Hut</sc>
 <sc>A Low Single-tree Hut</sc>
 <sc>A Brush-house</sc>
-<sc>A Brush "Lean-to"</sc>
+<sc>A Brush “Lean-to”</sc>
 
 CHAPTER XXI.—WALKING-STICKS       367
 
@@ -335,7 +335,7 @@ CHAPTER XXI.—WALKING-STICKS       367
 
 INTRODUCTION
 
-"How to do it," might very well be the title of this new
+“How to do it,” might very well be the title of this new
 handy-book for American boys. It is first and last a
 practical guide, based upon the experience of those who
 have done what they describe. Results are wanted, not
@@ -351,7 +351,7 @@ nor necessary when done. But the object of this book is
 to show boys how to do accurately things which are quite
 within their powers, and things also which will be a satisfaction
 when they are done. The plan followed is to develop
-a boy's ingenuity and mechanical ability along lines
+a boy’s ingenuity and mechanical ability along lines
 which will reward him. In short, the book is intended to
 help a boy to think and act for himself and to have fun in
 doing it.
@@ -437,7 +437,7 @@ things which will furnish constant amusement.
 
 A Wigwam
 
-For boys who like to "play Injun" in the back yard, here
+For boys who like to “play Injun” in the back yard, here
 are some ideas for tepees and wigwams that may easily be
 followed cut at a very small cost for the poles and canvas.
 
@@ -629,7 +629,7 @@ of two bricks so that the overflow pipe will pass between
 them, as shown at A in Fig. 10.
 
 The pipe should be half or three-quarter inch galvanized
-water-pipe, and it may be purchased at a plumber's shop for
+water-pipe, and it may be purchased at a plumber’s shop for
 a few cents a foot.
 
 The supply-pipe is three-eighths-inch galvanized water-pipe,
@@ -843,7 +843,7 @@ allow it to stand for at least a week, in which time the putty
 and varnish will harden.
 
 At a paint store purchase some marine paint, also known
-as "copper paint," and give the wood-work two or three thin
+as “copper paint,” and give the wood-work two or three thin
 successive coats, allowing it to dry for a few days between
 each coat. Scrape the paint from the glass where it may
 have been smeared, and the complete aquarium is ready for
@@ -1023,7 +1023,7 @@ are likely to become in a short time too unwieldy for your
 // 035.png
 .pn +1
 tank. Goldfish and minnows are very good, and the common
-little sunfish or "pumpkin-seed" is excellent.
+little sunfish or “pumpkin-seed” is excellent.
 
 You must keep careful watch over the fish in your aquarium,
 and if any one of them appears to be sick he should
@@ -1324,7 +1324,7 @@ of an inch thick.
 .pn +1
 
 The perches are three-quarter-inch dowels three feet long.
-If they cannot be had at a carpenter's shop or a hardware
+If they cannot be had at a carpenter’s shop or a hardware
 store, some small scantling may be planed nearly round to
 answer the same purpose. Where the perches are attached
 to the uprights and Y pieces, holes are bored halfway
@@ -1415,7 +1415,7 @@ ledge three inches wide is supported on brackets, and under
 the pitched roof the ninth compartment is arranged.
 
 The large pigeon-cote (Fig. 8) is a more pretentious affair
-to make and will tax the young carpenter's skill. This cote
+to make and will tax the young carpenter’s skill. This cote
 can be made a very attractive pigeon shelter if it is carefully
 put together and nicely painted.
 
@@ -1516,7 +1516,7 @@ to the siding of the building on which to nail the roof
 boards and to the upper edges of the front, back, and side
 boards battens are made fast to strengthen the hut.
 
-The wall or side of the building may, in such a "lean-to,"
+The wall or side of the building may, in such a “lean-to,”
 be used as a fourth side of the dog-hut. A ventilator is cut
 in the upper corner of the back and at the front a swinging
 door can be hung in the doorway or opening. This is a
@@ -1708,7 +1708,7 @@ one side a compartment is made twelve inches wide, and at
 the outer side a door seven by nine inches is hung and
 fastened with a lock. This house is supported on four posts,
 two or three feet above the ground, and when painted it
-should look very homelike to a rabbit's eyes.
+should look very homelike to a rabbit’s eyes.
 
 A house of this same description, but larger, may be made
 for a monkey, a fox, an opossum, a raccoon, or even for bear
@@ -2117,8 +2117,8 @@ WEATHER-VANES AND WINDMILLS
 
 
 From the time of the earliest habitation of the earth,
-nature's great forces, wind and water, have been employed
-to furnish power for man's uses. Wind engines and
+nature’s great forces, wind and water, have been employed
+to furnish power for man’s uses. Wind engines and
 mills for motive power have become almost obsolete in and
 about the great cities, as they are so cumbersome and uncertain,
 but in the country they are still used to a great
@@ -2143,7 +2143,7 @@ and each generation goes on to invent or think of something
 new for the same old wind to play with that has toyed
 // 072.png
 .pn +1
-with the world's wheels for centuries. The illustrations
+with the world’s wheels for centuries. The illustrations
 and descriptions on this and the following pages will be
 found helpful in the construction of wind machinery that
 shall be both novel and practicable.
@@ -2450,7 +2450,7 @@ A Merry-go-round
 
 A merry-go-round like the one shown in Fig. 11 is an interesting
 wind toy and pleasing to watch, as the boats keep
-sailing round and round. It is made from a child's hoople
+sailing round and round. It is made from a child’s hoople
 properly braced with cross sticks and mounted on a hub.
 Four flat-boats are made and attached to the outer edge of
 the frame. When rigged with sails and placed at the top
@@ -2639,7 +2639,7 @@ the wheel to revolve.
 The wheel is held in place to the head of the supporting
 post by a shaft which passes through the hub and is bolted
 fast at the front of it with a nut. A blacksmith will make
-this shaft, as it is somewhat beyond a boy's ability unless he
+this shaft, as it is somewhat beyond a boy’s ability unless he
 has had some experience in blacksmithing. It should be
 shaped as shown in Fig. 20.
 
@@ -2654,7 +2654,7 @@ welded on the shaft, which for the balance of its length is
 three-quarters of an inch in diameter.
 
 Just beyond the shoulder or collar, C, the crank is formed,
-two inches wide and three inches out from the shaft. Beyond 
+two inches wide and three inches out from the shaft. Beyond
 // 088.png
 .pn +1
 the crank another collar, C\_C, is welded on, and beyond
@@ -2853,12 +2853,12 @@ needle so that it will fit nicely and snugly.
 [Illustration: <i>Fig. 3</i>]
 
 This must be fastened to the forward end of the backbone.
-The best and lightest way is to braze it, as the tinsmiths 
+The best and lightest way is to braze it, as the tinsmiths
 // 095.png
 .pn +1
 call it. File the polish from the end of the needle,
 and wet it with soldering fluid, which may be bought at a
-tinner's, or made by adding zinc to muriatic acid until no
+tinner’s, or made by adding zinc to muriatic acid until no
 more is dissolved. Slip on the brass support just where
 you want it, and lay on a piece of solder about half the size
 of a grain of wheat. Now hold this in the flame of a candle,
@@ -3118,7 +3118,7 @@ are one-half by one-quarter-inch pine, free from knots,
 ten common brass rings three-quarters of an inch in diameter,
 two round-headed brass screws one inch in length,
 two flat-headed ones of the same dimensions, two small
-screw-hooks, and eight assorted brass screw-eyes, there being 
+screw-hooks, and eight assorted brass screw-eyes, there being
 // 104.png
 .pn +1
 *[Illustration: <i>Fig. 7</i>]
@@ -3210,9 +3210,9 @@ the boat will sail back and forth, except when the wind is
 dead ahead or a few points either way.
 
 
-A "High-flyer"
+A “High-flyer”
 
-To make the "flyer" you will need a piece of thin sheet
+To make the “flyer” you will need a piece of thin sheet
 tin, zinc, or iron, that may be purchased from a tinsmith
 for a few cents; and for the engine a linen-thread spool, a
 piece of hard-wood stick, and a few steel wire nails will be
@@ -3269,7 +3269,7 @@ When bending the ears they must be arranged so that the
 
 <i>Fig. 14</i>
 
-A "HIGH-FLYER"]
+A “HIGH-FLYER”]
 // 110.png
 .pn +1
 edge that catches the wind first will be inclined upward, as
@@ -3333,7 +3333,7 @@ COASTERS, SKEES, AND SNOW-SHOES
 All real boys welcome the approach of the winter season
 with its glorious opportunities for sport on the
 snow and ice. Toboggans, double-runners, skees, and snow-shoes—the
-very words make the blood tingle in one's veins,
+very words make the blood tingle in one’s veins,
 and happy is the boy whose home is in the Northern climes
 where there is real winter for at least four months out of the
 year.
@@ -3357,9 +3357,9 @@ is the national sport of Norway. But it is the American
 boy who has reduced coasting to an exact science, and the
 // 114.png
 .pn +1
-Yankee bob-sleds and "jumper-coasters" are now pre-eminent
+Yankee bob-sleds and “jumper-coasters” are now pre-eminent
 wherever the snow flies. To take the best wherever we
-find it is the sportsman's motto.
+find it is the sportsman’s motto.
 
 
 Toboggans
@@ -3558,7 +3558,7 @@ Laps are cut in the top of the sides, and with screws the
 ends of the braces are securely held in place. Under each
 cross-piece and at the sides brackets must be securely
 fastened with screws as shown at Fig. 9, to strengthen the
-sides and take some of the strain from the cross-piece fastenings. 
+sides and take some of the strain from the cross-piece fastenings.
 // 120.png
 .pn +1
 *[Illustration: <i>Fig. 7</i>]
@@ -3640,7 +3640,7 @@ for he must always land feet down when jumping.
 
 A skee of the right proportions should be seven feet long
 and four inches wide. Hickory, oak, or other hard-wood
-three-quarters of an inch in thickness will be the best material 
+three-quarters of an inch in thickness will be the best material
 // 123.png
 .pn +1
 from which to make the skees. Two or three grooves
@@ -3713,7 +3713,7 @@ snow.
 
 The shoe in the form of a tennis racket (Fig. 14 B) is the
 shape commonly used by the Esquimaux and is about thirty-four
-inches long and fifteen inches wide. It is made somewhat 
+inches long and fifteen inches wide. It is made somewhat
 // 125.png
 .pn +1
 
@@ -4212,7 +4212,7 @@ way to handle it.
 
 The drawings which I have made of one of these kites
 will enable any enterprising boy to make one. As no tail
-is used great care must be taken to make it perfectly symmetrical. 
+is used great care must be taken to make it perfectly symmetrical.
 // 143.png
 .pn +1
 It is also desirable to have the kite very light
@@ -4260,7 +4260,7 @@ Box Kites
 
 High up in the air, much too high for the boys on the
 ground to see the mechanical details, several queer-looking
-but powerful kites, or "gigs," were tugging at their strings
+but powerful kites, or “gigs,” were tugging at their strings
 in a stiff breeze. When these flying-gigs were hauled
 down a big crowd of boys gathered to see them at close
 range, and here are the pictures of them as well as the
@@ -4302,7 +4302,7 @@ sufficient in a light breeze, but for a strong wind add another
 from the side-sticks where the top or bottom cord D is tied;
 this will steady the flying-box and prevent its pitching.
 
-The "paralleloplane" is another powerful kite which is
+The “paralleloplane” is another powerful kite which is
 easily constructed according to the plan shown in Fig. 19.
 The front frame is thirty-six inches high and twenty-four
 inches wide and braced with cross-sticks H\_H. The rear
@@ -4331,7 +4331,7 @@ or paper six inches wide. From the four ends some thin
 wire such as florists use is connected with a cork about
 twelve inches in the rear of the sail, where it is bound
 fast with a few wraps of the wire. A pin is passed through
-the middle of the top yard to the sail and is bent over forming 
+the middle of the top yard to the sail and is bent over forming
 // 147.png
 .pn +1
 a hook, and in the cork another one is arranged in a
@@ -4493,7 +4493,7 @@ end is beaten and riveted.
 
 Near the hoop-ends holes are to be made with a bit
 through which stout cotton line can be passed and made
-fast so as to tie the reel to a boy's body (Fig. 30). The
+fast so as to tie the reel to a boy’s body (Fig. 30). The
 hoop-end should be bound with linen line at either side of
 the hole so as to prevent the hoop splitting and the lashing-thongs
 tearing away. This is a very convenient form of
@@ -4533,7 +4533,7 @@ shown in the illustration of a box-reel (Fig. 31). The large
 wheel should be attached to an axle and one of the pedal-cranks
 made fast to it. Instead of the pedal a wooden
 handle will slip on the pedal axle where it can be secured
-by the nut that held the pedal in place.   The relative positions 
+by the nut that held the pedal in place.   The relative positions
 // 154.png
 .pn +1
 of wheels, axles, and other parts of this reel can be
@@ -4615,7 +4615,7 @@ others, and the opportunity to angle for them is not open
 // 157.png
 .pn +1
 to every one, and most boys must get their sport with other
-less-esteemed kinds. "Boys' fish" they are sometimes
+less-esteemed kinds. “Boys’ fish” they are sometimes
 slightingly called, but they have lots of sport to give to the
 boy who knows how to get it, and he will get more sport
 if he takes pains to make the fish better worth catching and
@@ -4662,7 +4662,7 @@ up to it. Stalk your fish, then, as quietly as you are able,
 and if you have alarmed it in any way stay out of sight and
 remain as quiet as possible for a long time until your clumsiness
 is forgotten, and then let your lure, whether bait or fly,
-drift into the fish's sight as if you had nothing to do with it.
+drift into the fish’s sight as if you had nothing to do with it.
 And remember that the finer your tackle the more likely
 this pretence will be to succeed.
 
@@ -4683,7 +4683,7 @@ When you put your tackle together you will make it far
 // 159.png
 .pn +1
 safer if you consider it as one apparatus or machine from
-hook to reel and if you let the rod top, or "tip," be the
+hook to reel and if you let the rod top, or “tip,” be the
 weakest point of all, because by it you can best determine
 the strain upon the whole gear. For instance, a good line
 for fresh-water fishing will usually lift at least ten pounds,
@@ -4697,7 +4697,7 @@ likewise safe.
 By testing your tackle you raise your fishing from a rough-and-ready
 guesswork to something like certainty, the one
 point of doubt being always the security of the hook in the
-fish's mouth, and even of this you soon acquire the power of
+fish’s mouth, and even of this you soon acquire the power of
 judging. But this testing is not done once for all. Good
 tackle which is put away wet to mildew, or gut which is
 frayed or put in the sun to rot, does not long remain sound.
@@ -4713,7 +4713,7 @@ and weak in another will give you more trouble than one
 which is not so strong but uniform.
 
 The strain upon the tackle is equalized by the elasticity
-of the rod, which to some extent makes up for want of dexterity. 
+of the rod, which to some extent makes up for want of dexterity.
 // 160.png
 .pn +1
 But never have a rod so flexible that it will not
@@ -4726,10 +4726,10 @@ if the rod be so held that its spring keeps the line taut and
 a gentle, steady pull upon the fish the latter soon exhausts
 himself fighting this elasticity. Any excess of line not easily
 controlled by the rod alone should be at once taken up by
-the reel. Draw the tired fish out gently, without "yanking,"
+the reel. Draw the tired fish out gently, without “yanking,”
 or if heavy lead it into the landing-net.
 
-Rods vary according to the kind of fishing, and the "all-round"
+Rods vary according to the kind of fishing, and the “all-round”
 fisherman will probably have, without being finicky,
 as many rods as a golf-player has clubs. But the boy for
 whom this is written must make his pocket-money go as far
@@ -4763,11 +4763,11 @@ cannot be used to cast a fly.
 
 Beautiful and excellent rods are made of split bamboo,
 and some of moderate cost, but avoid very cheap ones. But
-for beginners' use the writer prefers a solid-wood rod of good
+for beginners’ use the writer prefers a solid-wood rod of good
 quality, because it is less liable to injury and because of the
 greater ease with which it is repaired; the boy himself may
 do it if he be handy. Whatever rod you have, let the line-guides
-be of the sort known as "standing-guides" rather
+be of the sort known as “standing-guides” rather
 than rings, if you have the choice.
 
 Lines should be sound and strong but not too heavy for
@@ -4781,12 +4781,12 @@ Hooks should be of the best quality to be had. Good
 hooks are still practically all made in England. Shapes
 which have received names are many, and most of them
 have advantages for particular kinds of fishing. Among
-the best are O'Shaughnessy, Limerick, Sneckbend, Aberdeen,
+the best are O’Shaughnessy, Limerick, Sneckbend, Aberdeen,
 and Sproat. The last-named we think will meet more
 // 162.png
 .pn +1
 kinds of need than any other one. As to size it should be
-remembered that the hook is to fit the bait, not the fish's
+remembered that the hook is to fit the bait, not the fish’s
 mouth; a very small fish can take any ordinary hook.
 
 A reel is not so absolutely necessary as the rod, line, and
@@ -4824,7 +4824,7 @@ The bag is best made of flannel. Wash it after using.
 .pn +1
 
 Worms are much better if dug a day or two before using
-and "scoured" by putting them into soft moss wrung out
+and “scoured” by putting them into soft moss wrung out
 of water. They become brighter and firmer by scouring
 and are more attractive to fish. If live minnows or small
 fish are used for bait, of course they must be kept in water,
@@ -4857,7 +4857,7 @@ how to use it.
 
 Begin by putting your rod together properly; put the
 tip into the middle first, and then the middle into the butt.
-See that the ferrules are well "home" and that the guides
+See that the ferrules are well “home” and that the guides
 are all on the same side so that the line will run freely.
 // 164.png
 .pn +1
@@ -4881,14 +4881,14 @@ convenient. Some veteran anglers still enjoy the bobbing
 of the float. The hook may be put into the side of the
 worm as shown at A, or into the head as at B (Fig. 1). A is
 rather more attractive to the fish; B more likely to be taken
-in such a way as to insure that the hook is in the fish's
+in such a way as to insure that the hook is in the fish’s
 mouth. When the worm is dead or has slipped down into
 a bunch at the bend of the hook no fish that you want will
 be likely to take it.
 
 Now, do not make a splash when you put it into the water.
 If you have to cast it out into still water do not use your
-rod and line as if it were a thresher's flail. Holding your
+rod and line as if it were a thresher’s flail. Holding your
 rod nearly straight up, give the line a gentle swing forward,
 and when the bait has swung well out reach after it with the
 rod so that the bait (and float, too, if there be one) shall fall
@@ -4937,7 +4937,7 @@ carries the line. One must not thrash with the rod.
 As useful a way as any to help the reader will be to
 describe how the writer has tried to help lads who are
 learning to cast. It is in this way: The boy takes the rod,
-fitted with its reel and line only, to a water's-edge free of
+fitted with its reel and line only, to a water’s-edge free of
 bushes or trees or to a lawn recently mowed. If the grass
 is slightly damp all the better as it holds the line more nearly
 as does the water. He pulls off from the reel enough line
@@ -5010,7 +5010,7 @@ aim and delicately.
 Repairs, Knots, and Splices
 
 As has been said already it hardly pays nowadays to
-make one's own tackle, at least for a beginner. But a few
+make one’s own tackle, at least for a beginner. But a few
 things it is useful to know so that repairs and supplies of a
 sort can be made in an emergency. But emergencies are to
 // 169.png
@@ -5030,7 +5030,7 @@ The repairs most commonly called for are the splicing of
 .pn +1
 a broken rod, the replacing a lost tip-ring or guide-ring, the
 knotting of gut, and the putting a hook to gut. The repair-kit,
-to use a cyclist's phrase, consists of a piece of shoemaker's
+to use a cyclist’s phrase, consists of a piece of shoemaker’s
 wax, some moderately stout sewing-silk—number A being
 the best suited for quick work of all sorts—some bits of
 flexible brass wire, and a pocket-knife. As the method of
@@ -5052,7 +5052,7 @@ only hook and gut but the part <i>b</i>, clearing the silk from the
 bend of the hook at each turn. When four or five turns
 have been taken draw on <i>c</i> and pull it snug. (D shows the
 loop not quite drawn down.) When snug cut off the end
-and you have the "invisible knot" or "whip-finish" universally
+and you have the “invisible knot” or “whip-finish” universally
 used by fishermen. The same whipping and finish
 are used for the other repairs mentioned above.
 
@@ -5064,7 +5064,7 @@ part has been lost or broken away, then the broken surfaces
 .pn +1
 must be trimmed and smoothed with the knife until they
 do fit. They are spliced thus: Rub the surfaces with your
-shoemaker's wax, press them together, and if you cannot
+shoemaker’s wax, press them together, and if you cannot
 easily hold them, tie them temporarily with a piece of string,
 or perhaps still better, make open coils over the joined parts
 as at A in Fig. 4. Then wind back over these coils and the
@@ -5100,7 +5100,7 @@ drawn through <i>a</i>.
 .pn +1
 
 D shows the ordinary simple method of fastening a line to
-the loop of a leader or of a snell. It is the "becket hitch"
+the loop of a leader or of a snell. It is the “becket hitch”
 of the seaman.   It explains itself.   Its great advantage is
 that it cannot slip if drawn down snugly and can be instantly
 loosened by pushing the main line back a little way.
@@ -5115,7 +5115,7 @@ hotel, or boarding-house near river or lake where
 // 173.png
 .pn +1
 pickerel, bass, and large perch abounded no provision is
-found for the angler's sport but a boat—no lines, sinkers, or
+found for the angler’s sport but a boat—no lines, sinkers, or
 floats; no nets for catching live bait, and no bait but worms.
 For sunfish, catfish, and small perch, worms are very fair
 bait; but for pickerel, bass, and large perch live bait is best.
@@ -5124,7 +5124,7 @@ at short notice and at small expense.
 
 Fig. 7 is an end-section of a mosquito-net seine for taking
 live bait. The length of the seine is thirty-eight feet, depth
-five feet. The "cork-line" A\_A consists of a small-sized
+five feet. The “cork-line” A\_A consists of a small-sized
 clothes-line. Corks not always being obtainable, I have used
 pieces of thoroughly seasoned white pine three inches in
 length and one inch in diameter (C\_C\_C). Through these
@@ -5133,10 +5133,10 @@ clothes-line passes. These floats are placed eight inches
 apart and are kept in position by the clothes-line fitting
 tightly in the holes. At the bottom of the seine another
 clothes-line is sewed to the netting (B\_B). This is called the
-"lead line" and is for the purpose of keeping the lower part
+“lead line” and is for the purpose of keeping the lower part
 of the seine close to the bottom of the water. In the lead
 line pieces of sheet-lead one inch in length are fastened
-(H\_H\_H) twenty-eight inches apart. The "staff" D is a
+(H\_H\_H) twenty-eight inches apart. The “staff” D is a
 well-seasoned piece of hickory six feet long, to the lower end
 of which sheet-lead is also fastened at E to keep it down.
 To the staff is attached the staff line F\_F\_F, thirty feet long,
@@ -5165,7 +5165,7 @@ a circle until the two shafts meet. Great care must
 be taken to keep the lead line close to the bottom otherwise
 the fish will escape. In the selection of the seining-ground
 always avoid stony bottoms, snags, and brush, which will
-cause the seine to "roll up" and tear.
+cause the seine to “roll up” and tear.
 
 The cost of the above-described seine ranges from three
 to four dollars, and is capable of lasting two seasons if carefully
@@ -5423,7 +5423,7 @@ and second funnels. The fish, little crabs, small eels, and
 the like, go in, and when they try to get out they find it much
 easier to swim through the second funnel than to find the
 small hole in the first. I have had several of these traps, or
-"pots," as the fishermen call them, in operation at one time,
+“pots,” as the fishermen call them, in operation at one time,
 and have caught as many as half a bushel of small fish in
 one night.
 
@@ -5476,7 +5476,7 @@ same general plan, a bottle-shaped basket having a funnel
 fitted at the bottom and provided with a hat that is held
 on by two straps of green oak.
 
-Three forms are used on which to build up the basket-work. 
+Three forms are used on which to build up the basket-work.
 // 185.png
 .pn +1
 The large form is usually ten inches in diameter and
@@ -5763,7 +5763,7 @@ to capsize a land-yacht if the cross-timber is long enough to
 give the wheels a good spread.
 
 Wheels with rubber tires will make the running motion
-easier and so add to the owner's comfort.
+easier and so add to the owner’s comfort.
 
 
 A Sail-wagon
@@ -5865,7 +5865,7 @@ or cotton line a trifle smaller than clothes-line.
 A Pushmobile
 
 The pushmobile (Fig. 10) is another interesting road or
-sidewalk car and one with which two boys can share considerable 
+sidewalk car and one with which two boys can share considerable
 // 198.png
 .pn +1
 fun. In general appearance the pushmobile resembles
@@ -5993,9 +5993,9 @@ If coasting is done on very steep hills or roads it would be
 // 202.png
 .pn +1
 well to have a brake to operate on both rear wheels, for the
-momentum of a rapidly moving car will often drag a "dead"
+momentum of a rapidly moving car will often drag a “dead”
 wheel if the other three are running easily; whereas if both
-back wheels are "dead" the car can be brought to a quick
+back wheels are “dead” the car can be brought to a quick
 stop.
 // 203.png
 .pn +1
@@ -6013,7 +6013,7 @@ The Engine
 Every boy is interested in fire-engines and fires, and
 in the absence of the real thing there is a great deal of
 fun to be had in playing fire. The regular steam apparatus
-is rather beyond a boy's constructive ability, but the engine
+is rather beyond a boy’s constructive ability, but the engine
 shown in the illustration (Fig. 1) can easily be made from an
 oil or pork barrel, a keg, a pump, and a set of old wagon
 wheels. A box may be used for the seat and a small force-pump
@@ -6332,7 +6332,7 @@ seasons and storms. While at one time it may be flushed
 up to the hub, at another the water may hardly touch the
 blades of the wheel.
 
-These forms of old-style wheels have become almost obsolete 
+These forms of old-style wheels have become almost obsolete
 // 214.png
 .pn +1
 now as the modern turbine has superseded it as a
@@ -6344,7 +6344,7 @@ of the modern turbine where every drop of water is lending
 its influence to the blades. A turbine, however, is rather
 beyond the ability of the average boy to properly construct,
 and so we do the best we can with the old-style
-wheels. For a boy's purpose they will answer quite well
+wheels. For a boy’s purpose they will answer quite well
 enough.
 
 In the accompanying drawings several ideas for water-wheels
@@ -6540,7 +6540,7 @@ a great deal of pleasure in their construction.
 
 For the sea-shore and salt waterways the boats should
 be heavily constructed, and as this is usually beyond the
-average boy's ability, the sea-going dorys, surf-boats, and
+average boy’s ability, the sea-going dorys, surf-boats, and
 heavy sail-boats will be omitted, and those described and
 illustrated will be for use in fresh water, or on small enclosed
 salt waterways where the wind and tide are moderate.
@@ -6630,7 +6630,7 @@ to the inner keel-strip with galvanized nails. Do not use
 ordinary nails as they will rust in a short time, and the
 only ones that are of use are the regular galvanized boat
 nails that can be had at most hardware stores, and always
-at a ship-chandler's or from a boat-builder.
+at a ship-chandler’s or from a boat-builder.
 
 A rudder can be made and hung at one end of the boat
 as shown in Fig. 2.
@@ -6661,7 +6661,7 @@ almost any lumber-yard. White cedar is somewhat more
 difficult to get than the other woods, but if possible it should
 be used.
 
-To make this sharpy the proper size for a boy's use, obtain
+To make this sharpy the proper size for a boy’s use, obtain
 two boards fifteen or sixteen inches wide, fourteen feet
 long, and seven-eighths of an inch thick, planed on both
 sides and as free from knots as possible. If the boards cannot
@@ -6810,7 +6810,7 @@ more water than a wide, flat-bottomed sharpy.
 A boy can make a dory from twelve to sixteen feet long,
 but a fourteen-foot dory will be quite large enough to hold
 from four to six boys comfortably and safely.   The sides
-should be twenty-four inches high and the bottom twenty-four 
+should be twenty-four inches high and the bottom twenty-four
 inches across amidships.
 
 The bottom is made from four six-inch planks battened
@@ -6891,7 +6891,7 @@ as shown in Fig. 15. The deck planking is nailed to these
 ribs and the seats under them give a substantial support
 to both the ribs and deck. The opening or cockpit will be
 six feet long and varying in width, as the side decks are
-eight inches wide and follow the line of the boat's sides.
+eight inches wide and follow the line of the boat’s sides.
 Amidships it should measure about twenty-eight inches.
 
 The braces and ribs are made of three-quarter-inch spruce
@@ -7315,7 +7315,7 @@ This is a genuine boy-power boat, and as the wheels are
 .pn +1
 substantially large and strong it can be driven over the
 water at quite a good speed. While it takes two boys to
-properly run it, that is not the boat's capacity, for she will
+properly run it, that is not the boat’s capacity, for she will
 easily carry from four to six boys, their lunch-baskets, or a
 one-day camping outfit for a visit up the river or lake.
 // 251.png
@@ -7333,7 +7333,7 @@ A Rowing Catamaran
 
 For safety on the water, as nearly as safety can be
 assured, there is nothing to compare with a catamaran,
-for they are practically "non-capsizable," and if not damaged
+for they are practically “non-capsizable,” and if not damaged
 to the leaking-point one or the other of the two boats will
 float and hold up several persons. Fig. 1 gives a good idea
 for a rowing catamaran that any boy can make from some
@@ -7575,7 +7575,7 @@ At the outer side of each boat, between the middle and rear
 cross-braces, fasten two pieces of wood two inches wide and
 three inches high. Six or eight inches from the rear end
 make two U-cuts for a five-eighth-inch axle to fit into. At
-a blacksmith's obtain two old carriage or buggy wheels, and
+a blacksmith’s obtain two old carriage or buggy wheels, and
 cut the spokes so that they will be fourteen inches long from
 the hub. Dress one side of each spoke flat, so that a paddle
 may be attached to it with screws. The paddles are of hard-wood,
@@ -7737,7 +7737,7 @@ fitted out. The spars should be varnished and the boat can
 be painted or varnished, as a matter of choice. All white
 wood-work with black metal parts, or a red frame with
 cream-colored deck and black metal parts, are pleasing combinations,
-but a boy's own ideas can be carried out with the
+but a boy’s own ideas can be carried out with the
 paint-pot and brush.
 
 
@@ -7783,7 +7783,7 @@ Scoots and Scooters
 
 Scoots and scooters are the latest wrinkle in ice-boats.
 Down on the Great South Bay, on the southern side of Long
-Island, they speak of them in fun as "ice-water boats." The
+Island, they speak of them in fun as “ice-water boats.” The
 advantage in a boat of this kind lies in their ability to sail
 on poor ice or to go across water that is partly open and
 frozen as many of the bays along the coast are at times.
@@ -7861,7 +7861,7 @@ up as high as it will go, for it is of use only when the boat is
 in the water.
 
 A scoot is a cranky boat on the ice as the runners or fore-shoes
-are closer together than on an ice-boat with a triangular 
+are closer together than on an ice-boat with a triangular
 // 270.png
 .pn +1
 frame. Going before the wind it is all right, but when
@@ -8087,7 +8087,7 @@ canopy. The cabin sheathing is of narrow matched boards
 planed on both sides and as free from knots and sappy places
 as it is possible to get them. The boards must be thoroughly
 sun-dried before they are laid on and nailed fast, and it
-would be well also to paint the matched edges so that moisture 
+would be well also to paint the matched edges so that moisture
 // 278.png
 .pn +1
 may not get in and swell them. The inside and outside
@@ -8281,7 +8281,7 @@ house and how it is divided into the several compartments.
 In the front, the dining and living saloon is a room measuring
 about eight feet in width and eleven feet in length. At
 one end a couch is placed which, if necessary, can be used as
-a bed; and close to it are two large windows—one overlooking 
+a bed; and close to it are two large windows—one overlooking
 // 284.png
 .pn +1
 [Illustration: <i><sc>Fig 11</sc></i>
@@ -8523,11 +8523,11 @@ Below is a table of expenditures:
 
 /*
 Barrels, at   25 cents each                        $1.00
-Joists   "   $20 per M                               .55
-Boards   "    30   "                                3.00
-Nails    "     4 cents a pound                       .20
-Paint    "    20 cents a can                         .20
-Rings    "    20 cents each                          .80
+Joists   „   $20 per M                               .55
+Boards   „    30   „                                3.00
+Nails    „     4 cents a pound                       .20
+Paint    „    20 cents a can                         .20
+Rings    „    20 cents each                          .80
                                                    ——-
                            Total                   $5.75
 */
@@ -8665,7 +8665,7 @@ the knot by handling it in a reverse manner to that
 described for its manufacture.
 
 <sc>Running Bowline</sc> (Fig. 8).—The only difference between
-this knot and the one described under the head of "Bowline"
+this knot and the one described under the head of “Bowline”
 is that the end (1) of the rope is taken around the
 standing part (2), and then a single bowline (3) is tied on
 its own part. As will be understood by reference to the
@@ -8772,7 +8772,7 @@ out at the top of the knot, then leading the last strand
 through two double bights; last lay the strands up as previously
 explained, and the knot will show as in Fig. 19.
 
-<sc>Turk's Head Knot</sc> (Fig. 20).—This is purely an ornamental
+<sc>Turk’s Head Knot</sc> (Fig. 20).—This is purely an ornamental
 knot, and is used to beautify yoke lines for a rowing
 boat, man ropes, ridge ropes, gangway ropes, etc. The
 material used in the construction of this knot is regulated
@@ -8781,7 +8781,7 @@ ranging from twine to signal halyard stuff (line). To make
 this knot, form a clove hitch, and bring the bight of 1
 (Fig. 21) under the bight of 2, then take the end up through
 it, make another cross with the bights, and take the end
-down. Fig. 22 represents a Turk's Head of two lays, but
+down. Fig. 22 represents a Turk’s Head of two lays, but
 it may have any number of lays, it being necessary only to
 follow the lead around according to the formation desired.
 
@@ -8796,7 +8796,7 @@ in halves the two ends of the rope yarns, and crotch and tie
 the two opposite ends, then jam the tie and cut off the remaining
 ends.
 
-<sc>Lark's Head Knot</sc> (Fig. 24).—This knot is used on the
+<sc>Lark’s Head Knot</sc> (Fig. 24).—This knot is used on the
 same principle as explained for the Slippery Hitch; when it
 is desired to undo it quickly, simply pull out the wooden
 toggle 1. The making of the knot will be fully understood
@@ -8833,9 +8833,9 @@ the standing part of the first rope where marked 1, then
 under the end 2, and again through the bight and over the
 standing part 3.
 
-<sc>Fisherman's Bend</sc> (Fig. 28).—First pass the rope twice
+<sc>Fisherman’s Bend</sc> (Fig. 28).—First pass the rope twice
 round the spar or ring, which act is understood by sailors
-as "taking two round turns," next take a half hitch round
+as “taking two round turns,” next take a half hitch round
 the standing part, then thrust the end under the two turns,
 and last half hitch the end round the standing part A.
 When hauled taut the bend will appear as shown in Fig. 29.
@@ -8916,7 +8916,7 @@ the rope, following the lay. A tail-block, being portable, is
 .pn +1
 convenient to make fast anywhere about decks or the rigging,
 and a rope being rove through this block, a purchase,
-called a "whip," is created.
+called a “whip,” is created.
 
 <sc>Magnus Hitch</sc> (Fig. 38).—Some people confuse this
 hitch with the rolling hitch just described, but a comparison
@@ -8950,7 +8950,7 @@ represented by the arrow.
 [Illustration: <i>Fig. 44</i>]
 
 <sc>Catspaw Hitch</sc> (Fig. 39).—Like the Blackwall Hitch,
-this one is used for making a rope fast to a hook for hoisting 
+this one is used for making a rope fast to a hook for hoisting
 // 304.png
 .pn +1
 purposes. Seize the bight of the rope in your two
@@ -9300,7 +9300,7 @@ of canvas. This style of camp-tent has become very popular
 in California and through the Southwest, where at least
 six months of each year are spent out-of-doors. For the
 boys who are about to build a permanent camp for several
-years' use, a house-tent such as shown in Figs. 11 and 12
+years’ use, a house-tent such as shown in Figs. 11 and 12
 will prove very satisfactory, and more desirable than the
 plain pitched tent.
 
@@ -9517,7 +9517,7 @@ folding ends, a middle pole, and four iron brace-hooks.
 
 [Illustration: <i><sc>Fig 22</sc></i>]
 
-To make the cot twenty-six inches wide, procure the canvas 
+To make the cot twenty-six inches wide, procure the canvas
 // 324.png
 .pn +1
 and poles as directed for the first cot. Bind the ends
@@ -9627,7 +9627,7 @@ The seat is made of ordinary boards nailed to the top edges
 .pn +1
 
 of the rails all around, and if the edge is smoothed off there
-will be less liability to tear one's garments.
+will be less liability to tear one’s garments.
 
 [Illustration: <i><sc>Fig 24</sc></i>]
 
@@ -9682,7 +9682,7 @@ In Fig. 28, showing a corner of the tent, a portable
 table is supporting some of the things it would be well
 to have in camp, and while a boy may think that he
 knows what is wanted, it would be well for him to take
-his mother's or older sister's advice on the subject.
+his mother’s or older sister’s advice on the subject.
 
 
 Lockers and Mess-kits
@@ -9861,7 +9861,7 @@ that the wind will not worry you one-half as much as before
 (Fig. 33). If you wish to take the trouble, and the material
 is handy, the plan in Fig. 35 is a most excellent one to follow.
 Wall up the sides of the trench with brick, add a little
-chimney at one end, and get several iron "S" hooks from
+chimney at one end, and get several iron “S” hooks from
 which to suspend your kettles. This will save the lifting of
 // 335.png
 .pn +1
@@ -9890,8 +9890,8 @@ where he can buy his bread he will not have to eat crackers,
 or those indigestion-producers, flapjacks, that the youthful
 camper knows how to make, or thinks he does. I have
 eaten many a one in my young days before putting on the
-"army blue," but their weight in gold would not induce me
-to eat some that I swallowed as a boy and thought "fine."
+“army blue,” but their weight in gold would not induce me
+to eat some that I swallowed as a boy and thought “fine.”
 We will assume that before going into camp your dear
 mother has taught you how to mix a batch of dough or a
 pan of biscuit. We will now make an oven in which to bake
@@ -9909,7 +9909,7 @@ about sixteen inches at the centre.   Fig. 37 A and B.
 
 [Illustration: Fig. 37]
 
-Now carefully "tap" the back end for the chimney, and
+Now carefully “tap” the back end for the chimney, and
 insert a piece of stove-pipe if handy. A hole from four to
 six inches will give a good draught.   Wet the inside of the
 // 337.png
@@ -9942,23 +9942,23 @@ attempting to bake. Fig. 34. (See page 321.)
 Camp-cooking
 
 Even the finest of camps is a dreary place unless the commissary
-department is well organized. "Uncle Harry," who
+department is well organized. “Uncle Harry,” who
 is an old and experienced camper-out, gives some useful suggestions
 to his nephews, and other boys will doubtless appreciate
 his lectures on things culinary.
 // 338.png
 .pn +1
 
-"Let us suppose," begins Uncle Harry, "that you have
+“Let us suppose,” begins Uncle Harry, “that you have
 gotten the camp into ship-shape order, and after your hard
-day's work are ravenously hungry and very impatient for
+day’s work are ravenously hungry and very impatient for
 supper, or rather dinner, for the last meal of the day in
 camp is always the most important one. We will appoint
 Aleck as cook, and while he is busy over the fire neither of
 the others shall interfere with him or his duties, for no axiom
-is more true than that 'too many cooks spoil the broth.'
+is more true than that ‘too many cooks spoil the broth.’
 
-"Ben and Bob must see that the cook is well supplied
+“Ben and Bob must see that the cook is well supplied
 with water and has plenty of small-split firewood close at
 hand. Then Bob will set the table, while Ben goes a-fishing
 and catches half a dozen trout or other small fry from the
@@ -9971,7 +9971,7 @@ be drained from them, and, still in the kettle, they must be
 set aside, but near enough to the fire to keep hot until
 wanted.
 
-"Ben's fish all weigh less than a pound, and so are too
+“Ben’s fish all weigh less than a pound, and so are too
 small to do anything with but fry. After they are cleaned,
 Aleck rolls them in corn-meal and lays them carefully in the
 frying-pan, which is already on the stove, and in which a
@@ -9979,7 +9979,7 @@ small quantity of cotton-seed oil is sizzling merrily. If you
 should have no oil, pork fat will do nearly as well, only have
 it boiling hot before placing the fish in it.
 
-"Aleck has heard of half a dozen methods of making
+“Aleck has heard of half a dozen methods of making
 coffee, and hesitates before deciding which to try. He has
 been told to put his coffee in cold water and let it come to a
 // 339.png
@@ -9989,14 +9989,14 @@ boiling; he has heard that coffee must never be boiled, and
 that the only way to extract its strength is to boil it; and so
 in thinking it all over he is much perplexed. Finally he remembers
 a method which his old uncle who is in the army
-has mentioned to him, and decides to try it."
+has mentioned to him, and decides to try it.”
 
-"Oh, Uncle Harry, you are not a bit old," interrupts
+“Oh, Uncle Harry, you are not a bit old,” interrupts
 Aleck.
 
-"In preparing coffee by his old uncle's method," continues
+“In preparing coffee by his old uncle’s method,” continues
 Captain Archer, only noticing the interruption with
-a smile, "Aleck fills the coffee-pot with water, and sets it on
+a smile, “Aleck fills the coffee-pot with water, and sets it on
 the broiler wires, which he has laid across from one log to
 the other of the stove. While it is coming to a boil he measures
 out his coffee at the rate of a heaping table-spoonful for
@@ -10013,26 +10013,26 @@ while the rest of the dinner is being served, the coffee-pot
 stands in a warm place near the fire, and then its contents
 are ready for drinking.
 
-"If either of you had wanted tea, Aleck would have put in
+“If either of you had wanted tea, Aleck would have put in
 the pot a teaspoonful of tea leaves for each cup to be made,
 poured boiling water over it, let it stand in a warm place two
 or three minutes, and it would have been ready for you.
 // 340.png
 .pn +1
 
-"Here you have a plain, easily cooked dinner of fried fish,
+“Here you have a plain, easily cooked dinner of fried fish,
 boiled potatoes, and coffee, to which you can add from your
 supplies bread and butter, or crackers, pickles, condensed
 milk, salt, pepper, and sugar. I think you will find it
 enough for a first experiment.
 
-"For breakfast next morning you will have coffee, fried
-potatoes and breakfast bacon, and griddle-cakes."
+“For breakfast next morning you will have coffee, fried
+potatoes and breakfast bacon, and griddle-cakes.”
 
-"Oh, Uncle Harry, I can't make griddle-cakes," exclaimed
+“Oh, Uncle Harry, I can’t make griddle-cakes,” exclaimed
 Aleck.
 
-"I think you can, if I tell you how, and you try hard.
+“I think you can, if I tell you how, and you try hard.
 At any rate, you had better try, for they enter largely into
 the composition of camp meals. To make the simplest flour
 griddle-cakes, put into a pan a quart of your prepared flour,
@@ -10047,14 +10047,14 @@ griddle is sufficient. Take turns in frying the cakes, so that
 two of you can be eating them as fast as they are done.
 They are only fit to eat when hot from the griddle.
 
-"The cold boiled potatoes left from dinner the night before
+“The cold boiled potatoes left from dinner the night before
 may be cut up and fried with half a dozen slices of breakfast
 bacon, and when all is ready you will have a breakfast to
 which I think three hungry boys will do ample justice.
 
-"When you become tired of fish, catch frogs. They are
+“When you become tired of fish, catch frogs. They are
 considered delicacies on first-class tables, and add a pleasant
-variety to a woodman's fare.   Catch them with a light rod,
+variety to a woodman’s fare.   Catch them with a light rod,
 // 341.png
 .pn +1
 short line, and small hook baited with a bit of scarlet flannel,
@@ -10063,7 +10063,7 @@ they will let you pick them up. Kill your frog by a tap on
 the head, cut off his thighs and hind-legs, skin them, roll
 them in Indian-meal, and fry brown in hot oil or pork fat.
 
-"You will also probably have an opportunity of adding
+“You will also probably have an opportunity of adding
 squirrels to your bill of fare. When you have got your
 squirrel, chop off his head, feet, and tail, cut the skin crosswise
 of the back, and strip it off in two parts, fore and aft;
@@ -10072,27 +10072,27 @@ into a kettle, and let the hind-quarters parboil until tender.
 Then fry them, until of a rich brown, in oil or pork fat, hissing
 hot.   Use the fore-quarters for a stew.
 
-"To make a stew use almost any kind of flesh or fowl.
+“To make a stew use almost any kind of flesh or fowl.
 The chief thing to be remembered in making a stew is to
-stew it enough.   An old camp jingle runs thus:
+stew it enough. An old camp jingle runs thus:
 
 /*
-"'A stew that's too little stewed
-Is understood to be no good.'
+“‘A stew that’s too little stewed
+Is understood to be no good.’
 */
 
-"Let your meat boil for more than an hour, or until it
+“Let your meat boil for more than an hour, or until it
 begins to fall from the bones. Add potatoes, pared and
 quartered, an onion sliced, salt, pepper, and a thickening
 made of flour and melted butter, to be stirred in gradually.
 
-"In making a meat soup provide plenty of meat, and do
+“In making a meat soup provide plenty of meat, and do
 not be afraid to let it boil. It is hard to boil it too much,
 and three hours is not too long. When nearly done, scrape
 a potato into the soup for thickening, and season with salt
 and pepper.
 
-"To cook rice, let a cupful soak overnight. In the morning
+“To cook rice, let a cupful soak overnight. In the morning
 pour off the water in which it has soaked, place it in a
 // 342.png
 .pn +1
@@ -10103,13 +10103,13 @@ good to add to your soups and stews, and it is particularly
 good when added to the batter from which you make your
 griddle-cakes.
 
-"To make mush stir corn-meal into boiling water; season
+“To make mush stir corn-meal into boiling water; season
 with salt. Eat hot with syrup. Save what is left over, and
-fry it next morning.   The same rule applies to hominy.
+fry it next morning. The same rule applies to hominy.
 
-"These are the rudiments of camp-cookery. Not an extended
+“These are the rudiments of camp-cookery. Not an extended
 bill of fare, but I think you will find it appetizing
-and nourishing."
+and nourishing.”
 
 And the boys agreed with him.
 
@@ -10120,7 +10120,7 @@ Aside from the pride and satisfaction which every sportsman
 should take in keeping his favorite weapon bright and
 free from spots, inside and out, it pays to keep a gun clean.
 The residue left in the barrel after firing contains acids,
-which will soon eat "pits" or spots in the metal, and when
+which will soon eat “pits” or spots in the metal, and when
 once started, it is almost impossible to prevent them increasing
 in size and number. When badly pitted, the recoil
 is increased by the roughness in the barrel. A gun can be
@@ -10217,8 +10217,8 @@ speed of the bird, and the distance from the shooter.
 
 It is best to ask permission of the owner to shoot over his
 land. You will seldom be refused, and will frequently be
-given permission to shoot over land which is posted "No
-Shooting." The land-owners know that it is the lawless
+given permission to shoot over land which is posted “No
+Shooting.” The land-owners know that it is the lawless
 hoodlums who do them damage.
 
 Every true sportsman strictly obeys the game laws, and
@@ -10256,7 +10256,7 @@ powers of increase enable it to hold its own, as far too many
 of our best and most valuable animals do not. Furthermore,
 rabbits are very easily trapped.
 
-Every one knows its little trail, as broad as one's hand,
+Every one knows its little trail, as broad as one’s hand,
 through the bushes or broom-hedge, or its footprints as it
 hops over the clear snow. Here, where the path goes under
 a fence-rail, it has stopped to gnaw. The rabbit follows this
@@ -10279,7 +10279,7 @@ that I have seen the Indian trappers make is simply a pole
 lashed to the side of a convenient sapling, the heavy end
 being high in the air, while the short end is caught under a
 stake with a crotch or little limb sticking out, driven into
-the ground at the side of the path. A "twitch-up" is a
+the ground at the side of the path. A “twitch-up” is a
 sapling bent down, but this generally needs to be held down
 in another way. On each side of the path a stake is firmly
 driven into the ground. About seven inches from the ground,
@@ -10310,7 +10310,7 @@ puts its head through a noose, and springs the trap as it
 touches the bait. One of the best traps I know of this kind
 // 349.png
 .pn +1
-is called, in northern Vermont, a "French twitch-up" (Fig. 4).
+is called, in northern Vermont, a “French twitch-up” (Fig. 4).
 This trap can be made at home, and carried and set wherever
 needed. It is made as follows: Take a board about twenty
 inches long and ten inches wide. Measure off eight inches
@@ -10348,7 +10348,7 @@ a Yankee improvement on a very old device. Formerly
 there was no pen and the noose was laid on the ground.
 
 One of the very best traps for rabbits is a kind used in the
-South (Fig. 5). How often on a frosty morning would one's
+South (Fig. 5). How often on a frosty morning would one’s
 heart thump as one came into view and looked to see if the
 trigger was up and the door was down!
 
@@ -10390,7 +10390,7 @@ rabbit will not be able to push it from him.
 [Illustration: <i>Fig. 6</i>]
 
 Instead of a box, a section of a hollow log, called in the
-South a "gum," may be used, two stakes being driven in
+South a “gum,” may be used, two stakes being driven in
 front to hold the door. Fig. 6.
 
 The muskrat is an abundant animal about ponds, ditches,
@@ -10403,7 +10403,7 @@ really soft and fine. If one can find their runway (a path
 eight or nine inches wide along which they travel from place
 to place) one can always capture them by the same kind of
 trap that an Indian sets for beaver and otter, as well as for
-musquash. He calls it the "<i>kilheg'n</i>." Fig. 7.
+musquash. He calls it the “<i>kilheg’n</i>.” Fig. 7.
 
 Drive two stakes two feet or more high and at least an
 inch thick into the ground three inches apart at one side of
@@ -10414,14 +10414,14 @@ length whatever, lay the butt end across the path on top
 of the bed, hewing the sides flat, if necessary. See that it
 rests evenly on the bed, and keep the other end in place
 with a stake driven on each side. This pole is called the
-"fall."
+“fall.”
 
 Lash each pair of stakes together at their tops with rope
 or tough bark or withe, to prevent spreading, and lay a stiff
 stick across. Cut a half-inch straight stick and lay it on
 top of the bed, lashing one end loosely to the stake, leaving the
 other end free to rise and fall. This is the trigger. Now for
-the "crooked stick." It is a stick as long as from the bed
+the “crooked stick.” It is a stick as long as from the bed
 to the cross-piece, and has a sudden bend at the upper end.
 Often one can find a small sapling an inch through with just
 the right bend at the end. Notch it as shown in Fig. 8.
@@ -10463,7 +10463,7 @@ lay another stick a little shorter, continuing thus, and making
 each successive stick shorter, until the end of the sticks
 is reached, thus forming a three-cornered platform, which is
 then weighted with heavy stones. Construct a figure 4
-(Fig. 9 A) out of sticks as thick as one's finger, making the
+(Fig. 9 A) out of sticks as thick as one’s finger, making the
 bait-stick eighteen or twenty inches long. Set the figure 4
 under the platform at the very end of the stick, the bait-stick
 passing between the upright stakes. Bait with a carrot,
@@ -10471,7 +10471,7 @@ a parsnip, apple, etc., and a rat should be there in the
 morning.
 
 If the trap does not lie flat on the ground place sticks under
-it. This same trap, baited with a fowl's head or a bird or
+it. This same trap, baited with a fowl’s head or a bird or
 meat, is also useful as a skunk-trap, being placed in the
 woods near their burrows.
 
@@ -10494,7 +10494,7 @@ for the bed-piece. Then a pen or house is built of stakes, or
 long chips, or stones, or pieces of board in the form of a V
 or Π, about nine inches tall, eight inches deep, and six
 inches wide. Then two sticks are prepared—one three inches
-long and half an inch thick, called the "standard" (Fig.
+long and half an inch thick, called the “standard” (Fig.
 12), the other eight inches long, and of the same thickness,
 called the bait-stick, one end being sharpened, the other
 flattened. The bait, the head of a fowl or fish, is tied to
@@ -10538,7 +10538,7 @@ Again, a hollow is chopped into a tree, a stake driven in
 front, and the bait-stick thrust inside.
 
 There are many other deadfalls in use. Among the most
-deadly is what may be called the "wigwam." It is thus
+deadly is what may be called the “wigwam.” It is thus
 constructed: With a hatchet or an axe break some small
 sticks, and driving them into the ground in the shape of a
 crescent build the bait-pen or house. Bring them together
@@ -10596,7 +10596,7 @@ once a week, but if they are near home most boys like to go
 to them every day. Skinning can best be done at home.
 The curing of skins is a matter of great importance if the fur
 is to be sold, for dealers will only pay for good fur properly
-prepared. It must be "prime"—that is, from November to
+prepared. It must be “prime”—that is, from November to
 // 359.png
 .pn +1
 *[Illustration: <i>Fig. 17</i>]
@@ -10684,10 +10684,10 @@ Brush-houses, sylvan retreats, and tree huts of various
 kinds are made by boys all over the country, and some very
 unique and original ones are often constructed from simple
 and inexpensive materials. Everything from the back-yard
-"lean-to" and the tent of sheets to the tree huts that are
+“lean-to” and the tent of sheets to the tree huts that are
 inaccessible when the rope-ladder is drawn up may be made
 by boys who are at all handy with tools, and a well-built
-tree hut is an ideal place in which to spend one's vacation
+tree hut is an ideal place in which to spend one’s vacation
 days.
 
 The following ideas and suggestions may be of service,
@@ -11109,10 +11109,10 @@ closer; and about four inches of the roof should extend
 over the sides, front, and rear.
 
 
-A Brush "Lean-to"
+A Brush “Lean-to”
 
 The general lines of a miniature barn are shown in the
-illustration of a brush "lean-to" (Fig. 18). This is constructed
+illustration of a brush “lean-to” (Fig. 18). This is constructed
 in nearly the same manner as the brush-house, and
 thatched with grass or reeds as shown in Figs. 16 and 17.
 
@@ -11175,8 +11175,8 @@ young reader, what unthinking people would call a useless
 and eccentric occupation (this gathering of old sticks) has
 in reality proved to be an innocent and instructive pastime,
 and I propose to continue to ride this walking-stick hobby
-just as diligently as I used to ride grandpa's walking-cane
-to "Banbury Cross" when a child.
+just as diligently as I used to ride grandpa’s walking-cane
+to “Banbury Cross” when a child.
 
 My first interesting cane capture consisted of a very curiously
 shaped natural stick as shown in Fig. 1. It was of a
@@ -11190,7 +11190,7 @@ bark well over the leader of the tough and clinging bitter-sweet
 till but little of it was to be seen. At last the sapling,
 feeling unusually vigorous, burst asunder the clinging bitter-sweet
 vine, the result being a very unique walking-stick,
-and a good illustration of the "survival of the fittest."
+and a good illustration of the “survival of the fittest.”
 
 The dead bitter-sweet vine was withdrawn from the
 hickory, and from its root a handle was carved and bent.
@@ -11199,7 +11199,7 @@ the fox-grape around saplings of oak, hickory, and chestnut,
 and have obtained very satisfactory results.
 
 Where a vine is situated some distance from the sapling
-selected for a cane, the vine can be "piped" (laid under the
+selected for a cane, the vine can be “piped” (laid under the
 ground) up to the sapling, and then twisted around it and
 securely fastened at the top with wire, from three to four
 feet above its root. If the sapling is so situated that it
@@ -11243,7 +11243,7 @@ willow saplings.
 It very often occurs that after a tree has been cut down
 a number of canes or suckers will start up from the stump.
 These suckers make excellent walking-sticks when properly
-cured and peeled. For a lady's riding-whip I know of nothing
+cured and peeled. For a lady’s riding-whip I know of nothing
 better than three willow withes plaited together. This
 plaiting must be done when the willow withes are young,
 and when attached to the parent tree, on which they are
@@ -11342,8 +11342,8 @@ full-length figures of alligators as shown in Fig. 6. I have
 examined several of these sticks, and the entire work seems
 to be done with small chisels and a parting or V-tool. These
 sticks are in constant demand with visitors and tourists in
-Florida, and have become known as "orange-wood 'gator
-canes." This fact may be suggestive to some of our ingenious
+Florida, and have become known as “orange-wood ’gator
+canes.” This fact may be suggestive to some of our ingenious
 farmer boys who are struggling to obtain a college
 course.
 
@@ -11414,13 +11414,13 @@ by brushing them over with a hot and strong decoction of
 logwood and nut gall. When this is thoroughly dried,
 brush them over with vinegar in which a few rusty nails
 have been steeped for two or three days. Some persons use
-ink for a black stain, others introduce "drop black" in the
+ink for a black stain, others introduce “drop black” in the
 varnish; a brown or mahogany stain may be obtained by
-adding some "dragon's-blood" to the varnish. The lower
+adding some “dragon’s-blood” to the varnish. The lower
 ends of the sticks should be guarded from excessive wear by
 a neat brass ferrule; these are cheaper to purchase at a
 hardware store than to make, though I have often used
-brass thimbles and tailors' steel thimbles as a substitute.
+brass thimbles and tailors’ steel thimbles as a substitute.
 These can be fastened by means of hot shellac, or with a
 brass pin driven into a hole in the thimble and passing
 through the wood of the stick.
@@ -11453,7 +11453,7 @@ which we trust may become the daily and invaluable companion
 of all healthy, active American boys. The in-door
 handy book, the book of electricity, and the book of mechanics
 for boys, which are to follow, will form, we believe,
-the distinctive American boy's library of practical handy
+the distinctive American boy’s library of practical handy
 books.
 // 388.png
 .pn +1
@@ -11472,7 +11472,7 @@ Aerial toys, 81-98;
   elastic flying-machine, 81-86;
   self-acting aerial car, 86-91;
   aerial boat-sailing, 91-95;
-  a "high-flyer," 95-98.
+  a “high-flyer,” 95-98.
 
 Air-ship kite, an, 126, 127, 128.
 
@@ -11521,11 +11521,11 @@ Bear, curing the skin of, 347, 349·
 
 Beaver, curing the skin of, 347.
 
-"Becket hitch," the, 160.
+“Becket hitch,” the, 160.
 
 Bends: the common, 288, 289;
   the Carrick, <i>ibid.</i>;
-  the fisherman's, <i>ibid.</i>;
+  the fisherman’s, <i>ibid.</i>;
   the sheet, 289;
   diagrams showing, <i>ibid.</i>
   <i>See also</i> Hitches and Knots.
@@ -11651,7 +11651,7 @@ Curing of skins, the, 346-349.
 
 Deadfalls, for muskrat, 340, 341, 342;
   for skunk, 342, 346;
-  the "wigwam," 344, 345, 346.
+  the “wigwam,” 344, 345, 346.
 
 Diagrams, showing splices, 281;
   showing knots, 285;
@@ -11683,7 +11683,7 @@ Fires, camp, how to make, 320, 321, 322, 323.
 
 Fire-engine, a, 191-195.
 
-Fisherman's bend, the, 288, 289.
+Fisherman’s bend, the, 288, 289.
 
 Fish, for aquariums, 19, 20, 22, 23, 169;
   cleaning, 145;
@@ -11740,9 +11740,9 @@ Hammock, a canvas, 312, 313.
 
 Handles for walking-sticks, 374, 375.
 
-"High-flyer," a, 95-98.
+“High-flyer,” a, 95-98.
 
-Hitches:  the "Becket," 160;
+Hitches:  the “Becket,” 160;
   two half, 289, 290;
   the clove, <i>ibid.</i>;
   the slippery, 290, 291;
@@ -11797,7 +11797,7 @@ Ice-sail, a square-rigged, 118.
 Ice-yacht, a sloop-rigged, how to make, 249-253;
   a twin-mast, 253, 254.
 
-"Invisible," or "whip-finish," knot, the, 158, 160.
+“Invisible,” or “whip-finish,” knot, the, 158, 160.
 
 
 Kennels for dogs, 36-39.
@@ -11811,12 +11811,12 @@ Kites: the ship, 120-122;
   crown-top, <i>ibid.</i>;
   Sandwich Island bird, 129-131;
   box, 132, 133;
-  the "paralleloplane," 134, 135;
+  the “paralleloplane,” 134, 135;
   the flying-wedge, 135-138;
   the double-plane, <i>ibid.</i>;
   reels, 138-143.
 
-Knots: the "invisible," or "whip-finish," 158, 160;
+Knots: the “invisible,” or “whip-finish,” 158, 160;
   the reef, 282, 283, 285;
   the bowline, 283, 285;
   the bowline on a bight, 283, 284, 285;
@@ -11829,9 +11829,9 @@ Knots: the "invisible," or "whip-finish," 158, 160;
   a man rope, <i>ibid.</i>;
   the Matthew Walker, <i>ibid.</i>;
   the diamond, <i>ibid.</i>;
-  the Turk's head, 285, 287;
+  the Turk’s head, 285, 287;
   the rope yarn, <i>ibid.</i>;
-  the lark's head, <i>ibid.</i>
+  the lark’s head, <i>ibid.</i>
   <i>See also</i> Bends and Hitches.
 
 Knotting of gut, 158, 159, 160.
@@ -11843,7 +11843,7 @@ Land-yacht, a, 177-182.
 
 Lark, a, how to make, 230-235.
 
-Lark's head knot, the, 285, 287.
+Lark’s head knot, the, 285, 287.
 
 Lee-board, a, 225.
 
@@ -11986,7 +11986,7 @@ Sandwich Island bird kite, the, 129, 130, 131, 132.
 
 Scap-net, how made, 19, 175, 176.
 
-Scoots and scooters, "ice-water boats," 255-259.
+Scoots and scooters, “ice-water boats,” 255-259.
 
 Scow, a, how to make, 214, 215.
 
@@ -12118,15 +12118,15 @@ Tree huts and brush-houses, 350-366;
   a single-tree hut, 359, 360;
   a low single-tree hut, 360, 361;
   a brush-house, 361-364;
-  a brush "lean-to," 364-366.
+  a brush “lean-to,” 364-366.
 
 Truck, a hook-and-ladder, 198-200.
 
-Turk's head knot, the, 285, 287.
+Turk’s head knot, the, 285, 287.
 
 Turtles, water, a trap for, 171, 172.
 
-"Twitch-up," a, for rabbits, 335, 336;
+“Twitch-up,” a, for rabbits, 335, 336;
   a French, 336, 337, 338.
 
 Two half hitches, 289, 290.
@@ -12213,7 +12213,7 @@ THE END
 .de div.transnote { background-color: #eeeeff; border: dashed 1px #aaaaaa; color: black; padding: 1em; margin-bottom: 3em; font-family: sans-serif, serif; }
 .if h
 .li
-<div class="transnote">
+<div class=∯transnote∯>
 .li-
 .if-
 .ce
@@ -12227,7 +12227,7 @@ Resolved the following inconsistent spelling and hyphenation usage within text:
 .ma • *
 .nf l
 • Pg 10 earthern-ware changed to earthen-ware
-• Pg 40 "mi way" changed to midway
+• Pg 40 “mi way” changed to midway
 • Pg 178 joist changed to joists
 .nf-
 .in
@@ -12237,4 +12237,3 @@ Resolved the following inconsistent spelling and hyphenation usage within text:
 </div>
 .li-
 .if-
-
