@@ -147,7 +147,7 @@ CHAPTER II.--PET SHELTERS         29
 
 CHAPTER III.--SUMMER-HOUSES AND PERGOLAS      52
 
-<sc>A. Simple [** A Simple?] Summer-house</sc>
+<sc>A Simple Summer-house</sc>
 <sc>A Back-yard Pergola</sc>
 <sc>A Toadstool Tree Canopy</sc>
 <sc>A Rustic Pergola</sc>
@@ -623,7 +623,7 @@ drilling the holes an opening may be made in the bottom
 of each plate so that it will slip over the stand-pipe. Tin
 or enamelled iron plates will answer the purpose very well
 for a while, but the tin plates would soon rust unless frequently
-painted. The white earthern-ware[**P3--typo? s/b earthen?] plates will present
+painted. The white earthen-ware plates will present
 the best appearance and will last indefinitely.
 
 Dig a circular hole thirty inches across and twelve inches
@@ -801,7 +801,7 @@ and the shoulder formed by the saw-cuts will rest on the
 top of the base board.
 
 With straight rule and pencil mark parallel lines connecting
-each hole as shown at D D in Fig. 16. These lines should
+each hole as shown at D\_D in Fig. 16. These lines should
 // 028.png
 .pn +1
 correspond in position with the grooves cut in the posts;
@@ -1232,7 +1232,7 @@ and crawling things that in warm countries take the place
 of the white mice, rabbits, guinea-pigs, and canary-birds of
 our northern climes.
 
-Some boys have a natural aptitude for carpenter-work.[**typo, should be a comma ? ]
+Some boys have a natural aptitude for carpenter-work,
 // 042.png
 .pn +1
 but there may be ideas in these illustrations and the accompanying
@@ -1503,11 +1503,10 @@ top of the kennel.
 
 [Illustration: <i><sc>Fig 13</sc></i>]
 
-Two or three good coats of paint will finish the wood-* [**P3--or
-is that a splotch, rather than a hyphen?]
+Two or three good coats of paint will finish the wood-work,
 // 051.png
 .pn +1
-*work, and with the addition of a chain fastened to a staple-plate
+and with the addition of a chain fastened to a staple-plate
 this dog-kennel will be ready for occupancy.
 
 This dog-hut in Fig 15 is built against the side of a house
@@ -1558,7 +1557,7 @@ shown in the illustration, should be thirty-six inches long,
 twenty-four inches wide, twenty-four inches high to the
 roof eaves and thirty-two inches to the peak. A small dry-goods
 case can be adapted to this use, and the floor nailed in
-mi[**typo for mid] way[**P2: appears it should be "midway", all one word] between the top and bottom.
+midway between the top and bottom.
 
 The darkened compartment is fourteen inches wide and
 extends up on both floors. Holes three by four inches
@@ -1737,7 +1736,7 @@ inches from one end the edges of the board are sawed off so
 // 058.png
 .pn +1
 that the end will be six inches wide. Eleven inches from
-the small end a square piece of wood is mounted on the base-*board[**P2:keep hyphen]
+the small end a square piece of wood is mounted on the base-board
 to form the back to the square compartment. This
 is covered with tin on the inside, so that the rodents cannot
 gnaw the wood away at the edges or about the hole that
@@ -1811,7 +1810,7 @@ This pen is forty-eight inches long, twenty-four deep, and
 twenty-six high. The bottom rail at the front is four inches
 wide, and the top and upright ones are two inches wide.
 
-[Illustration: <i><sc>Fig[**.? (F1) There was no dot on earlier pages!] 24</sc></i>]
+[Illustration: <i><sc>Fig. 24</sc></i>]
 
 [Illustration: <i>Fig. 25</i>]
 
@@ -1938,7 +1937,7 @@ on both sides of them, nailing all the ends securely with steel
 wire nails. Put one middle rafter in on each side between
 // 065.png
 .pn +1
-eaves to the roof. It would not look well to have the roof[**typo missing line?]
+eaves to the roof. It would not look well to have the roof
 the corner ones; then nail shingle lath or scantling on the
 four sides to receive the shingles. The rafters should over-*hang
 the top frame about twelve inches, so as to form the
@@ -2291,7 +2290,7 @@ should be from twenty-four to thirty-six inches long, with
 the blade from five to six inches in width.
 
 The most substantial vane is made in three pieces, the
-point, shaft, and blade. The shaft is made from hard wood[**hyphenated elsewhere],
+point, shaft, and blade. The shaft is made from hard wood,
 three-quarters of an inch square, in the ends of which cuts
 are made to receive a tin or sheet-metal point and blade.
 These are held in place with steel nails driven through the
@@ -2661,10 +2660,10 @@ welded on the shaft, which for the balance of its length is
 three-quarters of an inch in diameter.
 
 Just beyond the shoulder or collar, C, the crank is formed,
-two inches wide and three inches out from the shaft[** . missing?]    Be-*
+two inches wide and three inches out from the shaft. Be-*
 // 088.png
 .pn +1
-*yond the crank another collar, C C, is welded on, and beyond
+*yond the crank another collar, C\_C, is welded on, and beyond
 this the shaft should measure six inches in length.
 
 The total length of the shaft is fifteen inches, and all the
@@ -2685,7 +2684,7 @@ the long rails to which, in turn, the tail is attached.
 [Illustration: <i><sc>Fig 23</sc></i>]
 
 The upper ends of the blocks are cut out so as to admit
-the shaft. The collars, C, and C C, are at the inside of the
+the shaft. The collars, C, and C\_C, are at the inside of the
 blocks. To hold the shaft in place, straps of iron are screwed
 fast over the top of each block.
 
@@ -2740,11 +2739,11 @@ any smart boy can make of wood, an old buggy wheel, and a
 few iron fittings that a blacksmith will make at a nominal cost.
 
 
-[Illustration: <i><sc>Fig[** .] 24</sc></i>]
+[Illustration: <i><sc>Fig. 24</sc></i>]
 
 [Illustration: <i>Fig. 25</i>]
 
-[Illustration: <sc>Fig[** . (as per page 92)] 26</sc>]
+[Illustration: <sc>Fig. 26</sc>]
 
 The tower is the first thing to make, and it should be constructed
 of four spruce sticks sixteen feet long and four inches
@@ -2853,7 +2852,7 @@ file. Scrape that part of the metal bright and clean which
 will form the inside of the roll, and then bend it around the
 needle so that it will fit nicely and snugly.
 
-[Illustration: <i><sc>Fig[** .] 1</sc></i>]
+[Illustration: <i><sc>Fig. 1</sc></i>]
 
 [Illustration: <i>Fig. 2</i>]
 
@@ -3675,7 +3674,7 @@ can embellish the tops of his skees and varnish them all
 over to improve their appearance and make them smooth,
 so that they will slide easily.
 
-A skee made from a hogshead or crockery-cask stave i[**is]
+A skee made from a hogshead or crockery-cask stave is
 shown in Fig. 12 C, and a great deal of fun can be had with
 this makeshift on short hills.
 
@@ -3830,7 +3829,7 @@ sails with its full force.
 
 <i><sc>Fig 3</sc></i>
 
-A SKATING-SAIL, A SQUARE-RIGGED ICE-SAIL.[**,] AND A SNOWBALL MORTAR]
+A SKATING-SAIL, A SQUARE-RIGGED ICE-SAIL, AND A SNOWBALL MORTAR]
 // 130.png
 .pn +1
 
@@ -3941,7 +3940,7 @@ the yard-arms. Use strong cotton or linen twine for the
 connections between spars and mast and draw them taut
 but not so tight that they would spring the sticks out of shape.
 
-From the ends of each yard-arm strings D D D are
+From the ends of each yard-arm strings D\_D\_D are
 stretched and tied to the mast so as to make an opening
 at the bottom of each sail. In kite-making it is found a
 much better plan to have a number of planes against which
@@ -4095,20 +4094,20 @@ inch square for the long ones and a trifle smaller for the
 shorter ones. The frame as shown in Fig. 10 is seven feet
 long from A to A, and at the middle the balloon is twenty-eight
 inches--that is, from B to B. The middle upright
-stick is four feet long and the end sticks C C that support
-the car are forty-five inches long. The middle upright B B
-is first lashed to the middle of the long stick A A. The
+stick is four feet long and the end sticks C\_C that support
+the car are forty-five inches long. The middle upright B\_B
+is first lashed to the middle of the long stick A\_A. The
 ends of the curved sticks are then brought together and
-lashed to ends A A, and at the same time the unions are
-made with sticks C C. After that the sticks between B
+lashed to ends A\_A, and at the same time the unions are
+made with sticks C\_C. After that the sticks between B
 and C are set in place and securely lashed fast. The long
-sticks D D, forming the top and bottom of the car, are four
+sticks D\_D, forming the top and bottom of the car, are four
 feet and four inches long. One is lashed to the lower ends
 of the three long drop-sticks and ten inches above that the
 top one is made fast.
 
 With thin spring or hard brass wire bind the forms of the
-two occupants of the car and make them fast to sticks D D
+two occupants of the car and make them fast to sticks D\_D
 with string. Then cover the entire balloon and car as well
 // 139.png
 .pn +1
@@ -4140,8 +4139,8 @@ perhaps the bat-wing and crown-top are the most unique.
 The bat-wing (Fig. 11) is made up on a frame composed of
 half-inch square sticks for the longest ones and three-eighths-inch
 square ones for the cross-ribs. The two long sticks (Fig.
-12, AA[**spacing?]) are six feet and six inches, slightly tapered at the ends
-and separated about eight inches. The long uprights B B
+12, AA) are six feet and six inches, slightly tapered at the ends
+and separated about eight inches. The long uprights B\_B
 are four feet and three inches and are separated fifteen inches.
 
 These two sets of sticks are lashed fast where they cross
@@ -4228,11 +4227,11 @@ and yet as stiff as possible.
 The proper construction of the frame is shown in Fig. 15.
 The total width of this kite is thirteen feet and the height
 at the middle is thirty-two inches. First cut the middle
-stick C C thirty-two inches long and lay it on the floor of
+stick C\_C thirty-two inches long and lay it on the floor of
 a barn where a few nails can be driven in temporarily to
 hold the sticks while bending them into the proper shapes.
-Cut sticks D D, E E, and F F, and place them on the floor
-either side of the middle one. The long, straight stick A A
+Cut sticks D\_D, E\_E, and F\_F, and place them on the floor
+either side of the middle one. The long, straight stick A\_A
 is twelve feet in length, of half-inch basswood or pine, and
 slightly tapered with a plane at both ends. Lash this to
 each of the cross-sticks, then with a long stick bend the
@@ -4257,7 +4256,7 @@ and top sticks should be half an inch thick for strength.
 // 144.png
 .pn +1
 Draw cross-strings from the top and lower ends of sticks
-D D, as shown in Fig. 15, to act as braces; then cover the
+D\_D, as shown in Fig. 15, to act as braces; then cover the
 frame with thin, strong paper or muslin, sewing it fast to
 the ribs with linen thread. The construction of the yoke
 is clearly shown in Fig. 16.
@@ -4278,17 +4277,17 @@ and powerful kites.
 The construction of the box kite is shown in Fig. 17,
 where the oblong measures thirty-six inches high and twenty-four
 inches wide. These oblongs are held apart at the top
-and bottom by sticks A A which measure twelve inches in
+and bottom by sticks A\_A which measure twelve inches in
 length. At the middle of the framework the corner sticks
-B B are braced with two cross-sticks C, which are notched
-at the ends, so that the inside corners of the sticks B B will
+B\_B are braced with two cross-sticks C, which are notched
+at the ends, so that the inside corners of the sticks B\_B will
 fit snugly and can be securely held with a slim steel-wire
 nail. This frame is made of light pine sticks about three-eighths
 or half an inch square.
 
 Eight inches below the top of the frame tie a cord, and
 nine inches below this tie another one to the front upright
-sticks as shown at D D. Cover the front, sides, and back
+sticks as shown at D\_D. Cover the front, sides, and back
 // 145.png
 .pn +1
 *[Illustration: <i><sc>Fig 17</sc></i>]
@@ -4301,7 +4300,7 @@ sticks as shown at D D. Cover the front, sides, and back
 
 of the frame with strong, thin Manila paper or light, closely
 woven muslin, having the top and bottom open, also the
-space at the front between the strings D D. A yoke caught
+space at the front between the strings D\_D. A yoke caught
 at the top corner of the box, as shown in Fig. 18, will be
 sufficient in a light breeze, but for a strong wind add another
 // 146.png
@@ -4312,11 +4311,11 @@ this will steady the flying-box and prevent its pitching.
 The "paralleloplane" is another powerful kite which is
 easily constructed according to the plan shown in Fig. 19.
 The front frame is thirty-six inches high and twenty-four
-inches wide and braced with cross-sticks H H. The rear
+inches wide and braced with cross-sticks H\_H. The rear
 frame is forty-four inches long and fifteen inches wide and
 is held in place ten inches behind the large frame with sticks
-I I. Strings are tied to the top and bottom cross-sticks of
-the large frame, and eight inches apart, as shown at J J, to
+I\_I. Strings are tied to the top and bottom cross-sticks of
+the large frame, and eight inches apart, as shown at J\_J, to
 which one end of the paper or muslin is made fast. Fig. 20
 will show the three fields covered with cloth or paper, and
 when the paralleloplane is in the air the space between
@@ -4365,10 +4364,10 @@ shown in Fig. 23, and like the box kite the frame is made of
 half-inch pine sticks. The front frame is forty inches high
 and twenty-four inches wide, and the rear one two inches
 longer but the same width. The frames are attached at the
-top but held apart at the bottom by the sticks E E, which
+top but held apart at the bottom by the sticks E\_E, which
 are eighteen inches long. Twelve inches below the top a
 cross-stick F is attached, and from the side-sticks down to
-the centre of the bottom cross-stick the sticks G G are made
+the centre of the bottom cross-stick the sticks G\_G are made
 fast. Strings may be substituted for these sticks but they
 will not brace the framework so well. Diagonally across
 the back frame and at the bottom strings are made fast to
@@ -4466,7 +4465,7 @@ Fig. 28 A and B.
 
 Two good, broad barrel-hoops are selected and cut so that
 they will measure eighteen inches on the segment or twelve
-inches across the line A A in Fig. 29. Two out-riggers B B
+inches across the line A\_A in Fig. 29. Two out-riggers B\_B
 are cut from pine or white-wood ten inches long, two inches
 wide, and three-quarters of an inch thick; these are bevelled
 at the end towards the hoop, where they are made fast with
@@ -4476,8 +4475,8 @@ binder-piece D is fastened with screws.
 
 The reel should be made first and clamped in place when
 the frame is put together. The lower hoop is made fast to
-the short upright pieces C C, shown in Fig. 30, and braced
-to the main out-riggers B B with bracket-strips. All the
+the short upright pieces C\_C, shown in Fig. 30, and braced
+to the main out-riggers B\_B with bracket-strips. All the
 unions are made with screws or long copper rivets securely
 // 152.png
 .pn +1
@@ -4496,7 +4495,7 @@ end is beaten and riveted.
 
 <i><sc>Fig 29</sc></i>
 
-<i><sc>Fig 27</sc></i>][**handwritten]
+<i><sc>Fig 27</sc></i>]
 
 Near the hoop-ends holes are to be made with a bit
 through which stout cotton line can be passed and made
@@ -4818,7 +4817,7 @@ biting. Choose one that is slender in shape and not large.
 A dry stick makes a good enough extemporaneous float, and
 if fish are shy may be better than a more showy one.
 
-For sinkers split shot B B[**BB?] size and buckshot or strips of
+For sinkers split shot B\_B size and buckshot or strips of
 thin lead, such as comes from tea-chests, wound around the
 line are as good as any and very easily gotten.
 
@@ -5131,22 +5130,22 @@ at short notice and at small expense.
 
 Fig. 7 is an end-section of a mosquito-net seine for taking
 live bait. The length of the seine is thirty-eight feet, depth
-five feet. The "cork-line" A A consists of a small-sized
+five feet. The "cork-line" A\_A consists of a small-sized
 clothes-line. Corks not always being obtainable, I have used
 pieces of thoroughly seasoned white pine three inches in
-length and one inch in diameter (C C C). Through these
+length and one inch in diameter (C\_C\_C). Through these
 rounded pieces of wood holes are bored through which the
 clothes-line passes. These floats are placed eight inches
 apart and are kept in position by the clothes-line fitting
 tightly in the holes. At the bottom of the seine another
-clothes-line is sewed to the netting (B B). This is called the
+clothes-line is sewed to the netting (B\_B). This is called the
 "lead line" and is for the purpose of keeping the lower part
 of the seine close to the bottom of the water. In the lead
 line pieces of sheet-lead one inch in length are fastened
-(H H H) twenty-eight inches apart. The "staff" D is a
+(H\_H\_H) twenty-eight inches apart. The "staff" D is a
 well-seasoned piece of hickory six feet long, to the lower end
 of which sheet-lead is also fastened at E to keep it down.
-To the staff is attached the staff line F F F, thirty feet long,
+To the staff is attached the staff line F\_F\_F, thirty feet long,
 which is for the purpose of drawing in the seine after it has
 been cast.
 
@@ -5651,7 +5650,7 @@ free from knots.   They should be two-by-four inches and
 .pn +1
 twelve feet long. Cut one of them eight feet long and use
 it for the main cross-piece to which the front wheels are
-attached. Form a V of two twelve-foot joist[**s], and fasten
+attached. Form a V of two twelve-foot joists, and fasten
 them to the cross-piece as shown in Fig. 2.   About ten
 inches of each piece should project beyond the cross-piece.
 The timbers are bolted fast and at the rear end they are
@@ -6021,7 +6020,7 @@ Every boy is interested in fire-engines and fires, and
 in the absence of the real thing there is a great deal of
 fun to be had in playing fire. The regular steam apparatus
 is rather beyond a boy's constructive ability, but the engine
-shown in the illustration (Fig[**.] 1) can easily be made from an
+shown in the illustration (Fig. 1) can easily be made from an
 oil or pork barrel, a keg, a pump, and a set of old wagon
 wheels. A box may be used for the seat and a small force-pump
 may be had at a hardware store for a nominal sum.
@@ -6037,7 +6036,7 @@ pieces are securely attached with stout screws to the barrel
 so that a foot of each rail will extend beyond the rear of the
 barrel. At both ends a rail corresponding in width and
 thickness is cut and fitted between the ends of the rails as
-shown at A A. These are to be held in position with long,
+shown at A\_A. These are to be held in position with long,
 // 204.png
 .pn +1
 steel-wire nails or with screws, which always make the best
@@ -6051,7 +6050,7 @@ and most secure joints.
 
 To prevent the side-rails from spreading, a cross-rib should
 be made fast to the under side of the side-rails about at the
-middle as shown at B B. This is a precaution taken to
+middle as shown at B\_B. This is a precaution taken to
 prevent the rails spreading and letting the heavy barrel full
 of water drop.   In addition to the screws that are driven
 // 205.png
@@ -6067,7 +6066,7 @@ an inch thick, and built up so that the angle stands fifteen
 inches above the top of the side-rails as shown at D. These
 trusses are securely bound at the angle with screws or clinch-nails,
 then screwed fast to the inside of the rails as shown at
-E E. Cut a short piece of board and nail it fast between
+E\_E. Cut a short piece of board and nail it fast between
 these truss-knees to act as a platform on which to stand the
 keg. Another small platform can be made between the
 truss and barrel on one or both sides of the apparatus to
@@ -6076,7 +6075,7 @@ top of the barrel is cut from an old stove-pipe and is shaped
 as shown in Fig. 1. With a tin-shears or snips the ears are
 cut at top and bottom. Those at the top are pointed and
 give a crown effect, but if the plain-rim top is preferred do
-not cut the pipe[**.] At the bottom, slits are cut in the pipe
+not cut the pipe. At the bottom, slits are cut in the pipe
 two inches in from the edge, about three-quarters of an inch
 apart, and with a flat-nosed pliers the ears are bent out so
 that they will lie flat on the barrel-top when the smoke-pipe
@@ -6817,11 +6816,11 @@ more water than a wide, flat-bottomed sharpy.
 A boy can make a dory from twelve to sixteen feet long,
 but a fourteen-foot dory will be quite large enough to hold
 from four to six boys comfortably and safely.   The sides
-should be twenty-four inches high and the bottom twenty[** - invisible?]
-four inches across amidships.
+should be twenty-four inches high and the bottom twenty-four 
+inches across amidships.
 
 The bottom is made from four six-inch planks battened
-across as shown in Fig. 12.   The joints are leaded before
+across as shown in Fig. 12. The joints are leaded before
 the boards are brought together, and the fastenings are of
 galvanized nails clinched at the inside. The battens, of
 course, are on the inside, but the nail-heads are on the outside
@@ -7653,8 +7652,8 @@ body of the boat is ten feet long and eight feet wide, and the
 bowsprit projects out six feet beyond the timber A in Fig. 2.
 
 The frame is made of clear spruce timbers six inches wide
-and two inches thick. The timber A is eight feet long, B B
-are eleven feet long, C is five feet long, and D D are each
+and two inches thick. The timber A is eight feet long, B\_B
+are eleven feet long, C is five feet long, and D\_D are each
 three feet long.
 // 262.png
 .pn +1
@@ -7662,7 +7661,7 @@ three feet long.
 At the front corners and at the back the timbers are bevelled,
 as shown in the plan drawing, and they are joined with
 long bolts as indicated by the dotted lines. Timbers C and
-D D are set in place and securely fastened with long, steel-wire
+D\_D are set in place and securely fastened with long, steel-wire
 spikes. The bowsprit E is mounted against timber C
 and laid over timber A, to which it is bolted fast. A half-inch
 iron pin is driven in the butt end of the bowsprit, and
@@ -7677,18 +7676,18 @@ and the side ones the bobstay cables that run to the
 // 263.png
 .pn +1
 corners of the boat, where they are drawn taut with turn-buckles.
-The shoe-blocks F F are twenty-four inches long
+The shoe-blocks F\_F are twenty-four inches long
 and three inches square, and are bolted to the timbers A and
 B as shown.
 
 At the stern a triangular block is mounted between the
-ends of the timbers B B, through which the rudder-post will
+ends of the timbers B\_B, through which the rudder-post will
 pass. The decking planks G are then attached to the frame
 with screws or steel nails.
 
 The mast-step is made by attaching two twelve-inch
 pieces of plank eighteen inches long and an inch and a quarter
-thick to the inside sides of timbers D D. Across the top
+thick to the inside sides of timbers D\_D. Across the top
 of them attach another plank, and in the middle of it cut a
 hole three inches and a half in diameter, or large enough to
 receive the mast. In the bowsprit, directly under the large
@@ -7706,7 +7705,7 @@ up at the front, as shown in Fig. 3 A, and bevelled at the bottom
 so as to form a gripping or cutting edge. When mounted
 the lower edge is at the outside of the boat. Shanks with
 bolt-tops and collars pass through the holes made in the
-shoe-blocks F F, and are securely held with nuts screwed
+shoe-blocks F\_F, and are securely held with nuts screwed
 down on washers so as not to cut the wood.
 // 264.png
 .pn +1
@@ -7752,11 +7751,11 @@ A Twin-mast Ice-boat
 
 The twin-mast ice-boat shown in Fig. 4 is the same size
 as the other one, and built in the same manner except that
-timbers D D in Fig. 2 are omitted and a smaller deck is laid
+timbers D\_D in Fig. 2 are omitted and a smaller deck is laid
 at the stern.
 
 One foot back from the corners three-inch masts are
-stepped in holes made in timbers B B to receive half-inch
+stepped in holes made in timbers B\_B to receive half-inch
 iron pins driven in the foot of the masts. The sticks are
 eleven feet long and lashed together at the top or bolted
 with several long, thin bolts as shown in the illustration.
@@ -7808,7 +7807,7 @@ The model and descriptions of a centre-board sharpy may
 be taken for the construction of the boat, except that there
 is no stem or bow-post and the bottom rounds up the same
 as the side boards curve in. The bow is therefore nearly a
-point. This construction is shown in Fig. 6 (page 252)[**page??],
+point. This construction is shown in Fig. 6 (page 252),
 which is a view of the sides and bottom only, the deck
 planking being fastened down afterwards.
 
@@ -7824,7 +7823,7 @@ from four to five feet wide across the widest part. It is
 .pn +1
 fifteen inches deep, and is provided with a centre-board
 and trunk the same as described for the sailing sharpy on
-page 221. [** page?]
+page 221.
 
 [Illustration: <i><sc>Fig 5</sc></i>]
 
@@ -7852,9 +7851,9 @@ inches long and shaped so that the front part will bolt
 fast to the outside of the scooter sides and the rear ends will
 lie against the bottom of the boat where they can be bolted
 fast. The shape of these shoes is shown in Fig. 7 A (page
-252)[** page reference?], and any blacksmith will make them for you at a
+252), and any blacksmith will make them for you at a
 nominal cost. The rudder is of stout sheet-iron mounted
-in the end of a shank as shown at Fig. 7 B (page 252)[** page reference?]. Its
+in the end of a shank as shown at Fig. 7 B (page 252). Its
 fan-tail permits it to swing the boat in the water and its
 lower edge will guide it on the ice.
 
@@ -8031,7 +8030,7 @@ A HOUSE-PUNT]
 joint swells forcing out the wood against the lamp-wick and
 making a water-tight joint. The edges of the wood and the
 wicking must be well smeared with white-lead in order to
-properly calk[** caulk ??] the joint.
+properly calk the joint.
 
 Between the middle rib and each side an inner keel should
 be arranged so that each plank can be nailed fast to it. This
@@ -8047,7 +8046,7 @@ sheathing, and to brace them from underneath, in the space
 between the middle rib and the sides, two-by-three-inch
 spruce rails are propped on short sticks which are nailed to
 the inner keel and to the rails as shown at Fig. 5. These
-under props[** under-props ??] should be arranged about eighteen inches apart,
+under props should be arranged about eighteen inches apart,
 the entire length of the punt. Groove the upper edges of
 the end and side planks with the iron, then lay the lamp-wicking
 in, lead, and nail down the planking, taking care to
@@ -8754,7 +8753,7 @@ shown in Fig. 14. It is a very beautiful knot when nicely
 made, and as a fancy knot is common on yachts and naval
 vessels.
 
-<sc>Matthew Walker Knot</sc> (Fig[**.] 15).--As its name implies,
+<sc>Matthew Walker Knot</sc> (Fig. 15).--As its name implies,
 this knot is named after the man who invented it. It is
 exceedingly simple and easy to make, and is in common use
 on board of all vessels. Unlay the strands for a short distance,
@@ -9040,7 +9039,7 @@ out beyond the front, where it is to be held fast with stakes
 and stanchion-ropes.
 
 The plan shown in Fig. 2 gives the dimensions of canvas,
-and when the final sewing is done the edges C C at both
+and when the final sewing is done the edges C\_C at both
 ends of the tent are brought together and securely overcast
 with stout waxed cord.
 
@@ -9087,7 +9086,7 @@ A TENT OF MEDIUM SIZE]
 will be borne by the rope instead of all the strain coming on
 the canvas.
 
-On the dotted lines D D in the plan, which indicates the
+On the dotted lines D\_D in the plan, which indicates the
 inner edges of the aprons, one-inch harness-rings are to be
 sewed on the straps, through which to reave the guy and
 stanchion ropes. There should be four straps to this tent,
@@ -9100,7 +9099,7 @@ the plan in Fig. 2.
 If a closed end is preferred instead of the flaps at the
 rear of the tent, a back, in one piece, as shown in Fig. 3, can
 be made and sewed all around the edges, bringing the edges
-A A against the edge B, and joining the vertical edges C C
+A\_A against the edge B, and joining the vertical edges C\_C
 to the ends of the side aprons on the main sheet.
 
 For ventilation, a flap opening may be made at the top
@@ -9239,7 +9238,7 @@ avert a catastrophe with a tent, and when erecting one do
 not trust anything to luck, but snug your tent and keep
 ropes taut.
 
-If it is possible to get some boards and a few joist[**s], it
+If it is possible to get some boards and a few joist, it
 would be well to make a flooring, if you are to stay in one
 place for any length of time.
 // 315.png
@@ -9752,8 +9751,8 @@ shawl-strap to carry it easily.
 .pn +1
 
 A piece of denim a yard wide and forty-two inches long
-is folded at the dotted lines A A as shown in the plan (Fig.
-31). The edges will then reach the lines B B. Sew the flaps
+is folded at the dotted lines A\_A as shown in the plan (Fig.
+31). The edges will then reach the lines B\_B. Sew the flaps
 at the two ends and divide the long pockets into smaller
 ones as shown in Fig. 30. Knives, forks, spoons, and a
 variety of small things can be kept in this nest of pockets,
@@ -10429,7 +10428,7 @@ stick across. Cut a half-inch straight stick and lay it on
 top of the bed, lashing one end loosely to the stake, leaving the
 other end free to rise and fall. This is the trigger. Now for
 the "crooked stick." It is a stick as long as from the bed
-to the cross-piece, and has a sudden bend at the upper end[** .]
+to the cross-piece, and has a sudden bend at the upper end.
 Often one can find a small sapling an inch through with just
 the right bend at the end. Notch it as shown in Fig. 8.
 Tie a stout cord or withe around the fall, raise the same nine
@@ -10482,6 +10481,7 @@ it. This same trap, baited with a fowl's head or a bird or
 meat, is also useful as a skunk-trap, being placed in the
 woods near their burrows.
 
+.ma Π n
 The mink is another common animal, and it is found by
 almost every brook-side. It is a great traveller, following
 the stream, feeding upon fish, and picking up a bird or mouse
@@ -10498,7 +10498,7 @@ is soft two stakes (Fig. 10) should be driven in front instead
 of one. A stick a foot long will serve equally well
 for the bed-piece. Then a pen or house is built of stakes, or
 long chips, or stones, or pieces of board in the form of a V
-or [**symbol][**unsure?], about nine inches tall, eight inches deep, and six
+or Π, about nine inches tall, eight inches deep, and six
 inches wide. Then two sticks are prepared--one three inches
 long and half an inch thick, called the "standard" (Fig.
 12), the other eight inches long, and of the same thickness,
@@ -10732,13 +10732,13 @@ to lend additional support to the cross-timbers.
 
 Cut two timbers six feet long and two others the length
 of the distance between tree-trunks. In the six-foot pieces
-cut notches at the under side as shown in Fig. 2 C C. Into
-these the ends of bracket-timbers D D will fit. Cut the
+cut notches at the under side as shown in Fig. 2 C\_C. Into
+these the ends of bracket-timbers D\_D will fit. Cut the
 ends of the timbers forming the square frame so that they
 will dovetail as shown in Fig. 3. Spike the six-foot timbers
 to the tree-trunks so that they will rest on the first two
 timbers that were nailed to the trees, and from the two-by-eight-inch
-wood cut four brackets D D, and spike them
+wood cut four brackets D\_D, and spike them
 // 364.png
 .pn +1
 fast under each cross-timber so each tree will appear as
@@ -10763,16 +10763,16 @@ where they are supported by the fifteen-inch blocks
 nailed fast below them. The cross-timbers are shown at
 // 365.png
 .pn +1
-A A, and the last ones, forming the frame that are let into
-dove-tailed joints at the ends, are shown at B B. Cut two
-more timbers E E, and lay them across the supporting
+A\_A, and the last ones, forming the frame that are let into
+dove-tailed joints at the ends, are shown at B\_B. Cut two
+more timbers E\_E, and lay them across the supporting
 timbers, nailed to the tree, so they will fit inside the front
-and back timbers B B, where they are to be well secured
+and back timbers B\_B, where they are to be well secured
 with long nails. The floor frame will then be complete.
 
 From two-by-three-inch spruce construct a frame seven
 feet high at the front, six feet at the back, and spike the
-side timbers F F, forming the top, to the inside of the tree-trunks
+side timbers F\_F, forming the top, to the inside of the tree-trunks
 as shown in Fig. 5. The bottom of the uprights are
 to be mounted on the corners of the floor frame as shown in
 Fig. 4, where four long nails will hold them securely in place.
@@ -10872,13 +10872,13 @@ front the frame is carried forward two feet more than at the
 back, allowing this much for the width of the deck. The
 uprights are arranged somewhat differently also, as they are
 bound at the top to scantlings that butt into the trunks.
-Fig. 8 A A.
+Fig. 8 A\_A.
 
 Instead of a flat roof like the low hut, this one is to have
 // 369.png
 .pn +1
 a pitched roof, the supporting timbers of which are attached
-to the ridge-poles B B, which are fastened to the tree-trunks
+to the ridge-poles B\_B, which are fastened to the tree-trunks
 in the same manner as the under cross-timbers. This construction
 is clearly shown in Fig. 8, where the location of
 each upright and cross-piece is indicated.
@@ -10888,12 +10888,12 @@ is fastened at the top of four uprights of two-by-three-inch
 spruce, the lower ends of which are securely nailed to the
 front stringers as the illustration shows.
 
-In place of the supporting brackets D D that are let into
+In place of the supporting brackets D\_D that are let into
 the timber C at Fig. 2, longer brackets or props are caught
 under the floor timbers and braced at the lower end against
 the trunks, where an additional anchorage or support is
 made by a stout block which is securely spiked to the trunk
-underneath each bracket end as shown in Fig. 8 C C. The
+underneath each bracket end as shown in Fig. 8 C\_C. The
 frame is then enclosed as described for the low hut, and
 windows and a door are mounted as shown.
 
@@ -10923,15 +10923,13 @@ pegs and down again, where a wrap is taken over one or two
 rungs; then it is lashed fast to the other ropes with the stout
 line as shown in Fig. 10.
 
-[Illustration: <i><sc>Fig 9</sc></i>]
+[Illustration: <i><sc>Fig. 9</sc></i>]
 
-[Illustration: <i><sc>Fig 10</sc></i>]
+[Illustration: <i><sc>Fig. 10</sc></i>]
 
-[Illustration: <i><sc>Fig[**.] 8</sc></i>]
+[Illustration: <i><sc>Fig. 8</sc></i>]
 
-[Illustration: <i><sc>Fig[**.] 12</sc></i>]
-
-[**Fig. 11 is the frontispiece]
+[Illustration: <i><sc>Fig. 12</sc></i>]
 
 Bunks and furniture can be made for the interior, and
 any other convenient accessories to the comfort and pleasure
@@ -11270,7 +11268,7 @@ of the plait.
 
 [Illustration: <i>Fig- 4</i>]
 
-[Illustration: <i>Fig- 5.[**no . in other captions F2]</i>]
+[Illustration: <i>Fig- 5</i>]
 
 [Illustration: <i>Fig- 6</i>]
 
@@ -11317,7 +11315,7 @@ Straight sticks of sapling oak are not always easily obtained,
 but copse-wood sticks pulled from the trunks of trees form
 excellent substitutes. These should be selected for walking-sticks
 that taper from one inch below the knob or crutch to
-one inch[**half-inch?] at the ferrule end. Oak sticks split in drying when
+one inch at the ferrule end. Oak sticks split in drying when
 the bark has been stripped off or the knobs and branches
 cut too close, or when the sticks are dried too rapidly in a
 very dry place. They are then rendered useless for walking-sticks
@@ -11590,14 +11588,13 @@ Camps and camping, 295-333;
   the new tent, 307-310;
   canvas cots and hammocks, 310-313;
   tables and benches, 301, 313-315;
-  camping equipment,
+  camping equipment, 316, 317, 318;
 */
 // 390.png
 .pn +1
 /*
-316.[**sic .//, F2] 317, 318;[**F1: these numbers should go to previous page ?]
   lockers and mess-kits, 316-319;
-  a stone stove.[** unclear ,] 319, 320;
+  a stone stove, 319, 320;
   camp-fires, 320, 321, 322;
   camp-cooking, 323, 325-330;
   care of a gun, 330-333.
@@ -11669,7 +11666,7 @@ Diagrams, showing splices, 281;
 
 Diamond knot, the, 285, 286.
 
-Dog-kennels, 36-39[**no . ]
+Dog-kennels, 36-39.
 
 Dory, a, how to make, 219-221.
 
@@ -11800,7 +11797,7 @@ Ice-boats, 249-260;
   a sloop-rigged ice-yacht, 249-253;
   a twin-mast ice-yacht, 253, 254;
   scoots and scooters, 255-259;
-  a wind-runner, 259, 260.[**obscured]
+  a wind-runner, 259, 260.
 
 Ice-sail, a square-rigged, 118.
 
@@ -11820,7 +11817,7 @@ Kites: the ship, 120-122;
   bat-wing, 128;
   crown-top, <i>ibid.</i>;
   Sandwich Island bird, 129-131;
-  box, 132.[** ,] 133;
+  box, 132, 133;
   the "paralleloplane," 134, 135;
   the flying-wedge, 135-138;
   the double-plane, <i>ibid.</i>;
@@ -12168,7 +12165,7 @@ Water-turtles, a trap for, 171, 172.
 Water-wheels: different kinds, 201;
   the modern turbine, 202;
   a simple paddle-wheel, 202, 203;
-  a wagon wheel, 203;[**,] 204;
+  a wagon wheel, 203, 204;
   a barrel-wheel, 204, 205;
   an undershot-wheel, 206;
   a power-wheel, 206, 207, 208.
@@ -12203,7 +12200,7 @@ Wind-speeder, a, 62, 63.
 
 Wind turbine, a, 71-73.
 
-Woodchucks, how to trap, 346[**.]
+Woodchucks, how to trap, 346.
 
 Wooden weather-vanes, 63, 65, 66.
 

@@ -1,2 +1,7 @@
-Silently corrected obvious typographical and punctuation errors.
+Silently corrected obvious punctuation errors.
 
+Corrected obvious spelling errors. Spelling and hyphenation have been made consistent.
+
+Pg. 10 earthern-ware changed to earthen-ware
+Pg. 40 "mi way" changed to midway
+Pg. 178 joist changed to joists
