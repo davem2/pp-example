@@ -63,7 +63,7 @@ HARPER & BROTHERS, NEW YORK
 [See p. 359
 */
 
-FIG. 11--A SINGLE-TREE HUT]
+FIG. 11—A SINGLE-TREE HUT]
 // 005.png
 .pn +1
 
@@ -117,7 +117,7 @@ IN BOUNDS
 
       PAGE
 
-CHAPTER I.--BACK-YARD PLEASURES      3
+CHAPTER I.—BACK-YARD PLEASURES      3
 
 <sc>A Wigwam</sc>
 <sc>A Square Tepee</sc>
@@ -127,7 +127,7 @@ CHAPTER I.--BACK-YARD PLEASURES      3
 <sc>How to Manage an Aquarium</sc>
 <sc>A Merry-go-round</sc>
 
-CHAPTER II.--PET SHELTERS         29
+CHAPTER II.—PET SHELTERS         29
 
 <sc>Martin Boxes</sc>
 <sc>Bird Shelters</sc>
@@ -139,7 +139,7 @@ CHAPTER II.--PET SHELTERS         29
 <sc>Squirrel Cages</sc>
 <sc>Reptile Pens</sc>
 
-CHAPTER III.--SUMMER-HOUSES AND PERGOLAS      52
+CHAPTER III.—SUMMER-HOUSES AND PERGOLAS      52
 
 <sc>A Simple Summer-house</sc>
 <sc>A Back-yard Pergola</sc>
@@ -148,7 +148,7 @@ CHAPTER III.--SUMMER-HOUSES AND PERGOLAS      52
 <sc>A Circular Pergola</sc>
 <sc>A Summer Shelter</sc>
 
-CHAPTER IV.--WEATHER-VANES AND WINDMILLS      59
+CHAPTER IV.—WEATHER-VANES AND WINDMILLS      59
 
 <sc>A Pinion-wheel Weather-vane</sc>
 <sc>A Wind-speeder</sc>
@@ -166,7 +166,7 @@ CHAPTER IV.--WEATHER-VANES AND WINDMILLS      59
 .pn +1
 
 /*
-CHAPTER V.--AËRIAL TOYS       81
+CHAPTER V.—AËRIAL TOYS       81
 
 <sc>The Elastic Flying-machine</sc>
 <sc>Self-acting Aërial Car</sc>
@@ -178,7 +178,7 @@ Part II
 
 AFIELD
 
-CHAPTER VI.--COASTERS, SKEES, AND SNOW-SHOES       101
+CHAPTER VI.—COASTERS, SKEES, AND SNOW-SHOES       101
 
 <sc>Toboggans</sc>
 <sc>A Rocker-coaster</sc>
@@ -187,13 +187,13 @@ CHAPTER VI.--COASTERS, SKEES, AND SNOW-SHOES       101
 <sc>Skees</sc>
 <sc>Snow-shoes</sc>
 
-CHAPTER VII.--SAIL-SKATING AND SNOWBALL ARTILLERY       115
+CHAPTER VII.—SAIL-SKATING AND SNOWBALL ARTILLERY       115
 
 <sc>A Skating-sail</sc>
 <sc>A Square-rigged Ice-sail</sc>
 <sc>A Snowball Mortar</sc>
 
-CHAPTER VIII.--KITES AND AEROPLANES      120
+CHAPTER VIII.—KITES AND AEROPLANES      120
 
 <sc>The Ship Kite</sc>
 <sc>The Chinese-junk Kite</sc>
@@ -206,7 +206,7 @@ CHAPTER VIII.--KITES AND AEROPLANES      120
 <sc>The Flying-wedge and Double-plane Kite</sc>
 <sc>Kite-reels</sc>
 
-CHAPTER IX.--FISHING-TACKLE       144
+CHAPTER IX.—FISHING-TACKLE       144
 
 <sc>Choice of Tackle</sc>
 <sc>Bait-rods and Fly-rods</sc>
@@ -223,19 +223,19 @@ CHAPTER IX.--FISHING-TACKLE       144
 .pn +1
 
 /*
-CHAPTER X.--LAND-YACHTS AND PUSHMOBILES       177
+CHAPTER X.—LAND-YACHTS AND PUSHMOBILES       177
 
 <sc>A Land-yacht</sc>
 <sc>A Sail-wagon</sc>
 <sc>A Pushmobile</sc>
 
-CHAPTER XI.--FIRE-ENGINES AND TRUCKS       191
+CHAPTER XI.—FIRE-ENGINES AND TRUCKS       191
 
 <sc>The Engine</sc>
 <sc>The Hose-carriage</sc>
 <sc>The Hook-and-Ladder Truck</sc>
 
-CHAPTER XII.--WATER-WHEELS       201
+CHAPTER XII.—WATER-WHEELS       201
 
 <sc>A Simple Paddle-wheel</sc>
 <sc>A Wagon Wheel</sc>
@@ -249,7 +249,7 @@ Part III
 
 AFLOAT
 
-CHAPTER XIII.--BOATS       211
+CHAPTER XIII.—BOATS       211
 
 <sc>Punt and Scow</sc>
 <sc>A Sharpy</sc>
@@ -260,20 +260,20 @@ CHAPTER XIII.--BOATS       211
 <sc>A Lark</sc>
 <sc>A Power-boat</sc>
 
-CHAPTER XIV.--CATAMARANS       239
+CHAPTER XIV.—CATAMARANS       239
 
 <sc>A Rowing Catamaran</sc>
 <sc>A Sailing Catamaran</sc>
 <sc>A Side-wheel Catamaran</sc>
 
-CHAPTER XV.--ICE-BOATS       249
+CHAPTER XV.—ICE-BOATS       249
 
 <sc>A Sloop-rigged Ice-yacht</sc>
 <sc>A Twin-mast Ice-boat</sc>
 <sc>Scoots and Scooters</sc>
 <sc>A Wind-runner</sc>
 
-CHAPTER XVI.--HOUSE-BOATS AND RAFTS       261
+CHAPTER XVI.—HOUSE-BOATS AND RAFTS       261
 
 <sc>A House-punt</sc>
 <sc>A House-raft</sc>
@@ -283,7 +283,7 @@ CHAPTER XVI.--HOUSE-BOATS AND RAFTS       261
 .pn +1
 
 /*
-CHAPTER XVII.--MARLINE-SPIKE SEAMANSHIP        280
+CHAPTER XVII.—MARLINE-SPIKE SEAMANSHIP        280
 
 <sc>Splices</sc>
 <sc>Knots</sc>
@@ -295,7 +295,7 @@ Part IV
 
 IN THE WOODS
 
-CHAPTER XVIII.--CAMPS AND CAMPING       295
+CHAPTER XVIII.—CAMPS AND CAMPING       295
 
 <sc>A Tent of Medium Size</sc>
 <sc>A Large Camping-tent</sc>
@@ -310,11 +310,11 @@ CHAPTER XVIII.--CAMPS AND CAMPING       295
 <sc>Camp-cooking</sc>
 <sc>The Care of a Gun</sc>
 
-CHAPTER XIX.--TRAPS AND TRAPPING       334
+CHAPTER XIX.—TRAPS AND TRAPPING       334
 
 <sc>Snares and Deadfalls</sc>
 
-CHAPTER XX.--TREE HUTS AND BRUSH-HOUSES       350
+CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES       350
 
 <sc>A Low Twin-tree Hut</sc>
 <sc>A High Twin-tree Hut</sc>
@@ -323,7 +323,7 @@ CHAPTER XX.--TREE HUTS AND BRUSH-HOUSES       350
 <sc>A Brush-house</sc>
 <sc>A Brush "Lean-to"</sc>
 
-CHAPTER XXI.--WALKING-STICKS       367
+CHAPTER XXI.—WALKING-STICKS       367
 
 <sc>How to Grow Them for Pleasure and Profit</sc>
 */
@@ -357,7 +357,7 @@ help a boy to think and act for himself and to have fun in
 doing it.
 
 The plan of arrangement which is followed is the natural
-one--to begin at home. The back yard lies immediately
+one—to begin at home. The back yard lies immediately
 at hand. Let us see what can be done there. The aquarium,
 pet shelters, windmills, and many other contrivances
 are identified with the home.
@@ -2940,7 +2940,7 @@ and make two small guiding vanes or rudders. These are
 made in a similar manner to the wings. Tie threads to the
 lower corners of the wings, and then to the triangle, drawing
 them down until they have the proper angle. The guiding-vanes
-should have a greater angle than the wings--that is,
+should have a greater angle than the wings—that is,
 they should be drawn farther down.
 
 It only remains now to make the screw and attach the
@@ -2966,12 +2966,12 @@ a small strip of the thin Japanese paper before referred to.
 When this is dry, cut it down to the proper shape and
 sharpen the end of the spoke. Force these spokes into the
 cork so that all the blades will turn the same way, as shown
-in the picture--<i>i. e.</i>, so that when the screw is turned the
+in the picture—<i>i. e.</i>, so that when the screw is turned the
 blades will all strike the air in the same manner and tend to
 force the machine forward, not so that some try to push it
 forward and some backward.
 
-Select a rubber band of the proper size--such a one as will
+Select a rubber band of the proper size—such a one as will
 stretch the length of the backbone easily and not be so
 strong that, when stretched, the backbone is bent into a
 bow. Tie this band to the forward support with a string,
@@ -2989,7 +2989,7 @@ before the thing moves properly.
 
 A contrivance of this sort should be very light. The one
 before me has wings two feet from tip to tip, and it weighs
-when complete--backbone, wings, rubber, screw, etc.--only
+when complete—backbone, wings, rubber, screw, etc.—only
 one-third of an ounce.
 
 
@@ -3023,7 +3023,7 @@ the top of these uprights securely fastened gives additional
 strength. The balancing-bar is made of three-eighths by
 three-eighths inch pine, tapering at the lower end, and is ten
 inches in length, and fastened to the carriage by two strips
-of wood--five by one-quarter by one-eighth inch. The
+of wood—five by one-quarter by one-eighth inch. The
 wheels are formed as follows: Take a piece of one-eighth
 inch pine, which should be at least three inches wide. On
 this place a strip of wood, we will say, for instance, ten by
@@ -3093,7 +3093,7 @@ in the centre for the sail to pass through the carriage. The
 parachute is a small Chinese umbrella (pick out one that
 opens easily), and can be bought for a few cents. A small
 weight is attached to the handle with a few feet of cord.
-We will say that now you have completed the machine--you
+We will say that now you have completed the machine—you
 have a kite flying; run the string through the two
 guiders, place the two wheels of the carriage upon the kite-string,
 set the sail perpendicular, and fasten the catch with
@@ -3185,11 +3185,11 @@ wheel two inches in diameter placed between them. They
 are joined by clinched pins, shown by the circle of dots in
 Fig. 8.
 
-The dimensions of the sail are as follows: Main-sail--hoist,
+The dimensions of the sail are as follows: Main-sail—hoist,
 ten and one-half inches; gaff, eight and one-half
 inches; leech, nineteen and one-quarter inches; boom,
-fourteen and one-half inches. Jib--foot, eleven inches;
-hoist, sixteen inches--on the stay, twenty and one-quarter
+fourteen and one-half inches. Jib—foot, eleven inches;
+hoist, sixteen inches—on the stay, twenty and one-quarter
 inches. The jib carries a boom, and the main-sail a gaff
 and boom. The material used for the sails is light muslin
 with hemmed edges.
@@ -3332,7 +3332,7 @@ COASTERS, SKEES, AND SNOW-SHOES
 
 All real boys welcome the approach of the winter season
 with its glorious opportunities for sport on the
-snow and ice. Toboggans, double-runners, skees, and snow-shoes--the
+snow and ice. Toboggans, double-runners, skees, and snow-shoes—the
 very words make the blood tingle in one's veins,
 and happy is the boy whose home is in the Northern climes
 where there is real winter for at least four months out of the
@@ -3538,7 +3538,7 @@ A Bob-sled
 
 Every boy wants a double-runner of his own, for there
 seems to be nothing quite like bobbing on a sled carrying
-from six to ten boys--enough to give it weight and a good
+from six to ten boys—enough to give it weight and a good
 impetus on its downward course. A bob-sled is not at all
 difficult to construct, and a very satisfactory and substantial
 one may be made from inexpensive materials and with the
@@ -3806,7 +3806,7 @@ of the arms and to the long sticks as shown in Fig. 2 B.
 The sails should be drawn taut at the inner ends with rings
 and a strap or light rope. If there should be too much sail-area
 for the wind that may be blowing the sail can be
-feathered--that is, bent down or up so that it allows some
+feathered—that is, bent down or up so that it allows some
 of the wind to pass under it instead of pressing against the
 sails with its full force.
 // 129.png
@@ -3915,7 +3915,7 @@ some thin, strong twine, and the necessary covering materials.
 The mast is thirty-six inches long, the lowest spar
 twenty-four inches long, the top one twelve, and the two
 middle ones proportioned in length to the two side-strings
-tied at the ends of the top and bottom sticks--that is, at
+tied at the ends of the top and bottom sticks—that is, at
 A and B on both sides of Fig. 2.
 
 The keel of the frame is made from a thin piece of hard-wood
@@ -4087,7 +4087,7 @@ The frame is made from dry spruce or pine sticks half an
 inch square for the long ones and a trifle smaller for the
 shorter ones. The frame as shown in Fig. 10 is seven feet
 long from A to A, and at the middle the balloon is twenty-eight
-inches--that is, from B to B. The middle upright
+inches—that is, from B to B. The middle upright
 stick is four feet long and the end sticks C\_C that support
 the car are forty-five inches long. The middle upright B\_B
 is first lashed to the middle of the long stick A\_A. The
@@ -4171,7 +4171,7 @@ of its wings.
 
 But my blissful ignorance was soon dispelled by the
 laughter of a friend who assured me that I was gazing at
-one of the kites of the cannibals--a name sportively applied
+one of the kites of the cannibals—a name sportively applied
 to a number of natives of the Gilbert Islands who immigrated
 to Maui some time since. They are a more barbarous
 people than the Hawaiians but seem to be amiable,
@@ -4184,7 +4184,7 @@ a dozen or more men and women about half of whom had
 kites, which were larger than I had supposed, being from
 thirteen to fifteen feet wide and two to three feet high.
 When I arrived several were floating high in the air almost
-directly over the men who held the strings--sometimes,
+directly over the men who held the strings—sometimes,
 indeed, sailing directly over them.
 
 I watched for some time their graceful, birdlike motion
@@ -4609,8 +4609,8 @@ things that make a fish desirable, in the sense of a game or
 sport fish, are that it shall be good food, not too common and
 not too easily caught. If, besides, it be beautiful and found
 in beautiful places so much the better. It happens that by
-common consent certain fish--salmon and trout and their
-kindred--are in Europe and America esteemed above all
+common consent certain fish—salmon and trout and their
+kindred—are in Europe and America esteemed above all
 others, and the opportunity to angle for them is not open
 // 157.png
 .pn +1
@@ -4676,7 +4676,7 @@ dexterity of handling, which is one of the great charms of
 angling, and about the only one, as regards the mere catching
 of fish, on which the experienced angler sets much value.
 The secret of success with delicate tackle may be told in two
-words--care and coolness. Care in the preparation of the
+words—care and coolness. Care in the preparation of the
 tackle, coolness in handling it.
 
 When you put your tackle together you will make it far
@@ -4704,10 +4704,10 @@ frayed or put in the sun to rot, does not long remain sound.
 Therefore dry your line, carefully unwinding it from the
 reel if you have one and winding it upon a chair-back, for
 instance, when you come home. Look over and test your
-tackle every time you are going fishing--yes, and every time
-it gets caught on a stone or stump or in the bushes--if you
+tackle every time you are going fishing—yes, and every time
+it gets caught on a stone or stump or in the bushes—if you
 wish to escape the loss of your best fish. All this means
-that tackle to be safe must be sound--that is, good all
+that tackle to be safe must be sound—that is, good all
 through. A line, for instance, which is strong in one place
 and weak in another will give you more trouble than one
 which is not so strong but uniform.
@@ -4832,7 +4832,7 @@ which must be changed from time to time. A pail is the
 most convenient vessel to carry them in.
 
 A landing-net is convenient if you fish for game which
-is heavy in proportion to your tackle--say for fish upward
+is heavy in proportion to your tackle—say for fish upward
 of a pound in weight with a light rod. Very low-priced
 ones are now sold in the shops and sufficiently good ones
 can be made at home.
@@ -4851,7 +4851,7 @@ essential.
 Bait-rods and Fly-rods
 
 Probably most boys are too sensible to fall into the error
-which seems to beset many adults--namely, that the possession
+which seems to beset many adults—namely, that the possession
 of tackle makes an angler. It is necessary to know
 how to use it.
 
@@ -4868,8 +4868,8 @@ the same whatever kind of fishing is in hand; the others depend
 upon what is to be done.
 
 Let us suppose that you are to fish with bait and that
-bait a worm. If you have a short gut line--two or three
-feet long--it will be well to fasten it to the end of the line
+bait a worm. If you have a short gut line—two or three
+feet long—it will be well to fasten it to the end of the line
 and to the other end of the gut attach the snell of the hook.
 But when seeking many fish which are not very shy, the
 snell may be fastened directly to the line. In fishing in a
@@ -5015,7 +5015,7 @@ things it is useful to know so that repairs and supplies of a
 sort can be made in an emergency. But emergencies are to
 // 169.png
 .pn +1
-a great degree prevented by care--by cleaning and looking
+a great degree prevented by care—by cleaning and looking
 over the rod and the reel whenever you come home, and
 keeping it safe. The reel may need a drop of oil now and
 then, and it should be always kept out of the dust, in a box
@@ -5031,8 +5031,8 @@ The repairs most commonly called for are the splicing of
 a broken rod, the replacing a lost tip-ring or guide-ring, the
 knotting of gut, and the putting a hook to gut. The repair-kit,
 to use a cyclist's phrase, consists of a piece of shoemaker's
-wax, some moderately stout sewing-silk--number A being
-the best suited for quick work of all sorts--some bits of
+wax, some moderately stout sewing-silk—number A being
+the best suited for quick work of all sorts—some bits of
 flexible brass wire, and a pocket-knife. As the method of
 wrapping used in all repairs is essentially the same let us
 begin with the simplest, the putting the hook to gut.
@@ -5115,7 +5115,7 @@ hotel, or boarding-house near river or lake where
 // 173.png
 .pn +1
 pickerel, bass, and large perch abounded no provision is
-found for the angler's sport but a boat--no lines, sinkers, or
+found for the angler's sport but a boat—no lines, sinkers, or
 floats; no nets for catching live bait, and no bait but worms.
 For sunfish, catfish, and small perch, worms are very fair
 bait; but for pickerel, bass, and large perch live bait is best.
@@ -5355,7 +5355,7 @@ of life to them in the water, and most game fish prefer live
 food to dead. The spoon-hook and the artificial fly, however,
 have proved their worth. The spoon should be of a
 size in keeping with the size of the game fished for, and it is
-well enough to have two--one bright, for use early in the
+well enough to have two—one bright, for use early in the
 // 181.png
 .pn +1
 morning and late in the afternoon and on dark days, the
@@ -5389,7 +5389,7 @@ I always found that the scoop-net which we use to catch
 the fish with is good enough for certain kinds of minnows,
 but there are others which are too lively or too shy to be
 caught in that way; so I set to work to devise some plan
-for their capture. I claim no originality for this trap--it is
+for their capture. I claim no originality for this trap—it is
 hundreds of years old; but as it answered my purpose better
 than anything else, I used it. The way I made it was as follows:
 // 182.png
@@ -5453,7 +5453,7 @@ put a heavy stone on the box, so as to keep it steady, and
 awaited the next morning for developments. Fig. 17.
 
 Here I may say that this trap takes advantage of a peculiarity
-in the nature of the water-turtle--namely, if there
+in the nature of the water-turtle—namely, if there
 is a log or stone that he cannot get under, that is just the
 place that he wants to get; and I calculated that the slight
 resistance offered by my swinging door would be just enough
@@ -6122,8 +6122,8 @@ The suction-hose should come from the under side of the
 barrel and be attached to the base of the pump. The coupling
 to which the long hose is attached should be arranged
 at the side of the keg or it can be screwed directly on the
-outlet of the pump. A short length of the hose--a coupling
-and nozzle--may be supported on hooks and a standing Y
+outlet of the pump. A short length of the hose—a coupling
+and nozzle—may be supported on hooks and a standing Y
 as shown in Fig. 1. The hook on the barrel is made from
 a piece of iron bent as shown at Fig. 3 A, with holes bored
 to receive screws. If the iron is too hard to work a wooden
@@ -6990,7 +6990,7 @@ one inch and one-eighth in thickness, and these are attached
 by stout screws to posts one inch and three-quarters square
 at bow and stern. The trunk is mounted on the keel, set in
 white-lead, and securely fastened with screws. A slot is cut
-in the keel the same size as the inside opening of the trunk--that
+in the keel the same size as the inside opening of the trunk—that
 is, two inches wide and about five feet long. The bottom
 planking is butted against the sides of the trunk at the
 middle of the boat as shown in Fig. 20.
@@ -8103,7 +8103,7 @@ cabin and hooked. Or, by cutting away a part of the upright,
 the sash may be arranged to slide. Wire screening
 may be tacked over the window-frame at the outer side to
 keep out flies and mosquitoes, and screen doors can be made
-also for the front and rear doorways--to swing in, as the
+also for the front and rear doorways—to swing in, as the
 wooden doors swing out.
 
 Over the rear deck a canopy is arranged on poles. This
@@ -8281,7 +8281,7 @@ house and how it is divided into the several compartments.
 In the front, the dining and living saloon is a room measuring
 about eight feet in width and eleven feet in length. At
 one end a couch is placed which, if necessary, can be used as
-a bed; and close to it are two large windows--one overlooking 
+a bed; and close to it are two large windows—one overlooking 
 // 284.png
 .pn +1
 [Illustration: <i><sc>Fig 11</sc></i>
@@ -8528,7 +8528,7 @@ Boards   "    30   "                                3.00
 Nails    "     4 cents a pound                       .20
 Paint    "    20 cents a can                         .20
 Rings    "    20 cents each                          .80
-                                                   -----
+                                                   ——-
                            Total                   $5.75
 */
 
@@ -8551,7 +8551,7 @@ or by splicing. If the rope belongs to the running
 rigging (such as halyards, sheets, etc.) of the vessel, it will
 be necessary to put a splice in it, as a knot would refuse to
 render (pass) through the swallow (opening) in the block.
-There are three kinds of splices in general use--namely, the
+There are three kinds of splices in general use—namely, the
 long, the short, and the eye-splice. When joining running
 rigging a long splice is always employed, as it does not increase
 the diameter of the rope, and when neatly made cannot
@@ -8567,7 +8567,7 @@ making of the latter splice.
 
 Splices
 
-<sc>The Eye-splice</sc> (Fig. 1).--Open the end of the rope and
+<sc>The Eye-splice</sc> (Fig. 1).—Open the end of the rope and
 lay the strands 1, 2, 3 upon the standing part as shown in
 // 293.png
 .pn +1
@@ -8583,7 +8583,7 @@ ends, and the splice will appear as in C.
 
 [Illustration: FIG. 3. THE LONG SPLICE]
 
-<sc>The Short Splice</sc> (Fig. 2).--Hold the rope B (Fig. 2 A)
+<sc>The Short Splice</sc> (Fig. 2).—Hold the rope B (Fig. 2 A)
 // 294.png
 .pn +1
 in the left hand; pass the strand 4 over 1, and having thrust
@@ -8595,7 +8595,7 @@ shown in Fig. 2 B. This single tucking of the ends is not
 sufficient for strength, so repeat the operation once, then cut
 off the ends of the strands.
 
-<sc>The Long Splice</sc> (Fig. 3).--Unlay (untwist) the two ends
+<sc>The Long Splice</sc> (Fig. 3).—Unlay (untwist) the two ends
 to be joined some two or three feet, and place the ends together
 in the same manner as explained for the short splice. Now
 take the strand 1 and unlay it as far back as A, and in the
@@ -8614,7 +8614,7 @@ well and cut off the ends.
 
 Knots
 
-<sc>Reef Knot</sc> (Fig. 4).--This commonly used knot is also
+<sc>Reef Knot</sc> (Fig. 4).—This commonly used knot is also
 known as a flat knot and square knot, and is one of the
 most valuable of the many employed. As its name implies,
 it is used to tie the reef points of a sail, the stops (short
@@ -8633,7 +8633,7 @@ passed (crossed) wrong, an Old Granny knot (Fig. 5) will be
 the result, and this knot will capsize (pull out of shape) and
 slip as soon as a strain is put upon it.
 
-<sc>Bowline Knot</sc> (Fig. 6).--Take the end (1) of the rope
+<sc>Bowline Knot</sc> (Fig. 6).—Take the end (1) of the rope
 in the right hand and the standing part (2) in the left hand;
 lay the end over the standing part and turn the left wrist so
 that the standing part forms a loop (4) enclosing the end;
@@ -8646,7 +8646,7 @@ circumstances, and two towing hawsers are often made fast
 to each other by two bowlines, the bight of one being passed
 through the bight of the other.
 
-<sc>Bowline on a Bight</sc> (Fig. 7).--Double the rope, and take
+<sc>Bowline on a Bight</sc> (Fig. 7).—Double the rope, and take
 the double end (1) in the right hand, the standing part (2) of
 the rope in left hand; lay the end over the standing part,
 and by turning the left wrist form a loop (3), having the end
@@ -8664,7 +8664,7 @@ to discover the secret of dipping the end (1) back and undoing
 the knot by handling it in a reverse manner to that
 described for its manufacture.
 
-<sc>Running Bowline</sc> (Fig. 8).--The only difference between
+<sc>Running Bowline</sc> (Fig. 8).—The only difference between
 this knot and the one described under the head of "Bowline"
 is that the end (1) of the rope is taken around the
 standing part (2), and then a single bowline (3) is tied on
@@ -8679,14 +8679,14 @@ line, so that the danger of the fish escaping may be greatly
 lessened, for the line is apt to break from the thrashing of
 the creature or the hook pull out.
 
-<sc>Wall Knot</sc> (Fig. 9).--Unlay the end of the rope and
+<sc>Wall Knot</sc> (Fig. 9).—Unlay the end of the rope and
 whip (tie) it where shown, and form a bight of strand 1, and
 hold it down at the side represented by 2; pass the end of
 3 around 1, and the end of 4 around 3 and through the bight
 of 1, then the knot will appear as shown in Fig. 10; now
 haul the parts taut and the knot will be formed.
 
-<sc>Crowned Wall Knot</sc> (Fig. 11).--Over the top of the
+<sc>Crowned Wall Knot</sc> (Fig. 11).—Over the top of the
 // 297.png
 .pn +1
 [Illustration: <i>Fig. 4</i>
@@ -8738,7 +8738,7 @@ knot lay the strand 1, then lay strand 2 over 1, and strand
 3 over 2, and pass it through the bight of 1; now haul taut
 the parts and the knot will take the shape shown in Fig. 12.
 
-<sc>Double Wall and Double Crown Knot</sc> (Fig. 13).--This
+<sc>Double Wall and Double Crown Knot</sc> (Fig. 13).—This
 is made by allowing the strands to follow their respective
 parts round, first walling, then crowning, as shown in
 the diagram. This formation is also used as a Stopper Knot
@@ -8747,7 +8747,7 @@ shown in Fig. 14. It is a very beautiful knot when nicely
 made, and as a fancy knot is common on yachts and naval
 vessels.
 
-<sc>Matthew Walker Knot</sc> (Fig. 15).--As its name implies,
+<sc>Matthew Walker Knot</sc> (Fig. 15).—As its name implies,
 this knot is named after the man who invented it. It is
 exceedingly simple and easy to make, and is in common use
 on board of all vessels. Unlay the strands for a short distance,
@@ -8757,7 +8757,7 @@ bight of 1, also its own bight; last the strand 3 underneath
 and through the bights of 1 and 2. When hauled taut the
 knot will appear as in Fig. 16.
 
-<sc>Diamond Knot</sc> (Fig. 17).--Unlay the strands as for a
+<sc>Diamond Knot</sc> (Fig. 17).—Unlay the strands as for a
 Matthew Walker Knot, and form three bights and then
 take strand 1 over 2 and through the bight of 3; take strand
 2 over 3 and through the bight of 1; take strand 3 over 1 and
@@ -8772,7 +8772,7 @@ out at the top of the knot, then leading the last strand
 through two double bights; last lay the strands up as previously
 explained, and the knot will show as in Fig. 19.
 
-<sc>Turk's Head Knot</sc> (Fig. 20).--This is purely an ornamental
+<sc>Turk's Head Knot</sc> (Fig. 20).—This is purely an ornamental
 knot, and is used to beautify yoke lines for a rowing
 boat, man ropes, ridge ropes, gangway ropes, etc. The
 material used in the construction of this knot is regulated
@@ -8785,7 +8785,7 @@ down. Fig. 22 represents a Turk's Head of two lays, but
 it may have any number of lays, it being necessary only to
 follow the lead around according to the formation desired.
 
-<sc>Rope Yarn Knot</sc> (Fig. 23).--It is to be explained that
+<sc>Rope Yarn Knot</sc> (Fig. 23).—It is to be explained that
 a rope yarn is simply one of the several parts which make a
 strand of rope. When a strand is untwisted, its parts become
 rope yarns. These yarns are used for a number of purposes,
@@ -8796,7 +8796,7 @@ in halves the two ends of the rope yarns, and crotch and tie
 the two opposite ends, then jam the tie and cut off the remaining
 ends.
 
-<sc>Lark's Head Knot</sc> (Fig. 24).--This knot is used on the
+<sc>Lark's Head Knot</sc> (Fig. 24).—This knot is used on the
 same principle as explained for the Slippery Hitch; when it
 is desired to undo it quickly, simply pull out the wooden
 toggle 1. The making of the knot will be fully understood
@@ -8814,7 +8814,7 @@ general use.
 
 Bends
 
-<sc>Common Bend</sc> (Fig. 25).--This is also known as a single
+<sc>Common Bend</sc> (Fig. 25).—This is also known as a single
 bend, and is used for making one rope fast to another in a
 hurry. Make a bight with one rope, and hold it in the left
 hand; pass the end of the other rope 1 through the bight
@@ -8825,7 +8825,7 @@ again, as shown in Fig. 26, the bend will stand a greater
 strain and be less liable to jam. The bend shown in Fig. 26
 is known as a double bend.
 
-<sc>Carrick Bend</sc> (Fig. 27).--This, like the common bend,
+<sc>Carrick Bend</sc> (Fig. 27).—This, like the common bend,
 is used for bending hawsers together, but is a trifle more
 difficult to make. Make a bight with the end of one rope;
 pass the end of the other rope through the bight and over
@@ -8833,7 +8833,7 @@ the standing part of the first rope where marked 1, then
 under the end 2, and again through the bight and over the
 standing part 3.
 
-<sc>Fisherman's Bend</sc> (Fig. 28).--First pass the rope twice
+<sc>Fisherman's Bend</sc> (Fig. 28).—First pass the rope twice
 round the spar or ring, which act is understood by sailors
 as "taking two round turns," next take a half hitch round
 the standing part, then thrust the end under the two turns,
@@ -8842,7 +8842,7 @@ When hauled taut the bend will appear as shown in Fig. 29.
 // 301.png
 .pn +1
 
-<sc>Sheet Bend</sc> (Fig. 30).--Pass the end 1 through the eye;
+<sc>Sheet Bend</sc> (Fig. 30).—Pass the end 1 through the eye;
 take two turns round, observing in each case that the end
 passes under the standing part 2. The greater the strain,
 the more the standing part binds the two turns, and insures
@@ -8869,7 +8869,7 @@ them from slipping.
 
 Hitches
 
-<sc>Two Half Hitches</sc> (Fig. 31).--This is an exceedingly
+<sc>Two Half Hitches</sc> (Fig. 31).—This is an exceedingly
 simple way of fastening a rope, and it has the double advantage
 of being proof against jamming. Take a turn
 around the object to which it is desired to fasten; bring the
@@ -8881,33 +8881,33 @@ and the result will show as in Fig. 32. In case the hitch is
 to be subjected to a great strain, lash the end of the rope to
 the standing part where marked 3 in Fig. 32.
 
-<sc>Clove Hitch</sc> (Fig. 33).--This is another very useful
+<sc>Clove Hitch</sc> (Fig. 33).—This is another very useful
 hitch, but is only employed when the strain upon it is
 temporary. It is in general use for bending a heaving-line
 (small rope) to a hawser so that a coil of the former may be
 thrown from a vessel to the dock and, after it is caught, the
 hawser pulled ashore.
 
-<sc>Slippery Hitch</sc> (Fig. 34).--This hitch is simply a turn
+<sc>Slippery Hitch</sc> (Fig. 34).—This hitch is simply a turn
 around a spar or other object or through an eye, the end
 carried across the standing part, and a loop put through the
 bight, the end 1 being allowed to hang out. When it is
 desired to separate the hitch, pull out the loop by hauling
 on the end 1.
 
-<sc>Blackwall Hitch</sc> (Fig. 35).--This is used in hoisting.
+<sc>Blackwall Hitch</sc> (Fig. 35).—This is used in hoisting.
 Simply take a turn around the back of the hook, crossing
 the parts of the rope in front as shown. When a strain is
 put on the standing part of the rope, the underneath part
 is jammed and slipping prevented.
 
-<sc>Timber Hitch</sc> (Fig. 36).--A hitch employed in towing
+<sc>Timber Hitch</sc> (Fig. 36).—A hitch employed in towing
 spars and logs, as it will not slip. Pass the end 1 of the rope
 around the spar and lead it up and around the standing part
 2, then pass two or three turns with the end around its own
 part as shown in the illustration.
 
-<sc>Rolling Hitch</sc> (Fig. 37).--A very good method of clapping
+<sc>Rolling Hitch</sc> (Fig. 37).—A very good method of clapping
 (fastening) a tail-block. Take a hitch with the tail 1;
 take another hitch over the first; pass the end under the
 standing part 2, and twist the remainder of the tail round
@@ -8918,7 +8918,7 @@ convenient to make fast anywhere about decks or the rigging,
 and a rope being rove through this block, a purchase,
 called a "whip," is created.
 
-<sc>Magnus Hitch</sc> (Fig. 38).--Some people confuse this
+<sc>Magnus Hitch</sc> (Fig. 38).—Some people confuse this
 hitch with the rolling hitch just described, but a comparison
 of the two will explain the difference between them. With
 the end of the rope 1 pass two turns over the spar; carry
@@ -8949,7 +8949,7 @@ represented by the arrow.
 
 [Illustration: <i>Fig. 44</i>]
 
-<sc>Catspaw Hitch</sc> (Fig. 39).--Like the Blackwall Hitch,
+<sc>Catspaw Hitch</sc> (Fig. 39).—Like the Blackwall Hitch,
 this one is used for making a rope fast to a hook for hoisting 
 // 304.png
 .pn +1
@@ -8957,7 +8957,7 @@ purposes. Seize the bight of the rope in your two
 hands, and by turning the wrists form the two loops, then
 hang these loops on the hook as in Fig. 40.
 
-<sc>Sheepshank Hitch</sc> (Fig. 41).--A quick way of shortening
+<sc>Sheepshank Hitch</sc> (Fig. 41).—A quick way of shortening
 a rope without cutting it is to convert a portion of it into
 a shape known as a sheepshank. Gather up the spare rope
 and lay it in parallel lines as shown. These parallel lines
@@ -8972,7 +8972,7 @@ The result will be as shown in Fig. 42. If it is desired to
 make this hitch doubly secure, put a seizing (fastening) 7
 on the loops 5 and standing parts 6 (Fig. 43).
 
-<sc>Marling Hitch</sc> (Fig. 44).--Employed to make a running
+<sc>Marling Hitch</sc> (Fig. 44).—Employed to make a running
 binding which can be put on and removed quickly.
 // 305.png
 .pn +1
@@ -9245,8 +9245,8 @@ around it so as to drain the surface-water away.
 
 Flies and Canopies
 
-Every camping-tent should have a fly--that is, an extra
-canvas roof--for no matter how good the canvas of which
+Every camping-tent should have a fly—that is, an extra
+canvas roof—for no matter how good the canvas of which
 it is made, it will become thoroughly soaked in a heavy
 rain; but if protected by a fly the latter will lead the water
 off and receive the greater part of the wetting. Such a
@@ -9367,7 +9367,7 @@ closed. When the side is down the battens drop in between
 the extended floor joist or beams.
 
 Folding-cots can be used in this house, or bunks may be
-built in against the side and end--two at the side and one
+built in against the side and end—two at the side and one
 at the end under the window. When the drop-side is up
 and fastened for the night, another cot can be placed at
 that side, while from corner to corner a hammock may be
@@ -9807,7 +9807,7 @@ burn better than if exposed to the elements.
 
 Here are some other ideas for camp-fires proper. Let
 us suppose that the party is provided with the necessary
-utensils for camp-cooking--a camp-kettle, coffee-pot,
+utensils for camp-cooking—a camp-kettle, coffee-pot,
 frying-pan, saucepan, and some sort of baking-pan. These
 should prove sufficient, unless the party intends having quite
 elaborate menus. If it is intended to remain at the camp
@@ -10125,9 +10125,9 @@ once started, it is almost impossible to prevent them increasing
 in size and number. When badly pitted, the recoil
 is increased by the roughness in the barrel. A gun can be
 cleaned by the following directions: The cleaning-rod
-should have at least three tools--a wool swab, a wire
+should have at least three tools—a wool swab, a wire
 scratch-brush, and a wiper to run rags through. Have
-plenty of water at hand--warm if you have it, if not cold
+plenty of water at hand—warm if you have it, if not cold
 will do nicely. Put a swab on the rod, and some water in
 a tin basin or wooden pail.   By placing one end of the
 // 343.png
@@ -10181,8 +10181,8 @@ through a fence or out of a boat or wagon, yet the violation
 of this rule is the cause of more accidents than anything else.
 Never climb a fence with your gun cocked.
 
-In learning the art of shooting on the wing--and this is
-the only way in which a shot-gun should be used--the following
+In learning the art of shooting on the wing—and this is
+the only way in which a shot-gun should be used—the following
 suggestions may be of some help, but no amount of
 printed directions can teach you to shoot. Practice is the
 best teacher. Nine out of ten young sportsmen shoot too
@@ -10250,8 +10250,8 @@ my own hands, with the simplest tools, out of whatever
 materials the spot affords where the animal lives.
 
 Of all the animals in this country there is none that
-affords less harmful sport than the rabbit--more properly
-hare--of which there are several species. Its wonderful
+affords less harmful sport than the rabbit—more properly
+hare—of which there are several species. Its wonderful
 powers of increase enable it to hold its own, as far too many
 of our best and most valuable animals do not. Furthermore,
 rabbits are very easily trapped.
@@ -10267,7 +10267,7 @@ snows keep piling and piling up, its little road may change
 with each successive snowfall. Trappers there put out a
 large number of snares, setting them right in the middle of
 these paths. In Fig. 1, No. 20 soft brass or copper wire is
-used--a piece say twenty inches long being bent into an
+used—a piece say twenty inches long being bent into an
 oval or round noose some four inches through, the end being
 twisted around a convenient limb or root, or stick thrust
 into the snow over the path, and the space on each side
@@ -10323,7 +10323,7 @@ peg (or a round one with flat side) seven inches high. Procure
 a half-inch stick long enough to reach from the centre
 of the circle of pegs to the upright and three inches beyond
 it. Screw this stick fast to the upright at a point two inches
-from the board--loosely, so it will work up and down, sharpening
+from the board—loosely, so it will work up and down, sharpening
 the end inside the pen, and cutting a notch on the
 upper side at the other end as shown in Fig. 4. Cut another
 notch near the top of the upright post, and fit into
@@ -10493,7 +10493,7 @@ of one. A stick a foot long will serve equally well
 for the bed-piece. Then a pen or house is built of stakes, or
 long chips, or stones, or pieces of board in the form of a V
 or Π, about nine inches tall, eight inches deep, and six
-inches wide. Then two sticks are prepared--one three inches
+inches wide. Then two sticks are prepared—one three inches
 long and half an inch thick, called the "standard" (Fig.
 12), the other eight inches long, and of the same thickness,
 called the bait-stick, one end being sharpened, the other
@@ -10523,7 +10523,7 @@ hold it in place, and, like every deadfall, it should be heavily
 weighted with logs as shown in Figs. 10 and 11.
 
 There are many different ways of building traps with this
-simple bait-stick and standard--a combination in general
+simple bait-stick and standard—a combination in general
 use in the fur countries. Some are made large for fishers,
 and set on logs and high stumps for sable or marten. In
 Canada, where the snow is very deep, I have seen long lines
@@ -10596,7 +10596,7 @@ once a week, but if they are near home most boys like to go
 to them every day. Skinning can best be done at home.
 The curing of skins is a matter of great importance if the fur
 is to be sold, for dealers will only pay for good fur properly
-prepared. It must be "prime"--that is, from November to
+prepared. It must be "prime"—that is, from November to
 // 359.png
 .pn +1
 *[Illustration: <i>Fig. 17</i>]
@@ -10605,7 +10605,7 @@ the middle of April (water fur a fortnight later) the inside of
 the skin will be white and the fur thick and glossy; at other
 times it becomes dark and thin and the fur poor. Muskrats,
 mink, sable, foxes, weasel, opossum, and skunk require to
-be <i>cased</i>--that is, without any cut down the middle. Wolf,
+be <i>cased</i>—that is, without any cut down the middle. Wolf,
 badger, raccoon, bear, beaver must be <i>open</i>. The manner
 // 360.png
 .pn +1
@@ -10628,8 +10628,8 @@ across and fastened either into the split top of the other or
 into a notch, and the loose middles of the skin tied up to the
 cross-piece. Fig. 17 <i>b</i>.
 
-For mink, etc., never use a single board--it may tear the
-skin--but make a double stretcher (Fig. 17 <i>a</i>). Take a half-inch
+For mink, etc., never use a single board—it may tear the
+skin—but make a double stretcher (Fig. 17 <i>a</i>). Take a half-inch
 board of pine or cedar, two feet long and three inches
 wide, and taper it to two inches at one end and shave the
 outside almost to an edge. The board is then split in half
@@ -11278,7 +11278,7 @@ of the plait.
 
 The following kinds of native woods are used for walking-sticks:
 
-<sc>Holly.</sc>--Sticks of this wood are found growing out from
+<sc>Holly.</sc>—Sticks of this wood are found growing out from
 the sides of older growths, and shooting up in nearly a
 straight line. Occasionally they may be cut with a crutch-piece
 across the growing end, or with a crook or knob.
@@ -11295,13 +11295,13 @@ and moderately heavy walking-sticks, and its close-grained
 wood admits of much skill in carving the knob formed by
 the root and its rootlets.
 
-<sc>Ash.</sc>--Respectable sticks of this wood may sometimes be
+<sc>Ash.</sc>—Respectable sticks of this wood may sometimes be
 cut out of a hedge or pulled from the side of an old stump.
 Ash sticks must also be roughly trimmed and well seasoned
 before they are barked and polished. The root knobs admit
 of excellent grotesque carving.
 
-<sc>Oak.</sc>--This of all sticks is the most reliable, and stout
+<sc>Oak.</sc>—This of all sticks is the most reliable, and stout
 oaken cudgels are esteemed by most persons as affording
 the best props for failing legs, as well as the best weapons of
 self-defence against quarrelsome dogs, ruffians, and tramps.
@@ -11315,7 +11315,7 @@ cut too close, or when the sticks are dried too rapidly in a
 very dry place. They are then rendered useless for walking-sticks
 and cudgels.
 
-<sc>Elm.</sc>--From the roots of elm-trees saplings often shoot
+<sc>Elm.</sc>—From the roots of elm-trees saplings often shoot
 up to a height of some ten feet; these furnish good walking-sticks
 of fancy styles, the rough bark serving the purpose of
 ornamentation when the sticks are dried, stained, varnished,
@@ -11325,11 +11325,11 @@ Among fruit trees the cherry, apple, and pear furnish
 some very nice, fancy walking-sticks, being supple and of
 moderate strength.
 
-When sticks are half dried--that is, when the bark is
+When sticks are half dried—that is, when the bark is
 shrunken, has lost its sappy greenness, and refuses to peel
 // 384.png
 .pn +1
-freely--they may be trimmed, straightened, or bent, as required.
+freely—they may be trimmed, straightened, or bent, as required.
 The wood and also the form of the knobs and roots
 will admit of much taste being displayed in grotesque and
 fancy carving.
