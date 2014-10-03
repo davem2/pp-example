@@ -1,5 +1,6 @@
 
------File: 001.png---\msn\gerryfx\Zora\Amsel\K7UQT\------------------------
+// 001.png
+.pn +1
 
 
 
@@ -49,11 +50,14 @@ Illustrated. Crown 8vo.
 
 
 HARPER & BROTHERS, NEW YORK
------File: 002.png---\msn\gerryfx\Zora\granjan\K7UQT\----------------------
-[Blank Page]
------File: 003.png---\msn\gerryfx\Zora\granjan\K7UQT\----------------------
-[Blank Page]
------File: 004.png---\msn\gerryfx\Zora\granjan\K7UQT\----------------------
+// 002.png
+.pn +1
+// [Blank Page]
+// 003.png
+.pn +1
+// [Blank Page]
+// 004.png
+.pn +1
 
 [Illustration:
 
@@ -62,7 +66,8 @@ HARPER & BROTHERS, NEW YORK
 */
 
 FIG. 11--A SINGLE-TREE HUT]
------File: 005.png---\msn\gerryfx\Zora\granjan\K7UQT\----------------------
+// 005.png
+.pn +1
 
 
 
@@ -89,7 +94,8 @@ WITH MANY ILLUSTRATIONS
 HARPER & BROTHERS PUBLISHERS
 NEW YORK AND LONDON
 */
------File: 006.png---\msn\gerryfx\Zora\granjan\K7UQT\----------------------
+// 006.png
+.pn +1
 
 
 
@@ -101,7 +107,8 @@ PRINTED IN THE  UNIT£D STATES OF AMERICA
 
 B-W
 */
------File: 007.png---\msn\gerryfx\Zora\granjan\Hermit00\-------------------
+// 007.png
+.pn +1
 
 
 
@@ -161,7 +168,8 @@ CHAPTER IV.--WEATHER-VANES AND WINDMILLS      59
 <sc>A Pumping Windmill</sc>
 <sc>A Windmill and Tower</sc>
 */
------File: 008.png---\Persephone\gerryfx\Zora\Amsel\Hermit00\--------------
+// 008.png
+.pn +1
 
 /*
 CHAPTER V.--AËRIAL TOYS       81
@@ -217,7 +225,8 @@ CHAPTER IX.--FISHING-TACKLE       144
 <sc>A Scap-net</sc>
 <sc>A Hook Drop-net</sc>
 */
------File: 009.png---\Persephone\gerryfx\Zora\Amsel\Hermit00\--------------
+// 009.png
+.pn +1
 
 /*
 CHAPTER X.--LAND-YACHTS AND PUSHMOBILES       177
@@ -276,7 +285,8 @@ CHAPTER XVI.--HOUSE-BOATS AND RAFTS       261
 <sc>A House-raft</sc>
 <sc>A Float</sc>
 */
------File: 010.png---\Rightway\gerryfx\Zora\Amsel\Hermit00\----------------
+// 010.png
+.pn +1
 
 /*
 CHAPTER XVII.--MARLINE-SPIKE SEAMANSHIP        280
@@ -323,7 +333,8 @@ CHAPTER XXI.--WALKING-STICKS       367
 
 <sc>How to Grow Them for Pleasure and Profit</sc>
 */
------File: 011.png---\Persephone\gerryfx\Zora\broomer68\Hermit00\----------
+// 011.png
+.pn +1
 
 
 
@@ -356,7 +367,8 @@ one--to begin at home. The back yard lies immediately
 at hand. Let us see what can be done there. The aquarium,
 pet shelters, windmills, and many other contrivances
 are identified with the home.
------File: 012.png---\Rightway\gerryfx\Zora\broomer68\Hermit00\------------
+// 012.png
+.pn +1
 
 Going farther afield we learn the making of coasters and
 skees, ice-boats and snow cannon, and all that enters into
@@ -391,7 +403,8 @@ free from unnecessary words and details, and filled
 with the latest and best methods, which will be indispensable
 to every American boy who likes the fun of doing
 things for himself.
------File: 013.png---\Rightway\gerryfx\Zora\mac383\Hermit00\---------------
+// 013.png
+.pn +1
 
 
 
@@ -399,9 +412,11 @@ things for himself.
 Part I
 
 IN BOUNDS
------File: 014.png---\Rightway\gerryfx\Zora\mac383\Hermit00\---------------
-[Blank Page]
------File: 015.png---\Rightway\gerryfx\Zora\mac383\Hermit00\---------------
+// 014.png
+.pn +1
+// [Blank Page]
+// 015.png
+.pn +1
 
 
 
@@ -436,7 +451,8 @@ Canvas can be bought at a dry-goods or country store,
 and poles may be cut in the woods; or one-and-one-half-inch-square
 spruce sticks may be purchased at a lumberyard
 and dressed round with a draw-knife and plane. When
------File: 016.png---\Rightway\mayliffe\Zora\mac383\Hermit00\--------------
+// 016.png
+.pn +1
 cutting poles for a wigwam it is necessary to select very
 straight ones, preferably of pine, for crooked or knotty
 poles are unsightly and make an uneven exterior.
@@ -469,7 +485,8 @@ in the diagram Fig. 3. Lay out a sixteen-foot circle on a
 barn floor, or the grass, with chalk, and indicate an eighteen-inch
 circle at the middle. Around the outer circle or
 periphery measure off nineteen feet and chalk-mark the
------File: 017.png---\Persephone\mayliffe\Zora\broomer68\Hermit00\---------
+// 017.png
+.pn +1
 
 [Illustration: <i><sc>Fig 1</sc></i>
 
@@ -480,7 +497,8 @@ periphery measure off nineteen feet and chalk-mark the
 <i><sc>Fig 4</sc></i>
 
 A WIGWAM]
------File: 018.png---\Persephone\mayliffe\Zora\broomer68\Hermit00\---------
+// 018.png
+.pn +1
 space. From these marks to the centre of the circle draw
 straight lines, and within these limits the area of the wigwam
 cover will be shown. It should correspond with the
@@ -513,7 +531,8 @@ A Square Tepee
 A square tepee, as shown in the illustration Fig. 5, is
 another form of rear-yard tent that is easily made. Twelve
 poles are selected and four of them are lashed fast and spread
------File: 019.png---\Persephone\mayliffe\Zora\broomer68\Hermit00\---------
+// 019.png
+.pn +1
 apart on a square of six feet. Two poles are added to each
 side and all are lashed together at the head. Four pieces
 of canvas or heavy unbleached muslin are cut and made on
@@ -538,7 +557,8 @@ A Ridge-pole Tepee
 
 A ridge-pole tepee is shown in Fig. 7, and is a very
 easy and simple one to make, for it is of one piece of
------File: 020.png---\Rightway\mayliffe\Zora\broomer68\Hermit00\-----------
+// 020.png
+.pn +1
 canvas with two flaps sewed at each side to form the
 ends.
 
@@ -559,7 +579,8 @@ in the ends of the uprights
 as shown at Fig. 8 A and
 B. The upright poles are eight feet long, and when set
 one foot of the lower end should be embedded in the
------File: 021.png---\Rightway\jart\Zora\broomer68\Hermit00\---------------
+// 021.png
+.pn +1
 ground. The sides are in one piece of muslin made by
 sewing widths of it together. The sheet measures seventeen
 feet long and eight feet wide; and when stretched over the
@@ -592,7 +613,8 @@ A Fountain
 A practicable rear-yard fountain may be made with a
 brick or concrete basin, an underground pipe-line and an
 overflow, thus insuring a continuous flow and discharge.
------File: 022.png---\Persephone\radsupe\Zora\broomer68\Hermit00\----------
+// 022.png
+.pn +1
 
 In Fig. 9 the basin, pipe, and trap are shown with the
 inlet pipe fitted for a hose connection. Three plates of
@@ -627,7 +649,8 @@ and is to be provided with a hose connection so that a
 garden hose may be attached to it. The stand-pipe in the
 basin and the cross-piece should be embedded in the cement
 concrete, and when it is dry and hardens around the pipes
------File: 023.png---\Rightway\radsupe\Zora\broomer68\Hermit00\------------
+// 023.png
+.pn +1
 it will hold them securely in place. When the circle of
 bricks is complete, fill in the crevices with equal parts of
 cement and sand mixed into a mortar. This will lock the
@@ -652,7 +675,8 @@ inch or two above the surface of the ground.
 
 From a plumber or gas-fitter obtain some old pieces of
 brass tubing an inch in diameter, cut one of them fourteen
------File: 024.png---\Fringilla\radsupe\Zora\broomer68\Hermit00\-----------
+// 024.png
+.pn +1
 inches long, and slip it down over the stand-pipe. The
 lowest and largest plate rests on this. Next cut a piece
 of tubing nine inches long and slip it over the pipe. The
@@ -685,7 +709,8 @@ a half-circular basket will be necessary to catch the ball
 when it falls, so that the stream of water can pick it up
 again. This is made from brass or galvanized wire, and
 where the wires cross bind the joint with fine copper wire
------File: 025.png---\thehobee\radsupe\Zora\broomer68\Hermit00\------------
+// 025.png
+.pn +1
 and solder the joints so as to make them rigid. A small
 brass ferrule or short piece of pipe should be soldered to the
 bottom of this basket, so as to hold it in place when slipped
@@ -717,7 +742,8 @@ well to make the bottom of the cylinder an inch smaller in
 diameter than the top, so that it may draw out easily after
 the concrete has set. The two slots shown in the top of
 the cylinder are hand holes to grasp it by.
------File: 026.png---\thehobee\radsupe\Zora\broomer68\Hermit00\------------
+// 026.png
+.pn +1
 
 With nearly clear cement, having but a small portion of
 sand added, finish the inside of the basin and the rim with
@@ -741,7 +767,8 @@ order. The best size will be twenty-four inches long, fifteen
 wide, and ten inches high. This will be generous enough in
 proportions to accommodate a dozen or so of small fish, some
 baby eels, crawfish, a turtle or two, and some water-lizards.
------File: 027.png---\thehobee\radsupe\Zora\broomer68\Hermit00\------------
+// 027.png
+.pn +1
 
 From a carpenter obtain a piece of white-wood twenty-seven
 inches long, seventeen inches wide, and one and a half
@@ -775,7 +802,8 @@ top of the base board.
 
 With straight rule and pencil mark parallel lines connecting
 each hole as shown at D D in Fig. 16. These lines should
------File: 028.png---\ggraber\radsupe\Zora\catalino\Hermit00\--------------
+// 028.png
+.pn +1
 correspond in position with the grooves cut in the posts;
 then remove the posts and with grooving-plane or chisel and
 mallet cut the grooves about three-eighths of an inch in
@@ -808,7 +836,8 @@ the glass to break or the joints to leak. Press the glass sides
 against the outer edges of the grooves and lightly insert
 some wooden wedges into the grooves to hold the glass in
 place temporarily for a day or two or until the varnish sets.
------File: 029.png---\ggraber\radsupe\Zora\catalino\Hermit00\--------------
+// 029.png
+.pn +1
 Then fill the open spaces in the grooves with a putty made
 from whiting and asphaltum varnish. This you will have
 to make yourself with a putty-knife on a plate of glass,
@@ -842,7 +871,8 @@ the corner-posts are held in place by long brass screws
 driven up through the bottom and into the lower ends of
 the posts. The top rail is made the same as shown in Fig.
 15 C, and the glass is set as described.   At the corner-posts
------File: 030.png---\ggraber\radsupe\Zora\broomer68\Hermit00\-------------
+// 030.png
+.pn +1
 *[Illustration: <i><sc>Fig 17</sc></i>]
 
 *[Illustration: <i><sc>Fig 18</sc></i>]
@@ -858,7 +888,8 @@ the posts. The top rail is made the same as shown in Fig.
 the lap is well smeared with asphaltum varnish and putty
 and the angle strips are screwed fast to the posts as indicated
 at A in Fig. 17.   While this is somewhat easier to make it
------File: 031.png---\ggraber\radsupe\Zora\broomer68\Hermit00\-------------
+// 031.png
+.pn +1
 is not quite so substantial for large tanks as the square post
 and channels.
 
@@ -891,7 +922,8 @@ will answer very well to drain off a portion. The part of
 the tube in the tank should be held close to the bottom so
 as to suck up any dirt or sediment that may be there.
 Good ventilation, light, healthy aquatic plants, clean sand,
------File: 032.png---\ggraber\radsupe\Zora\broomer68\Hermit00\-------------
+// 032.png
+.pn +1
 and a proper proportion of fish to the volume of water are
 absolutely necessary to the successful aquarium. A few
 tadpoles and snails are advantageous in an aquarium, as they
@@ -924,7 +956,8 @@ with the air of the atmosphere will greatly freshen the
 water. Motion in the water is absolutely necessary. In
 large aquaria this is obtained by an arrangement of tanks
 into which the water is pumped, and from which it flows
------File: 033.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 033.png
+.pn +1
 rapidly, circulating through the tanks where the fish live.
 In its passage through the air it absorbs considerable oxygen,
 without which no fish can live. Fish placed in water
@@ -959,7 +992,8 @@ In order to manage your aquarium properly you will require
 a few simple tools. A little hand-net that can be
 bought for a few cents, or made for even less out of a bit
 of wire and a small piece of mosquito-netting, is useful for
------File: 034.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 034.png
+.pn +1
 catching the fish or shells without putting your hands into
 the water. A pair of wooden forceps, like a glove-stretcher,
 will be found most convenient for nipping off bits of decaying
@@ -992,7 +1026,8 @@ It is best to have only small fish in your aquarium, and
 for this reason trout are not desirable. Although very
 beautiful and intelligent, they grow so rapidly that they
 are likely to become in a short time too unwieldy for your
------File: 035.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 035.png
+.pn +1
 tank. Goldfish and minnows are very good, and the common
 little sunfish or "pumpkin-seed" is excellent.
 
@@ -1028,7 +1063,8 @@ foreign matter and every particle of decaying vegetation
 should be removed immediately.
 
 To manage an aquarium successfully, no matter on how
------File: 036.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 036.png
+.pn +1
 small a scale, requires a good deal of care and time, but you
 will find it time well spent, and the pleasure and knowledge
 the study of your pets will give you will be an ample
@@ -1061,7 +1097,8 @@ on these four the cross-plates are made fast that hold the
 top or deck planks. The six cross-timbers are of spruce,
 one by four inches, and are from two to eight feet in length,
 according to their location. The beam plan (Fig. 24)
------File: 037.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 037.png
+.pn +1
 
 [Illustration: <i><sc>Fig 23</sc></i>
 
@@ -1076,7 +1113,8 @@ according to their location. The beam plan (Fig. 24)
 <i><sc>Fig 28</sc></i>
 
 A MERRY-GO-ROUND]
------File: 038.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 038.png
+.pn +1
 shows quite clearly how these supporting beams are arranged.
 They are held together with steel wire-nails driven
 down from the upper beams diagonally into the lower ones.
@@ -1110,7 +1148,8 @@ sides with angle beams as shown in Fig. 23. The top bar
 should be well braced also with one or two angle brackets,
 to prevent the frame from rocking. If the ground props are
 not strong enough to properly brace the frame, attach heavy
------File: 039.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 039.png
+.pn +1
 wires to the corners and carry them out in both directions,
 making the ends fast to stout pieces of joist embedded in
 the ground.
@@ -1145,7 +1184,8 @@ ropes should be attached to the stanchion wires and to the
 shaft as shown in Fig. 23.
 
 It would be well to paint all the wood-work in order to
------File: 040.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 040.png
+.pn +1
 give it a good appearance, and all the iron parts should be
 coated with asphaltum varnish to prevent rusting.
 
@@ -1156,7 +1196,8 @@ bevelled point bearing at the bottom rests in a drilled depression
 in the plate, and the friction there is reduced to a
 minimum, while at the top the friction will be slight if the
 weight is properly distributed on the turn-table.
------File: 041.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 041.png
+.pn +1
 
 
 
@@ -1192,7 +1233,8 @@ of the white mice, rabbits, guinea-pigs, and canary-birds of
 our northern climes.
 
 Some boys have a natural aptitude for carpenter-work.[**typo, should be a comma ? ]
------File: 042.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 042.png
+.pn +1
 but there may be ideas in these illustrations and the accompanying
 descriptions that will be helpful both to them, and
 to the boy who has as yet to make his first kennel or pigeon-cote.
@@ -1227,7 +1269,8 @@ shown in Fig. 2.
 In one side of the bilge of the keg a hole is cut as large as
 the post is square or round, and at the other side a corresponding
 hole is cut the size of the upper part of the post.
------File: 043.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 043.png
+.pn +1
 The keg is then dropped down over the post so that the
 shoulder, formed by cutting away the wood, will rest under
 the upper side of the keg, in which the smaller square hole
@@ -1246,7 +1289,8 @@ accommodate three families of the birds, is shown in Fig. 3.
 [Illustration: <i><sc>Fig 2</sc></i>]
 
 [Illustration: <i><sc>Fig 3</sc></i>]
------File: 044.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 044.png
+.pn +1
 
 An ordinary box may be cut and rearranged with a pitched
 roof, an inner floor, and the three divisions. A small hole
@@ -1282,7 +1326,8 @@ can rest.
 The uprights are one and a half by three inches, and the
 strips forming the Y braces are two inches wide and seven-eighths
 of an inch thick.
------File: 045.png---\TMP1776\radsupe\Zora\Amsel\Hermit00\-----------------
+// 045.png
+.pn +1
 
 The perches are three-quarter-inch dowels three feet long.
 If they cannot be had at a carpenter's shop or a hardware
@@ -1305,7 +1350,8 @@ or a piece of oil-cloth, and tacked all around the edges.
 [Illustration: <i><sc>Fig 5</sc></i>]
 
 To make the barrel-hoop shelter, shown in Fig. 6, a
------File: 046.png---\ggraber\radsupe\Zora\Amsel\Hermit00\-----------------
+// 046.png
+.pn +1
 flat barrel-hoop is loosely covered with canvas or muslin
 tacked all around the edge. In the top of a post a wooden
 peg is driven, and over this the middle of the canvas disk
@@ -1341,7 +1387,8 @@ are very tame and will not leave the premises.
 In Fig. 7 A, a cote with three holes is shown that is easily
 made from thin boards. It should measure thirty inches
 long, nine inches wide, and twelve inches high at the back,
------File: 047.png---\ggraber\radsupe\Zora\mac383\Hermit00\----------------
+// 047.png
+.pn +1
 while at the front the board with the holes cut in it should
 be nine inches wide, with the holes five inches high and four
 inches wide.
@@ -1362,7 +1409,8 @@ The upper ends of the two divisions need not extend beyond
 the height of the front board, and this open space will insure
 good ventilation. Sticks an inch square are made fast
 under the ends of the cote, and on the projecting ends a
------File: 048.png---\ggraber\jandgward\Zora\mac383\Hermit00\--------------
+// 048.png
+.pn +1
 ledge three inches wide is fastened upon which the pigeons
 may alight.
 
@@ -1398,7 +1446,8 @@ rain will get in on the dog, and dogs do not like to
 get wet while sleeping any more than boys. Moreover,
 if the kennel is not large enough it is cramped and stuffy,
 and, while the dog cannot say so, he resents it, and in his
------File: 049.png---\ggraber\DACSoft\Zora\mg_james\Hermit00\--------------
+// 049.png
+.pn +1
 own dog way of reasoning feels that he is imposed upon in
 being housed in such small quarters. The dimensions of a
 kennel must be naturally governed by the size of the dog
@@ -1434,7 +1483,8 @@ and cause the wood to decay.
 A ridge-pole is nailed between the front and back at the
 peak, and to this the upper ends of the roof boards are
 fastened.
------File: 050.png---\Rightway\DACSoft\Zora\mg_james\Hermit00\-------------
+// 050.png
+.pn +1
 
 In the front a hole large enough for a dog to pass through
 is cut with a compass saw, and above it, near the peak, one
@@ -1455,7 +1505,8 @@ top of the kennel.
 
 Two or three good coats of paint will finish the wood-* [**P3--or
 is that a splotch, rather than a hyphen?]
------File: 051.png---\Rightway\DACSoft\Zora\mg_james\Hermit00\-------------
+// 051.png
+.pn +1
 *work, and with the addition of a chain fastened to a staple-plate
 this dog-kennel will be ready for occupancy.
 
@@ -1491,7 +1542,8 @@ When making houses or huts for guinea-pigs it will be
 necessary to make at least one-third of the coop dark, or
 nearly so, as the little pigs like darkened places in which to
 spend a portion of their time.
------File: 052.png---\Rightway\DACSoft\Zora\mg_james\Hermit00\-------------
+// 052.png
+.pn +1
 
 The illustration of the guinea-pig house in Fig. 16 shows
 how this can be done by partitioning off a portion of the house
@@ -1515,7 +1567,8 @@ the open and closed compartments. A door at one side is
 made high enough to open into both upper and lower compartments;
 this is swung on hinges, and for safety it may
 be provided with a hasp and padlock.
------File: 053.png---\Rightway\DACSoft\Zora\mg_james\Hermit00\-------------
+// 053.png
+.pn +1
 
 The open compartments are to be screened with square-mesh
 galvanized wire cloth substantially heavy to prevent
@@ -1552,7 +1605,8 @@ In the spring-time when little chickens are hatched, and
 it is not possible to let the hen wander about at random to
 scratch up the garden or the flower beds, some small coops
 and shelters should be constructed and placed in a corner of
------File: 054.png---\mmco\DACSoft\Zora\mg_james\Hermit00\-----------------
+// 054.png
+.pn +1
 the back yard, or in some other vacant space, where the
 little chicks can run without being molested by the larger
 fowls, as they would be if put in the big chicken-coop or
@@ -1582,7 +1636,8 @@ need not be more than twenty-four inches high.
 
 It may be constructed from boards with matched edges, or
 perhaps from a dry-goods case, and if it is raised from the
------File: 055.png---\vpaul\Waldron\Zora\mg_james\DACSoft\-----------------
+// 055.png
+.pn +1
 ground an inch or two, and a few holes bored in the bottom,
 it will insure a dry floor. The cross rail at the bottom to
 which the upright slats are nailed is three inches above
@@ -1617,7 +1672,8 @@ friends and relatives to visit each other.
 This hutch should be from four to five feet long, twenty-four
 inches wide, and twenty-four inches high. The second
 floor is arranged so that it will be midway between the top
------File: 056.png---\vpaul\Waldron\tfkowal\mg_james\DACSoft\--------------
+// 056.png
+.pn +1
 and bottom, and at the rear an opening five inches wide
 and ten inches long will receive an inclined board, across
 which short sticks have been nailed to prevent the rabbits
@@ -1641,7 +1697,8 @@ in the illustration.
 
 In the end of the hutch, opposite the bottom of the stairway,
 a feeding-doorway six inches square should be cut with
------File: 057.png---\Fringilla\mayliffe\tfkowal\mg_james\DACSoft\---------
+// 057.png
+.pn +1
 a compass saw, and a door hung on hinges. This hutch
 should be supported on stout sticks or posts embedded in the
 ground for at least two feet, and it should be thirty to forty
@@ -1677,7 +1734,8 @@ shown.
 To make it, a base-board is cut twenty-eight inches long,
 fifteen inches wide, and one inch and a quarter thick. Ten
 inches from one end the edges of the board are sawed off so
------File: 058.png---\mmco\mayliffe\tfkowal\mg_james\DACSoft\--------------
+// 058.png
+.pn +1
 that the end will be six inches wide. Eleven inches from
 the small end a square piece of wood is mounted on the base-*board[**P2:keep hyphen]
 to form the back to the square compartment. This
@@ -1706,7 +1764,8 @@ place.
 
 A wire door made from the cloth can be hung on hinges,
 which should be soldered to the galvanized cloth. With
------File: 059.png---\Krusnik02\mayliffe\tfkowal\mg_james\DACSoft\---------
+// 059.png
+.pn +1
 straight wires or wire cloth an exercising cylinder can be
 made with wooden or tin ends. It is supported between the
 back of the cage and the wedge-shaped upright. Tacks
@@ -1742,7 +1801,8 @@ judging from the size of their bodies.
 
 In Fig. 24, the design for a very substantial reptile pen
 is shown, and instead of fine wire screening, two heavy
------File: 060.png---\Rightway\mayliffe\tfkowal\mg_james\DACSoft\----------
+// 060.png
+.pn +1
 plates of glass may be used at the front of each compartment.
 This is a double pen, and one side can be used for snakes,
 while the other may harbor some lizards or small land-turtles.
@@ -1757,7 +1817,8 @@ wide, and the top and upright ones are two inches wide.
 
 The wood from which the pen is made should be tongue-and-grooved,
 and planed on both sides. It may be from
------File: 061.png---\Rightway\mayliffe\Joe Cooper\mg_james\DACSoft\-------
+// 061.png
+.pn +1
 three-quarters to one inch and a quarter thick, and narrow
 boards are preferable to wide ones.
 
@@ -1792,7 +1853,8 @@ This arrangement is more clearly shown in Fig. 25, which
 is a sectional view, A being the cap, B the board to which
 the upper edge of the wire cloth is attached, C the wire
 cloth, and D the main roof to the pen. The line E represents
------File: 062.png---\Rightway\mayliffe\Zora\mg_james\DACSoft\-------------
+// 062.png
+.pn +1
 the wire cloth tacked to the under side of the opening, to
 prevent the reptiles crawling up and over the partition.
 
@@ -1815,7 +1877,8 @@ will make a comfortable home for a collection of such pets.
 [Illustration: <i><sc>Fig 26</sc></i>]
 
 The lizard run shown in Fig. 26 is made from a wooden
------File: 063.png---\Rightway\mayliffe\Zora\mg_james\DACSoft\-------------
+// 063.png
+.pn +1
 shoe-case open at the front, and on top of which a smaller
 box is mounted and connected with the lower one by means
 of an inclined board and an opening, through which the
@@ -1837,7 +1900,8 @@ A few coats of dark-green paint will finish these reptile
 pens on the outside, and they should be enamelled cream
 color, buff, or light green on the inside, so that the reptiles
 may be seen against the light background.
------File: 064.png---\Rangia\mayliffe\Zora\mg_james\DACSoft\---------------
+// 064.png
+.pn +1
 
 
 
@@ -1872,7 +1936,8 @@ where they meet.
 Join two of the pieces at first; then lap the remaining two
 on both sides of them, nailing all the ends securely with steel
 wire nails. Put one middle rafter in on each side between
------File: 065.png---\Krusnik02\mayliffe\Zora\mg_james\DACSoft\------------
+// 065.png
+.pn +1
 eaves to the roof. It would not look well to have the roof[**typo missing line?]
 the corner ones; then nail shingle lath or scantling on the
 four sides to receive the shingles. The rafters should over-*hang
@@ -1898,7 +1963,8 @@ A Back-yard Pergola
 
 A back-yard pergola is constructed from two upright posts
 four inches square, a cross beam two by six inches, and eight
------File: 066.png---\Krusnik02\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 066.png
+.pn +1
 joists laid across from the post bar to the top of the back
 fence. This style of pergola is particularly adapted to city
 yards and those surrounded by a board fence. In the event
@@ -1932,7 +1998,8 @@ A Toadstool Tree Canopy
 Where there is a large tree on the place or near the house,
 a toadstool canopy (Fig. 4) may be constructed above a comfortable
 seat. The framing of the canopy is shown in Fig. 5,
------File: 067.png---\Krusnik02\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 067.png
+.pn +1
 where the arrangement of corner rafters and braces can
 be clearly seen. The tree end of each rafter is bevelled (or
 cut on a slant) and nailed fast with steel wire nails. The
@@ -1966,7 +2033,8 @@ at the top are of undressed wood, having the bark on. The
 corner posts are from four to six inches in diameter, and
 are embedded two feet in the ground. They are seven feet
 above the ground, and on top of two sets cross-stringers
------File: 068.png---\Krusnik02\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 068.png
+.pn +1
 *[Illustration: <i><sc>Fig 3</sc></i>]
 
 *[Illustration: <i><sc>Fig 4</sc></i>]
@@ -1984,7 +2052,8 @@ hatchet, a saw, and a hammer will be the only tools required
 for this work; and where an angle piece is attached to a post,
 the bark and wood should be cut away on the post, so that
 the bevelled edge of the bracket will lie snugly against it.
------File: 069.png---\paddycasy\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 069.png
+.pn +1
 It should then be nailed fast with long steel wire nails. This
 pergola can be made of almost any size, but for one of
 moderate proportions it should measure eight feet square
@@ -2020,7 +2089,8 @@ close to the posts, so that as they grow the thick mass of
 foliage will make a shady top to the pergola.
 
 If desired, a few seats may be arranged between the posts
------File: 070.png---\paddycasy\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 070.png
+.pn +1
 or columns, but portable seats would be more in keeping
 with this style of pergola.
 
@@ -2042,7 +2112,8 @@ roof, as shown in the drawing, and seats may be built in
 between the end posts, with a supporting rib at the middle
 and braces under the seats. There is room enough under
 this roof to swing a hammock.
------File: 071.png---\Krusnik02\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 071.png
+.pn +1
 
 
 
@@ -2077,7 +2148,8 @@ Windmills, weather-vanes, pinion-wheels, and wind toys
 of all descriptions have been made by boys in every age,
 and each generation goes on to invent or think of something
 new for the same old wind to play with that has toyed
------File: 072.png---\Krusnik02\mayliffe\Hermit00\mg_james\DACSoft\--------
+// 072.png
+.pn +1
 with the world's wheels for centuries. The illustrations
 and descriptions on this and the following pages will be
 found helpful in the construction of wind machinery that
@@ -2102,7 +2174,8 @@ Punch a small hole in the centre of a sheet of tin or iron
 not less than ten inches square, and with a lead-pencil
 compass draw a circle ten inches in diameter. Half an inch
 inside of this draw another one nine inches in diameter, as
------File: 073.png---\Krusnik02\mayliffe\Hermit00\Amsel\Little_Joe\--------
+// 073.png
+.pn +1
 indicated by the light lines in Fig. 2. One inch from the
 centre draw a third circle making it two inches in diameter;
 then divide the disk into eight equal parts.
@@ -2139,7 +2212,8 @@ that the shaft will fit snug but not tight.
 To the top of the shaft, over the hole, attach another
 spool, so as to form a longer bearing; or a strap of metal may
 be tacked so that it will bridge up over the hole about two
------File: 074.png---\Krusnik02\mayliffe\Hermit00\Amsel\Little_Joe\--------
+// 074.png
+.pn +1
 inches. In this bridge a corresponding hole may be cut,
 through which the vertical shaft or pin will pass. This is to
 hold the vane steady on the long pin of quarter-inch round
@@ -2175,7 +2249,8 @@ driven through both into the end of the sticks to give the
 funnels an additional purchase.
 
 To reduce the friction and to prevent the wood from
------File: 075.png---\Krusnik02\mayliffe\Hermit00\Amsel\DACSoft\-----------
+// 075.png
+.pn +1
 *[Illustration: <i><sc>Fig 5</sc></i>]
 
 *[Illustration: <i><sc>Fig 4</sc></i>]
@@ -2194,7 +2269,8 @@ driven closely all around the outer edge. Before the speeder
 is slipped over the upright pin, a short piece of small gas-pipe
 or tubing should be placed over it so it will rest between
 the hub and the top of the pole. Two coats of white
------File: 076.png---\Krusnik02\mayliffe\Hermit00\Amsel\Little_Joe\--------
+// 076.png
+.pn +1
 or light-colored paint will improve the appearance of this
 speeder.
 
@@ -2230,7 +2306,8 @@ N, E, S, W are soldered. These rods may be of brass or
 wood, and if the wood is used it should be of hickory or
 locust, half an inch square or round, and slit at the ends to
 receive the letters of tin or sheet metal. These latter are
------File: 077.png---\Fringilla\mayliffe\Hermit00\Amsel\Little_Joe\--------
+// 077.png
+.pn +1
 held in place with slim steel wire nails driven through the
 wood and metal.
 
@@ -2265,7 +2342,8 @@ across the bottom of the skirt. From the shoes to the hat,
 a quarter-inch hole is bored entirely through the body, but
 if this be found too difficult, a staple at the top and bottom
 will answer instead. Through these staples the rod will pass.
------File: 078.png---\Mymla\mayliffe\Hermit00\mg_james\Little_Joe\---------
+// 078.png
+.pn +1
 
 The squirrel is made in the same manner as the lady, and
 either balanced on the rod which passes through the body
@@ -2302,7 +2380,8 @@ shown at Fig. 8 B.
 The sheet metal should be perforated with small holes all
 around one edge to pass the thread through, when sewing
 the fabric fast, and the edges should be smoothed so as not
------File: 079.png---\robinorr2\mayliffe\Hermit00\mg_james\Little_Joe\-----
+// 079.png
+.pn +1
 to cut the threads. If the hoop is made of wire, a ring
 should be formed at top and bottom for the upright rod to
 pass through; but if it is of sheet metal a hole at the top and
@@ -2339,7 +2418,8 @@ basket. Of course, the direction the wind is coming from
 is opposite to that taken by the ball.
 
 The basket should be twenty-four inches in diameter, six
------File: 080.png---\robinorr2\mayliffe\Hermit00\mg_james\Little_Joe\-----
+// 080.png
+.pn +1
 inches high, and supported at the top of a pole by wires attached
 from the upper and lower edge of the outer rim, and
 leading up and down to the pole, the ends being made fast
@@ -2361,7 +2441,8 @@ leather. The frame-work must be of light spring brass or
 copper wire, and where the hoops cross it would be well to
 touch the unions with solder to insure a firm joint and make
 the ball rigid.
------File: 081.png---\Rightway\mayliffe\Hermit00\mg_james\Little_Joe\------
+// 081.png
+.pn +1
 
 If the ball should blow out of the basket at any time, it
 may be necessary to lace wires across the outer rim at the
@@ -2397,7 +2478,8 @@ steel wire nails, to strengthen the unions of the cross sticks
 as well as to make a platform, at the under side of which
 the hub is arranged. A plan of the hoople, the cross sticks,
 and the location of one boat is shown in Fig. 13.
------File: 082.png---\Rightway\mayliffe\Hermit00\mg_james\Little_Joe\------
+// 082.png
+.pn +1
 
 The boats are placed so that the outer edges of the bottoms
 rest on the top of the hoople. The inner edges rest on
@@ -2433,7 +2515,8 @@ loose.
 
 Each boat must be in good trim to keep the motion uniform,
 and if the sails wear out too soon, tin ones should be
------File: 083.png---\Alycat150\Lithui\Hermit00\mg_james\Little_Joe\-------
+// 083.png
+.pn +1
 made or the muslin ones may be given a coat or two of white
 paint. Pennants at the tops of the masts will add to the
 effect.
@@ -2470,7 +2553,8 @@ small percentage as compared with a windmill the entire
 surface of which is continually exposed to the breeze. In
 the turbine only two or three of the blades are effective at
 any one time.
------File: 084.png---\Alycat150\Lithui\Hermit00\Amsel\Little_Joe\----------
+// 084.png
+.pn +1
 
 
 A Barrel-hoop Pinion-wheel
@@ -2489,7 +2573,8 @@ to the one shown in Fig. 16.
 
 The barrel-hoop will measure about twenty-one inches in
 diameter, and the hub should be made five inches in diameter,
------File: 085.png---\Alycat150\Gunbritt\Hermit00\Amsel\Little_Joe\--------
+// 085.png
+.pn +1
 two inches thick, and cut in, as shown in Fig. 17 A, with
 nine places to receive the small ends of the metal blades.
 The hub revolves on a pin which is driven into a block of
@@ -2526,7 +2611,8 @@ A Pumping Windmill
 
 A simple wheel, with spokes and sails, that is commonly
 employed on canal-boats and barges, and in a small way for
------File: 086.png---\Alycat150\jart\Hermit00\Amsel\Little_Joe\------------
+// 086.png
+.pn +1
 raising water in a suction-pump, is shown in the illustration
 of a pumping windmill. Fig. 18.
 
@@ -2539,7 +2625,8 @@ can be driven into a hole made in each side, as shown in
 Fig. 19. The spokes are three feet long, three by one inch
 and a half at the hub end, and one by one inch and a half at
 the outer end. They are driven snugly into holes in the
------File: 087.png---\Alycat150\Gunbritt\Hermit00\Vaitrex\Little_Joe\------
+// 087.png
+.pn +1
 hub three inches long and one inch and a half wide, and
 pinned to hold them in place.
 
@@ -2575,7 +2662,8 @@ three-quarters of an inch in diameter.
 
 Just beyond the shoulder or collar, C, the crank is formed,
 two inches wide and three inches out from the shaft[** . missing?]    Be-*
------File: 088.png---\Alycat150\Gunbritt\Hermit00\Vaitrex\Little_Joe\------
+// 088.png
+.pn +1
 *yond the crank another collar, C C, is welded on, and beyond
 this the shaft should measure six inches in length.
 
@@ -2602,7 +2690,8 @@ blocks. To hold the shaft in place, straps of iron are screwed
 fast over the top of each block.
 
 This head rests on the top of a trunk or hollow square
------File: 089.png---\amaxwel6\Gunbritt\Hermit00\Vaitrex\Little_Joe\-------
+// 089.png
+.pn +1
 post, through which the rod passes that connects the crank
 with the piston-rod of a pump. This trunk is of three-quarter-inch
 wood and seven inches square, as shown in
@@ -2638,7 +2727,8 @@ lend additional support and steadiness to the upright shaft.
 To start the wheel, snap the ends of the sheets to the spoke
 ends; to stop it, unsnap the ends and furl the sails around
 the spokes, and tie them securely with a cotton cord.
------File: 090.png---\Krusnik02\Zambia Firestone\Hermit00\Vaitrex\Little_Joe\-
+// 090.png
+.pn +1
 
 
 A Windmill and Tower
@@ -2660,7 +2750,8 @@ The tower is the first thing to make, and it should be constructed
 of four spruce sticks sixteen feet long and four inches
 square, thirty inches square at the top and seventy-two
 inches square at the base.
------File: 091.png---\Krusnik02\Zambia Firestone\Hermit00\Vaitrex\Little_Joe\-
+// 091.png
+.pn +1
 
 The deck is thirty-six inches square, and projects two inches
 over the top rails all around. The rails and cross braces are
@@ -2697,7 +2788,8 @@ illustration.
 At a wagon-shop an old wheel can be had for little or
 nothing, and with a little work it may be converted into the
 frame of a windmill.
------File: 092.png---\amanison\Zambia Firestone\Zora\Vaitrex\Little_Joe\---
+// 092.png
+.pn +1
 
 Each spoke is to be cut at an angle on one side so that
 the blades, when attached to them, will have the necessary
@@ -2719,7 +2811,8 @@ wind is made in proportion to the size of the mill.
 All the wood-work should be painted to give it a good
 appearance. A mill of this size will develop at least quarter
 of a horse-power in a fifteen-mile breeze.
------File: 093.png---\amanison\Zambia Firestone\Zora\Vaitrex\Little_Joe\---
+// 093.png
+.pn +1
 
 
 
@@ -2753,7 +2846,8 @@ proper metal may be cut up. The shell of a metallic cartridge
 is excellent. The brass should be as thin as possible,
 to be light, and so that it may be cut with an old pair of
 shears and bent easily.   First cut the piece out roughly
------File: 094.png---\Krusnik02\Zambia Firestone\Hermit00\Vaitrex\Little_Joe\-
+// 094.png
+.pn +1
 with the shears, and then trim it into shape with a small
 file. Scrape that part of the metal bright and clean which
 will form the inside of the roll, and then bend it around the
@@ -2767,7 +2861,8 @@ needle so that it will fit nicely and snugly.
 
 This must be fastened to the forward end of the back-*bone.
 The best and lightest way is to braze it, as the tin-*
------File: 095.png---\amanison\Zambia Firestone\Hermit00\Vaitrex\DACSoft\--
+// 095.png
+.pn +1
 *smiths call it. File the polish from the end of the needle,
 and wet it with soldering fluid, which may be bought at a
 tinner's, or made by adding zinc to muriatic acid until no
@@ -2801,7 +2896,8 @@ then make a shoulder on it, as follows: bend a piece of fine
 wire into a ring the size of the needle, and braze this to the
 shaft about a quarter-inch from the stern-post. This ring
 of wire keeps the shaft from slipping through the hole when
------File: 096.png---\amanison\Gunbritt\Hermit00\Vaitrex\Little_Joe\-------
+// 096.png
+.pn +1
 the rubber is stretched. File a flat point on the straight
 end of the shaft.
 
@@ -2836,7 +2932,8 @@ satisfactory job.
 
 Make a triangle by lashing together three pieces of bamboo,
 two being about two inches long, and the third one
------File: 097.png---\amanison\Zambia Firestone\Hermit00\Vaitrex\DACSoft\--
+// 097.png
+.pn +1
 inch. This triangle is lashed to the backbone just behind
 the wings, with the short side down; its position may be
 seen by a glance at the picture of the finished machine. It
@@ -2870,7 +2967,8 @@ slipping.
 The blades of the screw are made of thin paper gummed
 on to short pieces of bamboo. Lay one of the bamboo
 spokes on a piece of thin, stiff paper, and then gum over it
------File: 098.png---\amanison\Zambia Firestone\Hermit00\Vaitrex\Little_Joe\-
+// 098.png
+.pn +1
 a small strip of the thin Japanese paper before referred to.
 When this is dry, cut it down to the proper shape and
 sharpen the end of the spoke. Force these spokes into the
@@ -2906,7 +3004,8 @@ Self-acting Aërial Car
 
 Here is an idea for a mechanical toy to be used either on
 a kite-string or a cord stretched from a flag-pole in the yard
------File: 099.png---\Alycat150\Gunbritt\Hermit00\Vaitrex\DACSoft\---------
+// 099.png
+.pn +1
 or a handy tree. The only condition is that the lower end
 of the cord is directly against the wind. The elevation at
 which the car can run will depend on the strength of the
@@ -2937,7 +3036,8 @@ inch pine, which should be at least three inches wide. On
 this place a strip of wood, we will say, for instance, ten by
 one-quarter by one-half inch. By driving a small wire
 nail through both pieces of wood, and inserting a sharp
------File: 100.png---\Alycat150\mayliffe\Hermit00\Vaitrex\Little_Joe\------
+// 100.png
+.pn +1
 *[Illustration: <i>Fig. 4</i>]
 
 knife-blade through the upper piece of wood, and turning
@@ -2953,7 +3053,8 @@ makes faster time. You will see that after cutting out your
 disks the hole made by the wire nail is exactly in the centre.
 Run a small wire nail through the three disks, placing the
 wooden disk in the centre and the card-board ones on each
------File: 101.png---\Rightway\mayliffe\Hermit00\Vaitrex\DACSoft\----------
+// 101.png
+.pn +1
 side (this makes three disks for each wheel). Put some glue
 on touching surface, and clinch the three together with pins
 or wire brads. The place where these nails go is shown by
@@ -2986,12 +3087,14 @@ working of the catch. Fig. 4.
 
 The sail is made of light muslin, and extends in the form
 of a pair of wings, the cloth only reaching from the outside
------File: 102.png---\Rightway\mayliffe\Zora\Vaitrex\DACSoft\--------------
+// 102.png
+.pn +1
 
 [Illustration: <i>Fig. 5</i>]
 
 [Illustration: <i>Fig. 6</i>]
------File: 103.png---\Rightway\mayliffe\Zora\Vaitrex\DACSoft\--------------
+// 103.png
+.pn +1
 of the uprights to the ends of the spar, leaving a free space
 in the centre for the sail to pass through the carriage. The
 parachute is a small Chinese umbrella (pick out one that
@@ -3023,7 +3126,8 @@ ten common brass rings three-quarters of an inch in diameter,
 two round-headed brass screws one inch in length,
 two flat-headed ones of the same dimensions, two small
 screw-hooks, and eight assorted brass screw-eyes, there be-*
------File: 104.png---\Rightway\mayliffe\bfoley\Vaitrex\DACSoft\------------
+// 104.png
+.pn +1
 *[Illustration: <i>Fig. 7</i>]
 
 *ing two of each size. Now that we have the material for
@@ -3031,7 +3135,8 @@ the frames, we will begin with Fig. 7, which shows the
 sail and sheer plan. The frame is made of six pieces of
 wood. The top piece is exactly two feet in length. The
 two uprights which hold the wheels are each one foot and
------File: 105.png---\Rightway\mayliffe\Hermit00\Vaitrex\DACSoft\----------
+// 105.png
+.pn +1
 one inch long. The two angle pieces are one foot nine inches
 each. The lower horizontal strip measures two feet three
 and one-half inches, and is joined to the two angle strips by
@@ -3063,7 +3168,8 @@ inches in diameter, and the centre piece of pine is one
 inch in diameter and one-eighth of an inch thick. The way
 to get a true circle on this soft pine is to take the one-eighth-inch
 wood and measure on a separate piece of pine one-half
------File: 106.png---\Rightway\mayliffe\Hermit00\Vaitrex\DACSoft\----------
+// 106.png
+.pn +1
 inch, drive in a small wire nail in one extreme of the previously
 measured strip, and on the other extremity insert the
 point of a sharp knife. Place on the board used for centre
@@ -3081,7 +3187,8 @@ The drawing (Fig. 7) indicates how this wheel is fastened
 to the frame. The wheel can be made of two card-board
 disks two and one-half inches in diameter, and one wooden
 wheel two inches in diameter placed between them. They
------File: 107.png---\Rightway\mayliffe\Hermit00\Vaitrex\DACSoft\----------
+// 107.png
+.pn +1
 are joined by clinched pins, shown by the circle of dots in
 Fig. 8.
 
@@ -3117,7 +3224,8 @@ tin, zinc, or iron, that may be purchased from a tinsmith
 for a few cents; and for the engine a linen-thread spool, a
 piece of hard-wood stick, and a few steel wire nails will be
 required.
------File: 108.png---\kmazz\mayliffe\Hermit00\Vaitrex\DACSoft\-------------
+// 108.png
+.pn +1
 
 To begin with, obtain an empty linen-thread spool having
 a smooth hole through it, and in one end drive four one-inch
@@ -3154,7 +3262,8 @@ appear like the propeller-blades of a steamboat, or like a
 windmill, and it will then be ready to fly. Fig. 10.
 
 When bending the ears they must be arranged so that the
------File: 109.png---\mmco\mayliffe\Hermit00\Vaitrex\DACSoft\--------------
+// 109.png
+.pn +1
 [Illustration: <i>Fig. 9</i>
 
 <i>Fig. 10</i>
@@ -3168,7 +3277,8 @@ When bending the ears they must be arranged so that the
 <i>Fig. 14</i>
 
 A "HIGH-FLYER"]
------File: 110.png---\mmco\mayliffe\Hermit00\Vaitrex\DACSoft\--------------
+// 110.png
+.pn +1
 edge that catches the wind first will be inclined upward, as
 otherwise the flyer, instead of flying, will hug the spool tightly.
 
@@ -3204,7 +3314,8 @@ To operate it, wind the spool with the rope, and have some
 one under it to keep it from slipping. When you are ready to
 pull the rope, place the flyer on the pins, and as the spool is released
 give the rope a quick, strong pull, and the flyer will rise.
------File: 111.png---\mmco\mayliffe\Zora\Vaitrex\DACSoft\------------------
+// 111.png
+.pn +1
 
 
 
@@ -3212,9 +3323,11 @@ give the rope a quick, strong pull, and the flyer will rise.
 Part II
 
 AFIELD
------File: 112.png---\mmco\mayliffe\Zora\Vaitrex\DACSoft\------------------
-[Blank Page]
------File: 113.png---\mmco\poor poet\Zora\Vaitrex\DACSoft\-----------------
+// 112.png
+.pn +1
+// [Blank Page]
+// 113.png
+.pn +1
 
 
 
@@ -3249,7 +3362,8 @@ peculiar forms of winter amusements. Tobogganing and
 snow-shoeing are particularly popular in Canada; skeeing
 is the national sport of Norway. But it is the American
 boy who has reduced coasting to an exact science, and the
------File: 114.png---\mmco\poor poet\Zora\Vaitrex\Little_Joe\--------------
+// 114.png
+.pn +1
 Yankee bob-sleds and "jumper-coasters" are now pre-eminent
 wherever the snow flies. To take the best wherever we
 find it is the sportsman's motto.
@@ -3285,7 +3399,8 @@ end.
 From a curtain-pole cut six pieces two inches long and
 bore a quarter-inch hole through each one from end to end.
 Cut two hickory rails three-quarters of an inch square and
------File: 115.png---\Rightway\poor poet\awg47\Vaitrex\DACSoft\------------
+// 115.png
+.pn +1
 plane off the sharp corners; then with copper or iron rods,
 to act as long rivets, attach the rails to the toboggan so
 that they are separated from the battens by means of the
@@ -3305,7 +3420,8 @@ toboggan. Fig. 1.
 At both ends of the rod-rivets place washers or burrs to
 rivet on, as otherwise the rivet would pull through the wood,
 tearing the hole larger and at the same time making the
------File: 116.png---\Rightway\poor poet\awg47\Vaitrex\DACSoft\------------
+// 116.png
+.pn +1
 anchorage insecure. Cut notches in the projecting ends of
 the front stick as shown at the right side of Fig. 2, so that
 ropes can be lashed fast to the stick as shown at the left
@@ -3341,7 +3457,8 @@ and by steaming the boards may be curved up as shown
 and held in place with a stanchion-rope lashed fast to the
 batten and to the front bridge. A supporting bridge should
 be used to give it additional power. Fig. 3.
------File: 117.png---\mmco\jandgward\awg47\Vaitrex\DACSoft\----------------
+// 117.png
+.pn +1
 
 When the varnish wears off the bottom give it another
 coat, as the smooth, hard finish helps the toboggan to
@@ -3378,7 +3495,8 @@ ends of the sides; a deck of half-inch wood is laid over the
 ribs and held down with screws. Have the blacksmith
 flatten the ends of each runner and bend them over so they
 will lie on top at the end of each side.
------File: 118.png---\Rightway\jandgward\awg47\Vaitrex\DACSoft\------------
+// 118.png
+.pn +1
 
 A few good coats of paint will finish the wood-work nicely,
 and the rocker-coaster will then be ready for use.
@@ -3413,7 +3531,8 @@ From wood two inches wide, make two side-plates or
 braces to run from under the seat down half-way over the
 runner as shown in Fig. 7. To steady the seat at the top
 of the uprights cut two angle-brackets and attach them as
------File: 119.png---\mmco\jandgward\awg47\Vaitrex\DACSoft\----------------
+// 119.png
+.pn +1
 shown in the figure drawing. A blacksmith will fashion a
 runner from quarter-round or thin tire iron and attach it as
 shown in the illustration. The runners can be held on with
@@ -3447,7 +3566,8 @@ ends of the braces are securely held in place. Under each
 cross-piece and at the sides brackets must be securely
 fastened with screws as shown at Fig. 9, to strengthen the
 sides and take some of the strain from the cross-piece fas-*
------File: 120.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 120.png
+.pn +1
 *[Illustration: <i>Fig. 7</i>]
 
 *[Illustration: <i><sc>Fig 9</sc></i>]
@@ -3467,7 +3587,8 @@ inches long, two inches and a half wide, and four inches
 high at the middle, as shown in Fig. 9. A similar block
 two inches high is attached to the under side of the plank
 and bears on the lower block. Between the two blocks and
------File: 121.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 121.png
+.pn +1
 on the bolt, two large, flat iron washers are placed, so that
 it will be an easy matter to turn the sled when there is a
 heavy weight on the plank.
@@ -3502,7 +3623,8 @@ driven at the under side of the plank.
 The plank can be padded with hair from an old mattress
 and covered with a strip of carpet nailed all around the
 edges of the board. Cross-pieces screwed fast to the under
------File: 122.png---\mmco\mayliffe\awg47\Vaitrex\DACSoft\-----------------
+// 122.png
+.pn +1
 side of the plank will serve as foot-rests, and with a coat or
 two of paint this bob-sled will be ready for use.
 
@@ -3526,7 +3648,8 @@ for he must always land feet down when jumping.
 A skee of the right proportions should be seven feet long
 and four inches wide. Hickory, oak, or other hard-wood
 three-quarters of an inch in thickness will be the best mate-*
------File: 123.png---\mmco\mayliffe\awg47\Vaitrex\Little_Joe\--------------
+// 123.png
+.pn +1
 *rial from which to make the skees. Two or three grooves
 cut in a straight line along the entire bottom length will
 hold the skee slider on his course, as the keel does a boat.
@@ -3563,7 +3686,8 @@ For travelling over the snow the most widely known and
 useful appliance is the snow-shoe in one form or another.
 The Esquimau and the American Indian do all their winter
 travelling on snow-shoes, and through the Alps and in the
------File: 124.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 124.png
+.pn +1
 snow-bound parts of Europe and Asia they are commonly
 employed as a means of locomotion from place to place.
 
@@ -3597,14 +3721,16 @@ snow.
 The shoe in the form of a tennis racket (Fig. 14 B) is the
 shape commonly used by the Esquimaux and is about thirty-four
 inches long and fifteen inches wide. It is made some-*
------File: 125.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 125.png
+.pn +1
 
 [Illustration:  <i><sc>Fig 14</sc></i>
 
  <i><sc>Fig 15</sc></i>
 
 SNOW-SHOES]
------File: 126.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 126.png
+.pn +1
 *what similar to the Iroquois shoe but the mesh is more
 open.
 
@@ -3620,7 +3746,8 @@ wood can be procured anywhere and the rawhide thongs
 may be purchased at a hardware store. They are sold as
 belt-lacings for machinery, but they can be easily split and
 so made available for snow-shoe use.
------File: 127.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 127.png
+.pn +1
 
 
 
@@ -3654,7 +3781,8 @@ sticks or color them with a stain.
 
 Now procure two other sticks, each five feet six inches
 long and seven-eighths of an inch square, and plane them
------File: 128.png---\Rightway\mayliffe\awg47\Vaitrex\Hermit00\------------
+// 128.png
+.pn +1
 smooth, at the same time tapering the ends slightly. These
 are for the cross-arms, and at the middle of each one lash
 fast a block five inches long and seven-eighths of an inch
@@ -3688,7 +3816,8 @@ for the wind that may be blowing the sail can be
 feathered--that is, bent down or up so that it allows some
 of the wind to pass under it instead of pressing against the
 sails with its full force.
------File: 129.png---\mmco\mayliffe\awg47\Amsel\Hermit00\------------------
+// 129.png
+.pn +1
 [Illustration: <i><sc>Fig 1</sc></i>
 
 <i><sc>Fig 2</sc></i>
@@ -3702,7 +3831,8 @@ sails with its full force.
 <i><sc>Fig 3</sc></i>
 
 A SKATING-SAIL, A SQUARE-RIGGED ICE-SAIL.[**,] AND A SNOWBALL MORTAR]
------File: 130.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 130.png
+.pn +1
 
 
 A Square-rigged Ice-sail
@@ -3741,7 +3871,8 @@ board, which is the width of the top of the sled and is attached
 to it by straps.
 
 The pivot-bar or axle-tree rests in grooves cut in the
------File: 131.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 131.png
+.pn +1
 points of the triangles. The propulsion-bar (A) is a stout
 piece of oak fastened securely to the pivot-bar and at right
 angles to it. Two uprights (BB) fastened to the bottom
@@ -3771,7 +3902,8 @@ from breaking.
 
 Fig. 5 is an end-view of the mortar and Fig. 6 is the
 wooden mallet used in firing.
------File: 132.png---\mmco\mayliffe\awg47\Amsel\Hermit00\------------------
+// 132.png
+.pn +1
 
 
 
@@ -3804,7 +3936,8 @@ should be of good clear and tough white or North Carolina
 pine, spruce, or white-wood, three-eighths of an inch square
 for the mast and the same size but tapered at the ends for
 the yard-arms. Use strong cotton or linen twine for the
------File: 133.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 133.png
+.pn +1
 connections between spars and mast and draw them taut
 but not so tight that they would spring the sticks out of shape.
 
@@ -3825,7 +3958,8 @@ frame-sticks with strong cotton thread. Do not have too
 much muslin overlap the edges, and after going around the
 edges twice with the needle and fine cotton thread it would
 be well to cut away all the unnecessary material as it only
------File: 134.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 134.png
+.pn +1
 adds weight with no benefit to the kite. Do not use paste
 or glue to fasten the fabric covering on a frame; it only
 adds weight and does not stick well.
@@ -3861,14 +3995,16 @@ green hickory or birch sprung into place and lashed fast with
 linen line. There are three inches of space between the
 hull and lower sail and from two to three inches of space
 between the other sails.
------File: 135.png---\mmco\mayliffe\awg47\Vaitrex\Hermit00\----------------
+// 135.png
+.pn +1
 
 [Illustration: <i><sc>Fig 3</sc></i>
 
 <i><sc>Fig 4</sc></i>
 
 THE CHINESE-JUNK KITE]
------File: 136.png---\mmco\Blue Berry\awg47\Amsel\DACSoft\-----------------
+// 136.png
+.pn +1
 
 The masts and spars may be of any light, strong wood,
 the masts half an inch square and the yard-arms three-eighths
@@ -3902,7 +4038,8 @@ deck-stick thirty-seven inches long, and six inches below it
 is the keel-stick twenty inches long. The main-mast or aft-stick
 is thirty-three inches long and the foremast is thirty
 inches from tip to tip. The foremast is set in twelve inches
------File: 137.png---\mmco\Blue Berry\awg47\Vaitrex\DACSoft\---------------
+// 137.png
+.pn +1
 from the bow end of the deck-stick and the main-mast is ten
 inches from this. The gaffs are each nine inches long and
 are caught to both mast and a top-stick, which is in turn
@@ -3936,7 +4073,8 @@ ends of the cross-sticks and upper ends of the vertical sticks.
 A thong is to be bound to each end of the rib and drawn
 down to the foot of the frame so that the curve over the top
 formed by the hickory rib is even and symmetrical.
------File: 138.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 138.png
+.pn +1
 
 Cover this frame with dark-gray or green paper muslin,
 then make the car from a hoop fifteen inches in diameter
@@ -3972,7 +4110,8 @@ top one is made fast.
 With thin spring or hard brass wire bind the forms of the
 two occupants of the car and make them fast to sticks D D
 with string. Then cover the entire balloon and car as well
------File: 139.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 139.png
+.pn +1
 
 [Illustration: <i><sc>Fig 5</sc></i>
 
@@ -3987,7 +4126,8 @@ with string. Then cover the entire balloon and car as well
 <i><sc>Fig 10</sc></i>
 
 THE SCHOONER, BALLOON, AND AN AIR-SHIP KITE]
------File: 140.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 140.png
+.pn +1
 as the men with dark-colored paper muslin. Make the
 yoke of linen thread so that the kite will balance well.
 
@@ -4022,7 +4162,8 @@ foot. The sticks are from a quarter to half an inch square
 and bound together with strong, thin cord (Fig. 14). Muslin
 is the proper covering for this frame, but if thin, strong
 paper is preferred it can be used to good advantage.
------File: 141.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 141.png
+.pn +1
 
 
 Sandwich Islands Bird Kite
@@ -4058,7 +4199,8 @@ and then tried to buy one. They seemed loath to part with
 them, however, and it was only after I had exhausted nearly
 all my persuasive powers and all the small change in my
 pockets that I succeeded in obtaining one. My awkward
------File: 142.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 142.png
+.pn +1
 endeavors to carry it away with me were greeted with much
 laughter until one of the cannibals showed me the proper
 way to handle it.
@@ -4078,7 +4220,8 @@ way to handle it.
 The drawings which I have made of one of these kites
 will enable any enterprising boy to make one. As no tail
 is used great care must be taken to make it perfectly sym-*
------File: 143.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 143.png
+.pn +1
 *metrical. It is also desirable to have the kite very light
 and yet as stiff as possible.
 
@@ -4111,7 +4254,8 @@ dry they are to be lashed to all the cross-ribs and the ends
 of the bow with fine linen line. The cross-sticks need not
 be more than three-eighths of an inch square, but the middle
 and top sticks should be half an inch thick for strength.
------File: 144.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 144.png
+.pn +1
 Draw cross-strings from the top and lower ends of sticks
 D D, as shown in Fig. 15, to act as braces; then cover the
 frame with thin, strong paper or muslin, sewing it fast to
@@ -4145,7 +4289,8 @@ or half an inch square.
 Eight inches below the top of the frame tie a cord, and
 nine inches below this tie another one to the front upright
 sticks as shown at D D. Cover the front, sides, and back
------File: 145.png---\Rightway\mac383\awg47\Vaitrex\DACSoft\---------------
+// 145.png
+.pn +1
 *[Illustration: <i><sc>Fig 17</sc></i>]
 
 *[Illustration: <i><sc>Fig 18</sc></i>]
@@ -4159,7 +4304,8 @@ woven muslin, having the top and bottom open, also the
 space at the front between the strings D D. A yoke caught
 at the top corner of the box, as shown in Fig. 18, will be
 sufficient in a light breeze, but for a strong wind add another
------File: 146.png---\Rightway\mac383\awg47\Vaitrex\DACSoft\---------------
+// 146.png
+.pn +1
 from the side-sticks where the top or bottom cord D is tied;
 this will steady the flying-box and prevent its pitching.
 
@@ -4193,7 +4339,8 @@ wire such as florists use is connected with a cork about
 twelve inches in the rear of the sail, where it is bound
 fast with a few wraps of the wire. A pin is passed through
 the middle of the top yard to the sail and is bent over form-*
------File: 147.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 147.png
+.pn +1
 *ing a hook, and in the cork another one is arranged in a
 similar manner. The messenger can be hung on the string,
 and if there are no knots to intercept its progress it will
@@ -4211,7 +4358,8 @@ shapes and sizes with the planes arranged at different angles
 and in broken surfaces.
 
 The flying-wedge is an interesting gig to make and
------File: 148.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 148.png
+.pn +1
 hold when up, for it is a strong puller. Its construction is
 shown in Fig. 23, and like the box kite the frame is made of
 half-inch pine sticks. The front frame is forty inches high
@@ -4244,7 +4392,8 @@ The plane at the front is just half the height of the kite,
 and at the back it would be well to use two cross-sticks from
 corner to corner as braces rather than string as suggested
 for the flying-wedge. Use paper muslin for the covering
------File: 149.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 149.png
+.pn +1
 and stretch it taut; then sew it fast. Rig up two small flags
 on sticks for the top corners and arrange the yoke as shown
 in Fig. 25. If the wedge is inclined to wobble or dive hang
@@ -4260,7 +4409,8 @@ action will be better than if hung at the back.
 [Illustration: <i><sc>Fig 26</sc></i>]
 
 The wind strikes the front plane and upper part of rear
------File: 150.png---\Rightway\mayliffe\awg47\Vaitrex\DACSoft\-------------
+// 150.png
+.pn +1
 bevelled plane, also the outer edges of the rear plane, and in
 this manner a double kite is made that will be found a strong
 and steady puller.
@@ -4294,7 +4444,8 @@ hung in the inverted V-shaped frame of the reel. To hold
 this reel down when winding in a line make several hard-*wood
 stakes as shown at C. These are cut out with a saw;
 and to protect the head and prevent it from splitting off,
------File: 151.png---\BLT\mayliffe\awg47\Vaitrex\DACSoft\------------------
+// 151.png
+.pn +1
 bore two small holes through the head as indicated by the
 dotted lines and slip steel-wire nails through them. Place
 burrs over the pointed ends, cut the ends off, and with a
@@ -4328,7 +4479,8 @@ the frame is put together. The lower hoop is made fast to
 the short upright pieces C C, shown in Fig. 30, and braced
 to the main out-riggers B B with bracket-strips. All the
 unions are made with screws or long copper rivets securely
------File: 152.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 152.png
+.pn +1
 fastened at the blunt end with burrs over which the copper
 end is beaten and riveted.
 
@@ -4353,7 +4505,8 @@ hoop-end should be bound with linen line at either side of
 the hole so as to prevent the hoop splitting and the lashing-thongs
 tearing away. This is a very convenient form of
 portable reel and is easily carried about without having to
------File: 153.png---\mmco\tarmo\awg47\Vaitrex\Jaince\---------------------
+// 153.png
+.pn +1
 touch it. A friction-brake can be made from a piece of sole-leather
 that will bear against the edge of one large end of
 the reel so that when paying out cord it may be regulated
@@ -4388,7 +4541,8 @@ wheel should be attached to an axle and one of the pedal-cranks
 made fast to it. Instead of the pedal a wooden
 handle will slip on the pedal axle where it can be secured
 by the nut that held the pedal in place.   The relative posi-*
------File: 154.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 154.png
+.pn +1
 *tions of wheels, axles, and other parts of this reel can be
 seen at Fig. 33. A represents the crank, handle, and large
 wheel; B the axle that passes through the box; C the axle
@@ -4423,14 +4577,16 @@ to flange.
 
 A leather trunk-handle may be made fast to one end of
 the box for convenience in carrying.
------File: 155.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 155.png
+.pn +1
 
 This form of direct gearing with sprocket-wheels and
 chain makes it impossible for the cord-shaft to slip as it will
 do in the grooved wheel and string or leather-belt connections.
 It is simple and sure and quite as easy to pay out
 from as to wind in with.
------File: 156.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 156.png
+.pn +1
 
 
 
@@ -4463,7 +4619,8 @@ in beautiful places so much the better. It happens that by
 common consent certain fish--salmon and trout and their
 kindred--are in Europe and America esteemed above all
 others, and the opportunity to angle for them is not open
------File: 157.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 157.png
+.pn +1
 to every one, and most boys must get their sport with other
 less-esteemed kinds. "Boys' fish" they are sometimes
 slightingly called, but they have lots of sport to give to the
@@ -4495,7 +4652,8 @@ be no more than a newspaper. Wash this basket and dry
 and air it in the sunshine if you can after every using. All
 these things you should do if you wish what you catch to
 be as good as it can be.
------File: 158.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 158.png
+.pn +1
 
 Now, how are you to increase the sport of the catching?
 Of course you want the largest fish and these are usually the
@@ -4529,7 +4687,8 @@ words--care and coolness. Care in the preparation of the
 tackle, coolness in handling it.
 
 When you put your tackle together you will make it far
------File: 159.png---\holger2\mayliffe\awg47\Vaitrex\Jaince\---------------
+// 159.png
+.pn +1
 safer if you consider it as one apparatus or machine from
 hook to reel and if you let the rod top, or "tip," be the
 weakest point of all, because by it you can best determine
@@ -4562,7 +4721,8 @@ which is not so strong but uniform.
 
 The strain upon the tackle is equalized by the elasticity
 of the rod, which to some extent makes up for want of dex-*
------File: 160.png---\Krusnik02\mayliffe\awg47\Vaitrex\Jaince\-------------
+// 160.png
+.pn +1
 *terity. But never have a rod so flexible that it will not
 control the tackle, and, above all, avoid one which is weak
 in the middle.
@@ -4595,7 +4755,8 @@ will be made according to the particular sort of fishing within
 reach. Thus if one fishes ponds or wide streams from the
 bank, a rod a dozen feet long would not be too long; but if
 from a boat, a shorter rod not above ten feet will be more
------File: 161.png---\Krusnik02\mayliffe\awg47\Vaitrex\Jaince\-------------
+// 161.png
+.pn +1
 convenient. Still, shorter rods are better if bait is to be cast
 long distances, as is done in minnow-casting or some kinds of
 sea-fishing. A jointed-rod is convenient for carrying, but if
@@ -4629,7 +4790,8 @@ which have received names are many, and most of them
 have advantages for particular kinds of fishing. Among
 the best are O'Shaughnessy, Limerick, Sneckbend, Aberdeen,
 and Sproat. The last-named we think will meet more
------File: 162.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 162.png
+.pn +1
 kinds of need than any other one. As to size it should be
 remembered that the hook is to fit the bait, not the fish's
 mouth; a very small fish can take any ordinary hook.
@@ -4665,7 +4827,8 @@ draw-string, which will allow your hand to be inserted and
 will also close the aperture snugly. The same string will
 serve to fasten the bag to your button-hole or creel-strap.
 The bag is best made of flannel. Wash it after using.
------File: 163.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 163.png
+.pn +1
 
 Worms are much better if dug a day or two before using
 and "scoured" by putting them into soft moss wrung out
@@ -4703,7 +4866,8 @@ Begin by putting your rod together properly; put the
 tip into the middle first, and then the middle into the butt.
 See that the ferrules are well "home" and that the guides
 are all on the same side so that the line will run freely.
------File: 164.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 164.png
+.pn +1
 Place the reel, if you have one, in the reel-seat and see that
 the reel-bands are snug and will not slip. Then lead off the
 lines through the rings and the tip-ring. These details are
@@ -4736,7 +4900,8 @@ rod nearly straight up, give the line a gentle swing forward,
 and when the bait has swung well out reach after it with the
 rod so that the bait (and float, too, if there be one) shall fall
 as lightly as possible. Do not be in too great a hurry to
------File: 165.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 165.png
+.pn +1
 change its place. If you are fishing in running water, drop
 the bait quietly into the water and so manage the rod that
 it shall neither hasten nor hinder the movement of the bait,
@@ -4770,7 +4935,8 @@ To tell in a few words how to cast a fly is hardly practicable.
 It is not done by force but by knack. A cast consists
 of a back cast which carries the line upward and backward,
 and a forward cast which propels it towards the desired spot.
------File: 166.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 166.png
+.pn +1
 The knack consists in giving with the wrist such a quick
 motion to the rod as shall set its elasticity to work, and this
 carries the line. One must not thrash with the rod.
@@ -4804,7 +4970,8 @@ splash.
 After this restraint of motion has become habitual the
 rule of holding the elbow against the side may be relaxed a
 little, especially in making long casts.
------File: 167.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 167.png
+.pn +1
 [Illustration: <i>Fig. 1</i>
 A
 
@@ -4816,7 +4983,8 @@ A
 B
 
 HOOK-BAITING AND FLY-CASTING]
------File: 168.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 168.png
+.pn +1
 
 Do not try to lift a sunken line suddenly from the water.
 Coax it to the surface, as else the resistance of the line will
@@ -4852,7 +5020,8 @@ As has been said already it hardly pays nowadays to
 make one's own tackle, at least for a beginner. But a few
 things it is useful to know so that repairs and supplies of a
 sort can be made in an emergency. But emergencies are to
------File: 169.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 169.png
+.pn +1
 a great degree prevented by care--by cleaning and looking
 over the rod and the reel whenever you come home, and
 keeping it safe. The reel may need a drop of oil now and
@@ -4864,7 +5033,8 @@ or drawer, and above all from falls or blows.
 [Illustration: <i>Fig. 5</i>]
 
 The repairs most commonly called for are the splicing of
------File: 170.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 170.png
+.pn +1
 a broken rod, the replacing a lost tip-ring or guide-ring, the
 knotting of gut, and the putting a hook to gut. The repair-kit,
 to use a cyclist's phrase, consists of a piece of shoemaker's
@@ -4897,7 +5067,8 @@ Suppose that a joint of the rod has broken with a slanting
 break. It may be that the surfaces can be fitted together
 neatly. In this case they may be joined at once, but if any
 part has been lost or broken away, then the broken surfaces
------File: 171.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 171.png
+.pn +1
 must be trimmed and smoothed with the knife until they
 do fit. They are spliced thus: Rub the surfaces with your
 shoemaker's wax, press them together, and if you cannot
@@ -4932,7 +5103,8 @@ A better knot is that shown at C, which looks complicated
 as drawn, but really is not so, as in tying it the two loops <i>a</i>
 and <i>b</i> are made, the end <i>c</i> laid between them, and then <i>b</i> is
 drawn through <i>a</i>.
------File: 172.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 172.png
+.pn +1
 
 D shows the ordinary simple method of fastening a line to
 the loop of a leader or of a snell. It is the "becket hitch"
@@ -4947,7 +5119,8 @@ Aids for Young Anglers
 
 How often has it happened that on reaching a camping-ground,
 hotel, or boarding-house near river or lake where
------File: 173.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 173.png
+.pn +1
 pickerel, bass, and large perch abounded no provision is
 found for the angler's sport but a boat--no lines, sinkers, or
 floats; no nets for catching live bait, and no bait but worms.
@@ -4980,7 +5153,8 @@ been cast.
 A seine of this size is generally worked by two persons
 and two boats. Each person takes one of the staff lines in
 his boat, and rowing towards the shore with the extended
------File: 174.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 174.png
+.pn +1
 seine describes a semicircle between the boats. As the
 shore is approached each boat closes in, thereby causing the
 two staffs to meet and imprison all the fish that have come
@@ -4990,7 +5164,8 @@ the seine one of the staff lines is tied to a rock or stake on
 [Illustration: <i>Fig. 7</i>]
 
 [Illustration: <i>Fig. 8</i>]
------File: 175.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 175.png
+.pn +1
 the shore and the other line is taken into a boat, or the
 operator wades out and causes his end of the seine to describe
 a circle until the two shafts meet. Great care must
@@ -5023,7 +5198,8 @@ with broad-headed galvanized nails. The top and bottom
 of the wire-cloth are also fastened with nails to the edges of
 the top and bottom of the boat as shown in the drawing.
 A tow-line is fastened to the bow and the boat is complete.
------File: 176.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 176.png
+.pn +1
 
 When handling the bait a small hand-net (Fig. 9) is used,
 consisting of a stout piece of wire as shown in the drawing.
@@ -5060,7 +5236,8 @@ the side of the can; the inside of the handle is chamfered
 off so as to fit close to the inner side of the can. Through
 the can and into the end of the handle a stout nail is driven
 as at A.
------File: 177.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 177.png
+.pn +1
 
 [Illustration: <i>Fig. 9</i>
 
@@ -5079,7 +5256,8 @@ B
 <i>Fig. 14</i>
 
 SOME USEFUL HINTS]
------File: 178.png---\mmco\mayliffe\awg47\Vaitrex\Jaince\------------------
+// 178.png
+.pn +1
 
 A good bait for large fish is a strip cut from the under side
 of a small pickerel, perch, or sunfish, which is placed on the
@@ -5115,7 +5293,8 @@ filled with plant growth, and in low, moist places in meadows.
 In searching for them in grass, wait till you see one jump, then
 catch it in your hands. They are not so easily gotten from the
 shores, as they are apt to take to the water at the first alarm.
------File: 179.png---\mmco\mac383\awg47\Vaitrex\Jaince\--------------------
+// 179.png
+.pn +1
 
 Crabs are usually found under stones along the shores of a
 stream or pond, and in some localities in low, moist places in
@@ -5150,7 +5329,8 @@ and after setting it at one end of the pool drive the minnows
 into it by striking on the water with a pole and punching
 about on the bottom. If you stir up the water the little fish
 will drive more easily.   If your supply must be procured
------File: 180.png---\mmco\Gnistan\Zora\Vaitrex\Jaince\--------------------
+// 180.png
+.pn +1
 from a lake or pond, look among the shallows close inshore
 until you have found a school, then draw a small seine
 around them. Large minnows for pickerel or pike fishing
@@ -5183,7 +5363,8 @@ food to dead. The spoon-hook and the artificial fly, however,
 have proved their worth. The spoon should be of a
 size in keeping with the size of the game fished for, and it is
 well enough to have two--one bright, for use early in the
------File: 181.png---\mmco\mac383\Zora\Vaitrex\Jaince\---------------------
+// 181.png
+.pn +1
 morning and late in the afternoon and on dark days, the
 other dull-colored for use in the brightest part of the day.
 It is an excellent plan to bait a spoon-hook with a large
@@ -5218,7 +5399,8 @@ caught in that way; so I set to work to devise some plan
 for their capture. I claim no originality for this trap--it is
 hundreds of years old; but as it answered my purpose better
 than anything else, I used it. The way I made it was as follows:
------File: 182.png---\mmco\mac383\Zora\Vaitrex\Jaince\---------------------
+// 182.png
+.pn +1
 
 [Illustration: <i>Fig. 15</i>]
 
@@ -5231,7 +5413,8 @@ bent it so as to form a tube three feet long and about one
 foot in diameter (Fig. 15).   I then took two other strips of
 wire-netting, three feet long at the top, one foot wide, and
 two feet at the bottom (Fig. 16); these I bent into funnel
------File: 183.png---\mmco\mac383\Zora\Vaitrex\Jaince\---------------------
+// 183.png
+.pn +1
 shape. I sewed one funnel in about the middle of my cylinder
 and another in one end, as shown in Fig. 15, strengthening
 them in their position with strings from the small ends
@@ -5265,7 +5448,8 @@ glass box which I had made for the purpose, and was successful,
 except that I could not get a water-turtle. There they
 would lie on logs in the pond sunning themselves, but the
 moment I came within reaching distance, plump they would
------File: 184.png---\mmco\mac383\Zora\Vaitrex\Jaince\---------------------
+// 184.png
+.pn +1
 go into the water. At last I took an old soap-box, and after
 carefully removing one end I nailed on the cover. I then
 fastened the end to the cover by hinges, so that it would
@@ -5300,7 +5484,8 @@ fitted at the bottom and provided with a hat that is held
 on by two straps of green oak.
 
 Three forms are used on which to build up the basket-*
------File: 185.png---\mmco\mac383\awg47\Vaitrex\Jaince\--------------------
+// 185.png
+.pn +1
 *work. The large form is usually ten inches in diameter and
 shaped down to eight inches at the top or neck. This form
 is two feet long and has a round stick driven in the small
@@ -5332,7 +5517,8 @@ at the bottom as shown in Fig. 19. Ribs are tied to this
 form the same as in the case of the large one, and the weaving
 begins at the bottom and is carried to the top, where the
 ends of the ribs are shaved and turned in as before described.
------File: 186.png---\mmco\mac383\awg47\Vaitrex\Jaince\--------------------
+// 186.png
+.pn +1
 [Illustration: <i><sc>Fig 20</sc></i>
 
 <i><sc>Fig 18</sc></i>
@@ -5358,7 +5544,8 @@ circle, so as to make an uneven number of ribs; thus the
 weaving will not duplicate after the first turn around the
 circle. This extra rib is shown at A in Fig. 20. A hat form,
 shown in Fig. 21, is made of wood and mounted on a block
------File: 187.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 187.png
+.pn +1
 so that it will revolve the same as the other forms. When
 a part of the hat is woven it is placed on the form and two
 small nails driven through the ribs into the form to hold the
@@ -5392,7 +5579,8 @@ in most any general store near a bay or pond, but the ingenious
 boy can make one himself from a hoop and a ball
 of cotton twine. Hang long pieces of string over the ring
 and tie them fast with a square knot.   Then tie one string
------File: 188.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 188.png
+.pn +1
 with its next neighbor all around the circle. Begin lower
 down and tie them again, and continue in this manner until
 the net resembles Fig. 23. When it is seven or eight inches
@@ -5425,7 +5613,8 @@ If fish are to be caught in this manner the hoops should be
 larger and one more added to the net, making it thirty inches
 deep. Fish are cunning and swift, and will often dart up
 and over the top hoop faster than you can haul it up.
------File: 189.png---\mmco\DACSoft\awg47\Vaitrex\Jaince\-------------------
+// 189.png
+.pn +1
 
 
 
@@ -5458,7 +5647,8 @@ handle.
 
 To begin with, obtain some spruce joist clear-grained and
 free from knots.   They should be two-by-four inches and
------File: 190.png---\mmco\DACSoft\awg47\Vaitrex\Jaince\-------------------
+// 190.png
+.pn +1
 twelve feet long. Cut one of them eight feet long and use
 it for the main cross-piece to which the front wheels are
 attached. Form a V of two twelve-foot joist[**s], and fasten
@@ -5473,7 +5663,8 @@ a hole one inch and a half square is cut and into it a tenon
 on the butt-end of the bowsprit fits as shown in Fig. 3.
 
 [Illustration: <i><sc>Fig 1</sc></i>]
------File: 191.png---\mmco\DACSoft\awg47\Vaitrex\Jaince\-------------------
+// 191.png
+.pn +1
 
 The bowsprit is seven feet long and is bolted fast to the
 long cross-piece. Where the end fits into the timber A two
@@ -5508,7 +5699,8 @@ The mast-step is rigged over the forward cross-timber.
 Two upright pieces of board twenty inches long and eight
 inches wide are attached to the outside edges of the frame-*joist
 with screws.   On top of these a cross-piece is made
------File: 192.png---\mmco\DACSoft\awg47\Vaitrex\Jaince\-------------------
+// 192.png
+.pn +1
 fast so that the step presents the appearance of a bench.
 Two pieces of board six inches wide are fastened from the
 corners down to the bowsprit and cross-timber to brace the
@@ -5532,7 +5724,8 @@ A hole three inches in diameter is cut at the middle of the
 step-board, and through this the mast is slipped. A half-inch
 round iron is driven into the bottom of the mast after a
 hole has been bored with a bit.   It should be long enough
------File: 193.png---\mmco\DACSoft\awg47\Vaitrex\Jaince\-------------------
+// 193.png
+.pn +1
 to project out about two inches. This steps into a hole
 bored in the top of the bowsprit, and with the three wire
 stays that are caught at the top of the mast and into the
@@ -5568,7 +5761,8 @@ iron rings, and with a halyard and pulley at mast-head the
 sail may be raised and lowered at will.
 
 In localities where there are hard roads and where the
------File: 194.png---\mmco\DACSoft\awg47\Vaitrex\Jaince\-------------------
+// 194.png
+.pn +1
 wind has a good sweep these land-yachts have become very
 popular. Of course they are much safer than water-boats
 for there is no danger of drowning, and it is quite impossible
@@ -5603,14 +5797,16 @@ bar the same size for the rear axle but do not bolt it
 fast. This must be arranged on a king-bolt so that it can
 be turned by a post and tiller. The king-bolt and post
 should be in one piece, and this will have to be made by a
------File: 195.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 195.png
+.pn +1
 
 [Illustration: <i><sc>Fig 8</sc></i>
 
 <i><sc>Fig 9</sc></i>
 
 A SAIL-WAGON]
------File: 196.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 196.png
+.pn +1
 blacksmith. Two round iron plates of metal one-eighth of
 an inch thick and five inches in diameter are provided with
 screw-holes at the outer edge and with round holes at the
@@ -5642,7 +5838,8 @@ Fig. 9 C. When the wagon is in motion a turn of the handle
 will operate the axle and steer the moving vehicle easily.
 
 The wheels should be all the same size, but if they cannot
------File: 197.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 197.png
+.pn +1
 be had and only a pair of large and small ones are available
 place the smaller ones at the rear. The axle need not run
 the entire length of the axle-tree, but shorter pieces may be
@@ -5676,7 +5873,8 @@ A Pushmobile
 
 The pushmobile (Fig. 10) is another interesting road or
 sidewalk car and one with which two boys can share con-*
------File: 198.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 198.png
+.pn +1
 *siderable fun. In general appearance the pushmobile resembles
 something between an automobile and a buck-board,
 as there is a long reach between the fore and aft wheels. The
@@ -5708,7 +5906,8 @@ driven up through the under side of the board and into the
 lower part of the box. The steering-shaft and wheel are
 arranged about one foot in front of the seat. This is a shaft
 of hard-wood (such as a curtain-pole or any good tough
------File: 199.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 199.png
+.pn +1
 stick) about one inch and a half square or in diameter. It
 mounts on a block of wood which is screwed fast to the large
 board and provided with a hole through which the shaft
@@ -5728,7 +5927,8 @@ fast to the shaft so that it is held securely in place.
 <i><sc>Fig 11</sc></i>
 
 <i><sc>Fig 12</sc></i>]
------File: 200.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 200.png
+.pn +1
 
 The rear wheels are attached to an axle that in turn is
 bolted fast to a bar of wood eighteen inches long and two
@@ -5761,7 +5961,8 @@ make it fast to the wire and axle at one end so as to
 draw the wire taut and hold it in place, for the tighter
 the wire the better the shaft will act when turned by the
 wheel.
------File: 201.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 201.png
+.pn +1
 
 A brake is to be made fast at one side of the car as shown
 in Fig. 10. Have a blacksmith turn a piece of one-inch thin
@@ -5796,13 +5997,15 @@ the wheel and shaft the boy behind can reach forward and
 operate the brake.
 
 If coasting is done on very steep hills or roads it would be
------File: 202.png---\mmco\Blue Berry\awg47\Vaitrex\Jaince\----------------
+// 202.png
+.pn +1
 well to have a brake to operate on both rear wheels, for the
 momentum of a rapidly moving car will often drag a "dead"
 wheel if the other three are running easily; whereas if both
 back wheels are "dead" the car can be brought to a quick
 stop.
------File: 203.png---\mmco\Blue Berry\awg47\Vaitrex\Little_Joe\------------
+// 203.png
+.pn +1
 
 
 
@@ -5835,7 +6038,8 @@ so that a foot of each rail will extend beyond the rear of the
 barrel. At both ends a rail corresponding in width and
 thickness is cut and fitted between the ends of the rails as
 shown at A A. These are to be held in position with long,
------File: 204.png---\mmco\Blue Berry\awg47\Vaitrex\Little_Joe\------------
+// 204.png
+.pn +1
 steel-wire nails or with screws, which always make the best
 and most secure joints.
 
@@ -5850,7 +6054,8 @@ be made fast to the under side of the side-rails about at the
 middle as shown at B B. This is a precaution taken to
 prevent the rails spreading and letting the heavy barrel full
 of water drop.   In addition to the screws that are driven
------File: 205.png---\mmco\Blue Berry\Janet\Vaitrex\Little_Joe\------------
+// 205.png
+.pn +1
 through the side-rails and into the barrel, it would be well to
 screw a batten fast at each side over the rail as shown at C.
 This lug will help the bearing and take the strain from the
@@ -5883,7 +6088,8 @@ When running to a fire some shavings, chips, or cotton
 on which some paraffine has been melted is put in this
 smoke-pipe and lit, and as the engine is drawn along the
 sparks and smoke will shoot out from the top of the pipe in
------File: 206.png---\mmco\Blue Berry\awg47\Vaitrex\Little_Joe\------------
+// 206.png
+.pn +1
 a very realistic manner. The seat is made of a box on top
 of which a back and side-arms are arranged as shown in
 Fig. 1, and when it is complete it is attached to the side-rails
@@ -5916,7 +6122,8 @@ from the smoke-pipe will not fall on and ignite the contents.
 If it is possible to obtain a force-pump it can be
 mounted on one of the bases arranged at the side of the
 barrel.
------File: 207.png---\mmco\Blue Berry\awg47\Vaitrex\Little_Joe\------------
+// 207.png
+.pn +1
 
 The suction-hose should come from the under side of the
 barrel and be attached to the base of the pump. The coupling
@@ -5953,7 +6160,8 @@ A hose-carriage (Fig. 4) to accompany the engine is made
 of wood and constructed on the same lines as the engine.
 
 The frame is made of boards six inches wide, seven-eighths
------File: 208.png---\mmco\mac383\awg47\Vaitrex\Little_Joe\----------------
+// 208.png
+.pn +1
 of an inch thick, and is five feet long by two feet wide as
 shown at Fig. 5. A dash-board is made and fastened to the
 front of the frame, and between the dash-board and seat the
@@ -5987,7 +6195,8 @@ Attach one end to the flat end of the hub. The other
 piece should have a square hole cut in it so that it will fit
 over the square shoulder cut on the other end of the axle
 as shown at Fig. 6 A.   Attach both ends to the axle with
------File: 209.png---\mmco\mac383\awg47\Vaitrex\Little_Joe\----------------
+// 209.png
+.pn +1
 
 [Illustration: <i><sc>Fig 4</sc></i>
 
@@ -6002,7 +6211,8 @@ as shown at Fig. 6 A.   Attach both ends to the axle with
 <i><sc>Fig 7</sc></i>
 
 HOSE-CARRIAGE AND HOOK-AND-LADDER TRUCK]
------File: 210.png---\mmco\mac383\awg47\Vaitrex\Little_Joe\----------------
+// 210.png
+.pn +1
 long, steel-wire nails, then from a piece of hard-wood cut a
 crank and handle as shown at Fig. 6 B. The crank is ten
 inches long and at both sides of the square hole the wood
@@ -6035,7 +6245,8 @@ both small and large boys a truck eight feet long will be a
 very good size. The frame or body is made of boards six
 inches wide, seven-eighths of an inch thick, and is eight
 feet long by thirty inches wide.   The frame should be braced
------File: 211.png---\mmco\poor poet\awg47\Vaitrex\Little_Joe\-------------
+// 211.png
+.pn +1
 across the bottom, at the middle, and near both ends to prevent
 it from racking. Two cross-timbers for the axles are
 made fast under the forward and rear ends, and to the forward
@@ -6069,7 +6280,8 @@ and will not slide sidewise as a narrower ladder is apt to do.
 The dash-board and forward deck are supported on two
 bracket-plates made fast to the forward part of the body
 frame, and on the deck planking a box-seat with sides and
------File: 212.png---\mmco\dlc1265\awg47\Vaitrex\Little_Joe\---------------
+// 212.png
+.pn +1
 back is to be made fast. Stout iron hooks are driven in
 along both sides of the body between forward and rear
 wheels, and on them ordinary wooden pails or buckets may
@@ -6093,7 +6305,8 @@ should be taken to cut the mortises accurately so that the
 parts will fit snugly together. Ladder-building is different
 from ordinary carpentry, and pains should be taken to have
 all the joints very tight so that they will not rack.
------File: 213.png---\mmco\Blue Berry\awg47\Vaitrex\Little_Joe\------------
+// 213.png
+.pn +1
 
 
 
@@ -6127,7 +6340,8 @@ up to the hub, at another the water may hardly touch the
 blades of the wheel.
 
 These forms of old-style wheels have become almost ob-*
------File: 214.png---\AmberK\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 214.png
+.pn +1
 *solete now as the modern turbine has superseded it as a
 means of employing water as a motive power. Less than
 one-quarter of the surface of the old-time wheels would be
@@ -6160,7 +6374,8 @@ quarter wide and three inches long. Into them the spokes
 are driven and held with screws or iron pins. Another pair
 of holes are cut thirty inches from the first and two more
 spokes driven in them.   The spokes are thirty inches long,
------File: 215.png---\mmco\Blue Berry\awg47\Vaitrex\Little_Joe\------------
+// 215.png
+.pn +1
 thus leaving thirteen and a half inches of each one projecting
 beyond the axle or hub.
 
@@ -6195,7 +6410,8 @@ inches apart. One side of each spoke should be cut as shown
 at B in order that the blades may rest against a flat place
 instead of a rounded surface. The blades should be from
 thirty to thirty-six inches long and ten or twelve inches wide,
------File: 216.png---\sajomt\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 216.png
+.pn +1
 and held to the spokes with carriage or tire bolts. This wheel
 may be swung in bearings as described in Fig. 1, and from
 the square end of the axle the power can be taken.
@@ -6231,7 +6447,8 @@ into them an axle is driven. It is provided with rounded
 bearings and square end. When swung in a carriage and
 connected a powerful wheel will be the result if the force of
 water is sufficient to drive it.
------File: 217.png---\sajomt\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 217.png
+.pn +1
 
 [Illustration: <i><sc>Fig 1</sc></i>
 
@@ -6242,7 +6459,8 @@ water is sufficient to drive it.
 <i><sc>Fig 4</sc></i>
 
 WATER-WHEELS]
------File: 218.png---\sajomt\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 218.png
+.pn +1
 
 
 An Undershot-wheel
@@ -6276,14 +6494,16 @@ of belting or rope.
 
 Another arrangement for this wheel will be to swing it in
 a cradle or frame so that one end of it may be lifted to reduce
------File: 219.png---\sajomt\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 219.png
+.pn +1
 
 [Illustration:<i> <sc>Fig 5</sc></i>
 
 <i><sc>Fig 6</sc></i>
 
 POWER-WHEEL AND WHEEL-RACE]
------File: 220.png---\sajomt\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 220.png
+.pn +1
 the speed or power of the wheel, the other end being
 securely attached to a tree-trunk with hinges.
 
@@ -6296,7 +6516,8 @@ digging it out at the middle and damming it at the sides as
 shown by the diagram of a modified brook (Fig. 6). The
 dams should be solidly built and if possible cribbed to prevent
 their washing away.
------File: 221.png---\sajomt\Blue Berry\awg47\Vaitrex\Little_Joe\----------
+// 221.png
+.pn +1
 
 
 
@@ -6304,9 +6525,11 @@ their washing away.
 Part III
 
 AFLOAT
------File: 222.png---\limld\Blue Berry\awg47\Vaitrex\Little_Joe\-----------
-[Blank Page]
------File: 223.png---\Zarastra\Blue Berry\awg47\Vaitrex\Little_Joe\--------
+// 222.png
+.pn +1
+// [Blank Page]
+// 223.png
+.pn +1
 
 
 
@@ -6342,7 +6565,8 @@ over again when he is older and more serious work begins.
 
 In this chapter a few of the simpler forms of boats are
 shown, and the warning must be given at the start that the
------File: 224.png---\Zarastra\Blue Berry\awg47\Vaitrex\Little_Joe\--------
+// 224.png
+.pn +1
 young shipwright should use the greatest care in constructing
 a boat, not only for the natural pride they will take
 in making a good one, but for the still more important
@@ -6377,7 +6601,8 @@ nailed to the edges of the sides and to an inner keel-strip
 running the entire length of the bottom as shown in Fig. 3.
 
 The wood should be very dry so that it will not shrink
------File: 225.png---\Zarastra\Blue Berry\awg47\Vaitrex\Little_Joe\--------
+// 225.png
+.pn +1
 
 [Illustration: <i>Fig. 1</i>
 
@@ -6388,7 +6613,8 @@ The wood should be very dry so that it will not shrink
 <i><sc>Fig 3</sc></i>
 
 PUNT AND SCOW]
------File: 226.png---\Zarastra\Blue Berry\WebRover\Vaitrex\Little_Joe\-----
+// 226.png
+.pn +1
 afterwards and open the seams. Along the edges, and
 before the planking is laid or nailed on, smear white-lead,
 and lay one or two thicknesses of lamp-wicking on the lead,
@@ -6423,7 +6649,8 @@ shallow water and is poled generally instead of being rowed.
 It is built in a similar manner to the punt, but the ends are
 not cut under. A good size to make the scow for general
 use will be fourteen feet long, eighteen inches deep, and four
------File: 227.png---\Zarastra\Blue Berry\awg47\Vaitrex\Little_Joe\--------
+// 227.png
+.pn +1
 feet wide. It may be provided with two or three seats, and
 when complete both the punt and scow should receive two
 or three good coats of paint.
@@ -6458,7 +6685,8 @@ From a piece of hard-wood cut a stem eighteen inches
 long and four inches wide, with bevelled planes, as shown
 in Fig. 6. A section or end view of this post will appear
 like Fig. 6 A.   Against the cut-in sides of this post the bow
------File: 228.png---\Zarastra\mac383\awg47\Vaitrex\Little_Joe\------------
+// 228.png
+.pn +1
 ends of the side boards are to be attached with screws or
 galvanized boat nails.
 
@@ -6493,7 +6721,8 @@ the twisting until the ends of the side boards are
 twenty-one inches apart. Before this bending process is
 begun, it would be well to pour a kettleful of boiling water
 over each side board to limber them, for dry boards are
------File: 229.png---\Zarastra\mac383\awg47\Vaitrex\Little_Joe\------------
+// 229.png
+.pn +1
 
 [Illustration: <i><sc>Fig 5</sc></i>
 
@@ -6508,7 +6737,8 @@ over each side board to limber them, for dry boards are
 <i><sc>Fig 9</sc></i>
 
 A SHARPY]
------File: 230.png---\jandgward\Blue Berry\awg47\Vaitrex\jobrien892\-------
+// 230.png
+.pn +1
 stiff and will not bend easily without checking or cracking.
 If it is possible to steam the boards they will yield still
 better to the bending process.
@@ -6544,7 +6774,8 @@ used to make the start for the nail-hole.
 
 A seat ten inches wide is fastened at the middle of the
 boat, over the spreader, and seats may also be arranged
------File: 231.png---\jandgward\Blue Berry\awg47\Vaitrex\jobrien892\-------
+// 231.png
+.pn +1
 at the bow and stern, where they rest on cleats that are
 screwed fast to the sides.
 
@@ -6580,7 +6811,8 @@ A Dory
 A dory (Fig. 11), is somewhat similar to a sharpy but
 has higher sides and a narrower bottom, therefore it draws
 more water than a wide, flat-bottomed sharpy.
------File: 232.png---\ricksoft\Blue Berry\awg47\Vaitrex\jobrien892\--------
+// 232.png
+.pn +1
 
 A boy can make a dory from twelve to sixteen feet long,
 but a fourteen-foot dory will be quite large enough to hold
@@ -6604,7 +6836,8 @@ or bottom of the boat.
 [Illustration: <sc>Fig 14</sc>]
 
 A stem and stern-piece (Fig. 13 A and B) are cut from
------File: 233.png---\ricksoft\bnewman\awg47\Vaitrex\jobrien892\-----------
+// 233.png
+.pn +1
 hard-wood, and to these the wooden sides are made fast
 at both ends. The bow and stern of a dory have more of
 a rake than those of a sharpy as may be seen in Fig. 11.
@@ -6640,14 +6873,16 @@ it with a lee-board if a centre-board cannot be arranged
 in the middle of the hull. Fig. 18.
 
 The half-deck will keep out the water that might splash
------File: 234.png---\ricksoft\bnewman\awg47\Vaitrex\jobrien892\-----------
+// 234.png
+.pn +1
 
 [Illustration: <sc>Fig 18</sc>
 
 <sc>Fig 15</sc>
 
 A SAILING SHARPY]
------File: 235.png---\ricksoft\bnewman\awg47\Vaitrex\jobrien892\-----------
+// 235.png
+.pn +1
 over the sides or come over the bow and stern, and the row-boat
 features need not be altered nor the seats removed,
 as the rib and brace work for the deck can easily be fitted
@@ -6681,7 +6916,8 @@ leaded the deck should be water-tight after it receives varnish
 or paint.
 
 If straight boards are employed in place of the narrow
------File: 236.png---\Trimmel\bnewman\awg47\Vaitrex\jobrien892\------------
+// 236.png
+.pn +1
 planking the deck can be covered with canvas and first given
 a coat of oil, then several successive thin coats of paint. The
 canvas should be tacked down over the outer edge of the
@@ -6716,7 +6952,8 @@ of this an iron strap is fastened to hold the tiller as shown in
 Fig. 17 A. The rudder is hung to the stern of the boat with
 pins and sockets, as shown in Fig. 17 B, so that if it becomes
 necessary the rudder may be unshipped by lifting it out
------File: 237.png---\Trimmel\bnewman\awg47\Vaitrex\jobrien892\------------
+// 237.png
+.pn +1
 of the sockets or eyes. The rudder is fastened to the post
 with galvanized-iron pins ten inches long and three-eighths
 of an inch in diameter driven through snug holes bored in
@@ -6752,7 +6989,8 @@ The arrangement of the trunk in the boat is shown in
 Fig. 19, and it is located so that the front of the trunk is
 three feet from the bow. For a centre-board one inch and
 a quarter in thickness the trunk should be one inch and
------File: 238.png---\Sanje\bnewman\awg47\Vaitrex\jobrien892\--------------
+// 238.png
+.pn +1
 three-quarters wide between sides, five feet long, and eighteen
 inches high. It is made of tongue-and-grooved boards
 one inch and one-eighth in thickness, and these are attached
@@ -6787,7 +7025,8 @@ auger. The rods are riveted at both ends over washers to
 prevent the boards from working apart.
 
 It would be better to let a boat-builder or carpenter make
------File: 239.png---\Sanje\bnewman\awg47\Vaitrex\jobrien892\--------------
+// 239.png
+.pn +1
 
 [Illustration: <sc>Fig 17</sc>
 
@@ -6800,7 +7039,8 @@ It would be better to let a boat-builder or carpenter make
 <sc>Fig 20</sc>
 
 A CENTRE-BOARD SHARPY]
------File: 240.png---\Sanje\Amsel\awg47\Vaitrex\jobrien892\----------------
+// 240.png
+.pn +1
 this board the proper size and shape to fit the trunk, for it is
 the most difficult thing to construct about a boat and somewhat
 beyond the ability of many boys. A large galvanized
@@ -6836,14 +7076,16 @@ the middle for five or six feet as shown in Fig. 23. Between
 the sides place four or five spreaders, two of which should be
 stout enough to receive the bolts that will hold the two cross-braces
 or outriggers. Set a step-block for the mast, then
------File: 241.png---\Krusnik02\Amsel\awg47\Vaitrex\jobrien892\------------
+// 241.png
+.pn +1
 
 [Illustration: <sc>Fig 22</sc>
 
 <sc>Fig 23</sc>
 
 A PROA]
------File: 242.png---\Krusnik02\Amsel\awg47\Vaitrex\jobrien892\------------
+// 242.png
+.pn +1
 plank the deck and bottom, using plenty of white-lead and
 lamp-wicking between the joints.
 
@@ -6881,7 +7123,8 @@ A Lark
 
 Perhaps the safest kind of a sailing-craft next to a catamaran
 is a lark with a broad beam and flat at both bow
------File: 243.png---\Sanje\Amsel\awg47\Vaitrex\jobrien892\----------------
+// 243.png
+.pn +1
 and stern. There are various forms of the half-rater, but
 the one shown in Fig. 24 is easy to construct and requires
 less careful fitting and joining than the hulls with pointed
@@ -6897,7 +7140,8 @@ Obtain two clear cedar planks sixteen feet long and from
 fourteen to sixteen inches wide. Four feet from either end
 begin to round the lower edges of these side boards. Cut
 two spreaders five feet and six inches long and make them
------File: 244.png---\Sanje\Amsel\awg47\Vaitrex\jobrien892\----------------
+// 244.png
+.pn +1
 fast four feet from the ends of the sides as shown at Fig. 25.
 Between these spreaders attach an inner keel in the forward
 end of which an opening has been made. The keel is of
@@ -6931,7 +7175,8 @@ is embedded. Make all the fastenings with galvanized boat
 nails and drive the heads well into the wood with a nail-punch
 so they can be puttied and covered from the action
 of the water. An outer flat keel is laid along the bottom
------File: 245.png---\Sanje\Yosemite_Don\awg47\Vaitrex\jobrien892\---------
+// 245.png
+.pn +1
 
 [Illustration: <i><sc>Fig 25</sc></i>
 
@@ -6944,7 +7189,8 @@ of the water. An outer flat keel is laid along the bottom
 <i><sc>Fig 28</sc></i>
 
 A LARK]
------File: 246.png---\Sanje\Yosemite_Don\awg47\Vaitrex\jobrien892\---------
+// 246.png
+.pn +1
 of the hull from the forward part of the cockpit or about
 under the mast. This leads aft to where the stern begins
 to round up and there it is stopped.
@@ -6983,7 +7229,8 @@ bowsprit and to both sides of the boat as shown in Fig. 24.
 
 The main-sheet is seven feet on the mast, ten feet on the
 gaff, fourteen feet at the foot or on the boom, and eighteen
------File: 247.png---\Sanje\Yosemite_Don\awg47\Vaitrex\jobrien892\---------
+// 247.png
+.pn +1
 feet on the leach. The jib is eleven feet on the forestay,
 five feet at the foot, and ten feet on the leach. The blocks
 are all of galvanized iron or wood, and three-eighth-inch
@@ -7018,7 +7265,8 @@ deck and at the outer end U-notches are cut for the axle of
 the wheels to fit into and capped with iron straps such as
 shown in Fig. 32. A blacksmith will make these for you
 from strap-iron an eighth of an inch thick and two inches
------File: 248.png---\paddycasy\Yosemite_Don\awg47\Vaitrex\jobrien892\-----
+// 248.png
+.pn +1
 wide. They should be bolted on when the wheels are in
 position, for they not only have to support the weight of the
 wheels but also stand the action of the water against them.
@@ -7032,7 +7280,8 @@ wheels but also stand the action of the water against them.
 [Illustration: <i><sc>Fig 33</sc></i>]
 
 The wheels are each twenty-four inches in diameter and
------File: 249.png---\paddycasy\Yosemite_Don\awg47\Vaitrex\jobrien892\-----
+// 249.png
+.pn +1
 two feet long, and are made from wood seven-eighths of
 an inch in thickness. Seven blades eight inches wide are
 screwed fast to the sides or held in place with long, galvanized
@@ -7069,13 +7318,15 @@ the sides, and an awning six by ten feet can be supported
 over the machinery of the boat to keep off sun and rain.
 
 This is a genuine boy-power boat, and as the wheels are
------File: 250.png---\Trimmel\Blue Berry\awg47\Vaitrex\jobrien892\---------
+// 250.png
+.pn +1
 substantially large and strong it can be driven over the
 water at quite a good speed. While it takes two boys to
 properly run it, that is not the boat's capacity, for she will
 easily carry from four to six boys, their lunch-baskets, or a
 one-day camping outfit for a visit up the river or lake.
------File: 251.png---\Trimmel\Blue Berry\awg47\Vaitrex\jobrien892\---------
+// 251.png
+.pn +1
 
 
 
@@ -7110,7 +7361,8 @@ long and twelve inches wide provided with two U-cuts as
 shown in Fig. 3. These are placed at the bottom, so that any
 water may be run to one end of a boat where it can be
 pumped out.
------File: 252.png---\Sanje\Blue Berry\awg47\Vaitrex\jobrien892\-----------
+// 252.png
+.pn +1
 
 [Illustration: <i><sc>Fig 1</sc></i>]
 
@@ -7129,7 +7381,8 @@ edge of the stern and to the deck.
 The bottom is of three-inch pine or white-wood boards
 seven-eighths of an inch thick and well leaded in the joints
 and along the edges where the bottom and top boards join
------File: 253.png---\Sanje\Blue Berry\awg47\Vaitrex\jobrien892\-----------
+// 253.png
+.pn +1
 the sides. Before the top or deck is placed on, the interior
 of the boats should have two or three good coats of paint.
 
@@ -7166,7 +7419,8 @@ similar to that used for house construction.
 
 Fig. 5 shows a side elevation of a safe catamaran, and in
 Fig. 6 the deck plan is shown.   In Fig. 7 an elevation view
------File: 254.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 254.png
+.pn +1
 of the stern shows the arrangement of the boats, deck timbers,
 and rudders.
 
@@ -7184,7 +7438,8 @@ They are cut in at the bottom to slip over the keel and to
 them the sheathing planks are made fast.
 
 [Illustration: <i><sc>Fig 5</sc></i>]
------File: 255.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 255.png
+.pn +1
 
 In Fig. 8 the curved stem-piece and one side of planking
 is shown, and it indicates also where the curved stem-piece
@@ -7220,7 +7475,8 @@ desired shade of paint.
 
 Three spruce timbers eight feet long, three inches thick,
 and six inches wide are bored with holes at the ends where
------File: 256.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 256.png
+.pn +1
 the bolts pass through them and into the boats. Running
 parallel to the boats three timbers are laid across the brace-timbers
 and on top of these the deck planking is nailed.
@@ -7257,7 +7513,8 @@ a safety-rope around the deck.
 
 The rudder-posts are of hard-wood one inch and a quarter
 thick and two inches and a half in width. They are three
------File: 257.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 257.png
+.pn +1
 
 [Illustration: <i><sc>Fig 6</sc></i>
 
@@ -7270,7 +7527,8 @@ thick and two inches and a half in width. They are three
 <i><sc>Fig 10</sc></i>
 
 A SAILING CATAMARAN]
------File: 258.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 258.png
+.pn +1
 feet long and to the upper end of each a strap of metal is
 arranged to receive the tiller as shown in Fig. 9.
 
@@ -7306,7 +7564,8 @@ the boat a rich olive green, with buff decks, and all the cross-*pieces
 and deck planking in ivory white.
 
 The ordinary sailing rules will apply to the handling of a
------File: 259.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 259.png
+.pn +1
 catamaran. With these wedge-shaped boats you can sail
 quite close to the wind, but if round-bottomed and shallower
 boats are used they will have to be provided with centre-boards.
@@ -7341,7 +7600,8 @@ the wedges to help in holding them securely in place.
 In Fig. 11, which is a stern view of the rowing catamaran,
 one of the paddle-wheels is shown in place, and it also shows
 the location of the axle, the sprocket-wheel, and the chain
------File: 260.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 260.png
+.pn +1
 that leads to the large sprocket-wheel by means of which
 the axle is turned.
 
@@ -7360,7 +7620,8 @@ the forward upright of the seat-frame with metal straps.
 At its lower end a wooden wheel having a groove is made
 fast, around which a wrap or two of the wire-cable is taken
 to hold the rudder steady.
------File: 261.png---\booklover9\Blue Berry\awg47\Vaitrex\jobrien892\------
+// 261.png
+.pn +1
 
 
 
@@ -7395,7 +7656,8 @@ The frame is made of clear spruce timbers six inches wide
 and two inches thick. The timber A is eight feet long, B B
 are eleven feet long, C is five feet long, and D D are each
 three feet long.
------File: 262.png---\darylo\Blue Berry\awg47\Vaitrex\jobrien892\----------
+// 262.png
+.pn +1
 
 At the front corners and at the back the timbers are bevelled,
 as shown in the plan drawing, and they are joined with
@@ -7412,7 +7674,8 @@ The bowsprit is cut from spruce two inches and a half by
 four inches, and tapered at the outer end, where a withe having
 three eyes is driven on. The top eye receives the forestay
 and the side ones the bobstay cables that run to the
------File: 263.png---\darylo\Blue Berry\awg47\Vaitrex\jobrien892\----------
+// 263.png
+.pn +1
 corners of the boat, where they are drawn taut with turn-buckles.
 The shoe-blocks F F are twenty-four inches long
 and three inches square, and are bolted to the timbers A and
@@ -7445,7 +7708,8 @@ the lower edge is at the outside of the boat. Shanks with
 bolt-tops and collars pass through the holes made in the
 shoe-blocks F F, and are securely held with nuts screwed
 down on washers so as not to cut the wood.
------File: 264.png---\mmco\Blue Berry\awg47\Vaitrex\jobrien892\------------
+// 264.png
+.pn +1
 
 The rudder (Fig. 3 B) is a chisel-edged piece of steel twelve
 inches long turned up at both ends and mounted at the foot
@@ -7465,7 +7729,8 @@ made of steel or iron, as wooden ones are useless.
 The mast is twelve feet high and three inches and a half
 or four inches in diameter, slightly tapered near the top.
 The gaff is six feet long and the boom twelve feet in length.
------File: 265.png---\mmco\Blue Berry\awg47\Vaitrex\jobrien892\------------
+// 265.png
+.pn +1
 The main-sail measures eight feet on the mast, five feet on
 the gaff, eleven on the boom, and the leach is thirteen feet
 long. The jib is ten feet on the forestay, six feet at the foot,
@@ -7500,7 +7765,8 @@ is eleven feet long.
 
 The gaff is sixteen feet long and the boom eighteen feet
 in length, and the leach of the sail is fourteen feet.
------File: 266.png---\mmco\Trimmel\awg47\Vaitrex\jobrien892\---------------
+// 266.png
+.pn +1
 
 The gaff is hauled up into the crotch formed by the masts,
 and a set of blocks and tackle at the bottom of the sail on
@@ -7516,7 +7782,8 @@ at all times.
 This is a very easy rig to handle as it relieves the steers-*man
 from the bother of the jib-sheets which are annoying
 in a stiff breeze.
------File: 267.png---\mmco\Trimmel\awg47\Vaitrex\jobrien892\---------------
+// 267.png
+.pn +1
 
 
 Scoots and Scooters
@@ -7553,7 +7820,8 @@ wood.
 
 The hull should be from twelve to fifteen feet long and
 from four to five feet wide across the widest part. It is
------File: 268.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 268.png
+.pn +1
 fifteen inches deep, and is provided with a centre-board
 and trunk the same as described for the sailing sharpy on
 page 221. [** page?]
@@ -7564,7 +7832,8 @@ The mast is twelve feet long or about ten feet above the
 deck; the gaff is seven feet and the boom eleven feet
 long. The bowsprit is four feet long and is bolted to the
 forward deck, and from the end of it to the top of the
------File: 269.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 269.png
+.pn +1
 mast a light, wire-cable forestay is made fast for the jib to
 run on.
 
@@ -7600,7 +7869,8 @@ in the water.
 
 A scoot is a cranky boat on the ice as the runners or fore-*shoes
 are closer together than on an ice-boat with a trian-*
------File: 270.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 270.png
+.pn +1
 *gular frame. Going before the wind it is all right, but when
 sailing on or up into a stiff wind it will keep a boy moving
 to hold his balance and steady the boat.
@@ -7615,7 +7885,8 @@ It is twelve feet long over all with a five-foot beam and
 fourteen inches high including deck and bottom. The side
 boards are twelve inches wide, curved up at the bow, and
 bent in at the stern as shown in the illustration.
------File: 271.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 271.png
+.pn +1
 
 Twin masts are stepped two feet from the bow and lashed
 together nine feet above the deck. The rigging is the same
@@ -7639,7 +7910,8 @@ the one shown in Fig. 9.
 
 Two spruce planks twelve feet long and ten inches wide are
 attached to three battens and separated four inches. The
------File: 272.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 272.png
+.pn +1
 stern batten is four inches high and two inches wide, and
 through a hole made in the middle the shank of the rudder-post
 extends, from the top of which the tiller works.
@@ -7667,7 +7939,8 @@ though it will not run nearly as close to the wind as the ice-*boats
 or scoots. Paint or varnish will give the wood-work a
 good finish, and under a stiff breeze this wind-runner will
 carry four or five boys.
------File: 273.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 273.png
+.pn +1
 
 
 
@@ -7700,7 +7973,8 @@ side board. This is to be placed at the middle of the punt
 so as to receive the sheathing and deck planking. The
 arrangement of this middle rib and the side boards is shown
 in Fig. 3 and at A in Fig. 3. A batten is shown to which
------File: 274.png---\bnewman\scholarhere2\awg47\Vaitrex\jobrien892\-------
+// 274.png
+.pn +1
 the upper and lower boards of a side are nailed fast. If the
 two boards are used it will be necessary to arrange these
 battens along the inside of each side about eighteen inches
@@ -7734,7 +8008,8 @@ beaten in, forms a gully in which a string of lamp-wick can
 be laid as shown in Fig. 4 C. The groove must not be cut
 with a chisel for then its effect would be lost. The object
 of this treatment is that when the punt is in the water the
------File: 275.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 275.png
+.pn +1
 
 [Illustration: <i><sc>Fig 1</sc></i>
 
@@ -7751,7 +8026,8 @@ of this treatment is that when the punt is in the water the
 <i><sc>Fig 6</sc></i>
 
 A HOUSE-PUNT]
------File: 276.png---\bnewman\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 276.png
+.pn +1
 joint swells forcing out the wood against the lamp-wick and
 making a water-tight joint. The edges of the wood and the
 wicking must be well smeared with white-lead in order to
@@ -7785,7 +8061,8 @@ spruce, making the plan fourteen feet long and
 seven feet and eight inches wide (Fig. 6). To this nail
 the uprights and bracing timbers, forming the sides and
 ends as shown in the drawings of the side and end elevation
------File: 277.png---\bnewman\mac383\Zora\Vaitrex\jobrien892\--------------
+// 277.png
+.pn +1
 (Fig. 7). The door spaces at the ends should be three feet
 wide and seven feet high, so that when trimmed and the
 doors hung the actual size will be two feet and eight inches
@@ -7818,7 +8095,8 @@ planed on both sides and as free from knots and sappy places
 as it is possible to get them. The boards must be thoroughly
 sun-dried before they are laid on and nailed fast, and it
 would be well also to paint the matched edges so that moist-*
------File: 278.png---\bnewman\Amsel\steha70\Vaitrex\jobrien892\------------
+// 278.png
+.pn +1
 *ure may not get in and swell them. The inside and outside
 of the cabin is to be painted to protect the wood from
 moisture, and if painted a light tint of any color, or white, it
@@ -7854,7 +8132,8 @@ pumped out.
 
 Rings, cleats, and ropes should be provided for the punt,
 and two anchors would be better than one, especially when
------File: 279.png---\bnewman\mac383\steha70\Vaitrex\jobrien892\-----------
+// 279.png
+.pn +1
 near the shore or in shallow water, to hold the punt from
 swinging, which it is sure to do if there is any wind or waves.
 Always anchor it so that the wind is blowing on one end and
@@ -7889,7 +8168,8 @@ and commodious house-raft at anchor is shown in Fig. 8.
 The raft is about thirty-eight feet long and twelve feet wide,
 while the house is twenty-three feet long and twelve feet
 wide by nine feet high from raft deck to top of house.
------File: 280.png---\bnewman\Amsel\steha70\Vaitrex\jobrien892\------------
+// 280.png
+.pn +1
 
 These dimensions will, if necessary, permit the raft to be
 taken through any canal, and without mast and deck-rails
@@ -7926,7 +8206,8 @@ When laying these cross-timbers it is always well to place
 the first ones about five feet apart, and stand a straight timber
 across from one to the other parallel to the logs, so that
 as each succeeding timber is laid it can be levelled by either
------File: 281.png---\bnewman\mac383\steha70\Vaitrex\jobrien892\-----------
+// 281.png
+.pn +1
 
 [Illustration: <i><sc>Fig 8</sc></i>
 
@@ -7935,7 +8216,8 @@ Fig. 9
 Fig. 10
 
 A HOUSE-RAFT]
------File: 282.png---\bnewman\Amsel\tfkowal\Vaitrex\jobrien892\------------
+// 282.png
+.pn +1
 cutting slightly into the log or building up the bearing, as it
 may require.
 
@@ -7970,7 +8252,8 @@ each end should be fitted with an eye-plate with four holes
 in it, which plates are to be fastened to the ends of the barrels
 with short, fat screws, having first thoroughly smeared
 the back of each with white-lead. The barrels should be
------File: 283.png---\ambway\Amsel\tfkowal\Vaitrex\jobrien892\-------------
+// 283.png
+.pn +1
 arranged about one foot apart, and if the logs are from
 twenty-four to thirty inches in diameter at the butt end
 there should be just enough space to accommodate the three
@@ -8006,7 +8289,8 @@ In the front, the dining and living saloon is a room measuring
 about eight feet in width and eleven feet in length. At
 one end a couch is placed which, if necessary, can be used as
 a bed; and close to it are two large windows--one overlook-*
------File: 284.png---\ambway\Amsel\awg47\Vaitrex\jobrien892\---------------
+// 284.png
+.pn +1
 [Illustration: <i><sc>Fig 11</sc></i>
 
 Fig. 12
@@ -8014,7 +8298,8 @@ Fig. 12
 Fig. 13
 
 DETAILS OF A HOUSE-RAFT]
------File: 285.png---\ambway\Amsel\awg47\Vaitrex\jobrien892\---------------
+// 285.png
+.pn +1
 *ing the fore-deck, the other giving a view from the side of
 the house. At the other end of the room a neat china-cupboard
 is built into the corner, and in the opposite corner the
@@ -8049,7 +8334,8 @@ which the doors open that lead into them. These rooms are
 each about eight feet and six inches long by nearly five feet
 wide, and two berths, each three feet wide, are built in the
 rooms. Both rooms have large windows, and spaces for
------File: 286.png---\ambway\Amsel\awg47\Vaitrex\jobrien892\---------------
+// 286.png
+.pn +1
 corner wash-stands; and as the doors open against the ends
 of the berths, there is no lost space nor wasted room.
 
@@ -8084,7 +8370,8 @@ somewhat, and help to hold the canvas in its proper place.
 Leading from the fore-deck to the upper deck a stair or
 companionway is built, and anchored securely in place to
 the front of the house. The platform at the head of the
------File: 287.png---\ambway\Amsel\tfkowal\Vaitrex\jobrien892\-------------
+// 287.png
+.pn +1
 staircase is braced over the front doorway by means of two
 iron rods that act as brackets, and which are screwed securely
 both to the under side of the platform and to the door-casing.
@@ -8119,7 +8406,8 @@ mast will fit.
 A yard-arm about twenty feet long, or longer if desired, can
 be arranged to hoist nearly to the top of the mast, and from
 which a large square-sail may be rigged so the lower corners
------File: 288.png---\ambway\Amsel\awg47\Vaitrex\jobrien892\---------------
+// 288.png
+.pn +1
 will fasten to outriggers four or five feet long that can be
 temporarily braced at the sides of the boat when sail is set.
 This pole affords a good place from which to fly club or college
@@ -8153,7 +8441,8 @@ from a raft like this can well be appreciated when once tried.
 To build a house-raft on these plans is not a difficult nor
 an expensive piece of work, and outside of the cost of the
 lumber, timber, barrels, and logs the amount is limited, unless
------File: 289.png---\ambway\Amsel\awg47\Vaitrex\jobrien892\---------------
+// 289.png
+.pn +1
 finish is contemplated. With materials at hand and the
 help of three or four good workers, it should not require more
 than a week to construct this raft and house, and if fitted
@@ -8189,7 +8478,8 @@ empty barrel go floating by. My chum said he had an idea
 that we could make a float after all. We went to one of the
 grocery stores and got four new flour-barrels, with the heads,
 at a cost of twenty-five cents apiece.
------File: 290.png---\River007\Amsel\tfkowal\Vaitrex\jobrien892\-----------
+// 290.png
+.pn +1
 
 We took them, two by two, over to the boat-house, and
 then went to a near-by lumber-yard and got three two-by-three
@@ -8214,7 +8504,8 @@ rectangle as in Fig. 14.
 [Illustration: Fig. 16]
 
 Then, having propped the barrels to keep them in place,
------File: 291.png---\River007\Amsel\awg47\Vaitrex\jobrien892\-------------
+// 291.png
+.pn +1
 we lifted this hollow rectangle onto them so that it rested
 on their sides as in Fig. 15. Cutting the four-foot joists into
 four one-foot pieces, we utilized them as corner braces.
@@ -8251,7 +8542,8 @@ Rings    "    20 cents each                          .80
 While the prices of these articles, particularly the lumber,
 have risen somewhat, the cost of this float will remain extremely
 small.
------File: 292.png---\amanison\Amsel\tfkowal\Vaitrex\jobrien892\-----------
+// 292.png
+.pn +1
 
 
 
@@ -8284,7 +8576,8 @@ Splices
 
 <sc>The Eye-splice</sc> (Fig. 1).--Open the end of the rope and
 lay the strands 1, 2, 3 upon the standing part as shown in
------File: 293.png---\amanison\Amsel\awg47\Vaitrex\jobrien892\-------------
+// 293.png
+.pn +1
 A in Fig. 1; now push strand 4 through the rope as shown
 in B; next thrust strand 5 over the part through which the
 former was passed, and last push the strand 6 through on
@@ -8298,7 +8591,8 @@ ends, and the splice will appear as in C.
 [Illustration: FIG. 3. THE LONG SPLICE]
 
 <sc>The Short Splice</sc> (Fig. 2).--Hold the rope B (Fig. 2 A)
------File: 294.png---\amanison\Amsel\awg47\Vaitrex\jobrien892\-------------
+// 294.png
+.pn +1
 in the left hand; pass the strand 4 over 1, and having thrust
 it through under 3, pull it taut; take strand 5 and pass it
 over 2 and under 1; pass strand 6 over the first strand next
@@ -8331,7 +8625,8 @@ Knots
 known as a flat knot and square knot, and is one of the
 most valuable of the many employed. As its name implies,
 it is used to tie the reef points of a sail, the stops (short
------File: 295.png---\DACSoft\Amsel\awg47\Vaitrex\jobrien892\--------------
+// 295.png
+.pn +1
 lengths of rope) used to secure the jib to the bowsprit when
 the sail is lowered, etc. Should a person find it necessary
 in order to affect an escape from a burning building to fashion
@@ -8364,7 +8659,8 @@ the rope in left hand; lay the end over the standing part,
 and by turning the left wrist form a loop (3), having the end
 inside; now pull up enough of the end (1) to dip under the
 bight (4), bringing the end towards the right and dipping it
------File: 296.png---\DACSoft\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 296.png
+.pn +1
 under the bight, then passing it up to the left over the loop
 and hauling taut. This knot is employed in the same way
 as explained for the single bowline, and it may also be stated
@@ -8398,7 +8694,8 @@ of 1, then the knot will appear as shown in Fig. 10; now
 haul the parts taut and the knot will be formed.
 
 <sc>Crowned Wall Knot</sc> (Fig. 11).--Over the top of the
------File: 297.png---\DACSoft\Trimmel\awg47\Vaitrex\jobrien892\------------
+// 297.png
+.pn +1
 [Illustration: <i>Fig. 4</i>
 
 <i>Fig. 5</i>
@@ -8442,7 +8739,8 @@ haul the parts taut and the knot will be formed.
 <i>Fig. 24</i>
 
 KNOTS]
------File: 298.png---\DACSoft\Amsel\tfkowal\Vaitrex\jobrien892\------------
+// 298.png
+.pn +1
 knot lay the strand 1, then lay strand 2 over 1, and strand
 3 over 2, and pass it through the bight of 1; now haul taut
 the parts and the knot will take the shape shown in Fig. 12.
@@ -8476,7 +8774,8 @@ then appear as in Fig. 18. What is known as a Double
 Diamond Knot (Fig. 19) may be made by leading the
 strands through two single bights, having the ends come
 out at the top of the knot, then leading the last strand
------File: 299.png---\DACSoft\bnewman\awg47\Vaitrex\jobrien892\------------
+// 299.png
+.pn +1
 through two double bights; last lay the strands up as previously
 explained, and the knot will show as in Fig. 19.
 
@@ -8511,7 +8810,8 @@ toggle 1. The making of the knot will be fully understood
 by consulting the diagram.
 
 Ropes are temporarily fastened to one another, or to a
------File: 300.png---\DACSoft\bnewman\awg47\Vaitrex\jobrien892\------------
+// 300.png
+.pn +1
 spar, hook, ring-bolt, etc., by bends and by hitches. These
 are all more or less simple, and a little practice and patience
 is all that is necessary for the young reader to become expert
@@ -8546,7 +8846,8 @@ as "taking two round turns," next take a half hitch round
 the standing part, then thrust the end under the two turns,
 and last half hitch the end round the standing part A.
 When hauled taut the bend will appear as shown in Fig. 29.
------File: 301.png---\swankypup\bnewman\awg47\Vaitrex\jobrien892\----------
+// 301.png
+.pn +1
 
 <sc>Sheet Bend</sc> (Fig. 30).--Pass the end 1 through the eye;
 take two turns round, observing in each case that the end
@@ -8581,7 +8882,8 @@ of being proof against jamming. Take a turn
 around the object to which it is desired to fasten; bring the
 end 1 on top of the standing part 2, then pass it under and
 bring it up through the bight; repeat this process, haul taut,
------File: 302.png---\swankypup\Blue Berry\awg47\Vaitrex\jobrien892\-------
+// 302.png
+.pn +1
 and the result will show as in Fig. 32. In case the hitch is
 to be subjected to a great strain, lash the end of the rope to
 the standing part where marked 3 in Fig. 32.
@@ -8617,7 +8919,8 @@ part as shown in the illustration.
 take another hitch over the first; pass the end under the
 standing part 2, and twist the remainder of the tail round
 the rope, following the lay. A tail-block, being portable, is
------File: 303.png---\swankypup\Blue Berry\awg47\Vaitrex\jobrien892\-------
+// 303.png
+.pn +1
 convenient to make fast anywhere about decks or the rigging,
 and a rope being rove through this block, a purchase,
 called a "whip," is created.
@@ -8655,7 +8958,8 @@ represented by the arrow.
 
 <sc>Catspaw Hitch</sc> (Fig. 39).--Like the Blackwall Hitch,
 this one is used for making a rope fast to a hook for hoist-*
------File: 304.png---\swankypup\mac383\awg47\Vaitrex\jobrien892\-----------
+// 304.png
+.pn +1
 *ing purposes. Seize the bight of the rope in your two
 hands, and by turning the wrists form the two loops, then
 hang these loops on the hook as in Fig. 40.
@@ -8677,7 +8981,8 @@ on the loops 5 and standing parts 6 (Fig. 43).
 
 <sc>Marling Hitch</sc> (Fig. 44).--Employed to make a running
 binding which can be put on and removed quickly.
------File: 305.png---\swankypup\mac383\awg47\Vaitrex\jobrien892\-----------
+// 305.png
+.pn +1
 
 
 
@@ -8685,9 +8990,11 @@ binding which can be put on and removed quickly.
 Part IV
 
 IN THE WOODS
------File: 306.png---\swankypup\mac383\awg47\Vaitrex\jobrien892\-----------
-[Blank Page]
------File: 307.png---\Krusnik02\mac383\awg47\Vaitrex\jobrien892\-----------
+// 306.png
+.pn +1
+// [Blank Page]
+// 307.png
+.pn +1
 
 
 
@@ -8722,7 +9029,8 @@ and seven feet high to the peak or ridge. The side drops or
 aprons are thirty inches high, and against them on both
 sides of the tent cots may rest on the ground as shown in
 the illustration.
------File: 308.png---\Krusnik02\libraryfan\awg47\Vaitrex\jobrien892\-------
+// 308.png
+.pn +1
 
 The fly is ten feet wide and fifteen feet long, and is an
 extra covering for the tent in case of a hard rain-storm;
@@ -8758,7 +9066,8 @@ machine, but they will be much stronger if sewed by hand
 with white cotton cord well waxed. All the edges of the
 cloth should be bound with rope about the size and strength
 of clothes-line, so that any attachments made to the edges
------File: 309.png---\Trimmel\libraryfan\awg47\Vaitrex\jobrien892\---------
+// 309.png
+.pn +1
 
 [Illustration: <i><sc>Fig 1</sc></i>
 
@@ -8773,7 +9082,8 @@ of clothes-line, so that any attachments made to the edges
 <i><sc>Fig 6</sc></i>
 
 A TENT OF MEDIUM SIZE]
------File: 310.png---\ricksoft\libraryfan\awg47\Vaitrex\jobrien892\--------
+// 310.png
+.pn +1
 will be borne by the rope instead of all the strain coming on
 the canvas.
 
@@ -8809,7 +9119,8 @@ at the middle of each side. (See the illustration for the
 canopy over the table and seats, Fig. 10).
 
 The ridge-pole to hold up this tent is of pine or spruce,
------File: 311.png---\ricksoft\oldguyrice03\awg47\Vaitrex\jobrien892\------
+// 311.png
+.pn +1
 ten feet long, one inch and a half thick, and four inches
 wide. The uprights are two inches square, with the sharp
 corners planed off, making them octagonal in shape, and
@@ -8843,7 +9154,8 @@ that it will lap in a corresponding manner on the front end
 of the tent ridge-pole as shown in Fig. 6. For long tents,
 where it is necessary to have the sticks in short lengths, for
 convenience in carrying them, the ridge-pole can be in two
------File: 312.png---\C L Morari\t-bonham@scc.net\awg47\Vaitrex\jobrien892\-
+// 312.png
+.pn +1
 or three pieces, lapped together at the ends as shown in
 the figure drawing, so that the pin in the upright will complete
 the union.
@@ -8880,7 +9192,8 @@ in Fig. 6.
 
 This tent is made in the same manner as described for the
 smaller one, and a fly twenty-two feet long and eighteen feet
------File: 313.png---\plappen\t-bonham@scc.net\awg47\Amsel\jobrien892\-----
+// 313.png
+.pn +1
 
 [Illustration: <i><sc>Fig 7</sc></i>
 
@@ -8893,7 +9206,8 @@ smaller one, and a fly twenty-two feet long and eighteen feet
 <i><sc>Fig 10</sc></i>
 
 TENTS AND CANOPIES]
------File: 314.png---\plappen\t-bonham@scc.net\awg47\Vaitrex\jobrien892\---
+// 314.png
+.pn +1
 wide is supported over the tent where, in clear weather, it
 can be propped up at the outer edges as shown at the left
 side of the illustration. The fly is drawn back at the right
@@ -8928,7 +9242,8 @@ ropes taut.
 If it is possible to get some boards and a few joist[**s], it
 would be well to make a flooring, if you are to stay in one
 place for any length of time.
------File: 315.png---\plappen\t-bonham@scc.net\awg47\Vaitrex\jobrien892\---
+// 315.png
+.pn +1
 
 Always select a level, dry place for the tent, and if possible
 erect it on ground that is slightly higher than that
@@ -8964,7 +9279,8 @@ stanchion-ropes.
 A canopy of this kind is shown in Fig. 10, where it is
 erected over a table and seats. It is always well, indeed, to
 have two flies to a tent, so that one can be used for a canopy
------File: 316.png---\paddycasy\t-bonham@scc.net\awg47\Vaitrex\jobrien892\-
+// 316.png
+.pn +1
 or an auxiliary tent, under which a fire can be built and
 meals cooked and eaten when it is raining.
 
@@ -9000,7 +9316,8 @@ or at night, while in Fig. 12 the house is open for fair-weather
 living. One wooden side is let down to form a
 piazza, and the canvas side above it is propped out with
 poles so as to act as a canopy or sunshade.
------File: 317.png---\plappen\t-bonham@scc.net\awg47\Vaitrex\jobrien892\---
+// 317.png
+.pn +1
 
 The frame is twelve feet long, eight feet wide, and nine
 feet high from the roof to the peak. The wood sides are
@@ -9027,7 +9344,8 @@ spiked with long, steel-wire nails. The flooring, of four-inch
 matched boards, is laid on the space within the four corner
 uprights, and the same or wider boards may be employed
 for the sheathing.
------File: 318.png---\C L Morari\t-bonham@scc.net\awg47\Amsel\jobrien892\--
+// 318.png
+.pn +1
 
 If both sides are to let down, a window can be set only
 at the back of this house-tent; but if only one side lets
@@ -9065,7 +9383,8 @@ swung.
 When camp is broken up in the fall the canvas is to be
 removed from the framework and kept for next season,
 but the frame may be left standing.   It would be better to
------File: 319.png---\plappen\t-bonham@scc.net\awg47\Vaitrex\jobrien892\---
+// 319.png
+.pn +1
 remove the door and sashes and slide them under the floor,
 for they would offer too much resistance to the wind if left
 standing in place, and might break or cause the framework
@@ -9101,7 +9420,8 @@ twelve feet wide. The rear end is made in one piece and
 sewed fast to the edges of the sides and top.
 
 At the front two flaps are sewed to the top and sides.
------File: 320.png---\paddycasy\t-bonham@scc.net\awg47\Amsel\jobrien892\---
+// 320.png
+.pn +1
 They each measure seven feet and six inches long at the
 inner edge, four feet across the bottom, three feet and five
 inches at the top, and seven feet long at the outer edge.
@@ -9134,7 +9454,8 @@ will hold the head of the former as shown at Fig. 17 B.
 The deadeye cleat is cut from hard-wood seven-eighths of
 an inch thick, and is two inches wide, six inches long, and
 provided with two holes three inches apart. At one end a
------File: 321.png---\plappen\t-bonham@scc.net\awg47\Amsel\jobrien892\-----
+// 321.png
+.pn +1
 [Illustration: <i><sc>Fig 14</sc></i>
 
 <i><sc>Fig 15</sc></i>
@@ -9144,7 +9465,8 @@ provided with two holes three inches apart. At one end a
 <i><sc>Fig 17</sc></i>
 
 THE NEW TENT]
------File: 322.png---\plappen\t-bonham@scc.net\awg47\Vaitrex\jobrien892\---
+// 322.png
+.pn +1
 jaw is cut, so that a rope may be caught in it as shown in
 Fig. 17 A. Steel wire nails are passed through the holes
 indicated by the dotted lines in Fig. 17 C, and riveted at the
@@ -9179,7 +9501,8 @@ inches wide and seventy-two inches long. Lay it flat
 and crease it along the edges, then run two or three lines of
 stitching along both sides four inches in from the edges. This
 forms the sleeve through which the poles are to be passed.
------File: 323.png---\pedantman\t-bonham@scc.net\awg47\Amsel\jobrien892\---
+// 323.png
+.pn +1
 
 Crotched sticks are to be embedded in the ground to support
 the ends of the poles as shown in Fig. 18. These are
@@ -9202,7 +9525,8 @@ folding ends, a middle pole, and four iron brace-hooks.
 [Illustration: <i><sc>Fig 22</sc></i>]
 
 To make the cot twenty-six inches wide, procure the can-*
------File: 324.png---\jmillichamp\t-bonham@scc.net\awg47\Vaitrex\jobrien892\-
+// 324.png
+.pn +1
 *vas and poles as directed for the first cot. Bind the ends
 of the poles with wire or have a blacksmith band them with
 iron ferrules, then bore the ends and drive threaded pins in,
@@ -9235,7 +9559,8 @@ tent is made of canvas thirty inches wide and seventy-two
 inches long. It is lapped over at the ends and sewed with
 several lines of stitching, so as to receive a two-inch bar to
 which the three ropes are made fast as shown in Fig. 21.
------File: 325.png---\pedantman\t-bonham@scc.net\awg47\Vaitrex\jobrien892\-
+// 325.png
+.pn +1
 The end ropes should be twenty-four inches long and the
 middle one eighteen. From the bars at each end they are
 brought together and bound to rings which slip over hooks
@@ -9269,7 +9594,8 @@ Tables and Benches
 Every boy should know how to make a table from some
 fence boards, a rail or two, and stakes for the legs. The
 table shown in Fig. 23 is made from three boards about
------File: 326.png---\jmillichamp\t-bonham@scc.net\awg47\Vaitrex\jobrien892\-
+// 326.png
+.pn +1
 eight inches wide and five feet long battened together at
 the ends and across the under side of the middle.
 
@@ -9304,7 +9630,8 @@ shown at B. The laps are cut out with saw and chisel so as
 to receive the seat-rails, the braces, and the back board,
 which are made fast with steel-wire nails as shown at C.
 The seat is made of ordinary boards nailed to the top edges
------File: 327.png---\pedantman\t-bonham@scc.net\awg47\Vaitrex\jobrien892\-
+// 327.png
+.pn +1
 
 of the rails all around, and if the edge is smoothed off there
 will be less liability to tear one's garments.
@@ -9333,7 +9660,8 @@ not be necessary. The seat should be eighteen inches high,
 sixteen inches wide, and from five to eight feet long, as occasion
 requires, and with a middle brace it will appear as
 shown in Fig. 27.
------File: 328.png---\jmillichamp\libraryfan\awg47\Vaitrex\jobrien892\-----
+// 328.png
+.pn +1
 
 
 Camping Equipment
@@ -9369,7 +9697,8 @@ Lockers and Mess-kits
 Lock-boxes with handles, in which to store dry groceries
 and foods, and mess-kits for the kitchen and dining ware,
 are among the most important parts of the camping outfit.
------File: 329.png---\jmillichamp\Blue Berry\awg47\Vaitrex\jobrien892\-----
+// 329.png
+.pn +1
 They may be made from ordinary well-constructed boxes,
 and provided with hinged lids, a hasp and padlock, and
 handles at either end by means of which they may be carried
@@ -9404,7 +9733,8 @@ inches high, and with three lines of pockets as shown in the
 illustration. The sewing should be done by hand with
 heavy linen or carpet thread, so that the stitching will not
 break.
------File: 330.png---\jmillichamp\Blue Berry\awg47\Vaitrex\jobrien892\-----
+// 330.png
+.pn +1
 
 [Illustration: Fig. 28]
 
@@ -9418,7 +9748,8 @@ A carry-all (Fig. 30) is made of denim or light sail-cloth,
 and will be found the most convenient sort of a catch-all,
 for it may be folded over and rolled up, then bound with a
 shawl-strap to carry it easily.
------File: 331.png---\jmillichamp\Blue Berry\awg47\Amsel\jobrien892\-------
+// 331.png
+.pn +1
 
 A piece of denim a yard wide and forty-two inches long
 is folded at the dotted lines A A as shown in the plan (Fig.
@@ -9454,7 +9785,8 @@ which the sticks are fed to the fire.
 These doorways or draught-holes should be made on
 two or three sides of the stove, and when one is in use
 the others may be closed or left open, according to the
------File: 332.png---\jmillichamp\scholarhere2\awg47\Vaitrex\shadow_reader\-
+// 332.png
+.pn +1
 strength of the wind and the direction from which it is
 blowing.
 
@@ -9489,7 +9821,8 @@ elaborate menus. If it is intended to remain at the camp
 only while cooking one or two meals, make your fire in this
 manner: Cut two green poles about five or six inches thick
 and about two feet long.   In these cut notches about a foot
------File: 333.png---\jmillichamp\Blue Berry\awg47\Vaitrex\shadow_reader\--
+// 333.png
+.pn +1
 *[Illustration: Fig. 33]
 
 *[Illustration: <sc>Fig 32</sc>]
@@ -9502,7 +9835,8 @@ apart. Level the ground where you intend to build your
 fire, and lay these poles down with the notches up and about
 three feet apart. Now cut two or three poles about four
 feet long and lay them in these notches.   Gather a good
------File: 334.png---\jmillichamp\Blue Berry\awg47\Vaitrex\shadow_reader\--
+// 334.png
+.pn +1
 supply of dry wood, grass, bark, or chips, and make your
 fire on the ground between the poles. The air will circulate
 under and through the fire, and the poles will prove just
@@ -9536,7 +9870,8 @@ is handy, the plan in Fig. 35 is a most excellent one to follow.
 Wall up the sides of the trench with brick, add a little
 chimney at one end, and get several iron "S" hooks from
 which to suspend your kettles. This will save the lifting of
------File: 335.png---\jmillichamp\Blue Berry\awg47\Vaitrex\shadow_reader\--
+// 335.png
+.pn +1
 the crane every time you wish to handle the kettles suspended
 over the fire. By this method you will economize on fuel
 and save heat.
@@ -9569,7 +9904,8 @@ mother has taught you how to mix a batch of dough or a
 pan of biscuit. We will now make an oven in which to bake
 the bread or biscuit. A bank from four to six feet is the best
 for the purpose.  Dig down the bank to a vertical face, and at
------File: 336.png---\jmillichamp\Blue Berry\awg47\Vaitrex\shadow_reader\--
+// 336.png
+.pn +1
 the base excavate a hole, say three to four feet horizontally,
 care being taken to keep the entrance as small as possible.
 Hollow out the sides of the excavation and arch the roof,
@@ -9583,7 +9919,8 @@ about sixteen inches at the centre.   Fig. 37 A and B.
 Now carefully "tap" the back end for the chimney, and
 insert a piece of stove-pipe if handy. A hole from four to
 six inches will give a good draught.   Wet the inside of the
------File: 337.png---\jmillichamp\Blue Berry\awg47\Vaitrex\shadow_reader\--
+// 337.png
+.pn +1
 oven, and smooth over the walls so that the mud presents a
 hard finish, and leave to dry for a day. When you are ready
 to bake, build a good fire in the oven, and when it is well
@@ -9616,7 +9953,8 @@ department is well organized. "Uncle Harry," who
 is an old and experienced camper-out, gives some useful suggestions
 to his nephews, and other boys will doubtless appreciate
 his lectures on things culinary.
------File: 338.png---\jmillichamp\Blue Berry\Brownfox\Vaitrex\shadow_reader\-
+// 338.png
+.pn +1
 
 "Let us suppose," begins Uncle Harry, "that you have
 gotten the camp into ship-shape order, and after your hard
@@ -9651,7 +9989,8 @@ it boiling hot before placing the fish in it.
 "Aleck has heard of half a dozen methods of making
 coffee, and hesitates before deciding which to try. He has
 been told to put his coffee in cold water and let it come to a
------File: 339.png---\Zambia Firestone\Blue Berry\pfeng\mac383\shadow_reader\-
+// 339.png
+.pn +1
 boil, and that the coffee must not see the water until it is
 boiling; he has heard that coffee must never be boiled, and
 that the only way to extract its strength is to boil it; and so
@@ -9685,7 +10024,8 @@ are ready for drinking.
 the pot a teaspoonful of tea leaves for each cup to be made,
 poured boiling water over it, let it stand in a warm place two
 or three minutes, and it would have been ready for you.
------File: 340.png---\jmillichamp\Blue Berry\pfeng\mac383\Plumy\-----------
+// 340.png
+.pn +1
 
 "Here you have a plain, easily cooked dinner of fried fish,
 boiled potatoes, and coffee, to which you can add from your
@@ -9722,7 +10062,8 @@ which I think three hungry boys will do ample justice.
 "When you become tired of fish, catch frogs. They are
 considered delicacies on first-class tables, and add a pleasant
 variety to a woodman's fare.   Catch them with a light rod,
------File: 341.png---\Zambia Firestone\Blue Berry\pfeng\mac383\Plumy\------
+// 341.png
+.pn +1
 short line, and small hook baited with a bit of scarlet flannel,
 or at night by use of a jack-light. Stupefied by its glare,
 they will let you pick them up. Kill your frog by a tap on
@@ -9760,7 +10101,8 @@ and pepper.
 
 "To cook rice, let a cupful soak overnight. In the morning
 pour off the water in which it has soaked, place it in a
------File: 342.png---\jmillichamp\Blue Berry\pfeng\mac383\Plumy\-----------
+// 342.png
+.pn +1
 kettle of cold water, and boil it slowly, without stirring,
 until the kernels are soft. Remember to salt it. Rice is
 good with condensed milk, sugar, butter, or syrup. It is
@@ -9795,7 +10137,8 @@ scratch-brush, and a wiper to run rags through. Have
 plenty of water at hand--warm if you have it, if not cold
 will do nicely. Put a swab on the rod, and some water in
 a tin basin or wooden pail.   By placing one end of the
------File: 343.png---\Zambia Firestone\Blue Berry\K7UQT\Vaitrex\Plumy\-----
+// 343.png
+.pn +1
 barrel in the water, you can pump it up and down the barrel
 with the swab. When it is discolored take fresh water,
 squeeze out the swab in it, and repeat the operation, until
@@ -9827,7 +10170,8 @@ if it should be accidentally discharged it would do no harm.
 If this rule is borne in mind, and strictly obeyed in the beginning,
 it becomes a habit and is followed intuitively. The
 gun may be carried safely on either shoulder, or in the hollow
------File: 344.png---\jmillichamp\Blue Berry\pfeng\Vaitrex\Plumy\----------
+// 344.png
+.pn +1
 of either arm, with a sharp upward slant. When momentarily
 expecting a bird to rise, and obliged to have the gun
 cocked, it should be carried across the breast with a sharp
@@ -9860,7 +10204,8 @@ rice-birds, and rails.
 In almost every shot it is necessary to hold ahead of the
 bird, to allow for the time it takes to explode the cartridge
 and throw the shot to the bird.   Even in this short space
------File: 345.png---\Zambia Firestone\Blue Berry\tenorcnj\Vaitrex\Plumy\--
+// 345.png
+.pn +1
 of time a cross-flying bird would be safely out of the shot
 circle if you aimed right at him. If a bird flies straight
 away from you, neither rising nor dropping, you should aim
@@ -9888,7 +10233,8 @@ it is to his advantage to do so, although in many States the
 laws are practically a dead letter. Shooting out of season
 has nearly killed the game in many localities, when it would
 still be abundant if the game laws had been observed.
------File: 346.png---\Zambia Firestone\Blue Berry\txlinguist\Vaitrex\Plumy\-
+// 346.png
+.pn +1
 
 
 
@@ -9922,7 +10268,8 @@ through the bushes or broom-hedge, or its footprints as it
 hops over the clear snow. Here, where the path goes under
 a fence-rail, it has stopped to gnaw. The rabbit follows this
 path in season and out, though in the far North, where the
------File: 347.png---\jmillichamp\mayliffe\txlinguist\Vaitrex\Plumy\-------
+// 347.png
+.pn +1
 snows keep piling and piling up, its little road may change
 with each successive snowfall. Trappers there put out a
 large number of snares, setting them right in the middle of
@@ -9954,7 +10301,8 @@ stakes bearing strain of pulling must be firmly driven into
 the ground, or in wet weather they will pull out.
 
 Rabbits, as gardeners know, are fond of carrots and other
------File: 348.png---\Zambia Firestone\Trimmel\txlinguist\Amsel\Plumy\-----
+// 348.png
+.pn +1
 *[Illustration: <i>Fig. 4</i>]
 
 *[Illustration: <i>Fig. 1</i>]
@@ -9967,7 +10315,8 @@ vegetables, as well as apples. There are many ways of rigging
 a snare with bait. The trap is arranged so the rabbit
 puts its head through a noose, and springs the trap as it
 touches the bait. One of the best traps I know of this kind
------File: 349.png---\jmillichamp\mac383\txlinguist\Vaitrex\Plumy\---------
+// 349.png
+.pn +1
 is called, in northern Vermont, a "French twitch-up" (Fig. 4).
 This trap can be made at home, and carried and set wherever
 needed. It is made as follows: Take a board about twenty
@@ -9999,7 +10348,8 @@ the fence and through the noose to take a nibble. When it
 touches the bait-stick, up goes the noose, and it is caught.
 But the snare on top of the little fence is likely to fall or be
 rubbed off, so a deep, sharp notch must be made into the top
------File: 350.png---\Zambia Firestone\mac383\Joe Cooper\Vaitrex\Plumy\----
+// 350.png
+.pn +1
 of every peg into which the noose fits. This is undoubtedly
 a Yankee improvement on a very old device. Formerly
 there was no pen and the noose was laid on the ground.
@@ -10032,7 +10382,8 @@ The other string is tied to the upper end of the trigger, the
 notch of which is caught on the under side of the top board.
 The trap thus set is placed at right angles to the path, not
 directly in it.   Foolish Bunny comes along.   A good hole is
------File: 351.png---\jmillichamp\mayliffe\Joe Cooper\Vaitrex\Plumy\-------
+// 351.png
+.pn +1
 something a rabbit is ever on the lookout for. Here is a new
 one; he will look into it and see what it is like. It is not
 necessary to put even a carrot or an apple inside. He crowds
@@ -10052,7 +10403,8 @@ front to hold the door. Fig. 6.
 The muskrat is an abundant animal about ponds, ditches,
 and the banks of sluggish streams. It is easily trapped.
 They remind one of little beavers, and if their fur was not
------File: 352.png---\Zambia Firestone\mayliffe\txlinguist\Amsel\Plumy\----
+// 352.png
+.pn +1
 so very common it would be more highly prized, for it is
 really soft and fine. If one can find their runway (a path
 eight or nine inches wide along which they travel from place
@@ -10085,7 +10437,8 @@ or ten inches, lay the crooked stick over the cross-piece, and
 tie the withe fast. Then bend the other end of the crooked
 stick towards the ground, and catch the top of it behind the
 trigger, which is raised just enough (two inches) for the
------File: 353.png---\jmillichamp\mayliffe\Joe Cooper\Vaitrex\Plumy\-------
+// 353.png
+.pn +1
 
 [Illustration: <i>Fig. 7</i>
 
@@ -10096,7 +10449,8 @@ trigger, which is raised just enough (two inches) for the
 <i>Fig. 10</i>
 
 SOME USEFUL TRAPS]
------File: 354.png---\team\mayliffe\txlinguist\Vaitrex\Plumy\--------------
+// 354.png
+.pn +1
 purpose. When the rat comes along it steps on the trigger,
 freeing the crooked stick, whereupon the fall drops and pins
 the creature there. Heavy weights should be piled upon
@@ -10131,7 +10485,8 @@ woods near their burrows.
 The mink is another common animal, and it is found by
 almost every brook-side. It is a great traveller, following
 the stream, feeding upon fish, and picking up a bird or mouse
------File: 355.png---\melissah8\mayliffe\txlinguist\Amsel\Plumy\-----------
+// 355.png
+.pn +1
 whenever opportunity affords. For a trap I take two round
 poles six to eight feet long, and about three inches thick at
 the butt. On a level spot, never more than a few feet away
@@ -10162,7 +10517,8 @@ pen and close to one side. Now the standard can be set
 much nearer the outer end of the bait-stick, and the moment
 the bait is tugged at, the bait-stick flies from under the
 notched peg, and down comes the fall. The bed may be
------File: 356.png---\thehobee\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 356.png
+.pn +1
 hewn to an edge on top, and the parts of the trap should
 work without a hitch. A stone, or board, or sheet of bark,
 or a handful of evergreen boughs should be laid over the
@@ -10196,7 +10552,8 @@ at the top as in Fig. 13. Next cut a green stick about four
 inches in diameter and about eight feet long. Lay in front
 of the pen, directly up against it. Peg it firmly there by
 driving wooden pins against it at the ends. So much done.
------File: 357.png---\BLT\mayliffe\Joe Cooper\Vaitrex\Plumy\---------------
+// 357.png
+.pn +1
 
 [Illustration: <i>Fig. 11</i>
 
@@ -10211,7 +10568,8 @@ driving wooden pins against it at the ends. So much done.
 <i>Fig. 16</i>
 
 DEADFALLS]
------File: 358.png---\BLT\mayliffe\txlinguist\Vaitrex\Plumy\---------------
+// 358.png
+.pn +1
 Now get another stick of the same length and lay it on top
 of the first pole. Fix it in position by driving pins against
 it as in Fig. 14. When this is finished take two small, round
@@ -10245,7 +10603,8 @@ to them every day. Skinning can best be done at home.
 The curing of skins is a matter of great importance if the fur
 is to be sold, for dealers will only pay for good fur properly
 prepared. It must be "prime"--that is, from November to
------File: 359.png---\BLT\mayliffe\txlinguist\Vaitrex\Plumy\---------------
+// 359.png
+.pn +1
 *[Illustration: <i>Fig. 17</i>]
 
 the middle of April (water fur a fortnight later) the inside of
@@ -10254,7 +10613,8 @@ times it becomes dark and thin and the fur poor. Muskrats,
 mink, sable, foxes, weasel, opossum, and skunk require to
 be <i>cased</i>--that is, without any cut down the middle. Wolf,
 badger, raccoon, bear, beaver must be <i>open</i>. The manner
------File: 360.png---\BLT\mayliffe\Joe Cooper\Vaitrex\Plumy\---------------
+// 360.png
+.pn +1
 of preparing <i>cased</i> fur is to make a cut around the ankles,
 then a slit down the back of the leg to the tail, the skin to
 be peeled off the legs and the root of the tail to be put into
@@ -10286,7 +10646,8 @@ tacked in place, or a slit made in each and the leg hooked
 over a notch in the edge of the stretcher. Then a wedge
 two feet long, an inch wide, and tapering to a point is inserted
 between the stretcher, and driven down until the skin
------File: 361.png---\BLT\mayliffe\txlinguist\Vaitrex\Plumy\---------------
+// 361.png
+.pn +1
 is as tight as a drum-head. The middles are then tacked
 fast, and a square-pointed stick inserted into the tail. If
 the boards threaten to collapse, two short sticks with ends
@@ -10307,7 +10668,8 @@ salt, until ready for tanning. All fat should be removed,
 taking care for knife-cuts.
 
 [Illustration: <i>Fig. 18</i>]
------File: 362.png---\BLT\mayliffe\Joe Cooper\Vaitrex\Plumy\---------------
+// 362.png
+.pn +1
 
 
 
@@ -10342,7 +10704,8 @@ A Low Twin-tree Hut
 
 A very serviceable twin-tree hut is shown in Fig. 1, and
 it can easily be constructed, at a small cost, from ordinary
------File: 363.png---\BLT\mayliffe\txlinguist\Vaitrex\Plumy\---------------
+// 363.png
+.pn +1
 boards and timbers. If it is built high up in the trees it
 is doubly secure from invasion, for the ladder can be drawn
 up when the owners are at home and it will be a difficult
@@ -10376,7 +10739,8 @@ will dovetail as shown in Fig. 3. Spike the six-foot timbers
 to the tree-trunks so that they will rest on the first two
 timbers that were nailed to the trees, and from the two-by-eight-inch
 wood cut four brackets D D, and spike them
------File: 364.png---\pedantman\mayliffe\Joe Cooper\Vaitrex\Plumy\---------
+// 364.png
+.pn +1
 fast under each cross-timber so each tree will appear as
 shown in Fig. 2. Place the remaining two timbers in position
 so that the ends will fit into those fastened to the trees,
@@ -10397,7 +10761,8 @@ and nail them fast as shown in Fig. 4.
 In Fig. 5 the first timbers can be seen spiked to the tree-trunks,
 where they are supported by the fifteen-inch blocks
 nailed fast below them. The cross-timbers are shown at
------File: 365.png---\pedantman\mayliffe\Joe Cooper\Vaitrex\Plumy\---------
+// 365.png
+.pn +1
 A A, and the last ones, forming the frame that are let into
 dove-tailed joints at the ends, are shown at B B. Cut two
 more timbers E E, and lay them across the supporting
@@ -10431,7 +10796,8 @@ washers and nails that can be had where the paper is purchased.
 This will make the roof water-tight, for a season
 at least; and if it is given one or two coats of paint it will
 preserve the paper so that it may last for several years.
------File: 366.png---\pedantman\mayliffe\Joe Cooper\Vaitrex\Plumy\---------
+// 366.png
+.pn +1
 
 Two or three windows twenty-four inches square may
 be placed in the back and sides of the hut above the middle
@@ -10467,12 +10833,14 @@ A small table may be made from some ends of the sheathing
 boards and two-by-three-inch spruce sticks; and boxes
 may be used for seats, or small benches can easily be knocked
 together as shown in Fig. 6 A. Under the table a ledge
------File: 367.png---\pedantman\mayliffe\kish\Vaitrex\Plumy\---------------
+// 367.png
+.pn +1
 
 [Illustration: <i><sc>Fig 7</sc></i>
 
 A HIGH TWIN-TREE HUT]
------File: 368.png---\pedantman\mayliffe\Joe Cooper\Vaitrex\Plumy\---------
+// 368.png
+.pn +1
 twelve inches wide is to be attached to the lower cross-rails
 that connect the legs as shown at Fig. 6 B.
 
@@ -10507,7 +10875,8 @@ bound at the top to scantlings that butt into the trunks.
 Fig. 8 A A.
 
 Instead of a flat roof like the low hut, this one is to have
------File: 369.png---\pedantman\mayliffe\Joe Cooper\Vaitrex\Plumy\---------
+// 369.png
+.pn +1
 a pitched roof, the supporting timbers of which are attached
 to the ridge-poles B B, which are fastened to the tree-trunks
 in the same manner as the under cross-timbers. This construction
@@ -10542,7 +10911,8 @@ Fig. 9. The rungs are of straight hickory with or without
 the bark on, one inch and a quarter thick and twenty-four
 inches long. Near the end of each rung a notch is cut on
 both sides for the rope to lie in, as shown at the upper end
------File: 370.png---\pedantman\mayliffe\Joe Cooper\Vaitrex\Plumy\---------
+// 370.png
+.pn +1
 of Fig. 9, and each union is to be very securely bound with
 the line so as to prevent slipping.
 
@@ -10566,7 +10936,8 @@ line as shown in Fig. 10.
 Bunks and furniture can be made for the interior, and
 any other convenient accessories to the comfort and pleasure
 of the boy owners may be added as need arises.
------File: 371.png---\DACSoft\mayliffe\Joe Cooper\Vaitrex\Plumy\-----------
+// 371.png
+.pn +1
 
 
 A Single-tree Hut
@@ -10602,7 +10973,8 @@ long and short bracket-pieces or props. These will help
 greatly in making the hut steady in the tree, and where the
 lower ends are attached to the trunk large spikes should be
 well driven in. Cleats or blocks can be nailed fast under the
------File: 372.png---\DACSoft\mayliffe\Joe Cooper\Vaitrex\Plumy\-----------
+// 372.png
+.pn +1
 ends also, as they will help to support and strengthen the
 anchorage.
 
@@ -10637,7 +11009,8 @@ flooring beams can be of two-by-four-inch spruce or other
 timber. One or two windows and a door may be arranged
 in the hut, and tar-paper tacked on the roof will make it
 water-proof.
------File: 373.png---\DACSoft\mayliffe\Joe Cooper\Vaitrex\Plumy\-----------
+// 373.png
+.pn +1
 
 Access to the hut can be had by means of a ladder made
 from two-by-three-inch spruce rails with hickory rungs, or
@@ -10674,14 +11047,16 @@ thick.
 A pitch can be given to the roof by cutting off the rear
 posts six inches and leaving six inches more of the front
 posts out of the ground, thereby allowing a pitch of one foot
------File: 374.png---\DACSoft\mayliffe\Joe Cooper\Vaitrex\Plumy\-----------
+// 374.png
+.pn +1
 
 [Illustration: <i><sc>Fig 13</sc></i>
 
 <i><sc>Fig 14</sc></i>
 
 A BRUSH-HOUSE]
------File: 375.png---\DACSoft\mayliffe\Joe Cooper\Vaitrex\Plumy\-----------
+// 375.png
+.pn +1
 to the six-toot length of roof. This slant is not necessary,
 however, and the roof may be flat if it is easier to make.
 
@@ -10707,7 +11082,8 @@ and a rail nailed across their upper ends.
 
 To this wooden frame the front reeds may be attached,
 and the skeleton hut or house is then ready to be thatched
------File: 376.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 376.png
+.pn +1
 with long, dry grass or dried cat-tail reeds. The thatching
 is done by interweaving long grasses or reeds between the
 cross-reeds in a vertical position as shown in Fig. 16. The
@@ -10726,7 +11102,8 @@ the hut cool. Of course a house may be made larger or
 smaller than the one described, but the principle of good
 construction is the same. Never depend on the four sides
 to hold together without the corner-posts, as the first good
------File: 377.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 377.png
+.pn +1
 wind that happened along would blow it flat, and perhaps
 beyond the possibility of repair.
 
@@ -10748,7 +11125,8 @@ in nearly the same manner as the brush-house, and
 thatched with grass or reeds as shown in Figs. 16 and 17.
 
 [Illustration: <i>Fig. 19</i>]
------File: 378.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 378.png
+.pn +1
 
 The corner-posts are three feet high, the ridge-pole seven
 feet and six inches above the ground, and the hut may be
@@ -10774,7 +11152,8 @@ trees are scarce, but in a country rich in woods and forests
 the boys prefer the tree huts, not only for their cool location,
 but on account of the romance involved in the climbing up
 to an inaccessible eyrie.
------File: 379.png---\Rangia\mayliffe\Joe Cooper\Vaitrex\Plumy\------------
+// 379.png
+.pn +1
 
 
 
@@ -10810,7 +11189,8 @@ to "Banbury Cross" when a child.
 My first interesting cane capture consisted of a very curiously
 shaped natural stick as shown in Fig. 1. It was of a
 young hickory sapling at whose roots grew a bitter-sweet
------File: 380.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 380.png
+.pn +1
 vine, which, being of an ambitious turn of mind, had taken
 many turns around the sapling in its eagerness to climb up
 in the world. The sapling in the mean time extended its
@@ -10845,7 +11225,8 @@ cutting, always retaining the most vigorous branch.
 As the three willow-trees increased in height the side
 branches were constantly cut off. This treatment forced
 the growth of the willows upward, so that when they had
------File: 381.png---\Rangia\mayliffe\Joe Cooper\Vaitrex\Plumy\------------
+// 381.png
+.pn +1
 attained a height of five feet I bound them together with a
 living cat-brier vine, which was planted at their base, and
 in course of time obtained a light walking-stick of novel
@@ -10878,7 +11259,8 @@ allowed to remain for a year after having been plaited together.
 By this time they will have grown firmly together
 in consequence of the bark conforming to the bent strands
 of the plait.
------File: 382.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 382.png
+.pn +1
 
 [Illustration: <i>Fig- 1</i>]
 
@@ -10916,7 +11298,8 @@ and from three-eighths to a quarter of an inch in diameter.
 These are not suitable for walking-sticks, but they make
 excellent whip-handles. The holly makes tough, supple,
 and moderately heavy walking-sticks, and its close-grained
------File: 383.png---\Rangia\mayliffe\Joe Cooper\Vaitrex\Plumy\------------
+// 383.png
+.pn +1
 wood admits of much skill in carving the knob formed by
 the root and its rootlets.
 
@@ -10952,7 +11335,8 @@ moderate strength.
 
 When sticks are half dried--that is, when the bark is
 shrunken, has lost its sappy greenness, and refuses to peel
------File: 384.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 384.png
+.pn +1
 freely--they may be trimmed, straightened, or bent, as required.
 The wood and also the form of the knobs and roots
 will admit of much taste being displayed in grotesque and
@@ -10986,7 +11370,8 @@ become soft; they must then, while still hot, be given the
 form they are intended to keep, and kept in this form until
 they are cold. Straight sticks are tied firmly together in
 small bundles, and wound with a coil of rope from end to
------File: 385.png---\amanison\mayliffe\Joe Cooper\Vaitrex\Plumy\----------
+// 385.png
+.pn +1
 end; they are then suspended to a beam by their knob ends,
 and a heavy weight is attached to the ferrule ends. Crooks
 may be turned by soaking the end in boiling water for half
@@ -11021,7 +11406,8 @@ a red-hot iron to the parts to be colored.
 
 All sticks with the rough bark left on should be neatly
 trimmed naked around the neck of the handle, and the
------File: 386.png---\Rangia\Trimmel\Joe Cooper\Vaitrex\Plumy\-------------
+// 386.png
+.pn +1
 whole lightly gone over with fine sand or emery paper. The
 cane should then receive several dressings of boiled linseed-oil
 and be left to dry. When dry, a coat of shellac varnish
@@ -11054,7 +11440,8 @@ the stick; a dowel is driven into the hole in the stick (using
 plenty of glue), after which the handle is driven on to the
 dowel-pin. Handles may be made of horn, which can be
 softened for bending by boiling in oil (not kerosene) or hot
------File: 387.png---\Rangia\Trimmel\Joe Cooper\Vaitrex\Plumy\-------------
+// 387.png
+.pn +1
 fat. Hard-woods that will take a polish, and vegetable
 ivory, which is very easy and pleasant to carve, are good
 materials to use for handles. For small sticks, bone will be
@@ -11076,9 +11463,11 @@ handy book, the book of electricity, and the book of mechanics
 for boys, which are to follow, will form, we believe,
 the distinctive American boy's library of practical handy
 books.
------File: 388.png---\Rangia\Trimmel\Joe Cooper\Vaitrex\Plumy\-------------
-[Blank Page]
------File: 389.png---\Rangia\Blue Berry\Joe Cooper\Vaitrex\Plumy\----------
+// 388.png
+.pn +1
+// [Blank Page]
+// 389.png
+.pn +1
 
 
 
@@ -11203,7 +11592,8 @@ Camps and camping, 295-333;
   tables and benches, 301, 313-315;
   camping equipment,
 */
------File: 390.png---\bnewman\Blue Berry\Joe Cooper\Amsel\Plumy\-----------
+// 390.png
+.pn +1
 /*
 316.[**sic .//, F2] 317, 318;[**F1: these numbers should go to previous page ?]
   lockers and mess-kits, 316-319;
@@ -11367,7 +11757,8 @@ Hitches:  the "Becket," 160;
   the slippery, 290, 291;
    the Black-*
 */
------File: 391.png---\team\Blue Berry\Joe Cooper\Vaitrex\Plumy\------------
+// 391.png
+.pn +1
 /*
 *wall, <i>ibid.</i>;
   the timber, <i>ibid.</i>;
@@ -11512,7 +11903,8 @@ Paddle-wheels: different kinds, 201;
   a barrel-wheel, 204, 205;
   an undershot-*
 */
------File: 392.png---\team\Maggie Max\Joe Cooper\Vaitrex\Plumy\------------
+// 392.png
+.pn +1
 /*
 *wheel, 206;
   a power-wheel, 206, 207, 208.
@@ -11668,7 +12060,8 @@ Snow-shoes, the Iroquois, 111, 112;
 
 South Sea Island proa, a, how to make, 228-230.
 */
------File: 393.png---\team\Maggie Max\Joe Cooper\Vaitrex\Plumy\------------
+// 393.png
+.pn +1
 /*
 
 Splices: how made, 159;
@@ -11824,3 +12217,4 @@ Yacht, a land, 177-182.
 
 
 THE END
+
