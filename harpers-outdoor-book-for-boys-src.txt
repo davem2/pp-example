@@ -1,26 +1,130 @@
+.dt The Project Gutenberg eBook of Harper’s Outdoor Book for Boys, by Joseph H. Adams
+
+// Use smaller font for captions
+.de div.figcenter p { font-size: 90%; }
+.de div.figleft p { font-size: 90%; }
+.de div.figright p { font-size: 90%; }
+.de div.figinline p { font-size: 90%; }
+
+// Try and keep caption together with illustration
+.de @media handheld { .figcenter { page-break-inside: avoid; }}
+.de @media handheld { .figleft { page-break-inside: avoid; }}
+.de @media handheld { .figright { page-break-inside: avoid; }}
+
+// Front matter
+.de div.boxed { border: solid 1px; color: black; padding: 1em; margin: 0 auto; display:table; }
+.de .center { text-align: center; }
+.de .lettspa { letter-spacing: 0.17em; margin-right: -0.17em; }
+.de .lettspa2 { letter-spacing: 0.3em; margin-right: -0.3em; }
+.de .mt03 { margin-top: 0.3em; }
+.de .mt1 { margin-top: 1em; }
+.de .mt2 { margin-top: 2em; }
+.de .mt3 { margin-top: 3em; }
+.de hr.small { border:none; border-bottom:1px solid;margin: 0.4em 0em; margin-left:43%; width:14%; margin-right:43%; }
+.de div.ad1 { font-size: 1em; font-weight:bold; }
+.de div.ad2 { font-size: 0.8em; }
+.de div.ad3 { font-size: 0.6em; }
+
+
+// Mark page break without displaying <hr> in html or text
+.dm pb-no-hr
+.if h
+.de div.pbb { page-break-before:always; }
+.li 
+<div class="pbb">&nbsp;</div>
+.li-
+.if-
+.dm-
+
+// Insert vertical spacing into HTML only
+.dm sp-htmlonly $1
+.if h
+.de div.mt$1 { margin-top: $1; }
+.li 
+<div class="mt$1">&nbsp;</div>
+.li-
+.if-
+.dm-
+
+// Illustrated <hr>
+.dm hr-illustrated 
+.if h
+.il fn=hr1.jpg w=80px ew=10%
+.if-
+.if t
+.hr 10%
+.if-
+.dm-
+
+.dm hr-illustrated2 
+.if h
+.il fn=hr2.jpg w=120px ew=15%
+.if-
+.if t
+.hr 10%
+.if-
+.dm-
+
 
 // 001.png
 .pn +1
 
+.if h
+.li
+<div class="boxed">
+<div class="ad1 center">HARPER’S “TELL ME HOW” BOOKS</div>
+<div class="ad3 center mt03"><i>A New Series</i></div>
+<div class="ad2 mt03">HARPER’S GASOLINE ENGINE BOOK</div>
+<div class="ad2">HARPER’S AIRCRAFT BOOK</div>
+<div class="ad2">HARPER’S WIRELESS BOOK</div>
+<div class="ad2">HARPER’S BEGINNING ELECTRICITY</div>
+<div class="ad2">HARPER’S EVERY-DAY ELECTRICITY</div>
+<div class="ad3 center mt03">Illustrated. Crown 8vo.</div>
+<hr class="small"/>
+<div class="ad1 center">HARPER’S PRACTICAL BOOKS</div>
+<div class="ad2 mt03">HARPER’S BOOK FOR YOUNG GARDENERS</div>
+<div class="ad2">HARPER’S BOOK FOR YOUNG NATURALISTS</div>
+<div class="ad2">HARPER’S HOW TO UNDERSTAND ELECTRICAL<br/>&nbsp;&nbsp;WORK</div>
+<div class="ad2">HARPER’S ELECTRICITY BOOK FOR BOYS</div>
+<div class="ad2">HARPER’S BOATING BOOK FOR BOYS</div>
+<div class="ad2">HARPER’S CAMPING AND SCOUTING</div>
+<div class="ad2">HARPER’S OUTDOOR BOOK FOR BOYS</div>
+<div class="ad2">HARPER’S INDOOR BOOK FOR BOYS</div>
+<div class="ad2">HARPER’S MACHINERY BOOK FOR BOYS</div>
+<div class="ad2">HARPER’S HANDY BOOK FOR GIRLS</div>
+<div class="ad3 center mt03">Illustrated. Crown 8vo.</div>
+<hr class="small"/>
+<div class="ad2">THE STORY OF GREAT INVENTIONS</div>
+<div class="ad3 center mt03">Uniform in appearance with above.</div>
+<div class="ad2 mt03">MOTOR BOATING FOR BOYS</div>
+<div class="ad3 center mt03">Illustrated. Crown 8vo.</div>
+<hr class="small"/>
+<div class="ad2 center"><b>HARPER & BROTHERS, NEW YORK</b></div>
+</div>
+.li-
+.if-
 
+.if t
+.in +8
+.ll -8
+.nf b
+.ce
 HARPER’S “TELL ME HOW” BOOKS
-
+.ce
 <i>A New Series</i>
 
-/*
 HARPER’S GASOLINE ENGINE BOOK
 HARPER’S AIRCRAFT BOOK
 HARPER’S WIRELESS BOOK
 HARPER’S BEGINNING ELECTRICITY
 HARPER’S EVERY-DAY ELECTRICITY
 
+.ce
 Illustrated. Crown 8vo.
-*/
-
-
+.hr 10%
+.ce
 HARPER’S PRACTICAL BOOKS
 
-/*
 HARPER’S BOOK FOR YOUNG GARDENERS
 HARPER’S BOOK FOR YOUNG NATURALISTS
 HARPER’S HOW TO UNDERSTAND ELECTRICAL WORK
@@ -32,22 +136,24 @@ HARPER’S INDOOR BOOK FOR BOYS
 HARPER’S MACHINERY BOOK FOR BOYS
 HARPER’S HANDY BOOK FOR GIRLS
 
+.ce
 Illustrated. Crown 8vo.
-*/
-
-
-/*
+.hr 10%
+.ce
 THE STORY OF GREAT INVENTIONS
-
+.ce
 Uniform in appearance with above.
-
 MOTOR BOATING FOR BOYS
-
+.ce
 Illustrated. Crown 8vo.
-*/
-
-
+.hr 10%
+.ce
 HARPER & BROTHERS, NEW YORK
+.nf-
+.ll
+.in
+.if-
+
 // 002.png
 .pn +1
 // [Blank Page]
@@ -58,21 +164,17 @@ HARPER & BROTHERS, NEW YORK
 .pn +1
 
 [Illustration:
-
-/*
 [See p. 359
-*/
 
 FIG. 11—A SINGLE-TREE HUT]
 // 005.png
 .pn +1
+.pb
 
-
-/*
-HARPER’S
-OUTDOOR BOOK
-FOR BOYS
-
+.if t
+.h1 
+HARPER’S|OUTDOOR BOOK|FOR BOYS
+.nf c
 BY
 
 JOSEPH H. ADAMS
@@ -84,23 +186,78 @@ LEROY MILTON YALE
 AND OTHERS
 
 WITH MANY ILLUSTRATIONS
+.nf-
 
 [Illustration]
 
+.nf c
 HARPER & BROTHERS PUBLISHERS
 NEW YORK AND LONDON
-*/
+.nf-
+.if-
+
+.if h
+.de .center { text-align: center; }
+.de .lettspa { letter-spacing: 0.17em; margin-right: -0.17em; }
+.de .lettspa2 { letter-spacing: 0.3em; margin-right: -0.3em; }
+.de .mt03 { margin-top: 0.3em; }
+.de .mt1 { margin-top: 1em; }
+.de .mt2 { margin-top: 2em; }
+.de .mt3 { margin-top: 3em; }
+.de .ig2nded { width:100%; text-align:center; } 
+.de .id2nded { width:144px; max-width:100%; clear:both; text-align:center; }
+.de @media handheld { .id2nded { width:18%; }}
+.de .hr-title { border:none; border-bottom:1px solid;margin: 0.4em 0em; margin-left:43%; width:14%; margin-right:43%; }
+.de .large { font-size:large; }
+.de .xlarge { font-size:x-large; }
+.de .xxlarge { font-size:xx-large; }
+.de .small { font-size:small; }
+.de .xsmall { font-size:x-small; }
+.de .xxsmall { font-size:xx-small; }
+.de h1 { margin: 0em; font-weight: normal; }
+
+.li
+<h1 class='center'>
+<span class=''>HARPER’S</span><br />
+<span class='lettspa'>OUTDOOR BOOK</span><br /> 
+<span class=''>FOR BOYS</span><br />
+</h1>
+<div class='center'>
+    <div class='xsmall mt2'>BY</div>
+    <div class='large mt1'>JOSEPH H. ADAMS</div>
+    <div class='small'>WITH CONTRIBUTIONS BY</div>
+    <div class='small'>KIRK MUNROE, TAPPAN ADNEY</div>
+    <div class='small'>CAPT. HOWARD PATTERSON</div>
+    <div class='small'>LEROY MILTON YALE</div>
+    <div class='small'>AND OTHERS</div>
+    
+    <div class='small'>WITH MANY ILLUSTRATIONS</div>
+
+   <img src='images/i_002.jpg' alt='Second Edition' class='id2nded mt2' />
+
+    <div class='small'>HARPER & BROTHERS PUBLISHERS</div>
+    <div class='small'>NEW YORK AND LONDON</div>
+</div>
+.li-
+.if-
+
 // 006.png
 .pn +1
+.pb
 
+.pm sp-htmlonly 6em
 
-/*
-Copyright, 1907, by <sc>Harper & Brothers</sc>.
+.ce
+<xs>Copyright, 1907, by <sc>Harper & Brothers</sc>.</xs>
+.hr 10%
+.ce
+<xs>PRINTED IN THE  UNITED STATES OF AMERICA</xs>
+.ce
+<xs>B-W<xs>
 
-PRINTED IN THE  UNIT£D STATES OF AMERICA
+.pm sp-htmlonly 6em
 
-B-W
-*/
+.pb
 // 007.png
 .pn +1
 
@@ -335,6 +492,7 @@ CHAPTER XXI.—WALKING-STICKS       367
 
 INTRODUCTION
 
+
 “How to do it,” might very well be the title of this new
 handy-book for American boys. It is first and last a
 practical guide, based upon the experience of those who
@@ -413,12 +571,8 @@ IN BOUNDS
 .pn +1
 
 
-
-
-OUT-DOOR BOOK FOR BOYS
-
-
-
+.sp 4
+<xl>OUT-DOOR BOOK FOR BOYS</xl>
 
 Chapter I
 
