@@ -254,9 +254,10 @@ NEW YORK AND LONDON
 .pn +1
 
 
-
-
+.sp 4
+.h2 id=contents
 CONTENTS
+.sp 2
 
 
 /*
@@ -480,9 +481,10 @@ CHAPTER XXI.—WALKING-STICKS       367
 .pn +1
 
 
-
-
+.sp 4
+.h2 id=introduction
 INTRODUCTION
+.sp 2
 
 
 “How to do it,” might very well be the title of this new
@@ -551,11 +553,12 @@ things for himself.
 .pn +1
 
 
+.sp 4
+.h2 id=part_i
+Part I||IN BOUNDS
+.sp 2
 
 
-Part I
-
-IN BOUNDS
 // 014.png
 .pn +1
 // [Blank Page]
@@ -566,9 +569,11 @@ IN BOUNDS
 .sp 4
 <xl>OUT-DOOR BOOK FOR BOYS</xl>
 
-Chapter I
 
-BACK-YARD PLEASURES
+.sp 4
+.h2 id=chapter_i
+Chapter I||BACK-YARD PLEASURES
+.sp 2
 
 
 Since home is the natural centre of life, it will be most
@@ -1364,11 +1369,10 @@ weight is properly distributed on the turn-table.
 .pn +1
 
 
-
-
-Chapter II
-
-PET SHELTERS
+.sp 4
+.h2 id=chapter_ii
+Chapter II||PET SHELTERS
+.sp 2
 
 
 Most boys are interested in pet animals, and at one time
@@ -2093,11 +2097,10 @@ may be seen against the light background.
 .pn +1
 
 
-
-
-Chapter III
-
-SUMMER-HOUSES AND PERGOLAS
+.sp 4
+.h2 id=chapter_iii
+Chapter III||SUMMER-HOUSES AND PERGOLAS
+.sp 2
 
 
 A Simple Summer-house
@@ -2313,11 +2316,10 @@ this roof to swing a hammock.
 .pn +1
 
 
-
-
-Chapter IV
-
-WEATHER-VANES AND WINDMILLS
+.sp 4
+.h2 id=chapter_iv
+Chapter IV||WEATHER-VANES AND WINDMILLS
+.sp 2
 
 
 From the time of the earliest habitation of the earth,
@@ -3038,11 +3040,10 @@ of a horse-power in a fifteen-mile breeze.
 .pn +1
 
 
-
-
-Chapter V
-
-AËRIAL TOYS
+.sp 4
+.h2 id=chapter_v
+Chapter V||AËRIAL TOYS
+.sp 2
 
 
 The Elastic Flying-machine
@@ -3552,11 +3553,11 @@ give the rope a quick, strong pull, and the flyer will rise.
 .pn +1
 
 
+.sp 4
+.h2 id=part_ii
+Part II||AFIELD
+.sp 2
 
-
-Part II
-
-AFIELD
 // 112.png
 .pn +1
 // [Blank Page]
@@ -3564,11 +3565,10 @@ AFIELD
 .pn +1
 
 
-
-
-Chapter VI
-
-COASTERS, SKEES, AND SNOW-SHOES
+.sp 4
+.h2 id=chapter_vi
+Chapter VI||COASTERS, SKEES, AND SNOW-SHOES
+.sp 2
 
 
 All real boys welcome the approach of the winter season
@@ -4002,11 +4002,10 @@ so made available for snow-shoe use.
 .pn +1
 
 
-
-
-Chapter VII
-
-SAIL-SKATING AND SNOWBALL ARTILLERY
+.sp 4
+.h2 id=chapter_vii
+Chapter VII||SAIL-SKATING AND SNOWBALL ARTILLERY
+.sp 2
 
 
 A Skating-sail
@@ -4161,11 +4160,10 @@ wooden mallet used in firing.
 .pn +1
 
 
-
-
-Chapter VIII
-
-KITES AND AEROPLANES
+.sp 4
+.h2 id=chapter_viii
+Chapter VIII||KITES AND AEROPLANES
+.sp 2
 
 
 The Ship Kite
@@ -4871,11 +4869,10 @@ from as to wind in with.
 .pn +1
 
 
-
-
-Chapter IX
-
-FISHING-TACKLE
+.sp 4
+.h2 id=chapter_ix
+Chapter IX||FISHING-TACKLE
+.sp 2
 
 
 Choice of Tackle
@@ -5916,11 +5913,10 @@ and over the top hoop faster than you can haul it up.
 .pn +1
 
 
-
-
-Chapter X
-
-LAND-YACHTS AND PUSHMOBILES
+.sp 4
+.h2 id=chapter_x
+Chapter X||LAND-YACHTS AND PUSHMOBILES
+.sp 2
 
 
 A Land-yacht
@@ -6317,11 +6313,10 @@ stop.
 .pn +1
 
 
-
-
-Chapter XI
-
-FIRE-ENGINES AND TRUCKS
+.sp 4
+.h2 id=chapter_xi
+Chapter XI||FIRE-ENGINES AND TRUCKS
+.sp 2
 
 
 The Engine
@@ -6624,11 +6619,10 @@ all the joints very tight so that they will not rack.
 .pn +1
 
 
-
-
-Chapter XII
-
-WATER-WHEELS
+.sp 4
+.h2 id=chapter_xii
+Chapter XII||WATER-WHEELS
+.sp 2
 
 
 All boys like to play about the water, and dams and
@@ -6841,11 +6835,12 @@ their washing away.
 .pn +1
 
 
+.sp 4
+.h2 id=part_iii
+Part III||AFLOAT
+.sp 2
 
 
-Part III
-
-AFLOAT
 // 222.png
 .pn +1
 // [Blank Page]
@@ -6853,11 +6848,10 @@ AFLOAT
 .pn +1
 
 
-
-
-Chapter XIII
-
-BOATS
+.sp 4
+.h2 id=chapter_xiii
+Chapter XIII||BOATS
+.sp 2
 
 
 Of all the things that a boy is interested in there is
@@ -7677,11 +7671,10 @@ one-day camping outfit for a visit up the river or lake.
 .pn +1
 
 
-
-
-Chapter XIV
-
-CATAMARANS
+.sp 4
+.h2 id=chapter_xiv
+Chapter XIV||CATAMARANS
+.sp 2
 
 
 A Rowing Catamaran
@@ -7981,11 +7974,10 @@ to hold the rudder steady.
 .pn +1
 
 
-
-
-Chapter XV
-
-ICE-BOATS
+.sp 4
+.h2 id=chapter_xv
+Chapter XV||ICE-BOATS
+.sp 2
 
 
 A Sloop-rigged Ice-yacht
@@ -8310,11 +8302,10 @@ carry four or five boys.
 .pn +1
 
 
-
-
-Chapter XVI
-
-HOUSE-BOATS AND RAFTS
+.sp 4
+.h2 id=chapter_xvi
+Chapter XVI||HOUSE-BOATS AND RAFTS
+.sp 2
 
 
 A House-punt
@@ -8925,11 +8916,10 @@ small.
 .pn +1
 
 
-
-
-Chapter XVII
-
-MARLINE-SPIKE SEAMANSHIP
+.sp 4
+.h2 id=chapter_xvii
+Chapter XVII||MARLINE-SPIKE SEAMANSHIP
+.sp 2
 
 
 Ropes may be joined to one another either by knotting
@@ -9390,11 +9380,10 @@ binding which can be put on and removed quickly.
 .pn +1
 
 
-
-
-Part IV
-
-IN THE WOODS
+.sp 4
+.h2 id=part_iv
+Part IV||IN THE WOODS
+.sp 2
 // 306.png
 .pn +1
 // [Blank Page]
@@ -9402,11 +9391,10 @@ IN THE WOODS
 .pn +1
 
 
-
-
-Chapter XVIII
-
-CAMPS AND CAMPING
+.sp 4
+.h2 id=chapter_xviii
+Chapter XVIII||CAMPS AND CAMPING
+.sp 2
 
 
 Camping in the mountains, fields, and forests is one of
@@ -10673,11 +10661,10 @@ still be abundant if the game laws had been observed.
 .pn +1
 
 
-
-
-Chapter XIX
-
-TRAPS AND TRAPPING
+.sp 4
+.h2 id=chapter_xix
+Chapter XIX||TRAPS AND TRAPPING
+.sp 2
 
 
 Snares and Deadfalls
@@ -11123,11 +11110,10 @@ taking care for knife-cuts.
 .pn +1
 
 
-
-
-Chapter XX
-
-TREE HUTS AND BRUSH-HOUSES
+.sp 4
+.h2 id=chapter_xx
+Chapter XX||TREE HUTS AND BRUSH-HOUSES
+.sp 2
 
 
 The most delightful season in the woods, throughout
@@ -11626,11 +11612,10 @@ to an inaccessible eyrie.
 .pn +1
 
 
-
-
-Chapter XXI
-
-WALKING-STICKS
+.sp 4
+.h2 id=chapter_xxi
+Chapter XXI||WALKING-STICKS
+.sp 2
 
 
 How to Grow Them for Pleasure and Profit
@@ -11951,9 +11936,10 @@ books.
 .pn +1
 
 
-
-
+.sp 4
+.h2 id=index
 INDEX
+.sp 2
 
 
 /*
@@ -12726,4 +12712,5 @@ Resolved the following inconsistent spelling and hyphenation usage within text:
 </div>
 .li-
 .if-
+
 
