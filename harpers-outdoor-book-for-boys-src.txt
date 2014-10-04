@@ -30,7 +30,7 @@
 .dm pb-no-hr
 .if h
 .de div.pbb { page-break-before:always; }
-.li 
+.li
 <div class="pbb">&nbsp;</div>
 .li-
 .if-
@@ -40,14 +40,14 @@
 .dm sp-htmlonly $1
 .if h
 .de div.mt$1 { margin-top: $1; }
-.li 
+.li
 <div class="mt$1">&nbsp;</div>
 .li-
 .if-
 .dm-
 
 // Illustrated <hr>
-.dm hr-illustrated 
+.dm hr-illustrated
 .if h
 .il fn=hr1.jpg w=80px ew=10%
 .if-
@@ -56,7 +56,7 @@
 .if-
 .dm-
 
-.dm hr-illustrated2 
+.dm hr-illustrated2
 .if h
 .il fn=hr2.jpg w=120px ew=15%
 .if-
@@ -163,16 +163,19 @@ HARPER & BROTHERS, NEW YORK
 // 004.png
 .pn +1
 
-[Illustration:
+.il id=i_004 fn=i_004.jpg w=704px alt=''
+.ca
+:
 [See p. 359
 
-FIG. 11—A SINGLE-TREE HUT]
+FIG. 11—A SINGLE-TREE HUT
+.ca-
 // 005.png
 .pn +1
 .pb
 
 .if t
-.h1 
+.h1
 HARPER’S|OUTDOOR BOOK|FOR BOYS
 .nf c
 BY
@@ -188,7 +191,7 @@ AND OTHERS
 WITH MANY ILLUSTRATIONS
 .nf-
 
-[Illustration]
+.il id=i_005 fn=i_005.jpg w=994px alt=''
 
 .nf c
 HARPER & BROTHERS PUBLISHERS
@@ -204,7 +207,7 @@ NEW YORK AND LONDON
 .de .mt1 { margin-top: 1em; }
 .de .mt2 { margin-top: 2em; }
 .de .mt3 { margin-top: 3em; }
-.de .ig2nded { width:100%; text-align:center; } 
+.de .ig2nded { width:100%; text-align:center; }
 .de .id2nded { width:144px; max-width:100%; clear:both; text-align:center; }
 .de @media handheld { .id2nded { width:18%; }}
 .de .hr-title { border:none; border-bottom:1px solid;margin: 0.4em 0em; margin-left:43%; width:14%; margin-right:43%; }
@@ -219,7 +222,7 @@ NEW YORK AND LONDON
 .li
 <h1 class='center'>
 <span class=''>HARPER’S</span><br />
-<span class='lettspa'>OUTDOOR BOOK</span><br /> 
+<span class='lettspa'>OUTDOOR BOOK</span><br />
 <span class=''>FOR BOYS</span><br />
 </h1>
 <div class='center'>
@@ -230,7 +233,7 @@ NEW YORK AND LONDON
     <div class='small'>CAPT. HOWARD PATTERSON</div>
     <div class='small'>LEROY MILTON YALE</div>
     <div class='small'>AND OTHERS</div>
-    
+
     <div class='small'>WITH MANY ILLUSTRATIONS</div>
 
    <img src='images/i_002.jpg' alt='Second Edition' class='id2nded mt2' />
@@ -636,7 +639,9 @@ periphery measure off nineteen feet and chalk-mark the
 // 017.png
 .pn +1
 
-[Illustration: <i><sc>Fig 1</sc></i>
+.il id=i_017 fn=i_017.jpg w=1001px alt=''
+.ca
+<i><sc>Fig 1</sc></i>
 
 <i><sc>Fig 2</sc></i>
 
@@ -644,7 +649,8 @@ periphery measure off nineteen feet and chalk-mark the
 
 <i><sc>Fig 4</sc></i>
 
-A WIGWAM]
+A WIGWAM
+.ca-
 // 018.png
 .pn +1
 space. From these marks to the centre of the circle draw
@@ -696,9 +702,11 @@ each pole. The cover is decorated with paint to give it
 the Indian appearance, and when the flaps are tied back it
 is easy to go into and come out of the tepee.
 
-[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_019 fn=i_019.jpg w=987px alt=''
+.ca <i><sc>Fig 5</sc></i>
 
-[Illustration: <i><sc>Fig 6</sc></i>]
+.il id=i_019 fn=i_019.jpg w=987px alt=''
+.ca <i><sc>Fig 6</sc></i>
 
 
 A Ridge-pole Tepee
@@ -710,9 +718,11 @@ easy and simple one to make, for it is of one piece of
 canvas with two flaps sewed at each side to form the
 ends.
 
-[Illustration: <i><sc>Fig 7</sc></i>]
+.il id=i_020 fn=i_020.jpg w=994px alt=''
+.ca <i><sc>Fig 7</sc></i>
 
-[Illustration: <i><sc>Fig 8</sc></i>]
+.il id=i_020 fn=i_020.jpg w=994px alt=''
+.ca <i><sc>Fig 8</sc></i>
 
 One ridge and two upright poles make the framework,
 and they are held in place by the canvas, which is drawn and
@@ -806,15 +816,20 @@ bricks together; then plaster the cement all around the inside
 of the circle and some at the outside so as to make a
 water-tight basin.
 
-[Illustration: <i><sc>Fig 9</sc></i>]
+.il id=i_023 fn=i_023.jpg w=996px alt=''
+.ca <i><sc>Fig 9</sc></i>
 
-[Illustration: <i><sc>Fig 10</sc></i>]
+.il id=i_023 fn=i_023.jpg w=996px alt=''
+.ca <i><sc>Fig 10</sc></i>
 
-[Illustration: <i><sc>Fig 12</sc></i>]
+.il id=i_023 fn=i_023.jpg w=996px alt=''
+.ca <i><sc>Fig 12</sc></i>
 
-[Illustration: <i><sc>Fig 11</sc></i>]
+.il id=i_023 fn=i_023.jpg w=996px alt=''
+.ca <i><sc>Fig 11</sc></i>
 
-[Illustration: <i><sc>Fig 13</sc></i>]
+.il id=i_023 fn=i_023.jpg w=996px alt=''
+.ca <i><sc>Fig 13</sc></i>
 
 Earth is to be put back into the hole outside the circle of
 bricks and the sod replaced, so that grass will grow right
@@ -901,11 +916,14 @@ force of water may be regulated with a faucet.
 
 An Aquarium
 
-[Illustration: <i><sc>Fig 15</sc></i>]
+.il id=i_026 fn=i_026.jpg w=1000px alt=''
+.ca <i><sc>Fig 15</sc></i>
 
-[Illustration: <i><sc>Fig 14</sc></i>]
+.il id=i_026 fn=i_026.jpg w=1000px alt=''
+.ca <i><sc>Fig 14</sc></i>
 
-[Illustration: <i><sc>Fig 16</sc></i>]
+.il id=i_026 fn=i_026.jpg w=1000px alt=''
+.ca <i><sc>Fig 16</sc></i>
 
 There is nothing difficult in the construction of a glass-and-wood
 aquarium like the one shown in Fig. 14, and the
@@ -1021,17 +1039,23 @@ the posts. The top rail is made the same as shown in Fig.
 15 C, and the glass is set as described. At the corner-posts
 // 030.png
 .pn +1
-*[Illustration: <i><sc>Fig 17</sc></i>]
+.il id=i_030 fn=i_030.jpg w=998px alt=''
+.ca *[Illustration: <i><sc>Fig 17</sc></i>
 
-*[Illustration: <i><sc>Fig 18</sc></i>]
+.il id=i_030 fn=i_030.jpg w=998px alt=''
+.ca *[Illustration: <i><sc>Fig 18</sc></i>
 
-*[Illustration: <i><sc>Fig 19</sc></i>]
+.il id=i_030 fn=i_030.jpg w=998px alt=''
+.ca *[Illustration: <i><sc>Fig 19</sc></i>
 
-*[Illustration: <i><sc>Fig 20</sc></i>]
+.il id=i_030 fn=i_030.jpg w=998px alt=''
+.ca *[Illustration: <i><sc>Fig 20</sc></i>
 
-*[Illustration: <i><sc>Fig 21</sc></i>]
+.il id=i_030 fn=i_030.jpg w=998px alt=''
+.ca *[Illustration: <i><sc>Fig 21</sc></i>
 
-*[Illustration: <i><sc>Fig 22</sc></i>]
+.il id=i_030 fn=i_030.jpg w=998px alt=''
+.ca *[Illustration: <i><sc>Fig 22</sc></i>
 
 the lap is well smeared with asphaltum varnish and putty
 and the angle strips are screwed fast to the posts as indicated
@@ -1248,7 +1272,9 @@ according to their location. The beam plan (Fig. 24)
 // 037.png
 .pn +1
 
-[Illustration: <i><sc>Fig 23</sc></i>
+.il id=i_037 fn=i_037.jpg w=1034px alt=''
+.ca
+<i><sc>Fig 23</sc></i>
 
 <i><sc>Fig 25</sc></i>
 
@@ -1260,7 +1286,8 @@ according to their location. The beam plan (Fig. 24)
 
 <i><sc>Fig 28</sc></i>
 
-A MERRY-GO-ROUND]
+A MERRY-GO-ROUND
+.ca-
 // 038.png
 .pn +1
 shows quite clearly how these supporting beams are arranged.
@@ -1432,11 +1459,14 @@ post will form a perch on which the birds may alight.
 A box with a peaked roof and three divisions, intended to
 accommodate three families of the birds, is shown in Fig. 3.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_043 fn=i_043.jpg w=1039px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_043 fn=i_043.jpg w=1039px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_043 fn=i_043.jpg w=1039px alt=''
+.ca <i><sc>Fig 3</sc></i>
 // 044.png
 .pn +1
 
@@ -1491,11 +1521,14 @@ may be seen. When the wood-work is put together the roof
 should be covered with canvas, heavy unbleached muslin,
 or a piece of oil-cloth, and tacked all around the edges.
 
-[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_045 fn=i_045.jpg w=986px alt=''
+.ca <i><sc>Fig 4</sc></i>
 
-[Illustration: <i><sc>Fig 6</sc></i>]
+.il id=i_045 fn=i_045.jpg w=986px alt=''
+.ca <i><sc>Fig 6</sc></i>
 
-[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_045 fn=i_045.jpg w=986px alt=''
+.ca <i><sc>Fig 5</sc></i>
 
 To make the barrel-hoop shelter, shown in Fig. 6, a
 // 046.png
@@ -1541,15 +1574,20 @@ while at the front the board with the holes cut in it should
 be nine inches wide, with the holes five inches high and four
 inches wide.
 
-[Illustration: <i><sc>Fig 7</sc></i>]
+.il id=i_047 fn=i_047.jpg w=976px alt=''
+.ca <i><sc>Fig 7</sc></i>
 
-[Illustration: <i><sc>Fig 8</sc></i>]
+.il id=i_047 fn=i_047.jpg w=976px alt=''
+.ca <i><sc>Fig 8</sc></i>
 
-[Illustration: <i><sc>Fig 9</sc></i>]
+.il id=i_047 fn=i_047.jpg w=976px alt=''
+.ca <i><sc>Fig 9</sc></i>
 
-[Illustration: <i><sc>Fig 10</sc></i>]
+.il id=i_047 fn=i_047.jpg w=976px alt=''
+.ca <i><sc>Fig 10</sc></i>
 
-[Illustration: <i><sc>Fig 11</sc></i>]
+.il id=i_047 fn=i_047.jpg w=976px alt=''
+.ca <i><sc>Fig 11</sc></i>
 
 The wood is put together as shown in Fig. 9, and the roof
 boards overhang the ends and front for an inch or two.
@@ -1643,13 +1681,17 @@ beings require plenty of fresh air. Another hole at the top
 of the back board will allow free circulation of air across the
 top of the kennel.
 
-[Illustration: <i><sc>Fig 12</sc></i>]
+.il id=i_050 fn=i_050.jpg w=1026px alt=''
+.ca <i><sc>Fig 12</sc></i>
 
-[Illustration: <i><sc>Fig 14</sc></i>]
+.il id=i_050 fn=i_050.jpg w=1026px alt=''
+.ca <i><sc>Fig 14</sc></i>
 
-[Illustration: <i><sc>Fig 15</sc></i>]
+.il id=i_050 fn=i_050.jpg w=1026px alt=''
+.ca <i><sc>Fig 15</sc></i>
 
-[Illustration: <i><sc>Fig 13</sc></i>]
+.il id=i_050 fn=i_050.jpg w=1026px alt=''
+.ca <i><sc>Fig 13</sc></i>
 
 Two or three good coats of paint will finish the wood-work,
 // 051.png
@@ -1696,9 +1738,11 @@ The illustration of the guinea-pig house in Fig. 16 shows
 how this can be done by partitioning off a portion of the house
 and making ventilating holes or small windows near the top.
 
-[Illustration: <i><sc>Fig 16</sc></i>]
+.il id=i_052 fn=i_052.jpg w=989px alt=''
+.ca <i><sc>Fig 16</sc></i>
 
-[Illustration: <i><sc>Fig 17</sc></i>]
+.il id=i_052 fn=i_052.jpg w=989px alt=''
+.ca <i><sc>Fig 17</sc></i>
 
 A substantial double-decked house, similar to the one
 shown in the illustration, should be thirty-six inches long,
@@ -1759,9 +1803,11 @@ little chicks can run without being molested by the larger
 fowls, as they would be if put in the big chicken-coop or
 runway.
 
-[Illustration: <i><sc>Fig 18</sc></i>]
+.il id=i_054 fn=i_054.jpg w=986px alt=''
+.ca <i><sc>Fig 18</sc></i>
 
-[Illustration: <i><sc>Fig 19</sc></i>]
+.il id=i_054 fn=i_054.jpg w=986px alt=''
+.ca <i><sc>Fig 19</sc></i>
 
 The easiest coop to make is shown in the illustration of
 the young chicken shelter (Fig. 18). It consists of a pitched
@@ -1826,9 +1872,11 @@ and ten inches long will receive an inclined board, across
 which short sticks have been nailed to prevent the rabbits
 slipping when going up or coming down the stairs.
 
-[Illustration: <i><sc>Fig 20</sc></i>]
+.il id=i_056 fn=i_056.jpg w=970px alt=''
+.ca <i><sc>Fig 20</sc></i>
 
-[Illustration: <i><sc>Fig 21</sc></i>]
+.il id=i_056 fn=i_056.jpg w=970px alt=''
+.ca <i><sc>Fig 21</sc></i>
 
 At one end a compartment is made eighteen inches wide,
 and provided with a door six inches wide hung on hinges and
@@ -1899,9 +1947,11 @@ and driven into holes at the wide end of the board. It
 should be the same size as the back-board, and is placed
 there to support the wire cloth of which the cage is made.
 
-[Illustration: <i><sc>Fig 22</sc></i>]
+.il id=i_058 fn=i_058.jpg w=986px alt=''
+.ca <i><sc>Fig 22</sc></i>
 
-[Illustration: <i><sc>Fig 23</sc></i>]
+.il id=i_058 fn=i_058.jpg w=986px alt=''
+.ca <i><sc>Fig 23</sc></i>
 
 Small holes are made in the base-board with an awl, so
 that the ends of the wire cloth will slip into them. When
@@ -1958,9 +2008,11 @@ This pen is forty-eight inches long, twenty-four deep, and
 twenty-six high. The bottom rail at the front is four inches
 wide, and the top and upright ones are two inches wide.
 
-[Illustration: <i><sc>Fig. 24</sc></i>]
+.il id=i_060 fn=i_060.jpg w=974px alt=''
+.ca <i><sc>Fig. 24</sc></i>
 
-[Illustration: <i>Fig. 25</i>]
+.il id=i_060 fn=i_060.jpg w=974px alt=''
+.ca <i>Fig. 25</i>
 
 The wood from which the pen is made should be tongue-and-grooved,
 and planed on both sides. It may be from
@@ -2021,7 +2073,8 @@ the ventilator at the top, a free circulation of air can be had;
 and if the floor is kept well sanded and clean, this reptile pen
 will make a comfortable home for a collection of such pets.
 
-[Illustration: <i><sc>Fig 26</sc></i>]
+.il id=i_062 fn=i_062.jpg w=946px alt=''
+.ca <i><sc>Fig 26</sc></i>
 
 The lizard run shown in Fig. 26 is made from a wooden
 // 063.png
@@ -2101,9 +2154,11 @@ rafters and shingle lath, the inside of the roof may be lined
 with narrow, matched boards; then the wood-work may be
 given a coat or two of paint in some desirable color.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_065 fn=i_065.jpg w=993px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_065 fn=i_065.jpg w=993px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
 
 A Back-yard Pergola
@@ -2182,17 +2237,23 @@ are embedded two feet in the ground. They are seven feet
 above the ground, and on top of two sets cross-stringers
 // 068.png
 .pn +1
-*[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_068 fn=i_068.jpg w=979px alt=''
+.ca *[Illustration: <i><sc>Fig 3</sc></i>
 
-*[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_068 fn=i_068.jpg w=979px alt=''
+.ca *[Illustration: <i><sc>Fig 4</sc></i>
 
-*[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_068 fn=i_068.jpg w=979px alt=''
+.ca *[Illustration: <i><sc>Fig 5</sc></i>
 
-*[Illustration: <i><sc>Fig 6</sc></i>]
+.il id=i_068 fn=i_068.jpg w=979px alt=''
+.ca *[Illustration: <i><sc>Fig 6</sc></i>
 
-*[Illustration: <i><sc>Fig 7</sc></i>]
+.il id=i_068 fn=i_068.jpg w=979px alt=''
+.ca *[Illustration: <i><sc>Fig 7</sc></i>
 
-*[Illustration: <i><sc>Fig 8</sc></i>]
+.il id=i_068 fn=i_068.jpg w=979px alt=''
+.ca *[Illustration: <i><sc>Fig 8</sc></i>
 
 are made fast and braced with angle brackets. A sharp
 hatchet, a saw, and a hammer will be the only tools required
@@ -2311,11 +2372,14 @@ tin or sheet-iron, a wooden shaft twenty inches long, and a
 fan-tail twelve inches long and seven inches wide at the rear
 end.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_072 fn=i_072.jpg w=987px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_072 fn=i_072.jpg w=987px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_072 fn=i_072.jpg w=987px alt=''
+.ca <i><sc>Fig 3</sc></i>
 
 Punch a small hole in the centre of a sheet of tin or iron
 not less than ten inches square, and with a lead-pencil
@@ -2398,17 +2462,23 @@ funnels an additional purchase.
 To reduce the friction and to prevent the wood from
 // 075.png
 .pn +1
-*[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_075 fn=i_075.jpg w=981px alt=''
+.ca *[Illustration: <i><sc>Fig 5</sc></i>
 
-*[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_075 fn=i_075.jpg w=981px alt=''
+.ca *[Illustration: <i><sc>Fig 4</sc></i>
 
-*[Illustration: <i><sc>Fig 6</sc></i>]
+.il id=i_075 fn=i_075.jpg w=981px alt=''
+.ca *[Illustration: <i><sc>Fig 6</sc></i>
 
-*[Illustration: <i><sc>Fig 7</sc></i>]
+.il id=i_075 fn=i_075.jpg w=981px alt=''
+.ca *[Illustration: <i><sc>Fig 7</sc></i>
 
-*[Illustration: <i><sc>Fig 8</sc></i>]
+.il id=i_075 fn=i_075.jpg w=981px alt=''
+.ca *[Illustration: <i><sc>Fig 8</sc></i>
 
-*[Illustration: <i><sc>Fig 9</sc></i>]
+.il id=i_075 fn=i_075.jpg w=981px alt=''
+.ca *[Illustration: <i><sc>Fig 9</sc></i>
 
 wearing away at the under side of the hub, a large flat
 washer should be attached to the wood with copper tacks
@@ -2572,13 +2642,17 @@ from the upper and lower edge of the outer rim, and
 leading up and down to the pole, the ends being made fast
 to staples or screw-eyes.
 
-[Illustration: <i>Fig 10</i>]
+.il id=i_080 fn=i_080.jpg w=977px alt=''
+.ca <i>Fig 10</i>
 
-[Illustration: <i>Fig 11</i>]
+.il id=i_080 fn=i_080.jpg w=977px alt=''
+.ca <i>Fig 11</i>
 
-[Illustration: <i>Fig 13</i>]
+.il id=i_080 fn=i_080.jpg w=977px alt=''
+.ca <i>Fig 13</i>
 
-[Illustration: <i>Fig 12</i>]
+.il id=i_080 fn=i_080.jpg w=977px alt=''
+.ca <i>Fig 12</i>
 
 The ball, which is made of wire hoops and fastened together
 with fine wires, should be from four to six inches in
@@ -2710,13 +2784,17 @@ From a flat hoop, a few pieces of tin or sheet iron, and some
 thin wood, a barrel-hoop pinion-wheel may be made similar
 to the one shown in Fig. 16.
 
-[Illustration: <i><sc>Fig. 14</sc></i>]
+.il id=i_084 fn=i_084.jpg w=965px alt=''
+.ca <i><sc>Fig. 14</sc></i>
 
-[Illustration: <i><sc>Fig. 15</sc></i>]
+.il id=i_084 fn=i_084.jpg w=965px alt=''
+.ca <i><sc>Fig. 15</sc></i>
 
-[Illustration: <i>Fig. 17</i>]
+.il id=i_084 fn=i_084.jpg w=965px alt=''
+.ca <i>Fig. 17</i>
 
-[Illustration: <i>Fig. 16</i>]
+.il id=i_084 fn=i_084.jpg w=965px alt=''
+.ca <i>Fig. 16</i>
 
 The barrel-hoop will measure about twenty-one inches in
 diameter, and the hub should be made five inches in diameter,
@@ -2763,7 +2841,8 @@ employed on canal-boats and barges, and in a small way for
 raising water in a suction-pump, is shown in the illustration
 of a pumping windmill. Fig. 18.
 
-[Illustration: <i><sc>Fig 18</sc></i>]
+.il id=i_086 fn=i_086.jpg w=940px alt=''
+.ca <i><sc>Fig 18</sc></i>
 
 It consists of a hub, six spokes, a fan-tail, and a trunk or
 upright to which the wheel is attached. The hub is a hexagon
@@ -2821,15 +2900,20 @@ is made of two blocks, cut as shown in Fig. 21, and
 fastened five inches apart on the lower rails that support
 the long rails to which, in turn, the tail is attached.
 
-[Illustration: <i><sc>Fig 19</sc></i>]
+.il id=i_088 fn=i_088.jpg w=903px alt=''
+.ca <i><sc>Fig 19</sc></i>
 
-[Illustration: <i><sc>Fig</sc> 20</sc></i>]
+.il id=i_088 fn=i_088.jpg w=903px alt=''
+.ca <i><sc>Fig</sc> 20</sc></i>
 
-[Illustration: <i><sc>Fig 21</sc></i>]
+.il id=i_088 fn=i_088.jpg w=903px alt=''
+.ca <i><sc>Fig 21</sc></i>
 
-[Illustration: <i><sc>Fig 22</sc></i>]
+.il id=i_088 fn=i_088.jpg w=903px alt=''
+.ca <i><sc>Fig 22</sc></i>
 
-[Illustration: <i><sc>Fig 23</sc></i>]
+.il id=i_088 fn=i_088.jpg w=903px alt=''
+.ca <i><sc>Fig 23</sc></i>
 
 The upper ends of the blocks are cut out so as to admit
 the shaft. The collars, C, and C\_C, are at the inside of the
@@ -2887,11 +2971,14 @@ any smart boy can make of wood, an old buggy wheel, and a
 few iron fittings that a blacksmith will make at a nominal cost.
 
 
-[Illustration: <i><sc>Fig. 24</sc></i>]
+.il id=i_090 fn=i_090.jpg w=993px alt=''
+.ca <i><sc>Fig. 24</sc></i>
 
-[Illustration: <i>Fig. 25</i>]
+.il id=i_090 fn=i_090.jpg w=993px alt=''
+.ca <i>Fig. 25</i>
 
-[Illustration: <sc>Fig. 26</sc>]
+.il id=i_090 fn=i_090.jpg w=993px alt=''
+.ca <sc>Fig. 26</sc>
 
 The tower is the first thing to make, and it should be constructed
 of four spruce sticks sixteen feet long and four inches
@@ -3000,11 +3087,14 @@ file. Scrape that part of the metal bright and clean which
 will form the inside of the roll, and then bend it around the
 needle so that it will fit nicely and snugly.
 
-[Illustration: <i><sc>Fig. 1</sc></i>]
+.il id=i_094 fn=i_094.jpg w=927px alt=''
+.ca <i><sc>Fig. 1</sc></i>
 
-[Illustration: <i>Fig. 2</i>]
+.il id=i_094 fn=i_094.jpg w=927px alt=''
+.ca <i>Fig. 2</i>
 
-[Illustration: <i>Fig. 3</i>]
+.il id=i_094 fn=i_094.jpg w=927px alt=''
+.ca <i>Fig. 3</i>
 
 This must be fastened to the forward end of the backbone.
 The best and lightest way is to braze it, as the tinsmiths
@@ -3185,7 +3275,8 @@ one-quarter by one-half inch. By driving a small wire
 nail through both pieces of wood, and inserting a sharp
 // 100.png
 .pn +1
-*[Illustration: <i>Fig. 4</i>]
+.il id=i_100 fn=i_100.jpg w=964px alt=''
+.ca *[Illustration: <i>Fig. 4</i>
 
 knife-blade through the upper piece of wood, and turning
 (the upper piece) slowly from left to right, you will
@@ -3237,9 +3328,11 @@ of a pair of wings, the cloth only reaching from the outside
 // 102.png
 .pn +1
 
-[Illustration: <i>Fig. 5</i>]
+.il id=i_102 fn=i_102.jpg w=944px alt=''
+.ca <i>Fig. 5</i>
 
-[Illustration: <i>Fig. 6</i>]
+.il id=i_102 fn=i_102.jpg w=944px alt=''
+.ca <i>Fig. 6</i>
 // 103.png
 .pn +1
 of the uprights to the ends of the spar, leaving a free space
@@ -3275,7 +3368,8 @@ two flat-headed ones of the same dimensions, two small
 screw-hooks, and eight assorted brass screw-eyes, there being
 // 104.png
 .pn +1
-*[Illustration: <i>Fig. 7</i>]
+.il id=i_104 fn=i_104.jpg w=889px alt=''
+.ca *[Illustration: <i>Fig. 7</i>
 
 two of each size. Now that we have the material for
 the frames, we will begin with Fig. 7, which shows the
@@ -3324,7 +3418,8 @@ of wheel, and turn in a circle from right to left several times.
 If the distance between the knife-blade and nail is one-half
 inch, the wheel cut out will be exactly one inch in diameter.
 
-[Illustration: <i>Fig. 8</i>]
+.il id=i_106 fn=i_106.jpg w=1011px alt=''
+.ca <i>Fig. 8</i>
 
 Insert a wire nail through the two button moulds, and
 place the inch wheel in the centre, gluing it at each contact
@@ -3411,7 +3506,9 @@ windmill, and it will then be ready to fly. Fig. 10.
 When bending the ears they must be arranged so that the
 // 109.png
 .pn +1
-[Illustration: <i>Fig. 9</i>
+.il id=i_109 fn=i_109.jpg w=885px alt=''
+.ca
+<i>Fig. 9</i>
 
 <i>Fig. 10</i>
 
@@ -3423,7 +3520,8 @@ When bending the ears they must be arranged so that the
 
 <i>Fig. 14</i>
 
-A “HIGH-FLYER”]
+A “HIGH-FLYER”
+.ca-
 // 110.png
 .pn +1
 edge that catches the wind first will be inclined upward, as
@@ -3554,15 +3652,20 @@ that they are separated from the battens by means of the
 wooden blocks, as shown in the illustration of the plain
 toboggan. Fig. 1.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_115 fn=i_115.jpg w=958px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_115 fn=i_115.jpg w=958px alt=''
+.ca <i><sc>Fig 3</sc></i>
 
-[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_115 fn=i_115.jpg w=958px alt=''
+.ca <i><sc>Fig 5</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_115 fn=i_115.jpg w=958px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_115 fn=i_115.jpg w=958px alt=''
+.ca <i><sc>Fig 4</sc></i>
 
 At both ends of the rod-rivets place washers or burrs to
 rivet on, as otherwise the rivet would pull through the wood,
@@ -3715,17 +3818,23 @@ fastened with screws as shown at Fig. 9, to strengthen the
 sides and take some of the strain from the cross-piece fastenings.
 // 120.png
 .pn +1
-*[Illustration: <i>Fig. 7</i>]
+.il id=i_120 fn=i_120.jpg w=994px alt=''
+.ca *[Illustration: <i>Fig. 7</i>
 
-*[Illustration: <i><sc>Fig 9</sc></i>]
+.il id=i_120 fn=i_120.jpg w=994px alt=''
+.ca *[Illustration: <i><sc>Fig 9</sc></i>
 
-*[Illustration: <i><sc>Fig 11</sc></i>]
+.il id=i_120 fn=i_120.jpg w=994px alt=''
+.ca *[Illustration: <i><sc>Fig 11</sc></i>
 
-*[Illustration: <i><sc>Fig 10</sc></i>]
+.il id=i_120 fn=i_120.jpg w=994px alt=''
+.ca *[Illustration: <i><sc>Fig 10</sc></i>
 
-*[Illustration: <i>Fig. 6</i>]
+.il id=i_120 fn=i_120.jpg w=994px alt=''
+.ca *[Illustration: <i>Fig. 6</i>
 
-*[Illustration: <i><sc>Fig 8</sc></i>]
+.il id=i_120 fn=i_120.jpg w=994px alt=''
+.ca *[Illustration: <i><sc>Fig 8</sc></i>
 
 Eight inches from the rear end a stout block is set
 in the runners through which the king-bolt passes that
@@ -3787,10 +3896,14 @@ that are not too steep. Once you start you must go to the
 bottom, and a good skee-jumper should be as agile as a cat,
 for he must always land feet down when jumping.
 
-[Illustration: <i><sc>Fig 12</sc></i>]
+.il id=i_122 fn=i_122.jpg w=943px alt=''
+.ca <i><sc>Fig 12</sc></i>
 
-[Illustration: <i><sc>Fig
-13</sc></i>]
+.il id=i_122 fn=i_122.jpg w=943px alt=''
+.ca
+<i><sc>Fig
+13</sc></i>
+.ca-
 
 A skee of the right proportions should be seven feet long
 and four inches wide. Hickory, oak, or other hard-wood
@@ -3871,11 +3984,14 @@ inches long and fifteen inches wide. It is made somewhat
 // 125.png
 .pn +1
 
-[Illustration:  <i><sc>Fig 14</sc></i>
+.il id=i_125 fn=i_125.jpg w=870px alt=''
+.ca
+ <i><sc>Fig 14</sc></i>
 
  <i><sc>Fig 15</sc></i>
 
-SNOW-SHOES]
+SNOW-SHOES
+.ca-
 // 126.png
 .pn +1
 similar to the Iroquois shoe but the mesh is more
@@ -3965,7 +4081,9 @@ of the wind to pass under it instead of pressing against the
 sails with its full force.
 // 129.png
 .pn +1
-[Illustration: <i><sc>Fig 1</sc></i>
+.il id=i_129 fn=i_129.jpg w=1001px alt=''
+.ca
+<i><sc>Fig 1</sc></i>
 
 <i><sc>Fig 2</sc></i>
 
@@ -3977,7 +4095,8 @@ sails with its full force.
 
 <i><sc>Fig 3</sc></i>
 
-A SKATING-SAIL, A SQUARE-RIGGED ICE-SAIL, AND A SNOWBALL MORTAR]
+A SKATING-SAIL, A SQUARE-RIGGED ICE-SAIL, AND A SNOWBALL MORTAR
+.ca-
 // 130.png
 .pn +1
 
@@ -4095,9 +4214,11 @@ much better plan to have a number of planes against which
 the wind can act instead of one large one that is often unwieldy
 and difficult to handle.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_133 fn=i_133.jpg w=995px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_133 fn=i_133.jpg w=995px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
 This frame should be covered with thin paper muslin,
 sewed all around the edges over the string-ribs and to the
@@ -4145,11 +4266,14 @@ between the other sails.
 // 135.png
 .pn +1
 
-[Illustration: <i><sc>Fig 3</sc></i>
+.il id=i_135 fn=i_135.jpg w=909px alt=''
+.ca
+<i><sc>Fig 3</sc></i>
 
 <i><sc>Fig 4</sc></i>
 
-THE CHINESE-JUNK KITE]
+THE CHINESE-JUNK KITE
+.ca-
 // 136.png
 .pn +1
 
@@ -4260,7 +4384,9 @@ with string. Then cover the entire balloon and car as well
 // 139.png
 .pn +1
 
-[Illustration: <i><sc>Fig 5</sc></i>
+.il id=i_139 fn=i_139.jpg w=1001px alt=''
+.ca
+<i><sc>Fig 5</sc></i>
 
 <i><sc>Fig 6</sc></i>
 
@@ -4272,7 +4398,8 @@ with string. Then cover the entire balloon and car as well
 
 <i><sc>Fig 10</sc></i>
 
-THE SCHOONER, BALLOON, AND AN AIR-SHIP KITE]
+THE SCHOONER, BALLOON, AND AN AIR-SHIP KITE
+.ca-
 // 140.png
 .pn +1
 as the men with dark-colored paper muslin. Make the
@@ -4352,17 +4479,23 @@ endeavors to carry it away with me were greeted with much
 laughter until one of the cannibals showed me the proper
 way to handle it.
 
-[Illustration: <i><sc>Fig 11</sc></i>]
+.il id=i_142 fn=i_142.jpg w=978px alt=''
+.ca <i><sc>Fig 11</sc></i>
 
-[Illustration: <i><sc>Fig 12</sc></i>]
+.il id=i_142 fn=i_142.jpg w=978px alt=''
+.ca <i><sc>Fig 12</sc></i>
 
-[Illustration: <i><sc>Fig 13</sc></i>]
+.il id=i_142 fn=i_142.jpg w=978px alt=''
+.ca <i><sc>Fig 13</sc></i>
 
-[Illustration: <i><sc>Fig 14.</sc></i>]
+.il id=i_142 fn=i_142.jpg w=978px alt=''
+.ca <i><sc>Fig 14.</sc></i>
 
-[Illustration: <sc>Fig 15</sc>]
+.il id=i_142 fn=i_142.jpg w=978px alt=''
+.ca <sc>Fig 15</sc>
 
-[Illustration: <i><sc>Fig 16</sc></i>]
+.il id=i_142 fn=i_142.jpg w=978px alt=''
+.ca <i><sc>Fig 16</sc></i>
 
 The drawings which I have made of one of these kites
 will enable any enterprising boy to make one. As no tail
@@ -4438,13 +4571,17 @@ nine inches below this tie another one to the front upright
 sticks as shown at D\_D. Cover the front, sides, and back
 // 145.png
 .pn +1
-*[Illustration: <i><sc>Fig 17</sc></i>]
+.il id=i_145 fn=i_145.jpg w=989px alt=''
+.ca *[Illustration: <i><sc>Fig 17</sc></i>
 
-*[Illustration: <i><sc>Fig 18</sc></i>]
+.il id=i_145 fn=i_145.jpg w=989px alt=''
+.ca *[Illustration: <i><sc>Fig 18</sc></i>
 
-*[Illustration: <i><sc>Fig 19</sc></i>]
+.il id=i_145 fn=i_145.jpg w=989px alt=''
+.ca *[Illustration: <i><sc>Fig 19</sc></i>
 
-*[Illustration: <i><sc>Fig 20</sc></i>]
+.il id=i_145 fn=i_145.jpg w=989px alt=''
+.ca *[Illustration: <i><sc>Fig 20</sc></i>
 
 of the frame with strong, thin Manila paper or light, closely
 woven muslin, having the top and bottom open, also the
@@ -4493,9 +4630,11 @@ similar manner. The messenger can be hung on the string,
 and if there are no knots to intercept its progress it will
 quickly speed away to the kite.
 
-[Illustration: <i><sc>Fig 21</sc></i>]
+.il id=i_147 fn=i_147.jpg w=1002px alt=''
+.ca <i><sc>Fig 21</sc></i>
 
-[Illustration: <i><sc>Fig 22</sc></i>]
+.il id=i_147 fn=i_147.jpg w=1002px alt=''
+.ca <i><sc>Fig 22</sc></i>
 
 
 The Flying-wedge and Double-plane Kite
@@ -4547,13 +4686,17 @@ in Fig. 25. If the wedge is inclined to wobble or dive hang
 two wind-anchors on the corners, preferably the front, as the
 action will be better than if hung at the back.
 
-[Illustration: <i><sc>Fig 23</sc></i>]
+.il id=i_149 fn=i_149.jpg w=998px alt=''
+.ca <i><sc>Fig 23</sc></i>
 
-[Illustration: <i><sc>Fig 24</sc></i>]
+.il id=i_149 fn=i_149.jpg w=998px alt=''
+.ca <i><sc>Fig 24</sc></i>
 
-[Illustration: <i><sc>Fig 25</sc></i>]
+.il id=i_149 fn=i_149.jpg w=998px alt=''
+.ca <i><sc>Fig 25</sc></i>
 
-[Illustration: <i><sc>Fig 26</sc></i>]
+.il id=i_149 fn=i_149.jpg w=998px alt=''
+.ca <i><sc>Fig 26</sc></i>
 
 The wind strikes the front plane and upper part of rear
 // 150.png
@@ -4631,7 +4774,9 @@ unions are made with screws or long copper rivets securely
 fastened at the blunt end with burrs over which the copper
 end is beaten and riveted.
 
-[Illustration: <i><sc>Fig 31</sc></i>
+.il id=i_152 fn=i_152.jpg w=993px alt=''
+.ca
+<i><sc>Fig 31</sc></i>
 
 <i><sc>Fig 33</sc></i>
 
@@ -4643,7 +4788,8 @@ end is beaten and riveted.
 
 <i><sc>Fig 29</sc></i>
 
-<i><sc>Fig 27</sc></i>]
+<i><sc>Fig 27</sc></i>
+.ca-
 
 Near the hoop-ends holes are to be made with a bit
 through which stout cotton line can be passed and made
@@ -5119,7 +5265,9 @@ rule of holding the elbow against the side may be relaxed a
 little, especially in making long casts.
 // 167.png
 .pn +1
-[Illustration: <i>Fig. 1</i>
+.il id=i_167 fn=i_167.jpg w=1043px alt=''
+.ca
+<i>Fig. 1</i>
 A
 
 <i>Fig. 2</i>
@@ -5129,7 +5277,8 @@ A
 <i>Fig. 1</i>
 B
 
-HOOK-BAITING AND FLY-CASTING]
+HOOK-BAITING AND FLY-CASTING
+.ca-
 // 168.png
 .pn +1
 
@@ -5175,9 +5324,11 @@ keeping it safe. The reel may need a drop of oil now and
 then, and it should be always kept out of the dust, in a box
 or drawer, and above all from falls or blows.
 
-[Illustration: <i>Fig. 4</i>]
+.il id=i_169 fn=i_169.jpg w=909px alt=''
+.ca <i>Fig. 4</i>
 
-[Illustration: <i>Fig. 5</i>]
+.il id=i_169 fn=i_169.jpg w=909px alt=''
+.ca <i>Fig. 5</i>
 
 The repairs most commonly called for are the splicing of
 // 170.png
@@ -5259,7 +5410,8 @@ of the seaman. It explains itself. Its great advantage is
 that it cannot slip if drawn down snugly and can be instantly
 loosened by pushing the main line back a little way.
 
-[Illustration: <i>Fig. 6</i>]
+.il id=i_172 fn=i_172.jpg w=819px alt=''
+.ca <i>Fig. 6</i>
 
 
 Aids for Young Anglers
@@ -5308,9 +5460,11 @@ two staffs to meet and imprison all the fish that have come
 within the bounds of the seine. When one person works
 the seine one of the staff lines is tied to a rock or stake on
 
-[Illustration: <i>Fig. 7</i>]
+.il id=i_174 fn=i_174.jpg w=879px alt=''
+.ca <i>Fig. 7</i>
 
-[Illustration: <i>Fig. 8</i>]
+.il id=i_174 fn=i_174.jpg w=879px alt=''
+.ca <i>Fig. 8</i>
 // 175.png
 .pn +1
 the shore and the other line is taken into a boat, or the
@@ -5386,7 +5540,9 @@ as at A.
 // 177.png
 .pn +1
 
-[Illustration: <i>Fig. 9</i>
+.il id=i_177 fn=i_177.jpg w=966px alt=''
+.ca
+<i>Fig. 9</i>
 
 <i>Fig. 12</i>
 A
@@ -5402,7 +5558,8 @@ B
 
 <i>Fig. 14</i>
 
-SOME USEFUL HINTS]
+SOME USEFUL HINTS
+.ca-
 // 178.png
 .pn +1
 
@@ -5549,11 +5706,14 @@ than anything else, I used it. The way I made it was as follows:
 // 182.png
 .pn +1
 
-[Illustration: <i>Fig. 15</i>]
+.il id=i_182 fn=i_182.jpg w=853px alt=''
+.ca <i>Fig. 15</i>
 
-[Illustration: <i>Fig. 16</i>]
+.il id=i_182 fn=i_182.jpg w=853px alt=''
+.ca <i>Fig. 16</i>
 
-[Illustration: <i>Fig. 17</i>]
+.il id=i_182 fn=i_182.jpg w=853px alt=''
+.ca <i>Fig. 17</i>
 
 I took a piece of wire-netting about three feet square and
 bent it so as to form a tube three feet long and about one
@@ -5666,7 +5826,9 @@ begins at the bottom and is carried to the top, where the
 ends of the ribs are shaved and turned in as before described.
 // 186.png
 .pn +1
-[Illustration: <i><sc>Fig 20</sc></i>
+.il id=i_186 fn=i_186.jpg w=1033px alt=''
+.ca
+<i><sc>Fig 20</sc></i>
 
 <i><sc>Fig 18</sc></i>
 
@@ -5678,7 +5840,8 @@ ends of the ribs are shaved and turned in as before described.
 
 <i><sc>Fig 23</sc></i>
 
-<i><sc>Fig 24</sc></i>]
+<i><sc>Fig 24</sc></i>
+.ca-
 
 The bottom or small end of the funnel is the trap, and here
 the long, thin ends of the ribs are left, so that the eel, when
@@ -5809,7 +5972,8 @@ V-shaped frame as shown at A. At the middle of this timber
 a hole one inch and a half square is cut and into it a tenon
 on the butt-end of the bowsprit fits as shown in Fig. 3.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_190 fn=i_190.jpg w=986px alt=''
+.ca <i><sc>Fig 1</sc></i>
 // 191.png
 .pn +1
 
@@ -5855,7 +6019,9 @@ step as shown at Fig. 6. An iron brace is made fast to the
 top of the step, behind the mast, and to the bowsprit, as may
 be seen in the illustration.
 
-[Illustration: <i><sc>Fig 7</sc></i>
+.il id=i_192 fn=i_192.jpg w=968px alt=''
+.ca
+<i><sc>Fig 7</sc></i>
 
 <i><sc>Fig 2</sc></i>
 
@@ -5865,7 +6031,8 @@ be seen in the illustration.
 
 <i><sc>Fig 6</sc></i>
 
-<i><sc>Fig 3</sc></i>]
+<i><sc>Fig 3</sc></i>
+.ca-
 
 A hole three inches in diameter is cut at the middle of the
 step-board, and through this the mast is slipped. A half-inch
@@ -5947,11 +6114,14 @@ should be in one piece, and this will have to be made by a
 // 195.png
 .pn +1
 
-[Illustration: <i><sc>Fig 8</sc></i>
+.il id=i_195 fn=i_195.jpg w=899px alt=''
+.ca
+<i><sc>Fig 8</sc></i>
 
 <i><sc>Fig 9</sc></i>
 
-A SAIL-WAGON]
+A SAIL-WAGON
+.ca-
 // 196.png
 .pn +1
 blacksmith. Two round iron plates of metal one-eighth of
@@ -6069,11 +6239,14 @@ on over a shank that may be cut down in size to fit the opening
 in the wheel; and with a screw the wheel is to be made
 fast to the shaft so that it is held securely in place.
 
-[Illustration: <i><sc>Fig 10</sc></i>
+.il id=i_199 fn=i_199.jpg w=987px alt=''
+.ca
+<i><sc>Fig 10</sc></i>
 
 <i><sc>Fig 11</sc></i>
 
-<i><sc>Fig 12</sc></i>]
+<i><sc>Fig 12</sc></i>
+.ca-
 // 200.png
 .pn +1
 
@@ -6190,11 +6363,14 @@ shown at A\_A. These are to be held in position with long,
 steel-wire nails or with screws, which always make the best
 and most secure joints.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_204 fn=i_204.jpg w=1006px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_204 fn=i_204.jpg w=1006px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_204 fn=i_204.jpg w=1006px alt=''
+.ca <i><sc>Fig 3</sc></i>
 
 To prevent the side-rails from spreading, a cross-rib should
 be made fast to the under side of the side-rails about at the
@@ -6345,7 +6521,9 @@ as shown at Fig. 6 A. Attach both ends to the axle with
 // 209.png
 .pn +1
 
-[Illustration: <i><sc>Fig 4</sc></i>
+.il id=i_209 fn=i_209.jpg w=1002px alt=''
+.ca
+<i><sc>Fig 4</sc></i>
 
 <i><sc>Fig 9</sc></i>
 
@@ -6357,7 +6535,8 @@ as shown at Fig. 6 A. Attach both ends to the axle with
 
 <i><sc>Fig 7</sc></i>
 
-HOSE-CARRIAGE AND HOOK-AND-LADDER TRUCK]
+HOSE-CARRIAGE AND HOOK-AND-LADDER TRUCK
+.ca-
 // 210.png
 .pn +1
 long, steel-wire nails, then from a piece of hard-wood cut a
@@ -6597,7 +6776,9 @@ water is sufficient to drive it.
 // 217.png
 .pn +1
 
-[Illustration: <i><sc>Fig 1</sc></i>
+.il id=i_217 fn=i_217.jpg w=996px alt=''
+.ca
+<i><sc>Fig 1</sc></i>
 
 <i><sc>Fig 2</sc></i>
 
@@ -6605,7 +6786,8 @@ water is sufficient to drive it.
 
 <i><sc>Fig 4</sc></i>
 
-WATER-WHEELS]
+WATER-WHEELS
+.ca-
 // 218.png
 .pn +1
 
@@ -6644,11 +6826,14 @@ a cradle or frame so that one end of it may be lifted to reduce
 // 219.png
 .pn +1
 
-[Illustration:<i> <sc>Fig 5</sc></i>
+.il id=i_219 fn=i_219.jpg w=997px alt=''
+.ca
+:<i> <sc>Fig 5</sc></i>
 
 <i><sc>Fig 6</sc></i>
 
-POWER-WHEEL AND WHEEL-RACE]
+POWER-WHEEL AND WHEEL-RACE
+.ca-
 // 220.png
 .pn +1
 the speed or power of the wheel, the other end being
@@ -6751,7 +6936,9 @@ The wood should be very dry so that it will not shrink
 // 225.png
 .pn +1
 
-[Illustration: <i>Fig. 1</i>
+.il id=i_225 fn=i_225.jpg w=1022px alt=''
+.ca
+<i>Fig. 1</i>
 
 <i>Fig. 4</i>
 
@@ -6759,7 +6946,8 @@ The wood should be very dry so that it will not shrink
 
 <i><sc>Fig 3</sc></i>
 
-PUNT AND SCOW]
+PUNT AND SCOW
+.ca-
 // 226.png
 .pn +1
 afterwards and open the seams. Along the edges, and
@@ -6871,7 +7059,9 @@ over each side board to limber them, for dry boards are
 // 229.png
 .pn +1
 
-[Illustration: <i><sc>Fig 5</sc></i>
+.il id=i_229 fn=i_229.jpg w=910px alt=''
+.ca
+<i><sc>Fig 5</sc></i>
 
 <i><sc>Fig 6</sc></i>
 
@@ -6883,7 +7073,8 @@ over each side board to limber them, for dry boards are
 
 <i><sc>Fig 9</sc></i>
 
-A SHARPY]
+A SHARPY
+.ca-
 // 230.png
 .pn +1
 stiff and will not bend easily without checking or cracking.
@@ -6974,13 +7165,17 @@ galvanized nails clinched at the inside. The battens, of
 course, are on the inside, but the nail-heads are on the outside
 or bottom of the boat.
 
-[Illustration: <sc>Fig 11</sc>]
+.il id=i_232 fn=i_232.jpg w=915px alt=''
+.ca <sc>Fig 11</sc>
 
-[Illustration: <sc>Fig 12</sc>]
+.il id=i_232 fn=i_232.jpg w=915px alt=''
+.ca <sc>Fig 12</sc>
 
-[Illustration: <sc>Fig 13</sc>]
+.il id=i_232 fn=i_232.jpg w=915px alt=''
+.ca <sc>Fig 13</sc>
 
-[Illustration: <sc>Fig 14</sc>]
+.il id=i_232 fn=i_232.jpg w=915px alt=''
+.ca <sc>Fig 14</sc>
 
 A stem and stern-piece (Fig. 13 A and B) are cut from
 // 233.png
@@ -7023,11 +7218,14 @@ The half-deck will keep out the water that might splash
 // 234.png
 .pn +1
 
-[Illustration: <sc>Fig 18</sc>
+.il id=i_234 fn=i_234.jpg w=967px alt=''
+.ca
+<sc>Fig 18</sc>
 
 <sc>Fig 15</sc>
 
-A SAILING SHARPY]
+A SAILING SHARPY
+.ca-
 // 235.png
 .pn +1
 over the sides or come over the bow and stern, and the row-boat
@@ -7175,7 +7373,9 @@ It would be better to let a boat-builder or carpenter make
 // 239.png
 .pn +1
 
-[Illustration: <sc>Fig 17</sc>
+.il id=i_239 fn=i_239.jpg w=873px alt=''
+.ca
+<sc>Fig 17</sc>
 
 <sc>Fig 16</sc>
 
@@ -7185,7 +7385,8 @@ It would be better to let a boat-builder or carpenter make
 
 <sc>Fig 20</sc>
 
-A CENTRE-BOARD SHARPY]
+A CENTRE-BOARD SHARPY
+.ca-
 // 240.png
 .pn +1
 this board the proper size and shape to fit the trunk, for it is
@@ -7226,11 +7427,14 @@ or outriggers. Set a step-block for the mast, then
 // 241.png
 .pn +1
 
-[Illustration: <sc>Fig 22</sc>
+.il id=i_241 fn=i_241.jpg w=922px alt=''
+.ca
+<sc>Fig 22</sc>
 
 <sc>Fig 23</sc>
 
-A PROA]
+A PROA
+.ca-
 // 242.png
 .pn +1
 plank the deck and bottom, using plenty of white-lead and
@@ -7281,7 +7485,8 @@ In general construction this hull is similar to the punt,
 and when putting it together the description for the building
 of the punt must be borne in mind.
 
-[Illustration: <i><sc>Fig 24</sc></i>]
+.il id=i_243 fn=i_243.jpg w=822px alt=''
+.ca <i><sc>Fig 24</sc></i>
 
 Obtain two clear cedar planks sixteen feet long and from
 fourteen to sixteen inches wide. Four feet from either end
@@ -7325,7 +7530,9 @@ of the water. An outer flat keel is laid along the bottom
 // 245.png
 .pn +1
 
-[Illustration: <i><sc>Fig 25</sc></i>
+.il id=i_245 fn=i_245.jpg w=836px alt=''
+.ca
+<i><sc>Fig 25</sc></i>
 
 <i><sc>Fig 26</sc></i>
 
@@ -7335,7 +7542,8 @@ of the water. An outer flat keel is laid along the bottom
 
 <i><sc>Fig 28</sc></i>
 
-A LARK]
+A LARK
+.ca-
 // 246.png
 .pn +1
 of the hull from the forward part of the cockpit or about
@@ -7418,13 +7626,17 @@ wide. They should be bolted on when the wheels are in
 position, for they not only have to support the weight of the
 wheels but also stand the action of the water against them.
 
-[Illustration: <i><sc>Fig 30</sc></i>]
+.il id=i_248 fn=i_248.jpg w=932px alt=''
+.ca <i><sc>Fig 30</sc></i>
 
-[Illustration: <i><sc>Fig 31</sc></i>]
+.il id=i_248 fn=i_248.jpg w=932px alt=''
+.ca <i><sc>Fig 31</sc></i>
 
-[Illustration: <i><sc>Fig 32</sc></i>]
+.il id=i_248 fn=i_248.jpg w=932px alt=''
+.ca <i><sc>Fig 32</sc></i>
 
-[Illustration: <i><sc>Fig 33</sc></i>]
+.il id=i_248 fn=i_248.jpg w=932px alt=''
+.ca <i><sc>Fig 33</sc></i>
 
 The wheels are each twenty-four inches in diameter and
 // 249.png
@@ -7511,13 +7723,17 @@ pumped out.
 // 252.png
 .pn +1
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_252 fn=i_252.jpg w=934px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_252 fn=i_252.jpg w=934px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_252 fn=i_252.jpg w=934px alt=''
+.ca <i><sc>Fig 3</sc></i>
 
-[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_252 fn=i_252.jpg w=934px alt=''
+.ca <i><sc>Fig 4</sc></i>
 
 The first spreader is placed three feet from the bow, and
 three or four more of them should be fastened between the
@@ -7584,7 +7800,8 @@ shown in Fig. 6, and in Fig. 8 the cross-braces are shown.
 They are cut in at the bottom to slip over the keel and to
 them the sheathing planks are made fast.
 
-[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_254 fn=i_254.jpg w=929px alt=''
+.ca <i><sc>Fig 5</sc></i>
 // 255.png
 .pn +1
 
@@ -7663,7 +7880,9 @@ thick and two inches and a half in width. They are three
 // 257.png
 .pn +1
 
-[Illustration: <i><sc>Fig 6</sc></i>
+.il id=i_257 fn=i_257.jpg w=962px alt=''
+.ca
+<i><sc>Fig 6</sc></i>
 
 <i><sc>Fig 7</sc></i>
 
@@ -7673,7 +7892,8 @@ thick and two inches and a half in width. They are three
 
 <i><sc>Fig 10</sc></i>
 
-A SAILING CATAMARAN]
+A SAILING CATAMARAN
+.ca-
 // 258.png
 .pn +1
 feet long and to the upper end of each a strap of metal is
@@ -7752,7 +7972,8 @@ the location of the axle, the sprocket-wheel, and the chain
 that leads to the large sprocket-wheel by means of which
 the axle is turned.
 
-[Illustration: <i><sc>Fig 11</sc></i>]
+.il id=i_260 fn=i_260.jpg w=943px alt=''
+.ca <i><sc>Fig 11</sc></i>
 
 An old bicycle chain and sprockets, together with the axle,
 cranks, and pedals, can be arranged on a frame, so that a
@@ -7815,7 +8036,8 @@ and laid over timber A, to which it is bolted fast. A half-inch
 iron pin is driven in the butt end of the bowsprit, and
 it fits into a hole made in timber C.
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_262 fn=i_262.jpg w=980px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
 The bowsprit is cut from spruce two inches and a half by
 four inches, and tapered at the outer end, where a withe having
@@ -7865,13 +8087,17 @@ shoulder for the tiller D to fit on, and a threaded top so that
 a nut will hold the tiller in place. The shoes can only be
 made of steel or iron, as wooden ones are useless.
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_264 fn=i_264.jpg w=929px alt=''
+.ca <i><sc>Fig 3</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_264 fn=i_264.jpg w=929px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 6</sc></i>]
+.il id=i_264 fn=i_264.jpg w=929px alt=''
+.ca <i><sc>Fig 6</sc></i>
 
-[Illustration: <i><sc>Fig 7</sc></i>]
+.il id=i_264 fn=i_264.jpg w=929px alt=''
+.ca <i><sc>Fig 7</sc></i>
 
 The mast is twelve feet high and three inches and a half
 or four inches in diameter, slightly tapered near the top.
@@ -7924,7 +8150,8 @@ goes to one side or the other the jib always takes the
 opposite position and the wind is playing on the entire sail
 at all times.
 
-[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_266 fn=i_266.jpg w=937px alt=''
+.ca <i><sc>Fig 4</sc></i>
 
 This is a very easy rig to handle as it relieves the steersman
 from the bother of the jib-sheets which are annoying
@@ -7973,7 +8200,8 @@ fifteen inches deep, and is provided with a centre-board
 and trunk the same as described for the sailing sharpy on
 page 221.
 
-[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_268 fn=i_268.jpg w=953px alt=''
+.ca <i><sc>Fig 5</sc></i>
 
 The mast is twelve feet long or about ten feet above the
 deck; the gaff is seven feet and the boom eleven feet
@@ -8026,7 +8254,8 @@ The shovel-nosed scooter shown in Fig. 8 is an easier boat
 to handle as it is broader than the sharpy, but it is not quite
 so fast, being slightly heavier.
 
-[Illustration: <i><sc>Fig 8</sc></i>]
+.il id=i_270 fn=i_270.jpg w=938px alt=''
+.ca <i><sc>Fig 8</sc></i>
 
 It is twelve feet long over all with a five-foot beam and
 fourteen inches high including deck and bottom. The side
@@ -8051,9 +8280,11 @@ A Wind-runner
 An interesting boat for a boy to sail is a wind-runner like
 the one shown in Fig. 9.
 
-[Illustration: <i><sc>Fig 10</sc></i>]
+.il id=i_271 fn=i_271.jpg w=974px alt=''
+.ca <i><sc>Fig 10</sc></i>
 
-[Illustration: <i><sc>Fig 9</sc></i>]
+.il id=i_271 fn=i_271.jpg w=974px alt=''
+.ca <i><sc>Fig 9</sc></i>
 
 Two spruce planks twelve feet long and ten inches wide are
 attached to three battens and separated four inches. The
@@ -8158,7 +8389,9 @@ of this treatment is that when the punt is in the water the
 // 275.png
 .pn +1
 
-[Illustration: <i><sc>Fig 1</sc></i>
+.il id=i_275 fn=i_275.jpg w=958px alt=''
+.ca
+<i><sc>Fig 1</sc></i>
 
 <i><sc>Fig 3</sc></i>
 
@@ -8172,7 +8405,8 @@ of this treatment is that when the punt is in the water the
 
 <i><sc>Fig 6</sc></i>
 
-A HOUSE-PUNT]
+A HOUSE-PUNT
+.ca-
 // 276.png
 .pn +1
 joint swells forcing out the wood against the lamp-wick and
@@ -8356,13 +8590,16 @@ as each succeeding timber is laid it can be levelled by either
 // 281.png
 .pn +1
 
-[Illustration: <i><sc>Fig 8</sc></i>
+.il id=i_281 fn=i_281.jpg w=858px alt=''
+.ca
+<i><sc>Fig 8</sc></i>
 
 Fig. 9
 
 Fig. 10
 
-A HOUSE-RAFT]
+A HOUSE-RAFT
+.ca-
 // 282.png
 .pn +1
 cutting slightly into the log or building up the bearing, as it
@@ -8438,13 +8675,16 @@ one end a couch is placed which, if necessary, can be used as
 a bed; and close to it are two large windows—one overlooking
 // 284.png
 .pn +1
-[Illustration: <i><sc>Fig 11</sc></i>
+.il id=i_284 fn=i_284.jpg w=985px alt=''
+.ca
+<i><sc>Fig 11</sc></i>
 
 Fig. 12
 
 Fig. 13
 
-DETAILS OF A HOUSE-RAFT]
+DETAILS OF A HOUSE-RAFT
+.ca-
 // 285.png
 .pn +1
 the fore-deck, the other giving a view from the side of
@@ -8644,11 +8884,14 @@ four feet in length. We then nailed the two sixteen-foot
 pieces and the two six-foot pieces together in the form of a
 rectangle as in Fig. 14.
 
-[Illustration: Fig. 14]
+.il id=i_290 fn=i_290.jpg w=819px alt=''
+.ca Fig. 14
 
-[Illustration: Fig. 15]
+.il id=i_290 fn=i_290.jpg w=819px alt=''
+.ca Fig. 15
 
-[Illustration: Fig. 16]
+.il id=i_290 fn=i_290.jpg w=819px alt=''
+.ca Fig. 16
 
 Then, having propped the barrels to keep them in place,
 // 291.png
@@ -8731,11 +8974,14 @@ former was passed, and last push the strand 6 through on
 the opposite side. Repeat this once, then cut off the remaining
 ends, and the splice will appear as in C.
 
-[Illustration: FIG. 1. THE EYE-SPLICE]
+.il id=i_293 fn=i_293.jpg w=934px alt=''
+.ca FIG. 1. THE EYE-SPLICE
 
-[Illustration: FIG. 2. THE SHORT SPLICE]
+.il id=i_293 fn=i_293.jpg w=934px alt=''
+.ca FIG. 2. THE SHORT SPLICE
 
-[Illustration: FIG. 3. THE LONG SPLICE]
+.il id=i_293 fn=i_293.jpg w=934px alt=''
+.ca FIG. 3. THE LONG SPLICE
 
 <sc>The Short Splice</sc> (Fig. 2).—Hold the rope B (Fig. 2 A)
 // 294.png
@@ -8843,7 +9089,9 @@ haul the parts taut and the knot will be formed.
 <sc>Crowned Wall Knot</sc> (Fig. 11).—Over the top of the
 // 297.png
 .pn +1
-[Illustration: <i>Fig. 4</i>
+.il id=i_297 fn=i_297.jpg w=971px alt=''
+.ca
+<i>Fig. 4</i>
 
 <i>Fig. 5</i>
 
@@ -8885,7 +9133,8 @@ haul the parts taut and the knot will be formed.
 
 <i>Fig. 24</i>
 
-KNOTS]
+KNOTS
+.ca-
 // 298.png
 .pn +1
 knot lay the strand 1, then lay strand 2 over 1, and strand
@@ -9002,23 +9251,32 @@ passes under the standing part 2. The greater the strain,
 the more the standing part binds the two turns, and insures
 them from slipping.
 
-[Illustration: <i>Fig. 25</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 25</i>
 
-[Illustration: <i>Fig. 26</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 26</i>
 
-[Illustration: <i>Fig. 27</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 27</i>
 
-[Illustration: <i>Fig. 28</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 28</i>
 
-[Illustration: <i>Fig. 29</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 29</i>
 
-[Illustration: <i>Fig. 30</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 30</i>
 
-[Illustration: <i>Fig. 31</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 31</i>
 
-[Illustration: <i>Fig. 32</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 32</i>
 
-[Illustration: <i>Fig. 33</i>]
+.il id=i_301 fn=i_301.jpg w=949px alt=''
+.ca <i>Fig. 33</i>
 
 
 Hitches
@@ -9081,27 +9339,38 @@ the spar and bring it up through the bight. The value of
 this hitch is its insurance against slipping in the direction
 represented by the arrow.
 
-[Illustration: <i>Fig. 34</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 34</i>
 
-[Illustration: <i>Fig. 35</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 35</i>
 
-[Illustration: <i>Fig. 36</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 36</i>
 
-[Illustration: <i>Fig. 37</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 37</i>
 
-[Illustration: <i>Fig. 38</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 38</i>
 
-[Illustration: <i>Fig. 39</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 39</i>
 
-[Illustration: <i>Fig. 43</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 43</i>
 
-[Illustration: <i>Fig. 40</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 40</i>
 
-[Illustration: <i>Fig. 41</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 41</i>
 
-[Illustration: <i>Fig. 42</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 42</i>
 
-[Illustration: <i>Fig. 44</i>]
+.il id=i_303 fn=i_303.jpg w=945px alt=''
+.ca <i>Fig. 44</i>
 
 <sc>Catspaw Hitch</sc> (Fig. 39).—Like the Blackwall Hitch,
 this one is used for making a rope fast to a hook for hoisting
@@ -9216,7 +9485,9 @@ of clothes-line, so that any attachments made to the edges
 // 309.png
 .pn +1
 
-[Illustration: <i><sc>Fig 1</sc></i>
+.il id=i_309 fn=i_309.jpg w=952px alt=''
+.ca
+<i><sc>Fig 1</sc></i>
 
 <i><sc>Fig 2</sc></i>
 
@@ -9228,7 +9499,8 @@ of clothes-line, so that any attachments made to the edges
 
 <i><sc>Fig 6</sc></i>
 
-A TENT OF MEDIUM SIZE]
+A TENT OF MEDIUM SIZE
+.ca-
 // 310.png
 .pn +1
 will be borne by the rope instead of all the strain coming on
@@ -9342,7 +9614,9 @@ smaller one, and a fly twenty-two feet long and eighteen feet
 // 313.png
 .pn +1
 
-[Illustration: <i><sc>Fig 7</sc></i>
+.il id=i_313 fn=i_313.jpg w=956px alt=''
+.ca
+<i><sc>Fig 7</sc></i>
 
 <i><sc>Fig 8</sc></i>
 
@@ -9352,7 +9626,8 @@ smaller one, and a fly twenty-two feet long and eighteen feet
 
 <i><sc>Fig 10</sc></i>
 
-TENTS AND CANOPIES]
+TENTS AND CANOPIES
+.ca-
 // 314.png
 .pn +1
 wide is supported over the tent where, in clear weather, it
@@ -9477,9 +9752,11 @@ house-tent; while the canvas sides, when propped out with
 long, slim poles, add equally to the roof area in the way of
 sunshades.
 
-[Illustration: <i><sc>Fig 12</sc></i>]
+.il id=i_317 fn=i_317.jpg w=936px alt=''
+.ca <i><sc>Fig 12</sc></i>
 
-[Illustration: <i><sc>Fig 13</sc></i>]
+.il id=i_317 fn=i_317.jpg w=936px alt=''
+.ca <i><sc>Fig 13</sc></i>
 
 In Fig. 13 a clear idea is given for the framing, which is
 of spruce planed on the four sides. The uprights and
@@ -9603,7 +9880,9 @@ an inch thick, and is two inches wide, six inches long, and
 provided with two holes three inches apart. At one end a
 // 321.png
 .pn +1
-[Illustration: <i><sc>Fig 14</sc></i>
+.il id=i_321 fn=i_321.jpg w=930px alt=''
+.ca
+<i><sc>Fig 14</sc></i>
 
 <i><sc>Fig 15</sc></i>
 
@@ -9611,7 +9890,8 @@ provided with two holes three inches apart. At one end a
 
 <i><sc>Fig 17</sc></i>
 
-THE NEW TENT]
+THE NEW TENT
+.ca-
 // 322.png
 .pn +1
 jaw is cut, so that a rope may be caught in it as shown in
@@ -9661,15 +9941,20 @@ If a folding-cot with portable ends is desired, it can be
 made to appear as shown in Fig. 19 by constructing two
 folding ends, a middle pole, and four iron brace-hooks.
 
-[Illustration: <i><sc>Fig 18</sc></i>]
+.il id=i_323 fn=i_323.jpg w=820px alt=''
+.ca <i><sc>Fig 18</sc></i>
 
-[Illustration: <i><sc>Fig 19</sc></i>]
+.il id=i_323 fn=i_323.jpg w=820px alt=''
+.ca <i><sc>Fig 19</sc></i>
 
-[Illustration: <i><sc>Fig 20</sc></i>]
+.il id=i_323 fn=i_323.jpg w=820px alt=''
+.ca <i><sc>Fig 20</sc></i>
 
-[Illustration: <i><sc>Fig 21</sc></i>]
+.il id=i_323 fn=i_323.jpg w=820px alt=''
+.ca <i><sc>Fig 21</sc></i>
 
-[Illustration: <i><sc>Fig 22</sc></i>]
+.il id=i_323 fn=i_323.jpg w=820px alt=''
+.ca <i><sc>Fig 22</sc></i>
 
 To make the cot twenty-six inches wide, procure the canvas
 // 324.png
@@ -9783,15 +10068,20 @@ The seat is made of ordinary boards nailed to the top edges
 of the rails all around, and if the edge is smoothed off there
 will be less liability to tear one’s garments.
 
-[Illustration: <i><sc>Fig 24</sc></i>]
+.il id=i_327 fn=i_327.jpg w=949px alt=''
+.ca <i><sc>Fig 24</sc></i>
 
-[Illustration: <i><sc>Fig 23</sc></i>]
+.il id=i_327 fn=i_327.jpg w=949px alt=''
+.ca <i><sc>Fig 23</sc></i>
 
-[Illustration: <i><sc>Fig 25</sc></i>]
+.il id=i_327 fn=i_327.jpg w=949px alt=''
+.ca <i><sc>Fig 25</sc></i>
 
-[Illustration: <i><sc>Fig 27</sc></i>]
+.il id=i_327 fn=i_327.jpg w=949px alt=''
+.ca <i><sc>Fig 27</sc></i>
 
-[Illustration: <i><sc>Fig 26</sc></i>]
+.il id=i_327 fn=i_327.jpg w=949px alt=''
+.ca <i><sc>Fig 26</sc></i>
 
 In the illustration of a canopy (Fig. 10, page 301), a
 table and benches are shown. The table is thirty inches
@@ -9883,13 +10173,17 @@ break.
 // 330.png
 .pn +1
 
-[Illustration: Fig. 28]
+.il id=i_330 fn=i_330.jpg w=898px alt=''
+.ca Fig. 28
 
-[Illustration: <i><sc>Fig 30</sc></i>]
+.il id=i_330 fn=i_330.jpg w=898px alt=''
+.ca <i><sc>Fig 30</sc></i>
 
-[Illustration: <i><sc>Fig 31</sc></i>]
+.il id=i_330 fn=i_330.jpg w=898px alt=''
+.ca <i><sc>Fig 31</sc></i>
 
-[Illustration: <i><sc>Fig 29</sc></i>]
+.il id=i_330 fn=i_330.jpg w=898px alt=''
+.ca <i><sc>Fig 29</sc></i>
 
 A carry-all (Fig. 30) is made of denim or light sail-cloth,
 and will be found the most convenient sort of a catch-all,
@@ -9970,13 +10264,17 @@ manner: Cut two green poles about five or six inches thick
 and about two feet long. In these cut notches about a foot
 // 333.png
 .pn +1
-*[Illustration: Fig. 33]
+.il id=i_333 fn=i_333.jpg w=927px alt=''
+.ca *[Illustration: Fig. 33
 
-*[Illustration: <sc>Fig 32</sc>]
+.il id=i_333 fn=i_333.jpg w=927px alt=''
+.ca *[Illustration: <sc>Fig 32</sc>
 
-*[Illustration: Fig. 34]
+.il id=i_333 fn=i_333.jpg w=927px alt=''
+.ca *[Illustration: Fig. 34
 
-*[Illustration: Fig. 35]
+.il id=i_333 fn=i_333.jpg w=927px alt=''
+.ca *[Illustration: Fig. 35
 
 apart. Level the ground where you intend to build your
 fire, and lay these poles down with the notches up and about
@@ -10059,9 +10357,11 @@ Hollow out the sides of the excavation and arch the roof,
 till the floor of the oven is about two feet wide and the arch
 about sixteen inches at the centre. Fig. 37 A and B.
 
-[Illustration: Fig. 36]
+.il id=i_336 fn=i_336.jpg w=874px alt=''
+.ca Fig. 36
 
-[Illustration: Fig. 37]
+.il id=i_336 fn=i_336.jpg w=874px alt=''
+.ca Fig. 37
 
 Now carefully “tap” the back end for the chimney, and
 insert a piece of stove-pipe if handy. A hole from four to
@@ -10450,13 +10750,17 @@ the ground, or in wet weather they will pull out.
 Rabbits, as gardeners know, are fond of carrots and other
 // 348.png
 .pn +1
-*[Illustration: <i>Fig. 4</i>]
+.il id=i_348 fn=i_348.jpg w=944px alt=''
+.ca *[Illustration: <i>Fig. 4</i>
 
-*[Illustration: <i>Fig. 1</i>]
+.il id=i_348 fn=i_348.jpg w=944px alt=''
+.ca *[Illustration: <i>Fig. 1</i>
 
-*[Illustration: <i>Fig. 3</i>]
+.il id=i_348 fn=i_348.jpg w=944px alt=''
+.ca *[Illustration: <i>Fig. 3</i>
 
-*[Illustration: <i>Fig. 2</i>]
+.il id=i_348 fn=i_348.jpg w=944px alt=''
+.ca *[Illustration: <i>Fig. 2</i>
 
 vegetables, as well as apples. There are many ways of rigging
 a snare with bait. The trap is arranged so the rabbit
@@ -10539,9 +10843,11 @@ down drops the door behind, and he is fast. The trigger
 must be set under the front edge of the hole, otherwise the
 rabbit will not be able to push it from him.
 
-[Illustration: <i>Fig. 5</i>]
+.il id=i_351 fn=i_351.jpg w=856px alt=''
+.ca <i>Fig. 5</i>
 
-[Illustration: <i>Fig. 6</i>]
+.il id=i_351 fn=i_351.jpg w=856px alt=''
+.ca <i>Fig. 6</i>
 
 Instead of a box, a section of a hollow log, called in the
 South a “gum,” may be used, two stakes being driven in
@@ -10587,7 +10893,9 @@ trigger, which is raised just enough (two inches) for the
 // 353.png
 .pn +1
 
-[Illustration: <i>Fig. 7</i>
+.il id=i_353 fn=i_353.jpg w=924px alt=''
+.ca
+<i>Fig. 7</i>
 
 <i>Fig. 8</i>
 
@@ -10595,7 +10903,8 @@ trigger, which is raised just enough (two inches) for the
 
 <i>Fig. 10</i>
 
-SOME USEFUL TRAPS]
+SOME USEFUL TRAPS
+.ca-
 // 354.png
 .pn +1
 purpose. When the rat comes along it steps on the trigger,
@@ -10703,7 +11012,9 @@ driving wooden pins against it at the ends. So much done.
 // 357.png
 .pn +1
 
-[Illustration: <i>Fig. 11</i>
+.il id=i_357 fn=i_357.jpg w=947px alt=''
+.ca
+<i>Fig. 11</i>
 
 <i>Fig. 12</i>
 
@@ -10715,7 +11026,8 @@ driving wooden pins against it at the ends. So much done.
 
 <i>Fig. 16</i>
 
-DEADFALLS]
+DEADFALLS
+.ca-
 // 358.png
 .pn +1
 Now get another stick of the same length and lay it on top
@@ -10753,7 +11065,8 @@ is to be sold, for dealers will only pay for good fur properly
 prepared. It must be “prime”—that is, from November to
 // 359.png
 .pn +1
-*[Illustration: <i>Fig. 17</i>]
+.il id=i_359 fn=i_359.jpg w=703px alt=''
+.ca *[Illustration: <i>Fig. 17</i>
 
 the middle of April (water fur a fortnight later) the inside of
 the skin will be white and the fur thick and glossy; at other
@@ -10815,7 +11128,8 @@ Nor should any preservatives whatever be applied, not even
 salt, until ready for tanning. All fat should be removed,
 taking care for knife-cuts.
 
-[Illustration: <i>Fig. 18</i>]
+.il id=i_361 fn=i_361.jpg w=729px alt=''
+.ca <i>Fig. 18</i>
 // 362.png
 .pn +1
 
@@ -10894,17 +11208,23 @@ shown in Fig. 2. Place the remaining two timbers in position
 so that the ends will fit into those fastened to the trees,
 and nail them fast as shown in Fig. 4.
 
-[Illustration: <i><sc>Fig 6</sc></i>]
+.il id=i_364 fn=i_364.jpg w=949px alt=''
+.ca <i><sc>Fig 6</sc></i>
 
-[Illustration: <i><sc>Fig 2</sc></i>]
+.il id=i_364 fn=i_364.jpg w=949px alt=''
+.ca <i><sc>Fig 2</sc></i>
 
-[Illustration: <i><sc>Fig 4</sc></i>]
+.il id=i_364 fn=i_364.jpg w=949px alt=''
+.ca <i><sc>Fig 4</sc></i>
 
-[Illustration: <i><sc>Fig 3</sc></i>]
+.il id=i_364 fn=i_364.jpg w=949px alt=''
+.ca <i><sc>Fig 3</sc></i>
 
-[Illustration: <i><sc>Fig 5</sc></i>]
+.il id=i_364 fn=i_364.jpg w=949px alt=''
+.ca <i><sc>Fig 5</sc></i>
 
-[Illustration: <i><sc>Fig 1</sc></i>]
+.il id=i_364 fn=i_364.jpg w=949px alt=''
+.ca <i><sc>Fig 1</sc></i>
 
 In Fig. 5 the first timbers can be seen spiked to the tree-trunks,
 where they are supported by the fifteen-inch blocks
@@ -10984,9 +11304,12 @@ together as shown in Fig. 6 A. Under the table a ledge
 // 367.png
 .pn +1
 
-[Illustration: <i><sc>Fig 7</sc></i>
+.il id=i_367 fn=i_367.jpg w=939px alt=''
+.ca
+<i><sc>Fig 7</sc></i>
 
-A HIGH TWIN-TREE HUT]
+A HIGH TWIN-TREE HUT
+.ca-
 // 368.png
 .pn +1
 twelve inches wide is to be attached to the lower cross-rails
@@ -11071,13 +11394,17 @@ pegs and down again, where a wrap is taken over one or two
 rungs; then it is lashed fast to the other ropes with the stout
 line as shown in Fig. 10.
 
-[Illustration: <i><sc>Fig. 9</sc></i>]
+.il id=i_370 fn=i_370.jpg w=935px alt=''
+.ca <i><sc>Fig. 9</sc></i>
 
-[Illustration: <i><sc>Fig. 10</sc></i>]
+.il id=i_370 fn=i_370.jpg w=935px alt=''
+.ca <i><sc>Fig. 10</sc></i>
 
-[Illustration: <i><sc>Fig. 8</sc></i>]
+.il id=i_370 fn=i_370.jpg w=935px alt=''
+.ca <i><sc>Fig. 8</sc></i>
 
-[Illustration: <i><sc>Fig. 12</sc></i>]
+.il id=i_370 fn=i_370.jpg w=935px alt=''
+.ca <i><sc>Fig. 12</sc></i>
 
 Bunks and furniture can be made for the interior, and
 any other convenient accessories to the comfort and pleasure
@@ -11196,11 +11523,14 @@ posts out of the ground, thereby allowing a pitch of one foot
 // 374.png
 .pn +1
 
-[Illustration: <i><sc>Fig 13</sc></i>
+.il id=i_374 fn=i_374.jpg w=954px alt=''
+.ca
+<i><sc>Fig 13</sc></i>
 
 <i><sc>Fig 14</sc></i>
 
-A BRUSH-HOUSE]
+A BRUSH-HOUSE
+.ca-
 // 375.png
 .pn +1
 to the six-toot length of roof. This slant is not necessary,
@@ -11212,11 +11542,14 @@ Three of these frames are to be made for the sides and rear
 of the hut, and at the front, above the doorway, a smaller
 one is to be made to cover the space between the front posts.
 
-[Illustration: <i>Fig. 15</i>]
+.il id=i_375 fn=i_375.jpg w=924px alt=''
+.ca <i>Fig. 15</i>
 
-[Illustration: <i>Fig. 16</i>]
+.il id=i_375 fn=i_375.jpg w=924px alt=''
+.ca <i>Fig. 16</i>
 
-[Illustration: <i>Fig. 17</i>]
+.il id=i_375 fn=i_375.jpg w=924px alt=''
+.ca <i>Fig. 17</i>
 
 The ends of the cross-reeds are to be bent around the end
 upright reeds as shown in Fig. 15, where they can be bound
@@ -11238,7 +11571,8 @@ inches long so that it can be interwoven between three cross-reeds
 as shown in Fig. 17, where a few strands of grasses are
 placed in position to give an idea of how to weave the grass.
 
-[Illustration: <sc>Fig 18</sc>]
+.il id=i_376 fn=i_376.jpg w=959px alt=''
+.ca <sc>Fig 18</sc>
 
 Timothy or straw can be used to good advantage for
 thatching material, and if it is employed it should be woven
@@ -11270,7 +11604,8 @@ illustration of a brush “lean-to” (Fig. 18). This is constructed
 in nearly the same manner as the brush-house, and
 thatched with grass or reeds as shown in Figs. 16 and 17.
 
-[Illustration: <i>Fig. 19</i>]
+.il id=i_377 fn=i_377.jpg w=656px alt=''
+.ca <i>Fig. 19</i>
 // 378.png
 .pn +1
 
@@ -11408,27 +11743,38 @@ of the plait.
 // 382.png
 .pn +1
 
-[Illustration: <i>Fig- 1</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 1</i>
 
-[Illustration: <i>Fig- 2</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 2</i>
 
-[Illustration: <i>Fig- 3</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 3</i>
 
-[Illustration: <i>Fig- 4</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 4</i>
 
-[Illustration: <i>Fig- 5</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 5</i>
 
-[Illustration: <i>Fig- 6</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 6</i>
 
-[Illustration: <i>Fig- 7</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 7</i>
 
-[Illustration: <i>Fig- 10</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 10</i>
 
-[Illustration: <i>Fig- 11</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 11</i>
 
-[Illustration: <i>Fig- 8</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 8</i>
 
-[Illustration: <i>Fig- 9</i>]
+.il id=i_382 fn=i_382.jpg w=935px alt=''
+.ca <i>Fig- 9</i>
 
 The following kinds of native woods are used for walking-sticks:
 
@@ -12391,3 +12737,4 @@ Resolved the following inconsistent spelling and hyphenation usage within text:
 </div>
 .li-
 .if-
+
