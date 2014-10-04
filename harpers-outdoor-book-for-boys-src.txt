@@ -162,11 +162,10 @@ HARPER & BROTHERS, NEW YORK
 // [Blank Page]
 // 004.png
 .pn +1
-
+.pb
 .il id=i_004 fn=i_004.jpg w=704px alt=''
 .ca
-:
-[See p. 359
+                        [See p. 359
 
 FIG. 11—A SINGLE-TREE HUT
 .ca-
@@ -200,30 +199,20 @@ NEW YORK AND LONDON
 .if-
 
 .if h
-.de .center { text-align: center; }
-.de .lettspa { letter-spacing: 0.17em; margin-right: -0.17em; }
-.de .lettspa2 { letter-spacing: 0.3em; margin-right: -0.3em; }
-.de .mt03 { margin-top: 0.3em; }
-.de .mt1 { margin-top: 1em; }
-.de .mt2 { margin-top: 2em; }
-.de .mt3 { margin-top: 3em; }
-.de .ig2nded { width:100%; text-align:center; }
-.de .id2nded { width:144px; max-width:100%; clear:both; text-align:center; }
-.de @media handheld { .id2nded { width:18%; }}
-.de .hr-title { border:none; border-bottom:1px solid;margin: 0.4em 0em; margin-left:43%; width:14%; margin-right:43%; }
 .de .large { font-size:large; }
 .de .xlarge { font-size:x-large; }
 .de .xxlarge { font-size:xx-large; }
 .de .small { font-size:small; }
 .de .xsmall { font-size:x-small; }
 .de .xxsmall { font-size:xx-small; }
-.de h1 { margin: 0em; font-weight: normal; }
+.de h1 { margin: 0em; font-weight: normal; font-size: 2.0em; }
 
 .li
+// Background graphic
 <h1 class='center'>
 <span class=''>HARPER’S</span><br />
-<span class='lettspa'>OUTDOOR BOOK</span><br />
-<span class=''>FOR BOYS</span><br />
+<span class='mt2 lettspa'>OUTDOOR BOOK</span><br />
+<span class='mt2'>FOR BOYS</span><br />
 </h1>
 <div class='center'>
     <div class='xsmall mt2'>BY</div>
