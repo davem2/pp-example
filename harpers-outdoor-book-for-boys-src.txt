@@ -12,6 +12,7 @@
 .de @media handheld { .figright { page-break-inside: avoid; }}
 
 // Front matter
+.de div#i_004 img { border:thin solid black; }
 .de div.boxed { border: solid 1px; color: black; padding: 1em; margin: 0 auto; display:table; }
 .de .center { text-align: center; }
 .de .lettspa { letter-spacing: 0.17em; margin-right: -0.17em; }
@@ -21,9 +22,18 @@
 .de .mt2 { margin-top: 2em; }
 .de .mt3 { margin-top: 3em; }
 .de hr.small { border:none; border-bottom:1px solid;margin: 0.4em 0em; margin-left:43%; width:14%; margin-right:43%; }
+.de .large { font-size:large; }
+.de .xlarge { font-size:x-large; }
+.de .xxlarge { font-size:xx-large; }
+.de .small { font-size:small; }
+.de .xsmall { font-size:x-small; }
+.de .xxsmall { font-size:xx-small; }
 .de div.ad1 { font-size: 1em; font-weight:bold; }
 .de div.ad2 { font-size: 0.8em; }
 .de div.ad3 { font-size: 0.6em; }
+.de h1 { text-align: center; font-weight: normal; font-size: 2.0em; }
+.de h2 { text-align: center; font-weight: bold; font-size: 1.4em; }
+.de h3 { text-align: center; font-weight: normal; font-size: 1.3em; }
 
 
 // Mark page break without displaying <hr> in html or text
@@ -199,14 +209,6 @@ NEW YORK AND LONDON
 .if-
 
 .if h
-.de .large { font-size:large; }
-.de .xlarge { font-size:x-large; }
-.de .xxlarge { font-size:xx-large; }
-.de .small { font-size:small; }
-.de .xsmall { font-size:x-small; }
-.de .xxsmall { font-size:xx-small; }
-.de h1 { margin: 0em; font-weight: normal; font-size: 2.0em; }
-
 .li
 // Background graphic
 <h1 class='center'>
@@ -260,223 +262,235 @@ CONTENTS
 .sp 2
 
 
-/*
-Part I
+.if h
+.li
+<div class="toc">
+.li-
+.de .toc {}
+.de .toc .large { font-size: 0.91em; }
+.de .toc .small { font-size: 0.85em; }
+.de .toc .xsmall { font-size: 0.82em; }
+.de .toc .xlarge { font-size: 1.05em; }
+.if-
 
-IN BOUNDS
+//.de .table0 td { border: 1px solid;  }
 
-      PAGE
+.ta l:44 rb:4
+<xl>Part I</xl>
 
-CHAPTER I.—BACK-YARD PLEASURES      3
+<xl>IN BOUNDS</xl>
+|<xxs>PAGE</xxs>
+<l>CHAPTER I.—BACK-YARD PLEASURES</l>|<xs>#3:chapter_i#</xs>
 
-<sc>A Wigwam</sc>
-<sc>A Square Tepee</sc>
-<sc>A Ridge-pole Tepee</sc>
-<sc>A Fountain</sc>
-<sc>An Aquarium</sc>
-<sc>How to Manage an Aquarium</sc>
-<sc>A Merry-go-round</sc>
+\_<s><sc>#A Wigwam:section_i_1#</sc></s>|
+\_<s><sc>#A Square Tepee:section_i_1#</sc></s>|
+\_<s><sc>#A Ridge-pole Tepee:section_i_1#</sc></s>|
+\_<s><sc>#A Fountain:section_i_1#</sc></s>|
+\_<s><sc>#An Aquarium:section_i_1#</sc></s>|
+\_<s><sc>#How to Manage an Aquarium:section_i_1#</sc></s>|
+\_<s><sc>#A Merry-go-round:section_i_1#</sc></s>|
 
-CHAPTER II.—PET SHELTERS         29
+<l>CHAPTER II.—PET SHELTERS</l>|<xs>#29:chapter_ii#</xs>
 
-<sc>Martin Boxes</sc>
-<sc>Bird Shelters</sc>
-<sc>Pigeon-cotes</sc>
-<sc>Dog-kennels</sc>
-<sc>Guinea-pig Houses</sc>
-<sc>Chicken-coops</sc>
-<sc>Rabbit-hutches</sc>
-<sc>Squirrel Cages</sc>
-<sc>Reptile Pens</sc>
+\_<s><sc>#Martin Boxes:section_i_1#</sc></s>|
+\_<s><sc>#Bird Shelters:section_i_1#</sc></s>|
+\_<s><sc>#Pigeon-cotes:section_i_1#</sc></s>|
+\_<s><sc>#Dog-kennels:section_i_1#</sc></s>|
+\_<s><sc>#Guinea-pig Houses:section_i_1#</sc></s>|
+\_<s><sc>#Chicken-coops:section_i_1#</sc></s>|
+\_<s><sc>#Rabbit-hutches:section_i_1#</sc></s>|
+\_<s><sc>#Squirrel Cages:section_i_1#</sc></s>|
+\_<s><sc>#Reptile Pens:section_i_1#</sc></s>|
 
-CHAPTER III.—SUMMER-HOUSES AND PERGOLAS      52
+<l>CHAPTER III.—SUMMER-HOUSES AND PERGOLAS</l>|<xs>#52:chapter_iii#</xs>
 
-<sc>A Simple Summer-house</sc>
-<sc>A Back-yard Pergola</sc>
-<sc>A Toadstool Tree Canopy</sc>
-<sc>A Rustic Pergola</sc>
-<sc>A Circular Pergola</sc>
-<sc>A Summer Shelter</sc>
+\_<s><sc>#A Simple Summer-house:section_i_1#</sc></s>|
+\_<s><sc>#A Back-yard Pergola:section_i_1#</sc></s>|
+\_<s><sc>#A Toadstool Tree Canopy:section_i_1#</sc></s>|
+\_<s><sc>#A Rustic Pergola:section_i_1#</sc></s>|
+\_<s><sc>#A Circular Pergola:section_i_1#</sc></s>|
+\_<s><sc>#A Summer Shelter:section_i_1#</sc></s>|
 
-CHAPTER IV.—WEATHER-VANES AND WINDMILLS      59
+<l>CHAPTER IV.—WEATHER-VANES AND WINDMILLS</l>|<xs>#59:chapter_iv#</xs>
 
-<sc>A Pinion-wheel Weather-vane</sc>
-<sc>A Wind-speeder</sc>
-<sc>The Arrow Weather-vane</sc>
-<sc>Wooden Vanes</sc>
-<sc>A Wind-pennant</sc>
-<sc>A Basket-ball Vane</sc>
-<sc>A Merry-go-round</sc>
-<sc>A Wind Turbine</sc>
-<sc>A Barrel-hoop Pinion-wheel</sc>
-<sc>A Pumping Windmill</sc>
-<sc>A Windmill and Tower</sc>
-*/
+\_<s><sc>#A Pinion-wheel Weather-vane:section_i_1#</sc></s>|
+\_<s><sc>#A Wind-speeder:section_i_1#</sc></s>|
+\_<s><sc>#The Arrow Weather-vane:section_i_1#</sc></s>|
+\_<s><sc>#Wooden Vanes:section_i_1#</sc></s>|
+\_<s><sc>#A Wind-pennant:section_i_1#</sc></s>|
+\_<s><sc>#A Basket-ball Vane:section_i_1#</sc></s>|
+\_<s><sc>#A Merry-go-round:section_i_1#</sc></s>|
+\_<s><sc>#A Wind Turbine:section_i_1#</sc></s>|
+\_<s><sc>#A Barrel-hoop Pinion-wheel:section_i_1#</sc></s>|
+\_<s><sc>#A Pumping Windmill:section_i_1#</sc></s>|
+\_<s><sc>#A Windmill and Tower:section_i_1#</sc></s>|
 // 008.png
 .pn +1
 
-/*
-CHAPTER V.—AËRIAL TOYS       81
+<l>CHAPTER V.—AËRIAL TOYS</l>|<xs>#81:chapter_v#</xs>
 
-<sc>The Elastic Flying-machine</sc>
-<sc>Self-acting Aërial Car</sc>
-<sc>Aërial Boat-sailing</sc>
-<sc>A “High-flyer”</sc>
+\_<s><sc>#The Elastic Flying-machine:section_i_1#</sc></s>|
+\_<s><sc>#Self-acting Aërial Car:section_i_1#</sc></s>|
+\_<s><sc>#Aërial Boat-sailing:section_i_1#</sc></s>|
+\_<s><sc>#A “High-flyer”:section_i_1#</sc></s>|
 
 
 Part II
 
 AFIELD
 
-CHAPTER VI.—COASTERS, SKEES, AND SNOW-SHOES       101
+<l>CHAPTER VI.—COASTERS, SKEES, AND SNOW-SHOES</l>|<xs>#101:chapter_vi#</xs>
 
-<sc>Toboggans</sc>
-<sc>A Rocker-coaster</sc>
-<sc>A Single-runner Coaster</sc>
-<sc>A Bob-sled</sc>
-<sc>Skees</sc>
-<sc>Snow-shoes</sc>
+\_<s><sc>#Toboggans:section_i_1#</sc></s>|
+\_<s><sc>#A Rocker-coaster:section_i_1#</sc></s>|
+\_<s><sc>#A Single-runner Coaster:section_i_1#</sc></s>|
+\_<s><sc>#A Bob-sled:section_i_1#</sc></s>|
+\_<s><sc>#Skees:section_i_1#</sc></s>|
+\_<s><sc>#Snow-shoes:section_i_1#</sc></s>|
 
-CHAPTER VII.—SAIL-SKATING AND SNOWBALL ARTILLERY       115
+<l>CHAPTER VII.—SAIL-SKATING AND SNOWBALL ARTILLERY</l>|<xs>#115:chapter_vii#</xs>
 
-<sc>A Skating-sail</sc>
-<sc>A Square-rigged Ice-sail</sc>
-<sc>A Snowball Mortar</sc>
+\_<s><sc>#A Skating-sail:section_i_1#</sc></s>|
+\_<s><sc>#A Square-rigged Ice-sail:section_i_1#</sc></s>|
+\_<s><sc>#A Snowball Mortar:section_i_1#</sc></s>|
 
-CHAPTER VIII.—KITES AND AEROPLANES      120
+<l>CHAPTER VIII.—KITES AND AEROPLANES</l>|<xs>#120:chapter_viii#</xs>
 
-<sc>The Ship Kite</sc>
-<sc>The Chinese-junk Kite</sc>
-<sc>The Schooner Kite</sc>
-<sc>A Balloon Kite</sc>
-<sc>An Air-ship Kite</sc>
-<sc>Bat-wing and Crown-top Kites</sc>
-<sc>Sandwich Islands Bird Kite</sc>
-<sc>Box Kites</sc>
-<sc>The Flying-wedge and Double-plane Kite</sc>
-<sc>Kite-reels</sc>
+\_<s><sc>#The Ship Kite:section_i_1#</sc></s>|
+\_<s><sc>#The Chinese-junk Kite:section_i_1#</sc></s>|
+\_<s><sc>#The Schooner Kite:section_i_1#</sc></s>|
+\_<s><sc>#A Balloon Kite:section_i_1#</sc></s>|
+\_<s><sc>#An Air-ship Kite:section_i_1#</sc></s>|
+\_<s><sc>#Bat-wing and Crown-top Kites:section_i_1#</sc></s>|
+\_<s><sc>#Sandwich Islands Bird Kite:section_i_1#</sc></s>|
+\_<s><sc>#Box Kites:section_i_1#</sc></s>|
+\_<s><sc>#The Flying-wedge and Double-plane Kite:section_i_1#</sc></s>|
+\_<s><sc>#Kite-reels:section_i_1#</sc></s>|
 
-CHAPTER IX.—FISHING-TACKLE       144
+<l>CHAPTER IX.—FISHING-TACKLE</l>|<xs>#144:chapter_#ix</xs>
 
-<sc>Choice of Tackle</sc>
-<sc>Bait-rods and Fly-rods</sc>
-<sc>Repairs, Knots, and Splices</sc>
-<sc>Aids for Young Anglers</sc>
-<sc>Baits, and Where to Find Them</sc>
-<sc>A Trap for Small Fish</sc>
-<sc>A Water-turtle Trap</sc>
-<sc>An Eel-pot</sc>
-<sc>A Scap-net</sc>
-<sc>A Hook Drop-net</sc>
-*/
+\_<s><sc>#Choice of Tackle:section_i_1#</sc></s>|
+\_<s><sc>#Bait-rods and Fly-rods:section_i_1#</sc></s>|
+\_<s><sc>#Repairs, Knots, and Splices:section_i_1#</sc></s>|
+\_<s><sc>#Aids for Young Anglers:section_i_1#</sc></s>|
+\_<s><sc>#Baits, and Where to Find Them:section_i_1#</sc></s>|
+\_<s><sc>#A Trap for Small Fish:section_i_1#</sc></s>|
+\_<s><sc>#A Water-turtle Trap:section_i_1#</sc></s>|
+\_<s><sc>#An Eel-pot:section_i_1#</sc></s>|
+\_<s><sc>#A Scap-net:section_i_1#</sc></s>|
+\_<s><sc>#A Hook Drop-net:section_i_1#</sc></s>|
 // 009.png
 .pn +1
 
-/*
-CHAPTER X.—LAND-YACHTS AND PUSHMOBILES       177
+<l>CHAPTER X.—LAND-YACHTS AND PUSHMOBILES</l>|<xs>#177:chapter_x#</xs>
 
-<sc>A Land-yacht</sc>
-<sc>A Sail-wagon</sc>
-<sc>A Pushmobile</sc>
+\_<s><sc>#A Land-yacht:section_i_1#</sc></s>|
+\_<s><sc>#A Sail-wagon:section_i_1#</sc></s>|
+\_<s><sc>#A Pushmobile:section_i_1#</sc></s>|
 
-CHAPTER XI.—FIRE-ENGINES AND TRUCKS       191
+<l>CHAPTER XI.—FIRE-ENGINES AND TRUCKS</l>|<xs>#191:chapter_xi#</xs>
 
-<sc>The Engine</sc>
-<sc>The Hose-carriage</sc>
-<sc>The Hook-and-Ladder Truck</sc>
+\_<s><sc>#The Engine:section_i_1#</sc></s>|
+\_<s><sc>#The Hose-carriage:section_i_1#</sc></s>|
+\_<s><sc>#The Hook-and-Ladder Truck:section_i_1#</sc></s>|
 
-CHAPTER XII.—WATER-WHEELS       201
+<l>CHAPTER XII.—WATER-WHEELS</l>|<xs>#201:chapter_xii#</xs>
 
-<sc>A Simple Paddle-wheel</sc>
-<sc>A Wagon Wheel</sc>
-<sc>A Barrel-wheel</sc>
-<sc>An Undershot-wheel</sc>
-<sc>A Power-wheel</sc>
-<sc>A Wheel-race</sc>
+\_<s><sc>#A Simple Paddle-wheel:section_i_1#</sc></s>|
+\_<s><sc>#A Wagon Wheel:section_i_1#</sc></s>|
+\_<s><sc>#A Barrel-wheel:section_i_1#</sc></s>|
+\_<s><sc>#An Undershot-wheel:section_i_1#</sc></s>|
+\_<s><sc>#A Power-wheel:section_i_1#</sc></s>|
+\_<s><sc>#A Wheel-race:section_i_1#</sc></s>|
 
 
 Part III
 
 AFLOAT
 
-CHAPTER XIII.—BOATS       211
+<l>CHAPTER XIII.—BOATS</l>|<xs>#211:chapter_xiii#</xs>
 
-<sc>Punt and Scow</sc>
-<sc>A Sharpy</sc>
-<sc>A Dory</sc>
-<sc>A Sailing Sharpy</sc>
-<sc>A Centre-board Sharpy</sc>
-<sc>A Proa</sc>
-<sc>A Lark</sc>
-<sc>A Power-boat</sc>
+\_<s><sc>#Punt and Scow:section_i_1#</sc></s>|
+\_<s><sc>#A Sharpy:section_i_1#</sc></s>|
+\_<s><sc>#A Dory:section_i_1#</sc></s>|
+\_<s><sc>#A Sailing Sharpy:section_i_1#</sc></s>|
+\_<s><sc>#A Centre-board Sharpy:section_i_1#</sc></s>|
+\_<s><sc>#A Proa:section_i_1#</sc></s>|
+\_<s><sc>#A Lark:section_i_1#</sc></s>|
+\_<s><sc>#A Power-boat:section_i_1#</sc></s>|
 
-CHAPTER XIV.—CATAMARANS       239
+<l>CHAPTER XIV.—CATAMARANS</l>|<xs>#239:chapter_xiv#</xs>
 
-<sc>A Rowing Catamaran</sc>
-<sc>A Sailing Catamaran</sc>
-<sc>A Side-wheel Catamaran</sc>
+\_<s><sc>#A Rowing Catamaran:section_i_1#</sc></s>|
+\_<s><sc>#A Sailing Catamaran:section_i_1#</sc></s>|
+\_<s><sc>#A Side-wheel Catamaran:section_i_1#</sc></s>|
 
-CHAPTER XV.—ICE-BOATS       249
+<l>CHAPTER XV.—ICE-BOATS</l>|<xs>#249:chapter_xv#</xs>
 
-<sc>A Sloop-rigged Ice-yacht</sc>
-<sc>A Twin-mast Ice-boat</sc>
-<sc>Scoots and Scooters</sc>
-<sc>A Wind-runner</sc>
+\_<s><sc>#A Sloop-rigged Ice-yacht:section_i_1#</sc></s>|
+\_<s><sc>#A Twin-mast Ice-boat:section_i_1#</sc></s>|
+\_<s><sc>#Scoots and Scooters:section_i_1#</sc></s>|
+\_<s><sc>#A Wind-runner:section_i_1#</sc></s>|
 
-CHAPTER XVI.—HOUSE-BOATS AND RAFTS       261
+<l>CHAPTER XVI.—HOUSE-BOATS AND RAFTS</l>|<xs>#261:chapter_xvi#</xs>
 
-<sc>A House-punt</sc>
-<sc>A House-raft</sc>
-<sc>A Float</sc>
-*/
+\_<s><sc>#A House-punt:section_i_1#</sc></s>|
+\_<s><sc>#A House-raft:section_i_1#</sc></s>|
+\_<s><sc>#A Float:section_i_1#</sc></s>|
 // 010.png
 .pn +1
 
-/*
-CHAPTER XVII.—MARLINE-SPIKE SEAMANSHIP        280
+<l>CHAPTER XVII.—MARLINE-SPIKE SEAMANSHIP</l>|<xs>#280:chapter_xvii#</xs>
 
-<sc>Splices</sc>
-<sc>Knots</sc>
-<sc>Bends</sc>
-<sc>Hitches</sc>
+\_<s><sc>#Splices:section_i_1#</sc></s>|
+\_<s><sc>#Knots:section_i_1#</sc></s>|
+\_<s><sc>#Bends:section_i_1#</sc></s>|
+\_<s><sc>#Hitches:section_i_1#</sc></s>|
 
 
 Part IV
 
 IN THE WOODS
 
-CHAPTER XVIII.—CAMPS AND CAMPING       295
+<l>CHAPTER XVIII.—CAMPS AND CAMPING</l>|<xs>#295:chapter_xviii#</xs>
 
-<sc>A Tent of Medium Size</sc>
-<sc>A Large Camping-tent</sc>
-<sc>Flies and Canopies</sc>
-<sc>A House-tent</sc>
-<sc>The New Tent</sc>
-<sc>Canvas Cots and Hammocks</sc>
-<sc>Tables and Benches</sc>
-<sc>Camping Equipment</sc>
-<sc>Lockers and Mess-kits</sc>
-<sc>A Stone Stove and Camp-fires</sc>
-<sc>Camp-cooking</sc>
-<sc>The Care of a Gun</sc>
+\_<s><sc>#A Tent of Medium Size:section_i_1#</sc></s>|
+\_<s><sc>#A Large Camping-tent:section_i_1#</sc></s>|
+\_<s><sc>#Flies and Canopies:section_i_1#</sc></s>|
+\_<s><sc>#A House-tent:section_i_1#</sc></s>|
+\_<s><sc>#The New Tent:section_i_1#</sc></s>|
+\_<s><sc>#Canvas Cots and Hammocks:section_i_1#</sc></s>|
+\_<s><sc>#Tables and Benches:section_i_1#</sc></s>|
+\_<s><sc>#Camping Equipment:section_i_1#</sc></s>|
+\_<s><sc>#Lockers and Mess-kits:section_i_1#</sc></s>|
+\_<s><sc>#A Stone Stove and Camp-fires:section_i_1#</sc></s>|
+\_<s><sc>#Camp-cooking:section_i_1#</sc></s>|
+\_<s><sc>#The Care of a Gun:section_i_1#</sc></s>|
 
-CHAPTER XIX.—TRAPS AND TRAPPING       334
+<l>CHAPTER XIX.—TRAPS AND TRAPPING</l>|<xs>#334:chapter_xix#</xs>
 
-<sc>Snares and Deadfalls</sc>
+\_<s><sc>#Snares and Deadfalls:section_i_1#</sc></s>|
 
-CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES       350
+<l>CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES</l>|<xs>#350:chapter_xx#</xs>
 
-<sc>A Low Twin-tree Hut</sc>
-<sc>A High Twin-tree Hut</sc>
-<sc>A Single-tree Hut</sc>
-<sc>A Low Single-tree Hut</sc>
-<sc>A Brush-house</sc>
-<sc>A Brush “Lean-to”</sc>
+\_<s><sc>#A Low Twin-tree Hut:section_i_1#</sc></s>|
+\_<s><sc>#A High Twin-tree Hut:section_i_1#</sc></s>|
+\_<s><sc>#A Single-tree Hut:section_i_1#</sc></s>|
+\_<s><sc>#A Low Single-tree Hut:section_i_1#</sc></s>|
+\_<s><sc>#A Brush-house:section_i_1#</sc></s>|
+\_<s><sc>#A Brush “Lean-to”:section_i_1#</sc></s>|
 
-CHAPTER XXI.—WALKING-STICKS       367
+<l>CHAPTER XXI.—WALKING-STICKS</l>|<xs>#367:chapter_xxi#</xs>
 
-<sc>How to Grow Them for Pleasure and Profit</sc>
-*/
+\_<s><sc>#How to Grow Them for Pleasure and Profit:section_i_1#</sc></s>|
+.ta-
+
+.if h
+.li
+</div>
+.li-
+.if-
+
 // 011.png
 .pn +1
 
