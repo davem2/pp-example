@@ -34,7 +34,7 @@
 .de div.ad2 { font-size: 0.8em; }
 .de div.ad3 { font-size: 0.6em; }
 .de h1 { text-align: center; font-weight: normal; font-size: 2.0em; }
-.de h2 { text-align: center; font-weight: bold; font-size: 1.4em; }
+.de h2 { text-align: center; font-weight: normal; font-size: 1.4em; }
 .de h3 { text-align: center; font-weight: normal; font-size: 1.3em; }
 
 .de div#i_004 img { border:thin solid black; }
@@ -64,7 +64,7 @@
 .if-
 .dm-
 
-// Short <hr> small margins
+// Short <hr> tight top and bottom margins
 .dm hr-small
 .if h
 .li
@@ -565,7 +565,7 @@ with the latest and best methods, which will be indispensable
 to every American boy who likes the fun of doing
 things for himself.
 // 013.png
-.pn +1
+.pn 1
 
 
 .sp 4
@@ -582,6 +582,7 @@ Part I||IN BOUNDS
 
 
 .sp 4
+.ce
 <xl>OUT-DOOR BOOK FOR BOYS</xl>
 
 
@@ -8987,16 +8988,16 @@ be described.
 
 Below is a table of expenditures:
 
-/*
-Barrels, at   25 cents each                        $1.00
-Joists   „   $20 per M                               .55
-Boards   „    30   „                                3.00
-Nails    „     4 cents a pound                       .20
-Paint    „    20 cents a can                         .20
-Rings    „    20 cents each                          .80
-                                                   ——-
-                           Total                   $5.75
-*/
+.ta lr
+Barrels, at 25 cents each |$1.00
+Joists, at $20 per M | .55
+Boards, at 30 per M | 3.00
+Nails, at 4 cents a pound | .20
+Paint, at 20 cents a can | .20
+Rings, at 20 cents each | .80
+| ———
+| Total\_\_$5.75
+.ta-
 
 While the prices of these articles, particularly the lumber,
 have risen somewhat, the cost of this float will remain extremely
@@ -10572,10 +10573,10 @@ hot. Use the fore-quarters for a stew.
 The chief thing to be remembered in making a stew is to
 stew it enough. An old camp jingle runs thus:
 
-/*
+.nf b
 “‘A stew that’s too little stewed
-Is understood to be no good.’
-*/
+ Is understood to be no good.’
+.nf-
 
 “Let your meat boil for more than an hour, or until it
 begins to fall from the bones. Add potatoes, pared and
