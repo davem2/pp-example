@@ -368,7 +368,7 @@ AFIELD
 \_<s><sc>#The Flying-wedge and Double-plane Kite:section_viii_9#</sc></s>|
 \_<s><sc>#Kite-reels:section_viii_10#</sc></s>|
 
-<l>CHAPTER IX.—FISHING-TACKLE</l>|<xs>#144:chapter_ix#ix</xs>
+<l>#CHAPTER IX.—FISHING-TACKLE:chapter_ix#</l>|<xs>#144:chapter_ix#</xs>
 
 \_<s><sc>#Choice of Tackle:section_ix_1#</sc></s>|
 \_<s><sc>#Bait-rods and Fly-rods:section_ix_2#</sc></s>|
@@ -571,7 +571,7 @@ things for himself.
 
 .sp 4
 .h2 id=part_i
-Part I||IN BOUNDS
+Part I||<xl>IN BOUNDS</xl>
 .sp 2
 
 
@@ -589,7 +589,7 @@ Part I||IN BOUNDS
 
 .sp 4
 .h2 id=chapter_i
-Chapter I||BACK-YARD PLEASURES
+Chapter I||<SC>BACK-YARD PLEASURES</SC>
 .sp 2
 
 
@@ -1389,7 +1389,7 @@ weight is properly distributed on the turn-table.
 
 .sp 4
 .h2 id=chapter_ii
-Chapter II||PET SHELTERS
+Chapter II||<SC>PET SHELTERS</SC>
 .sp 2
 
 
@@ -2122,7 +2122,7 @@ may be seen against the light background.
 
 .sp 4
 .h2 id=chapter_iii
-Chapter III||SUMMER-HOUSES AND PERGOLAS
+Chapter III||<SC>SUMMER-HOUSES AND PERGOLAS</SC>
 .sp 2
 
 .sp 2
@@ -2346,7 +2346,7 @@ this roof to swing a hammock.
 
 .sp 4
 .h2 id=chapter_iv
-Chapter IV||WEATHER-VANES AND WINDMILLS
+Chapter IV||<SC>WEATHER-VANES AND WINDMILLS</SC>
 .sp 2
 
 
@@ -3066,7 +3066,7 @@ of a horse-power in a fifteen-mile breeze.
 
 .sp 4
 .h2 id=chapter_v
-Chapter V||AËRIAL TOYS
+Chapter V||<SC>AËRIAL TOYS</SC>
 .sp 2
 
 .sp 2
@@ -3587,7 +3587,7 @@ give the rope a quick, strong pull, and the flyer will rise.
 
 .sp 4
 .h2 id=part_ii
-Part II||AFIELD
+Part II||<xl>AFIELD</xl>
 .sp 2
 
 // 112.png
@@ -3599,7 +3599,7 @@ Part II||AFIELD
 
 .sp 4
 .h2 id=chapter_vi
-Chapter VI||COASTERS, SKEES, AND SNOW-SHOES
+Chapter VI||<SC>COASTERS, SKEES, AND SNOW-SHOES</SC>
 .sp 2
 
 
@@ -4032,7 +4032,7 @@ so made available for snow-shoe use.
 
 .sp 4
 .h2 id=chapter_vii
-Chapter VII||SAIL-SKATING AND SNOWBALL ARTILLERY
+Chapter VII||<SC>SAIL-SKATING AND SNOWBALL ARTILLERY</SC>
 .sp 2
 
 .sp 2
@@ -4197,7 +4197,7 @@ wooden mallet used in firing.
 
 .sp 4
 .h2 id=chapter_viii
-Chapter VIII||KITES AND AEROPLANES
+Chapter VIII||<SC>KITES AND AEROPLANES</SC>
 .sp 2
 
 .sp 2
@@ -4911,7 +4911,7 @@ from as to wind in with.
 
 .sp 4
 .h2 id=chapter_ix
-Chapter IX||FISHING-TACKLE
+Chapter IX||<SC>FISHING-TACKLE</SC>
 .sp 2
 
 .sp 2
@@ -5975,7 +5975,7 @@ and over the top hoop faster than you can haul it up.
 
 .sp 4
 .h2 id=chapter_x
-Chapter X||LAND-YACHTS AND PUSHMOBILES
+Chapter X||<SC>LAND-YACHTS AND PUSHMOBILES</SC>
 .sp 2
 
 .sp 2
@@ -6382,7 +6382,7 @@ stop.
 
 .sp 4
 .h2 id=chapter_xi
-Chapter XI||FIRE-ENGINES AND TRUCKS
+Chapter XI||<SC>FIRE-ENGINES AND TRUCKS</SC>
 .sp 2
 
 .sp 2
@@ -6693,7 +6693,7 @@ all the joints very tight so that they will not rack.
 
 .sp 4
 .h2 id=chapter_xii
-Chapter XII||WATER-WHEELS
+Chapter XII||<SC>WATER-WHEELS</SC>
 .sp 2
 
 
@@ -6922,7 +6922,7 @@ their washing away.
 
 .sp 4
 .h2 id=part_iii
-Part III||AFLOAT
+Part III||<xl>AFLOAT</xl>
 .sp 2
 
 
@@ -6935,7 +6935,7 @@ Part III||AFLOAT
 
 .sp 4
 .h2 id=chapter_xiii
-Chapter XIII||BOATS
+Chapter XIII||<SC>BOATS</SC>
 .sp 2
 
 
@@ -7767,7 +7767,7 @@ one-day camping outfit for a visit up the river or lake.
 
 .sp 4
 .h2 id=chapter_xiv
-Chapter XIV||CATAMARANS
+Chapter XIV||<SC>CATAMARANS</SC>
 .sp 2
 
 .sp 2
@@ -8073,7 +8073,7 @@ to hold the rudder steady.
 
 .sp 4
 .h2 id=chapter_xv
-Chapter XV||ICE-BOATS
+Chapter XV||<SC>ICE-BOATS</SC>
 .sp 2
 
 .sp 2
@@ -8406,7 +8406,7 @@ carry four or five boys.
 
 .sp 4
 .h2 id=chapter_xvi
-Chapter XVI||HOUSE-BOATS AND RAFTS
+Chapter XVI||<SC>HOUSE-BOATS AND RAFTS</SC>
 .sp 2
 
 .sp 2
@@ -9025,7 +9025,7 @@ small.
 
 .sp 4
 .h2 id=chapter_xvii
-Chapter XVII||MARLINE-SPIKE SEAMANSHIP
+Chapter XVII||<SC>MARLINE-SPIKE SEAMANSHIP</SC>
 .sp 2
 
 
@@ -9464,7 +9464,7 @@ binding which can be put on and removed quickly.
 
 .sp 4
 .h2 id=part_iv
-Part IV||IN THE WOODS
+Part IV||<xl>IN THE WOODS</xl>
 .sp 2
 // 306.png
 .pn +1
@@ -9475,7 +9475,7 @@ Part IV||IN THE WOODS
 
 .sp 4
 .h2 id=chapter_xviii
-Chapter XVIII||CAMPS AND CAMPING
+Chapter XVIII||<SC>CAMPS AND CAMPING</SC>
 .sp 2
 
 
@@ -10750,7 +10750,7 @@ still be abundant if the game laws had been observed.
 
 .sp 4
 .h2 id=chapter_xix
-Chapter XIX||TRAPS AND TRAPPING
+Chapter XIX||<SC>TRAPS AND TRAPPING</SC>
 .sp 2
 
 .sp 2
@@ -11198,7 +11198,7 @@ taking care for knife-cuts.
 
 .sp 4
 .h2 id=chapter_xx
-Chapter XX||TREE HUTS AND BRUSH-HOUSES
+Chapter XX||<SC>TREE HUTS AND BRUSH-HOUSES</SC>
 .sp 2
 
 
@@ -11699,7 +11699,7 @@ to an inaccessible eyrie.
 
 .sp 4
 .h2 id=chapter_xxi
-Chapter XXI||WALKING-STICKS
+Chapter XXI||<SC>WALKING-STICKS</SC>
 .sp 2
 
 .sp 2
