@@ -281,7 +281,7 @@ CONTENTS
 
 <xl>IN BOUNDS</xl>
 |<xxs>PAGE</xxs>
-<l>CHAPTER I.—BACK-YARD PLEASURES</l>|<xs>#3:chapter_i#</xs>
+<l>#CHAPTER I.—BACK-YARD PLEASURES:chapter_i#</l>|<xs>#3:chapter_i#</xs>
 
 \_<s><sc>#A Wigwam:section_i_1#</sc></s>|
 \_<s><sc>#A Square Tepee:section_i_2#</sc></s>|
@@ -303,7 +303,7 @@ CONTENTS
 \_<s><sc>#Squirrel Cages:section_ii_8#</sc></s>|
 \_<s><sc>#Reptile Pens:section_ii_9#</sc></s>|
 
-<l>CHAPTER III.—SUMMER-HOUSES AND PERGOLAS</l>|<xs>#52:chapter_iii#</xs>
+<l>#CHAPTER III.—SUMMER-HOUSES AND PERGOLAS:chapter_iii#</l>|<xs>#52:chapter_iii#</xs>
 
 \_<s><sc>#A Simple Summer-house:section_iii_1#</sc></s>|
 \_<s><sc>#A Back-yard Pergola:section_iii_2#</sc></s>|
@@ -312,7 +312,7 @@ CONTENTS
 \_<s><sc>#A Circular Pergola:section_iii_5#</sc></s>|
 \_<s><sc>#A Summer Shelter:section_iii_6#</sc></s>|
 
-<l>CHAPTER IV.—WEATHER-VANES AND WINDMILLS</l>|<xs>#59:chapter_iv#</xs>
+<l>#CHAPTER IV.—WEATHER-VANES AND WINDMILLS:chapter_iv#</l>|<xs>#59:chapter_iv#</xs>
 
 \_<s><sc>#A Pinion-wheel Weather-vane:section_iv_1#</sc></s>|
 \_<s><sc>#A Wind-speeder:section_iv_2#</sc></s>|
@@ -328,7 +328,7 @@ CONTENTS
 // 008.png
 .pn +1
 
-<l>CHAPTER V.—AËRIAL TOYS</l>|<xs>#81:chapter_v#</xs>
+<l>#CHAPTER V.—AËRIAL TOYS:chapter_v#</l>|<xs>#81:chapter_v#</xs>
 
 \_<s><sc>#The Elastic Flying-machine:section_v_1#</sc></s>|
 \_<s><sc>#Self-acting Aërial Car:section_v_2#</sc></s>|
@@ -340,7 +340,7 @@ Part II
 
 AFIELD
 
-<l>CHAPTER VI.—COASTERS, SKEES, AND SNOW-SHOES</l>|<xs>#101:chapter_vi#</xs>
+<l>#CHAPTER VI.—COASTERS, SKEES, AND SNOW-SHOES:chapter_vi#</l>|<xs>#101:chapter_vi#</xs>
 
 \_<s><sc>#Toboggans:section_vi_1#</sc></s>|
 \_<s><sc>#A Rocker-coaster:section_vi_2#</sc></s>|
@@ -349,13 +349,13 @@ AFIELD
 \_<s><sc>#Skees:section_vi_5#</sc></s>|
 \_<s><sc>#Snow-shoes:section_vi_6#</sc></s>|
 
-<l>CHAPTER VII.—SAIL-SKATING AND SNOWBALL ARTILLERY</l>|<xs>#115:chapter_vii#</xs>
+<l>#CHAPTER VII.—SAIL-SKATING AND SNOWBALL ARTILLERY:chapter_vii#</l>|<xs>#115:chapter_vii#</xs>
 
 \_<s><sc>#A Skating-sail:section_vii_1#</sc></s>|
 \_<s><sc>#A Square-rigged Ice-sail:section_vii_2#</sc></s>|
 \_<s><sc>#A Snowball Mortar:section_vii_3#</sc></s>|
 
-<l>CHAPTER VIII.—KITES AND AEROPLANES</l>|<xs>#120:chapter_viii#</xs>
+<l>#CHAPTER VIII.—KITES AND AEROPLANES:chapter_viii#</l>|<xs>#120:chapter_viii#</xs>
 
 \_<s><sc>#The Ship Kite:section_viii_1#</sc></s>|
 \_<s><sc>#The Chinese-junk Kite:section_viii_2#</sc></s>|
@@ -383,19 +383,19 @@ AFIELD
 // 009.png
 .pn +1
 
-<l>CHAPTER X.—LAND-YACHTS AND PUSHMOBILES</l>|<xs>#177:chapter_x#</xs>
+<l>#CHAPTER X.—LAND-YACHTS AND PUSHMOBILES:chapter_x#</l>|<xs>#177:chapter_x#</xs>
 
 \_<s><sc>#A Land-yacht:section_x_1#</sc></s>|
 \_<s><sc>#A Sail-wagon:section_x_2#</sc></s>|
 \_<s><sc>#A Pushmobile:section_x_3#</sc></s>|
 
-<l>CHAPTER XI.—FIRE-ENGINES AND TRUCKS</l>|<xs>#191:chapter_xi#</xs>
+<l>#CHAPTER XI.—FIRE-ENGINES AND TRUCKS:chapter_xi#</l>|<xs>#191:chapter_xi#</xs>
 
 \_<s><sc>#The Engine:section_xi_1#</sc></s>|
 \_<s><sc>#The Hose-carriage:section_xi_2#</sc></s>|
 \_<s><sc>#The Hook-and-Ladder Truck:section_xi_3#</sc></s>|
 
-<l>CHAPTER XII.—WATER-WHEELS</l>|<xs>#201:chapter_xii#</xs>
+<l>#CHAPTER XII.—WATER-WHEELS:chapter_xii#</l>|<xs>#201:chapter_xii#</xs>
 
 \_<s><sc>#A Simple Paddle-wheel:section_xii_1#</sc></s>|
 \_<s><sc>#A Wagon Wheel:section_xii_2#</sc></s>|
@@ -409,7 +409,7 @@ Part III
 
 AFLOAT
 
-<l>CHAPTER XIII.—BOATS</l>|<xs>#211:chapter_xiii#</xs>
+<l>#CHAPTER XIII.—BOATS:chapter_xiii#</l>|<xs>#211:chapter_xiii#</xs>
 
 \_<s><sc>#Punt and Scow:section_xiii_1#</sc></s>|
 \_<s><sc>#A Sharpy:section_xiii_2#</sc></s>|
@@ -420,20 +420,20 @@ AFLOAT
 \_<s><sc>#A Lark:section_xiii_7#</sc></s>|
 \_<s><sc>#A Power-boat:section_xiii_8#</sc></s>|
 
-<l>CHAPTER XIV.—CATAMARANS</l>|<xs>#239:chapter_xiv#</xs>
+<l>#CHAPTER XIV.—CATAMARANS:chapter_xiv#</l>|<xs>#239:chapter_xiv#</xs>
 
 \_<s><sc>#A Rowing Catamaran:section_xiv_1#</sc></s>|
 \_<s><sc>#A Sailing Catamaran:section_xiv_2#</sc></s>|
 \_<s><sc>#A Side-wheel Catamaran:section_xiv_3#</sc></s>|
 
-<l>CHAPTER XV.—ICE-BOATS</l>|<xs>#249:chapter_xv#</xs>
+<l>#CHAPTER XV.—ICE-BOATS:chapter_xv#</l>|<xs>#249:chapter_xv#</xs>
 
 \_<s><sc>#A Sloop-rigged Ice-yacht:section_xv_1#</sc></s>|
 \_<s><sc>#A Twin-mast Ice-boat:section_xv_2#</sc></s>|
 \_<s><sc>#Scoots and Scooters:section_xv_3#</sc></s>|
 \_<s><sc>#A Wind-runner:section_xv_4#</sc></s>|
 
-<l>CHAPTER XVI.—HOUSE-BOATS AND RAFTS</l>|<xs>#261:chapter_xvi#</xs>
+<l>#CHAPTER XVI.—HOUSE-BOATS AND RAFTS:chapter_xvi#</l>|<xs>#261:chapter_xvi#</xs>
 
 \_<s><sc>#A House-punt:section_xvi_1#</sc></s>|
 \_<s><sc>#A House-raft:section_xvi_2#</sc></s>|
@@ -441,7 +441,7 @@ AFLOAT
 // 010.png
 .pn +1
 
-<l>CHAPTER XVII.—MARLINE-SPIKE SEAMANSHIP</l>|<xs>#280:chapter_xvii#</xs>
+<l>#CHAPTER XVII.—MARLINE-SPIKE SEAMANSHIP:chapter_xvii#</l>|<xs>#280:chapter_xvii#</xs>
 
 \_<s><sc>#Splices:section_xvii_1#</sc></s>|
 \_<s><sc>#Knots:section_xvii_2#</sc></s>|
@@ -453,7 +453,7 @@ Part IV
 
 IN THE WOODS
 
-<l>CHAPTER XVIII.—CAMPS AND CAMPING</l>|<xs>#295:chapter_xviii#</xs>
+<l>#CHAPTER XVIII.—CAMPS AND CAMPING:chapter_xviii#</l>|<xs>#295:chapter_xviii#</xs>
 
 \_<s><sc>#A Tent of Medium Size:section_xviii_1#</sc></s>|
 \_<s><sc>#A Large Camping-tent:section_xviii_2#</sc></s>|
@@ -468,11 +468,11 @@ IN THE WOODS
 \_<s><sc>#Camp-cooking:section_xviii_11#</sc></s>|
 \_<s><sc>#The Care of a Gun:section_xviii_12#</sc></s>|
 
-<l>CHAPTER XIX.—TRAPS AND TRAPPING</l>|<xs>#334:chapter_xix#</xs>
+<l>#CHAPTER XIX.—TRAPS AND TRAPPING:chapter_xix#</l>|<xs>#334:chapter_xix#</xs>
 
 \_<s><sc>#Snares and Deadfalls:section_xix_1#</sc></s>|
 
-<l>CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES</l>|<xs>#350:chapter_xx#</xs>
+<l>#CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES:chapter_xx#</l>|<xs>#350:chapter_xx#</xs>
 
 \_<s><sc>#A Low Twin-tree Hut:section_xx_1#</sc></s>|
 \_<s><sc>#A High Twin-tree Hut:section_xx_2#</sc></s>|
@@ -481,7 +481,7 @@ IN THE WOODS
 \_<s><sc>#A Brush-house:section_xx_5#</sc></s>|
 \_<s><sc>#A Brush “Lean-to”:section_xx_6#</sc></s>|
 
-<l>CHAPTER XXI.—WALKING-STICKS</l>|<xs>#367:chapter_xxi#</xs>
+<l>#CHAPTER XXI.—WALKING-STICKS:chapter_xxi#</l>|<xs>#367:chapter_xxi#</xs>
 
 \_<s><sc>#How to Grow Them for Pleasure and Profit:section_xxi_1#</sc></s>|
 .ta-
