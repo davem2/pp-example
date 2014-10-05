@@ -397,12 +397,12 @@ AFIELD
 
 <l>CHAPTER XII.—WATER-WHEELS</l>|<xs>#201:chapter_xii#</xs>
 
-\_<s><sc>#A Simple Paddle-wheel:section_xii_#</sc></s>|
-\_<s><sc>#A Wagon Wheel:section_xii_1#</sc></s>|
-\_<s><sc>#A Barrel-wheel:section_xii_2#</sc></s>|
-\_<s><sc>#An Undershot-wheel:section_xii_3#</sc></s>|
-\_<s><sc>#A Power-wheel:section_xii_4#</sc></s>|
-\_<s><sc>#A Wheel-race:section_xii_5#</sc></s>|
+\_<s><sc>#A Simple Paddle-wheel:section_xii_1#</sc></s>|
+\_<s><sc>#A Wagon Wheel:section_xii_2#</sc></s>|
+\_<s><sc>#A Barrel-wheel:section_xii_3#</sc></s>|
+\_<s><sc>#An Undershot-wheel:section_xii_4#</sc></s>|
+\_<s><sc>#A Power-wheel:section_xii_5#</sc></s>|
+\_<s><sc>#A Wheel-race:section_xii_6#</sc></s>|
 
 
 Part III
@@ -11681,7 +11681,7 @@ Chapter XXI||WALKING-STICKS
 .sp 2
 
 .sp 2
-.h3 id=section_xxi_7
+.h3 id=section_xxi_1
 How to Grow Them for Pleasure and Profit
 .sp 1
 
