@@ -502,7 +502,8 @@ INTRODUCTION
 .sp 2
 
 
-“How to do it,” might very well be the title of this new
+.dc 0.4 0.4
+“H<SC>ow</SC> to do it,” might very well be the title of this new
 handy-book for American boys. It is first and last a
 practical guide, based upon the experience of those who
 have done what they describe. Results are wanted, not
@@ -592,7 +593,8 @@ Chapter I||BACK-YARD PLEASURES
 .sp 2
 
 
-Since home is the natural centre of life, it will be most
+.dc 0.4 0.4
+S<SC>ince</SC> home is the natural centre of life, it will be most
 helpful if we find out what we can do just outside
 the house. In large cities there is usually no front yard,
 and even where such space exists its use as a play-ground
@@ -1391,7 +1393,8 @@ Chapter II||PET SHELTERS
 .sp 2
 
 
-Most boys are interested in pet animals, and at one time
+.dc 0.4 0.4
+M<SC>ost</SC> boys are interested in pet animals, and at one time
 or another possess them. Cats and dogs are domesticated
 and will always stay about the house if they are
 properly cared for and treated kindly, but rabbits, guinea-pigs,
@@ -2127,7 +2130,8 @@ Chapter III||SUMMER-HOUSES AND PERGOLAS
 A Simple Summer-house
 .sp 1
 
-For the back yard, or in the fields and woods near the
+.dc 0.4 0.4
+F<SC>or</SC> the back yard, or in the fields and woods near the
 house, a summer-house or pergola will be found a comfortable
 nook in which to spend many pleasant hours.
 
@@ -2346,7 +2350,8 @@ Chapter IV||WEATHER-VANES AND WINDMILLS
 .sp 2
 
 
-From the time of the earliest habitation of the earth,
+.dc 0.4 0.4
+F<SC>rom</SC> the time of the earliest habitation of the earth,
 nature’s great forces, wind and water, have been employed
 to furnish power for man’s uses. Wind engines and
 mills for motive power have become almost obsolete in and
@@ -3069,7 +3074,8 @@ Chapter V||AËRIAL TOYS
 The Elastic Flying-machine
 .sp 1
 
-TO have a flying-machine is the dream of every boy.
+.dc 0.4 0.4
+T<SC>o</SC> have a flying-machine is the dream of every boy.
 To build a large one is exceedingly difficult, but a
 small one run by a rubber band can be easily constructed.
 You will not be able to fly up to the roofs of houses and
@@ -3597,7 +3603,8 @@ Chapter VI||COASTERS, SKEES, AND SNOW-SHOES
 .sp 2
 
 
-All real boys welcome the approach of the winter season
+.dc 0.4 0.4
+A<SC>ll</SC> real boys welcome the approach of the winter season
 with its glorious opportunities for sport on the
 snow and ice. Toboggans, double-runners, skees, and snow-shoes—the
 very words make the blood tingle in one’s veins,
@@ -4033,7 +4040,8 @@ Chapter VII||SAIL-SKATING AND SNOWBALL ARTILLERY
 A Skating-sail
 .sp 1
 
-Sail-skating is a very enjoyable means of getting over
+.dc 0.4 0.4
+S<SC>ail-skating</SC> is a very enjoyable means of getting over
 the ice, and with properly constructed frames and sails
 a very respectable rate of speed can be maintained. In
 using a sail the boy is the boat, and by his manipulation of
@@ -4197,7 +4205,8 @@ Chapter VIII||KITES AND AEROPLANES
 The Ship Kite
 .sp 1
 
-The ship kite (Fig. 1) is an odd shape for a wind-toy
+.dc 0.4 0.4
+T<SC>he</SC> ship kite (Fig. 1) is an odd shape for a wind-toy
 but a good sailer in any breeze. It is quite easy to
 make and requires but one mast, four yard-arms, a keel,
 some thin, strong twine, and the necessary covering materials.
@@ -4910,7 +4919,8 @@ Chapter IX||FISHING-TACKLE
 Choice of Tackle
 .sp 1
 
-Every boy knows how to go a-fishing, but an intelligent
+.dc 0.4 0.4
+E<SC>very</SC> boy knows how to go a-fishing, but an intelligent
 boy is not long in learning that the mere getting
 of a lot of fish is a small part of the pleasure. That is why
 he prefers the rod to the seine, one big fish to many smaller
@@ -5973,6 +5983,7 @@ Chapter X||LAND-YACHTS AND PUSHMOBILES
 A Land-yacht
 .sp 1
 
+.dc 0.4 0.4
 A few years ago the only kind of yacht known to the
 boys were those that sailed in the water, but in this
 advanced time, when many unheard-of things have been
@@ -6379,7 +6390,8 @@ Chapter XI||FIRE-ENGINES AND TRUCKS
 The Engine
 .sp 1
 
-Every boy is interested in fire-engines and fires, and
+.dc 0.4 0.4
+E<SC>very</SC> boy is interested in fire-engines and fires, and
 in the absence of the real thing there is a great deal of
 fun to be had in playing fire. The regular steam apparatus
 is rather beyond a boy’s constructive ability, but the engine
@@ -6685,7 +6697,8 @@ Chapter XII||WATER-WHEELS
 .sp 2
 
 
-All boys like to play about the water, and dams and
+.dc 0.4 0.4
+A<SC>ll</SC> boys like to play about the water, and dams and
 water machinery afford an endless amount of amusement.
 Moreover, the pastime has its useful side. Once you
 get a wheel in operation with a shaft and pulley attached, it
@@ -6926,7 +6939,8 @@ Chapter XIII||BOATS
 .sp 2
 
 
-Of all the things that a boy is interested in there is
+.dc 0.4 0.4
+O<SC>f</SC> all the things that a boy is interested in there is
 nothing more fascinating than boats, whether they are
 to row, paddle, or sail in, and, as many of the simple kinds
 are quite within the ability of a boy to make, he can take
@@ -7761,7 +7775,8 @@ Chapter XIV||CATAMARANS
 A Rowing Catamaran
 .sp 1
 
-For safety on the water, as nearly as safety can be
+.dc 0.4 0.4
+F<SC>or</SC> safety on the water, as nearly as safety can be
 assured, there is nothing to compare with a catamaran,
 for they are practically “non-capsizable,” and if not damaged
 to the leaking-point one or the other of the two boats will
@@ -8066,7 +8081,8 @@ Chapter XV||ICE-BOATS
 A Sloop-rigged Ice-yacht
 .sp 1
 
-For travelling over the ice there is nothing to beat an
+.dc 0.4 0.4
+F<SC>or</SC> travelling over the ice there is nothing to beat an
 ice-yacht, and some that have been constructed on the
 Hudson River are of gigantic size and power. Boats of this
 kind, and having the speed of an express-train, are dangerous
@@ -8398,6 +8414,7 @@ Chapter XVI||HOUSE-BOATS AND RAFTS
 A House-punt
 .sp 1
 
+.dc 0.4 0.4
 A house-punt of very simple construction is shown in
 Fig. 1. The punt is from sixteen to twenty-four feet
 long according to the size desired, but for a party of four
@@ -9012,7 +9029,8 @@ Chapter XVII||MARLINE-SPIKE SEAMANSHIP
 .sp 2
 
 
-Ropes may be joined to one another either by knotting
+.dc 0.4 0.4
+R<SC>opes</SC> may be joined to one another either by knotting
 or by splicing. If the rope belongs to the running
 rigging (such as halyards, sheets, etc.) of the vessel, it will
 be necessary to put a splice in it, as a knot would refuse to
@@ -9461,7 +9479,8 @@ Chapter XVIII||CAMPS AND CAMPING
 .sp 2
 
 
-Camping in the mountains, fields, and forests is one of
+.dc 0.4 0.4
+C<SC>amping</SC> in the mountains, fields, and forests is one of
 the most delightful features of life in the summer-time.
 But a good deal of the fun depends upon doing things the
 right way.
@@ -10739,7 +10758,8 @@ Chapter XIX||TRAPS AND TRAPPING
 Snares and Deadfalls
 .sp 1
 
-The ways of trapping are as various as the ingenuity of
+.dc 0.4 0.4
+T<SC>he</SC> ways of trapping are as various as the ingenuity of
 savage or civilized man can devise. I like best the
 traps that one can make. They seem to give the animal a
 fairer show; they develop our own constructive faculties;
@@ -11182,7 +11202,8 @@ Chapter XX||TREE HUTS AND BRUSH-HOUSES
 .sp 2
 
 
-The most delightful season in the woods, throughout
+.dc 0.4 0.4
+T<SC>he</SC> most delightful season in the woods, throughout
 the northern and middle parts of the United States, is
 during the summer months, and in the South right up to
 Christmas; while in other parts of the country, through
@@ -11686,7 +11707,8 @@ Chapter XXI||WALKING-STICKS
 How to Grow Them for Pleasure and Profit
 .sp 1
 
-Here are some suggestions for an entirely new and fascinating
+.dc 0.4 0.4
+H<SC>ere</SC> are some suggestions for an entirely new and fascinating
 out-of-doors occupation.
 
 It has become a habit with me when walking in the woods
