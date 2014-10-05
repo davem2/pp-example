@@ -1,5 +1,8 @@
 .dt The Project Gutenberg eBook of Harper’s Outdoor Book for Boys, by Joseph H. Adams
 
+//----------------------------------------------------------------------
+// CSS defines
+//----------------------------------------------------------------------
 // Use smaller font for captions
 .de div.figcenter p { font-size: 90%; }
 .de div.figleft p { font-size: 90%; }
@@ -12,7 +15,6 @@
 .de @media handheld { .figright { page-break-inside: avoid; }}
 
 // Front matter
-.de div#i_004 img { border:thin solid black; }
 .de div.boxed { border: solid 1px; color: black; padding: 1em; margin: 0 auto; display:table; }
 .de .center { text-align: center; }
 .de .lettspa { letter-spacing: 0.17em; margin-right: -0.17em; }
@@ -35,7 +37,13 @@
 .de h2 { text-align: center; font-weight: bold; font-size: 1.4em; }
 .de h3 { text-align: center; font-weight: normal; font-size: 1.3em; }
 
+.de div#i_004 img { border:thin solid black; }
+.de div#i_367 img { border:thin solid black; }
 
+
+//----------------------------------------------------------------------
+// Macro definitions
+//----------------------------------------------------------------------
 // Mark page break without displaying <hr> in html or text
 .dm pb-no-hr
 .if h
@@ -56,19 +64,12 @@
 .if-
 .dm-
 
-// Illustrated <hr>
-.dm hr-illustrated
+// Short <hr> small margins
+.dm hr-small
 .if h
-.il fn=hr1.jpg w=80px ew=10%
-.if-
-.if t
-.hr 10%
-.if-
-.dm-
-
-.dm hr-illustrated2
-.if h
-.il fn=hr2.jpg w=120px ew=15%
+.li
+<hr class="small"/>
+.li-
 .if-
 .if t
 .hr 10%
@@ -243,7 +244,7 @@ NEW YORK AND LONDON
 
 .ce
 <xs>Copyright, 1907, by <sc>Harper & Brothers</sc>.</xs>
-.hr 10%
+.pm hr-small
 .ce
 <xs>PRINTED IN THE  UNITED STATES OF AMERICA</xs>
 .ce
@@ -283,56 +284,56 @@ CONTENTS
 <l>CHAPTER I.—BACK-YARD PLEASURES</l>|<xs>#3:chapter_i#</xs>
 
 \_<s><sc>#A Wigwam:section_i_1#</sc></s>|
-\_<s><sc>#A Square Tepee:section_i_1#</sc></s>|
-\_<s><sc>#A Ridge-pole Tepee:section_i_1#</sc></s>|
-\_<s><sc>#A Fountain:section_i_1#</sc></s>|
-\_<s><sc>#An Aquarium:section_i_1#</sc></s>|
-\_<s><sc>#How to Manage an Aquarium:section_i_1#</sc></s>|
-\_<s><sc>#A Merry-go-round:section_i_1#</sc></s>|
+\_<s><sc>#A Square Tepee:section_i_2#</sc></s>|
+\_<s><sc>#A Ridge-pole Tepee:section_i_3#</sc></s>|
+\_<s><sc>#A Fountain:section_i_4#</sc></s>|
+\_<s><sc>#An Aquarium:section_i_5#</sc></s>|
+\_<s><sc>#How to Manage an Aquarium:section_i_6#</sc></s>|
+\_<s><sc>#A Merry-go-round:section_i_7#</sc></s>|
 
 <l>CHAPTER II.—PET SHELTERS</l>|<xs>#29:chapter_ii#</xs>
 
-\_<s><sc>#Martin Boxes:section_i_1#</sc></s>|
-\_<s><sc>#Bird Shelters:section_i_1#</sc></s>|
-\_<s><sc>#Pigeon-cotes:section_i_1#</sc></s>|
-\_<s><sc>#Dog-kennels:section_i_1#</sc></s>|
-\_<s><sc>#Guinea-pig Houses:section_i_1#</sc></s>|
-\_<s><sc>#Chicken-coops:section_i_1#</sc></s>|
-\_<s><sc>#Rabbit-hutches:section_i_1#</sc></s>|
-\_<s><sc>#Squirrel Cages:section_i_1#</sc></s>|
-\_<s><sc>#Reptile Pens:section_i_1#</sc></s>|
+\_<s><sc>#Martin Boxes:section_ii_1#</sc></s>|
+\_<s><sc>#Bird Shelters:section_ii_2#</sc></s>|
+\_<s><sc>#Pigeon-cotes:section_ii_3#</sc></s>|
+\_<s><sc>#Dog-kennels:section_ii_4#</sc></s>|
+\_<s><sc>#Guinea-pig Houses:section_ii_5#</sc></s>|
+\_<s><sc>#Chicken-coops:section_ii_6#</sc></s>|
+\_<s><sc>#Rabbit-hutches:section_ii_7#</sc></s>|
+\_<s><sc>#Squirrel Cages:section_ii_8#</sc></s>|
+\_<s><sc>#Reptile Pens:section_ii_9#</sc></s>|
 
 <l>CHAPTER III.—SUMMER-HOUSES AND PERGOLAS</l>|<xs>#52:chapter_iii#</xs>
 
-\_<s><sc>#A Simple Summer-house:section_i_1#</sc></s>|
-\_<s><sc>#A Back-yard Pergola:section_i_1#</sc></s>|
-\_<s><sc>#A Toadstool Tree Canopy:section_i_1#</sc></s>|
-\_<s><sc>#A Rustic Pergola:section_i_1#</sc></s>|
-\_<s><sc>#A Circular Pergola:section_i_1#</sc></s>|
-\_<s><sc>#A Summer Shelter:section_i_1#</sc></s>|
+\_<s><sc>#A Simple Summer-house:section_iii_1#</sc></s>|
+\_<s><sc>#A Back-yard Pergola:section_iii_2#</sc></s>|
+\_<s><sc>#A Toadstool Tree Canopy:section_iii_3#</sc></s>|
+\_<s><sc>#A Rustic Pergola:section_iii_4#</sc></s>|
+\_<s><sc>#A Circular Pergola:section_iii_5#</sc></s>|
+\_<s><sc>#A Summer Shelter:section_iii_6#</sc></s>|
 
 <l>CHAPTER IV.—WEATHER-VANES AND WINDMILLS</l>|<xs>#59:chapter_iv#</xs>
 
-\_<s><sc>#A Pinion-wheel Weather-vane:section_i_1#</sc></s>|
-\_<s><sc>#A Wind-speeder:section_i_1#</sc></s>|
-\_<s><sc>#The Arrow Weather-vane:section_i_1#</sc></s>|
-\_<s><sc>#Wooden Vanes:section_i_1#</sc></s>|
-\_<s><sc>#A Wind-pennant:section_i_1#</sc></s>|
-\_<s><sc>#A Basket-ball Vane:section_i_1#</sc></s>|
-\_<s><sc>#A Merry-go-round:section_i_1#</sc></s>|
-\_<s><sc>#A Wind Turbine:section_i_1#</sc></s>|
-\_<s><sc>#A Barrel-hoop Pinion-wheel:section_i_1#</sc></s>|
-\_<s><sc>#A Pumping Windmill:section_i_1#</sc></s>|
-\_<s><sc>#A Windmill and Tower:section_i_1#</sc></s>|
+\_<s><sc>#A Pinion-wheel Weather-vane:section_iv_1#</sc></s>|
+\_<s><sc>#A Wind-speeder:section_iv_2#</sc></s>|
+\_<s><sc>#The Arrow Weather-vane:section_iv_3#</sc></s>|
+\_<s><sc>#Wooden Vanes:section_iv_4#</sc></s>|
+\_<s><sc>#A Wind-pennant:section_iv_5#</sc></s>|
+\_<s><sc>#A Basket-ball Vane:section_iv_6#</sc></s>|
+\_<s><sc>#A Merry-go-round:section_iv_7#</sc></s>|
+\_<s><sc>#A Wind Turbine:section_iv_8#</sc></s>|
+\_<s><sc>#A Barrel-hoop Pinion-wheel:section_iv_9#</sc></s>|
+\_<s><sc>#A Pumping Windmill:section_iv_10#</sc></s>|
+\_<s><sc>#A Windmill and Tower:section_iv_11#</sc></s>|
 // 008.png
 .pn +1
 
 <l>CHAPTER V.—AËRIAL TOYS</l>|<xs>#81:chapter_v#</xs>
 
-\_<s><sc>#The Elastic Flying-machine:section_i_1#</sc></s>|
-\_<s><sc>#Self-acting Aërial Car:section_i_1#</sc></s>|
-\_<s><sc>#Aërial Boat-sailing:section_i_1#</sc></s>|
-\_<s><sc>#A “High-flyer”:section_i_1#</sc></s>|
+\_<s><sc>#The Elastic Flying-machine:section_v_1#</sc></s>|
+\_<s><sc>#Self-acting Aërial Car:section_v_2#</sc></s>|
+\_<s><sc>#Aërial Boat-sailing:section_v_3#</sc></s>|
+\_<s><sc>#A “High-flyer”:section_v_4#</sc></s>|
 
 
 Part II
@@ -341,67 +342,67 @@ AFIELD
 
 <l>CHAPTER VI.—COASTERS, SKEES, AND SNOW-SHOES</l>|<xs>#101:chapter_vi#</xs>
 
-\_<s><sc>#Toboggans:section_i_1#</sc></s>|
-\_<s><sc>#A Rocker-coaster:section_i_1#</sc></s>|
-\_<s><sc>#A Single-runner Coaster:section_i_1#</sc></s>|
-\_<s><sc>#A Bob-sled:section_i_1#</sc></s>|
-\_<s><sc>#Skees:section_i_1#</sc></s>|
-\_<s><sc>#Snow-shoes:section_i_1#</sc></s>|
+\_<s><sc>#Toboggans:section_vi_1#</sc></s>|
+\_<s><sc>#A Rocker-coaster:section_vi_2#</sc></s>|
+\_<s><sc>#A Single-runner Coaster:section_vi_3#</sc></s>|
+\_<s><sc>#A Bob-sled:section_vi_4#</sc></s>|
+\_<s><sc>#Skees:section_vi_5#</sc></s>|
+\_<s><sc>#Snow-shoes:section_vi_6#</sc></s>|
 
 <l>CHAPTER VII.—SAIL-SKATING AND SNOWBALL ARTILLERY</l>|<xs>#115:chapter_vii#</xs>
 
-\_<s><sc>#A Skating-sail:section_i_1#</sc></s>|
-\_<s><sc>#A Square-rigged Ice-sail:section_i_1#</sc></s>|
-\_<s><sc>#A Snowball Mortar:section_i_1#</sc></s>|
+\_<s><sc>#A Skating-sail:section_vii_1#</sc></s>|
+\_<s><sc>#A Square-rigged Ice-sail:section_vii_2#</sc></s>|
+\_<s><sc>#A Snowball Mortar:section_vii_3#</sc></s>|
 
 <l>CHAPTER VIII.—KITES AND AEROPLANES</l>|<xs>#120:chapter_viii#</xs>
 
-\_<s><sc>#The Ship Kite:section_i_1#</sc></s>|
-\_<s><sc>#The Chinese-junk Kite:section_i_1#</sc></s>|
-\_<s><sc>#The Schooner Kite:section_i_1#</sc></s>|
-\_<s><sc>#A Balloon Kite:section_i_1#</sc></s>|
-\_<s><sc>#An Air-ship Kite:section_i_1#</sc></s>|
-\_<s><sc>#Bat-wing and Crown-top Kites:section_i_1#</sc></s>|
-\_<s><sc>#Sandwich Islands Bird Kite:section_i_1#</sc></s>|
-\_<s><sc>#Box Kites:section_i_1#</sc></s>|
-\_<s><sc>#The Flying-wedge and Double-plane Kite:section_i_1#</sc></s>|
-\_<s><sc>#Kite-reels:section_i_1#</sc></s>|
+\_<s><sc>#The Ship Kite:section_viii_1#</sc></s>|
+\_<s><sc>#The Chinese-junk Kite:section_viii_2#</sc></s>|
+\_<s><sc>#The Schooner Kite:section_viii_3#</sc></s>|
+\_<s><sc>#A Balloon Kite:section_viii_4#</sc></s>|
+\_<s><sc>#An Air-ship Kite:section_viii_5#</sc></s>|
+\_<s><sc>#Bat-wing and Crown-top Kites:section_viii_6#</sc></s>|
+\_<s><sc>#Sandwich Islands Bird Kite:section_viii_7#</sc></s>|
+\_<s><sc>#Box Kites:section_viii_8#</sc></s>|
+\_<s><sc>#The Flying-wedge and Double-plane Kite:section_viii_9#</sc></s>|
+\_<s><sc>#Kite-reels:section_viii_10#</sc></s>|
 
-<l>CHAPTER IX.—FISHING-TACKLE</l>|<xs>#144:chapter_#ix</xs>
+<l>CHAPTER IX.—FISHING-TACKLE</l>|<xs>#144:chapter_ix#ix</xs>
 
-\_<s><sc>#Choice of Tackle:section_i_1#</sc></s>|
-\_<s><sc>#Bait-rods and Fly-rods:section_i_1#</sc></s>|
-\_<s><sc>#Repairs, Knots, and Splices:section_i_1#</sc></s>|
-\_<s><sc>#Aids for Young Anglers:section_i_1#</sc></s>|
-\_<s><sc>#Baits, and Where to Find Them:section_i_1#</sc></s>|
-\_<s><sc>#A Trap for Small Fish:section_i_1#</sc></s>|
-\_<s><sc>#A Water-turtle Trap:section_i_1#</sc></s>|
-\_<s><sc>#An Eel-pot:section_i_1#</sc></s>|
-\_<s><sc>#A Scap-net:section_i_1#</sc></s>|
-\_<s><sc>#A Hook Drop-net:section_i_1#</sc></s>|
+\_<s><sc>#Choice of Tackle:section_ix_1#</sc></s>|
+\_<s><sc>#Bait-rods and Fly-rods:section_ix_2#</sc></s>|
+\_<s><sc>#Repairs, Knots, and Splices:section_ix_3#</sc></s>|
+\_<s><sc>#Aids for Young Anglers:section_ix_4#</sc></s>|
+\_<s><sc>#Baits, and Where to Find Them:section_ix_5#</sc></s>|
+\_<s><sc>#A Trap for Small Fish:section_ix_6#</sc></s>|
+\_<s><sc>#A Water-turtle Trap:section_ix_7#</sc></s>|
+\_<s><sc>#An Eel-pot:section_ix_8#</sc></s>|
+\_<s><sc>#A Scap-net:section_ix_9#</sc></s>|
+\_<s><sc>#A Hook Drop-net:section_ix_10#</sc></s>|
 // 009.png
 .pn +1
 
 <l>CHAPTER X.—LAND-YACHTS AND PUSHMOBILES</l>|<xs>#177:chapter_x#</xs>
 
-\_<s><sc>#A Land-yacht:section_i_1#</sc></s>|
-\_<s><sc>#A Sail-wagon:section_i_1#</sc></s>|
-\_<s><sc>#A Pushmobile:section_i_1#</sc></s>|
+\_<s><sc>#A Land-yacht:section_x_1#</sc></s>|
+\_<s><sc>#A Sail-wagon:section_x_2#</sc></s>|
+\_<s><sc>#A Pushmobile:section_x_3#</sc></s>|
 
 <l>CHAPTER XI.—FIRE-ENGINES AND TRUCKS</l>|<xs>#191:chapter_xi#</xs>
 
-\_<s><sc>#The Engine:section_i_1#</sc></s>|
-\_<s><sc>#The Hose-carriage:section_i_1#</sc></s>|
-\_<s><sc>#The Hook-and-Ladder Truck:section_i_1#</sc></s>|
+\_<s><sc>#The Engine:section_xi_1#</sc></s>|
+\_<s><sc>#The Hose-carriage:section_xi_2#</sc></s>|
+\_<s><sc>#The Hook-and-Ladder Truck:section_xi_3#</sc></s>|
 
 <l>CHAPTER XII.—WATER-WHEELS</l>|<xs>#201:chapter_xii#</xs>
 
-\_<s><sc>#A Simple Paddle-wheel:section_i_1#</sc></s>|
-\_<s><sc>#A Wagon Wheel:section_i_1#</sc></s>|
-\_<s><sc>#A Barrel-wheel:section_i_1#</sc></s>|
-\_<s><sc>#An Undershot-wheel:section_i_1#</sc></s>|
-\_<s><sc>#A Power-wheel:section_i_1#</sc></s>|
-\_<s><sc>#A Wheel-race:section_i_1#</sc></s>|
+\_<s><sc>#A Simple Paddle-wheel:section_xii_#</sc></s>|
+\_<s><sc>#A Wagon Wheel:section_xii_1#</sc></s>|
+\_<s><sc>#A Barrel-wheel:section_xii_2#</sc></s>|
+\_<s><sc>#An Undershot-wheel:section_xii_3#</sc></s>|
+\_<s><sc>#A Power-wheel:section_xii_4#</sc></s>|
+\_<s><sc>#A Wheel-race:section_xii_5#</sc></s>|
 
 
 Part III
@@ -410,42 +411,42 @@ AFLOAT
 
 <l>CHAPTER XIII.—BOATS</l>|<xs>#211:chapter_xiii#</xs>
 
-\_<s><sc>#Punt and Scow:section_i_1#</sc></s>|
-\_<s><sc>#A Sharpy:section_i_1#</sc></s>|
-\_<s><sc>#A Dory:section_i_1#</sc></s>|
-\_<s><sc>#A Sailing Sharpy:section_i_1#</sc></s>|
-\_<s><sc>#A Centre-board Sharpy:section_i_1#</sc></s>|
-\_<s><sc>#A Proa:section_i_1#</sc></s>|
-\_<s><sc>#A Lark:section_i_1#</sc></s>|
-\_<s><sc>#A Power-boat:section_i_1#</sc></s>|
+\_<s><sc>#Punt and Scow:section_xiii_1#</sc></s>|
+\_<s><sc>#A Sharpy:section_xiii_2#</sc></s>|
+\_<s><sc>#A Dory:section_xiii_3#</sc></s>|
+\_<s><sc>#A Sailing Sharpy:section_xiii_4#</sc></s>|
+\_<s><sc>#A Centre-board Sharpy:section_xiii_5#</sc></s>|
+\_<s><sc>#A Proa:section_xiii_6#</sc></s>|
+\_<s><sc>#A Lark:section_xiii_7#</sc></s>|
+\_<s><sc>#A Power-boat:section_xiii_8#</sc></s>|
 
 <l>CHAPTER XIV.—CATAMARANS</l>|<xs>#239:chapter_xiv#</xs>
 
-\_<s><sc>#A Rowing Catamaran:section_i_1#</sc></s>|
-\_<s><sc>#A Sailing Catamaran:section_i_1#</sc></s>|
-\_<s><sc>#A Side-wheel Catamaran:section_i_1#</sc></s>|
+\_<s><sc>#A Rowing Catamaran:section_xiv_1#</sc></s>|
+\_<s><sc>#A Sailing Catamaran:section_xiv_2#</sc></s>|
+\_<s><sc>#A Side-wheel Catamaran:section_xiv_3#</sc></s>|
 
 <l>CHAPTER XV.—ICE-BOATS</l>|<xs>#249:chapter_xv#</xs>
 
-\_<s><sc>#A Sloop-rigged Ice-yacht:section_i_1#</sc></s>|
-\_<s><sc>#A Twin-mast Ice-boat:section_i_1#</sc></s>|
-\_<s><sc>#Scoots and Scooters:section_i_1#</sc></s>|
-\_<s><sc>#A Wind-runner:section_i_1#</sc></s>|
+\_<s><sc>#A Sloop-rigged Ice-yacht:section_xv_1#</sc></s>|
+\_<s><sc>#A Twin-mast Ice-boat:section_xv_2#</sc></s>|
+\_<s><sc>#Scoots and Scooters:section_xv_3#</sc></s>|
+\_<s><sc>#A Wind-runner:section_xv_4#</sc></s>|
 
 <l>CHAPTER XVI.—HOUSE-BOATS AND RAFTS</l>|<xs>#261:chapter_xvi#</xs>
 
-\_<s><sc>#A House-punt:section_i_1#</sc></s>|
-\_<s><sc>#A House-raft:section_i_1#</sc></s>|
-\_<s><sc>#A Float:section_i_1#</sc></s>|
+\_<s><sc>#A House-punt:section_xvi_1#</sc></s>|
+\_<s><sc>#A House-raft:section_xvi_2#</sc></s>|
+\_<s><sc>#A Float:section_xvi_3#</sc></s>|
 // 010.png
 .pn +1
 
 <l>CHAPTER XVII.—MARLINE-SPIKE SEAMANSHIP</l>|<xs>#280:chapter_xvii#</xs>
 
-\_<s><sc>#Splices:section_i_1#</sc></s>|
-\_<s><sc>#Knots:section_i_1#</sc></s>|
-\_<s><sc>#Bends:section_i_1#</sc></s>|
-\_<s><sc>#Hitches:section_i_1#</sc></s>|
+\_<s><sc>#Splices:section_xvii_1#</sc></s>|
+\_<s><sc>#Knots:section_xvii_2#</sc></s>|
+\_<s><sc>#Bends:section_xvii_3#</sc></s>|
+\_<s><sc>#Hitches:section_xvii_4#</sc></s>|
 
 
 Part IV
@@ -454,35 +455,35 @@ IN THE WOODS
 
 <l>CHAPTER XVIII.—CAMPS AND CAMPING</l>|<xs>#295:chapter_xviii#</xs>
 
-\_<s><sc>#A Tent of Medium Size:section_i_1#</sc></s>|
-\_<s><sc>#A Large Camping-tent:section_i_1#</sc></s>|
-\_<s><sc>#Flies and Canopies:section_i_1#</sc></s>|
-\_<s><sc>#A House-tent:section_i_1#</sc></s>|
-\_<s><sc>#The New Tent:section_i_1#</sc></s>|
-\_<s><sc>#Canvas Cots and Hammocks:section_i_1#</sc></s>|
-\_<s><sc>#Tables and Benches:section_i_1#</sc></s>|
-\_<s><sc>#Camping Equipment:section_i_1#</sc></s>|
-\_<s><sc>#Lockers and Mess-kits:section_i_1#</sc></s>|
-\_<s><sc>#A Stone Stove and Camp-fires:section_i_1#</sc></s>|
-\_<s><sc>#Camp-cooking:section_i_1#</sc></s>|
-\_<s><sc>#The Care of a Gun:section_i_1#</sc></s>|
+\_<s><sc>#A Tent of Medium Size:section_xviii_1#</sc></s>|
+\_<s><sc>#A Large Camping-tent:section_xviii_2#</sc></s>|
+\_<s><sc>#Flies and Canopies:section_xviii_3#</sc></s>|
+\_<s><sc>#A House-tent:section_xviii_4#</sc></s>|
+\_<s><sc>#The New Tent:section_xviii_5#</sc></s>|
+\_<s><sc>#Canvas Cots and Hammocks:section_xviii_6#</sc></s>|
+\_<s><sc>#Tables and Benches:section_xviii_7#</sc></s>|
+\_<s><sc>#Camping Equipment:section_xviii_8#</sc></s>|
+\_<s><sc>#Lockers and Mess-kits:section_xviii_9#</sc></s>|
+\_<s><sc>#A Stone Stove and Camp-fires:section_xviii_10#</sc></s>|
+\_<s><sc>#Camp-cooking:section_xviii_11#</sc></s>|
+\_<s><sc>#The Care of a Gun:section_xviii_12#</sc></s>|
 
 <l>CHAPTER XIX.—TRAPS AND TRAPPING</l>|<xs>#334:chapter_xix#</xs>
 
-\_<s><sc>#Snares and Deadfalls:section_i_1#</sc></s>|
+\_<s><sc>#Snares and Deadfalls:section_xix_1#</sc></s>|
 
 <l>CHAPTER XX.—TREE HUTS AND BRUSH-HOUSES</l>|<xs>#350:chapter_xx#</xs>
 
-\_<s><sc>#A Low Twin-tree Hut:section_i_1#</sc></s>|
-\_<s><sc>#A High Twin-tree Hut:section_i_1#</sc></s>|
-\_<s><sc>#A Single-tree Hut:section_i_1#</sc></s>|
-\_<s><sc>#A Low Single-tree Hut:section_i_1#</sc></s>|
-\_<s><sc>#A Brush-house:section_i_1#</sc></s>|
-\_<s><sc>#A Brush “Lean-to”:section_i_1#</sc></s>|
+\_<s><sc>#A Low Twin-tree Hut:section_xx_1#</sc></s>|
+\_<s><sc>#A High Twin-tree Hut:section_xx_2#</sc></s>|
+\_<s><sc>#A Single-tree Hut:section_xx_3#</sc></s>|
+\_<s><sc>#A Low Single-tree Hut:section_xx_4#</sc></s>|
+\_<s><sc>#A Brush-house:section_xx_5#</sc></s>|
+\_<s><sc>#A Brush “Lean-to”:section_xx_6#</sc></s>|
 
 <l>CHAPTER XXI.—WALKING-STICKS</l>|<xs>#367:chapter_xxi#</xs>
 
-\_<s><sc>#How to Grow Them for Pleasure and Profit:section_i_1#</sc></s>|
+\_<s><sc>#How to Grow Them for Pleasure and Profit:section_xxi_1#</sc></s>|
 .ta-
 
 .if h
@@ -599,8 +600,10 @@ often affords some chances not only for gardening on a
 small scale but also for making and using a variety of
 things which will furnish constant amusement.
 
-
+.sp 2
+.h3 id=section_i_1
 A Wigwam
+.sp 1
 
 For boys who like to “play Injun” in the back yard, here
 are some ideas for tepees and wigwams that may easily be
@@ -687,8 +690,10 @@ from all others. The ornamentation should be done with
 paint and should be carried out before the canvas covering
 is stretched over the poles.
 
-
+.sp 2
+.h3 id=section_i_2
 A Square Tepee
+.sp 1
 
 A square tepee, as shown in the illustration Fig. 5, is
 another form of rear-yard tent that is easily made. Twelve
@@ -716,8 +721,10 @@ is easy to go into and come out of the tepee.
 <i><sc>Fig 6</sc></i>
 .ca-
 
-
+.sp 2
+.h3 id=section_i_3
 A Ridge-pole Tepee
+.sp 1
 
 A ridge-pole tepee is shown in Fig. 7, and is a very
 easy and simple one to make, for it is of one piece of
@@ -773,8 +780,10 @@ and if a party of boys are going to camp in the back yard
 their tepees can be inscribed with different crests and totems
 to indicate individual ownership.
 
-
+.sp 2
+.h3 id=section_i_4
 A Fountain
+.sp 1
 
 A practicable rear-yard fountain may be made with a
 brick or concrete basin, an underground pipe-line and an
@@ -915,8 +924,10 @@ sand added, finish the inside of the basin and the rim with
 a trowel so as to give it a smooth and even surface. The
 force of water may be regulated with a faucet.
 
-
+.sp 2
+.h3 id=section_i_5
 An Aquarium
+.sp 1
 
 .il id=i_026 fn=i_026.jpg w=1000px alt=''
 .ca 
@@ -1106,8 +1117,10 @@ rest securely on the bottom of the aquarium. Always have
 plenty of pebbles and river-sand at the bottom of the
 aquarium to make the fishes feel at home.
 
-
+.sp 2
+.h3 id=section_i_6
 How to Manage an Aquarium
+.sp 1
 
 It is generally supposed that it is necessary to change
 the water in an aquarium at least once a day; but that
@@ -1235,8 +1248,10 @@ will find it time well spent, and the pleasure and knowledge
 the study of your pets will give you will be an ample
 return for the time you spend on them.
 
-
+.sp 2
+.h3 id=section_i_7
 A Merry-go-round
+.sp 1
 
 A great deal of fun may be had with a merry-go-round in
 the rear yard, and while it may not be run by an engine
@@ -1407,8 +1422,10 @@ but there may be ideas in these illustrations and the accompanying
 descriptions that will be helpful both to them, and
 to the boy who has as yet to make his first kennel or pigeon-cote.
 
-
+.sp 2
+.h3 id=section_ii_1
 Martin Boxes
+.sp 1
 
 In the early spring, when the birds return to the north,
 the martins are among the first to appear, and long before
@@ -1479,8 +1496,10 @@ four divisions for as many families. Each compartment, of
 course, must be provided with its separate hole for ingress
 and egress.
 
-
+.sp 2
+.h3 id=section_ii_2
 Bird Shelters
+.sp 1
 
 Birds do not always seek the shelter of trees in a storm;
 they will often gather about the house and under barn
@@ -1546,8 +1565,10 @@ one inch thick, and two inches wide. Three or four sets of
 holes are bored in the strips to receive the ends of the
 dowels or perches.
 
-
+.sp 2
+.h3 id=section_ii_3
 Pigeon-cotes
+.sp 1
 
 For the ordinary pigeons that fly about the house and
 barn some open cotes are shown in Fig. 7 and Fig. 8, but
@@ -1605,8 +1626,10 @@ shingled, and above the peak a perch is erected.
 This cote may be attached to the side of a barn or supported
 on stout uprights embedded securely in the ground.
 
-
+.sp 2
+.h3 id=section_ii_4
 Dog-kennels
+.sp 1
 
 When building a dog-kennel the important features to
 bear in mind are to make it strong, weather-proof, and large
@@ -1704,8 +1727,10 @@ the winter-time, and when it is raining, this door will keep
 out snow and water and also protect a dog from strong
 winds.
 
-
+.sp 2
+.h3 id=section_ii_5
 Guinea-pig Houses
+.sp 1
 
 When making houses or huts for guinea-pigs it will be
 necessary to make at least one-third of the coop dark, or
@@ -1769,8 +1794,10 @@ overhangs about two inches.
 This hut is held up on sticks implanted in the ground, and
 braced so that the wind will not blow it over.
 
-
+.sp 2
+.h3 id=section_ii_6
 Chicken-coops
+.sp 1
 
 In the spring-time when little chickens are hatched, and
 it is not possible to let the hen wander about at random to
@@ -1825,8 +1852,10 @@ lath should be fastened between the ends, and light canvas
 or muslin may then be tacked fast to the roof and to the
 strip to serve as an awning.
 
-
+.sp 2
+.h3 id=section_ii_7
 Rabbit-hutches
+.sp 1
 
 Among animal pets rabbits seem to be general favorites
 all over the country, perhaps because they are such beautiful
@@ -1898,8 +1927,10 @@ cubs. For the latter, bars will have to be used instead of the
 wire cloth, for the bears would soon tear away the lighter
 material.
 
-
+.sp 2
+.h3 id=section_ii_8
 Squirrel Cages
+.sp 1
 
 For squirrels, chipmunks, and white rats very good cages
 can be made from wire cloth, tin boxes, and wood, and in the
@@ -1963,8 +1994,10 @@ great race at the same time. A piece of hair felt, an old
 woollen cloth, or some curled hair will be comfortable for
 the squirrels to lie on in the enclosed cage.
 
-
+.sp 2
+.h3 id=section_ii_9
 Reptile Pens
+.sp 1
 
 In some parts of the country pets are made of reptiles,
 and very interesting and tame ones are found among the
@@ -2083,14 +2116,15 @@ may be seen against the light background.
 // 064.png
 .pn +1
 
-
 .sp 4
 .h2 id=chapter_iii
 Chapter III||SUMMER-HOUSES AND PERGOLAS
 .sp 2
 
-
+.sp 2
+.h3 id=section_iii_1
 A Simple Summer-house
+.sp 1
 
 For the back yard, or in the fields and woods near the
 house, a summer-house or pergola will be found a comfortable
@@ -2139,8 +2173,10 @@ given a coat or two of paint in some desirable color.
 <i><sc>Fig 2</sc></i>
 .ca-
 
-
+.sp 2
+.h3 id=section_iii_2
 A Back-yard Pergola
+.sp 1
 
 A back-yard pergola is constructed from two upright posts
 four inches square, a cross beam two by six inches, and eight
@@ -2173,8 +2209,10 @@ Seats may be built in on two sides and supported with
 under braces or brackets to prop up the front edge, and a
 back-board may be nailed fast to the posts and fence.
 
-
+.sp 2
+.h3 id=section_iii_3
 A Toadstool Tree Canopy
+.sp 1
 
 Where there is a large tree on the place or near the house,
 a toadstool canopy (Fig. 4) may be constructed above a comfortable
@@ -2205,8 +2243,10 @@ trunk with copper tacks and painted. This will deflect the
 water and prevent it from running down the trunk and
 wetting the seat.
 
-
+.sp 2
+.h3 id=section_iii_4
 A Rustic Pergola
+.sp 1
 
 A simple but effective and useful rustic pergola is shown
 in Fig. 6. All the posts, cross-pieces, braces, and stringers
@@ -2241,8 +2281,10 @@ on three sides between posts, and wires may be run
 up and down and crosswise, on which climbing vines may
 be supported.
 
-
+.sp 2
+.h3 id=section_iii_5
 A Circular Pergola
+.sp 1
 
 A circular pergola will present a pleasing appearance in
 any yard. It is made from six rustic posts, six supporting
@@ -2273,8 +2315,10 @@ If desired, a few seats may be arranged between the posts
 or columns, but portable seats would be more in keeping
 with this style of pergola.
 
-
+.sp 2
+.h3 id=section_iii_6
 A Summer Shelter
+.sp 1
 
 A design for a comfortable summer-house is shown in
 Fig. 8. The posts are set on an oblong, seven feet wide
@@ -2333,8 +2377,10 @@ and descriptions on this and the following pages will be
 found helpful in the construction of wind machinery that
 shall be both novel and practicable.
 
-
+.sp 2
+.h3 id=section_iv_1
 A Pinion-wheel Weather-vane
+.sp 1
 
 The easiest sort of a pinion-wheel and weather-vane to
 construct is shown in Fig. 1. It consists of a piece of stout
@@ -2402,8 +2448,10 @@ dipping forward or backward.
 Place this vane on a shed, the end of a barn roof, or on a
 high pole where the wind has free access to it.
 
-
+.sp 2
+.h3 id=section_iv_2
 A Wind-speeder
+.sp 1
 
 Wind-speeders may be constructed of metal or partly of
 wood, but one that can easily be made by a boy consists
@@ -2451,8 +2499,10 @@ the hub and the top of the pole. Two coats of white
 or light-colored paint will improve the appearance of this
 speeder.
 
-
+.sp 2
+.h3 id=section_iv_3
 The Arrow Weather-vane
+.sp 1
 
 Of all the weather-vanes that have ever been made, the
 balanced arrow is undoubtedly the oldest and most popular;
@@ -2494,8 +2544,10 @@ held securely in place with wire or solder. If they are of
 iron, it would be well to have a blacksmith weld them, so
 that they will be rigid and stay in place.
 
-
+.sp 2
+.h3 id=section_iv_4
 Wooden Vanes
+.sp 1
 
 In Fig. 6 some suggestions for wooden vanes are shown
 that can be followed with the scroll saw and jackknife or a
@@ -2540,8 +2592,10 @@ In all of these vanes it is necessary, of course, to have the
 greatest overhang on the side opposite to that facing the
 wind, otherwise they would not indicate properly.
 
-
+.sp 2
+.h3 id=section_iv_5
 A Wind-pennant
+.sp 1
 
 An excellent and reliable wind indicator is shown in Fig.
 7, the illustration of the wind-pennant. It consists of a
@@ -2583,8 +2637,10 @@ Sticks of hard wood may be substituted for the metal
 arms, and the sheet-metal letters let into saw cuts made at
 the outer ends.
 
-
+.sp 2
+.h3 id=section_iv_6
 A Basket-ball Vane
+.sp 1
 
 An odd wind indicator is shown in Fig. 10, illustrating a
 ball vane in a basket. It consists of a flat basket, with a
@@ -2629,8 +2685,10 @@ Above the basket the compass points can be arranged on
 wood or metal arms, and when complete and mounted this
 weather-vane will present a most unique appearance.
 
-
+.sp 2
+.h3 id=section_iv_7
 A Merry-go-round
+.sp 1
 
 A merry-go-round like the one shown in Fig. 11 is an interesting
 wind toy and pleasing to watch, as the boats keep
@@ -2698,8 +2756,10 @@ made or the muslin ones may be given a coat or two of white
 paint. Pennants at the tops of the masts will add to the
 effect.
 
-
+.sp 2
+.h3 id=section_iv_8
 A Wind Turbine
+.sp 1
 
 The wind turbine shown in Fig. 14, on the following page,
 is made of two hooples about thirty inches in diameter, four
@@ -2733,8 +2793,10 @@ any one time.
 // 084.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_iv_9
 A Barrel-hoop Pinion-wheel
+.sp 1
 
 From a flat hoop, a few pieces of tin or sheet iron, and some
 thin wood, a barrel-hoop pinion-wheel may be made similar
@@ -2783,8 +2845,10 @@ pin has been driven, leaving about six or eight inches of it
 projecting above the top of the post. On this the block
 turns as the wind acts on the fan-tail.
 
-
+.sp 2
+.h3 id=section_iv_10
 A Pumping Windmill
+.sp 1
 
 A simple wheel, with spokes and sails, that is commonly
 employed on canal-boats and barges, and in a small way for
@@ -2907,15 +2971,16 @@ the spokes, and tie them securely with a cotton cord.
 // 090.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_iv_11
 A Windmill and Tower
+.sp 1
 
 Windmills, of course, can be put to many different uses
 and are generally of sufficient size to develop a considerable
 amount of power. Fig. 24 shows a windmill and tower that
 any smart boy can make of wood, an old buggy wheel, and a
 few iron fittings that a blacksmith will make at a nominal cost.
-
 
 .il id=i_090 fn=i_090.jpg w=993px alt=''
 .ca 
@@ -2998,8 +3063,10 @@ of a horse-power in a fifteen-mile breeze.
 Chapter V||AËRIAL TOYS
 .sp 2
 
-
+.sp 2
+.h3 id=section_v_1
 The Elastic Flying-machine
+.sp 1
 
 TO have a flying-machine is the dream of every boy.
 To build a large one is exceedingly difficult, but a
@@ -3177,8 +3244,10 @@ before me has wings two feet from tip to tip, and it weighs
 when complete—backbone, wings, rubber, screw, etc.—only
 one-third of an ounce.
 
-
+.sp 2
+.h3 id=section_v_2
 Self-acting Aërial Car
+.sp 1
 
 Here is an idea for a mechanical toy to be used either on
 a kite-string or a cord stretched from a flag-pole in the yard
@@ -3299,8 +3368,10 @@ the kite-cord quickly, and return to the original starting-point
 of its flight. See Fig. 5, a side and end view, and
 Fig. 6, the parachute and the car on its return.
 
-
+.sp 2
+.h3 id=section_v_3
 Aërial Boat-sailing
+.sp 1
 
 Study with care the accompanying plans. The materials
 are one-half by one-quarter-inch pine, free from knots,
@@ -3400,8 +3471,10 @@ If the cord is strung between two houses you will find
 the boat will sail back and forth, except when the wind is
 dead ahead or a few points either way.
 
-
+.sp 2
+.h3 id=section_v_4
 A “High-flyer”
+.sp 1
 
 To make the “flyer” you will need a piece of thin sheet
 tin, zinc, or iron, that may be purchased from a tinsmith
@@ -3554,8 +3627,10 @@ Yankee bob-sleds and “jumper-coasters” are now pre-eminent
 wherever the snow flies. To take the best wherever we
 find it is the sportsman’s motto.
 
-
+.sp 2
+.h3 id=section_vi_1
 Toboggans
+.sp 1
 
 There is no more enjoyable winter sport than tobogganing,
 and in many parts of America, notably Montreal, large
@@ -3649,8 +3724,10 @@ When the varnish wears off the bottom give it another
 coat, as the smooth, hard finish helps the toboggan to
 slide easily over the snow.
 
-
+.sp 2
+.h3 id=section_vi_2
 A Rocker-coaster
+.sp 1
 
 A very good coasting-sled is shown in the illustration of
 a rocker-coaster (Fig. 5), and for short hills a sled of this
@@ -3686,8 +3763,10 @@ will lie on top at the end of each side.
 A few good coats of paint will finish the wood-work nicely,
 and the rocker-coaster will then be ready for use.
 
-
+.sp 2
+.h3 id=section_vi_3
 A Single-runner Coaster
+.sp 1
 
 A few years ago the boys of New England invented a new
 kind of sled and called it a single-runner coaster or jumper-coaster.
@@ -3725,8 +3804,10 @@ flat-headed screws countersunk in the iron, and after a few
 trips the surface of the metal will be worn bright and smooth,
 insuring easy and rapid running.
 
-
+.sp 2
+.h3 id=section_vi_4
 A Bob-sled
+.sp 1
 
 Every boy wants a double-runner of his own, for there
 seems to be nothing quite like bobbing on a sled carrying
@@ -3811,8 +3892,10 @@ edges of the board. Cross-pieces screwed fast to the under
 side of the plank will serve as foot-rests, and with a coat or
 two of paint this bob-sled will be ready for use.
 
-
+.sp 2
+.h3 id=section_vi_5
 Skees
+.sp 1
 
 Skee running and jumping is one of the favorite winter
 sports in Norway and Sweden and is steadily growing in
@@ -3863,8 +3946,10 @@ A skee made from a hogshead or crockery-cask stave is
 shown in Fig. 12 C, and a great deal of fun can be had with
 this makeshift on short hills.
 
-
+.sp 2
+.h3 id=section_vi_6
 Snow-shoes
+.sp 1
 
 For travelling over the snow the most widely known and
 useful appliance is the snow-shoe in one form or another.
@@ -3942,8 +4027,10 @@ so made available for snow-shoe use.
 Chapter VII||SAIL-SKATING AND SNOWBALL ARTILLERY
 .sp 2
 
-
+.sp 2
+.h3 id=section_vii_1
 A Skating-sail
+.sp 1
 
 Sail-skating is a very enjoyable means of getting over
 the ice, and with properly constructed frames and sails
@@ -4023,8 +4110,10 @@ A SKATING-SAIL, A SQUARE-RIGGED ICE-SAIL, AND A SNOWBALL MORTAR
 // 130.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_vii_2
 A Square-rigged Ice-sail
+.sp 1
 
 In Fig. 3 two square sails are supported at the ends of
 crossed yard-arms fourteen feet long. Four cross-sticks of
@@ -4046,8 +4135,10 @@ can be rolled up on the sticks. This sail is handled the same
 as the skating-sail but is more powerful as the sheets are
 larger.
 
-
+.sp 2
+.h3 id=section_vii_3
 A Snowball Mortar
+.sp 1
 
 For snowball fights a mortar is an effective weapon for
 it throws a shot upward into the air. It may be mounted
@@ -4100,8 +4191,10 @@ wooden mallet used in firing.
 Chapter VIII||KITES AND AEROPLANES
 .sp 2
 
-
+.sp 2
+.h3 id=section_viii_1
 The Ship Kite
+.sp 1
 
 The ship kite (Fig. 1) is an odd shape for a wind-toy
 but a good sailer in any breeze. It is quite easy to
@@ -4170,8 +4263,10 @@ is made of two strong, thin cross-wires or strings and the
 drop-string is fastened where they cross, as may be seen in
 Fig. 1.
 
-
+.sp 2
+.h3 id=section_viii_2
 The Chinese-junk Kite
+.sp 1
 
 The Chinese-junk kite (Fig. 3), is made in a similar manner
 to the ship kite, but there are two masts, as the kite
@@ -4221,8 +4316,10 @@ dragging on the foot of the kite and automatically shifting
 it to different angles so that the wind will pass down
 along the planes and out through the spaces underneath.
 
-
+.sp 2
+.h3 id=section_viii_3
 The Schooner Kite
+.sp 1
 
 The schooner kite (Fig. 5) is an attractive one when sailing
 up in the wind, and for a kite the shape is very close
@@ -4251,8 +4348,10 @@ effect of tacking on the wind. If the schooner is inclined to
 pitch or roll too much attach two wind-anchors, one at the
 foot of each mast, and pay them out about five or six feet.
 
-
+.sp 2
+.h3 id=section_viii_4
 A Balloon Kite
+.sp 1
 
 From four sticks and a long hickory rib the balloon kite-frame
 (Fig. 7) is made. The cross-sticks are three feet and
@@ -4277,8 +4376,10 @@ arranged the yoke from the places where the sticks cross, as
 shown in Fig. 8, this interesting sky-scraper will be ready
 for an ascension.
 
-
+.sp 2
+.h3 id=section_viii_5
 An Air-ship Kite
+.sp 1
 
 The air-ship kite (Fig. 9), if large and well made, will
 present a very realistic appearance when well up in the air.
@@ -4327,8 +4428,10 @@ THE SCHOONER, BALLOON, AND AN AIR-SHIP KITE
 as the men with dark-colored paper muslin. Make the
 yoke of linen thread so that the kite will balance well.
 
-
+.sp 2
+.h3 id=section_viii_6
 Bat-wing and Crown-top Kites
+.sp 1
 
 Of the many odd shapes in which kites can be made
 perhaps the bat-wing and crown-top are the most unique.
@@ -4361,8 +4464,10 @@ paper is preferred it can be used to good advantage.
 // 141.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_viii_7
 Sandwich Islands Bird Kite
+.sp 1
 
 One afternoon in the village of Paihiihi, on Maui, one of
 the Sandwich Islands, I saw, at a considerable distance from
@@ -4456,8 +4561,10 @@ frame with thin, strong paper or muslin, sewing it fast to
 the ribs with linen thread. The construction of the yoke
 is clearly shown in Fig. 16.
 
-
+.sp 2
+.h3 id=section_viii_8
 Box Kites
+.sp 1
 
 High up in the air, much too high for the boys on the
 ground to see the mechanical details, several queer-looking
@@ -4546,8 +4653,10 @@ quickly speed away to the kite.
 <i><sc>Fig 22</sc></i>
 .ca-
 
-
+.sp 2
+.h3 id=section_viii_9
 The Flying-wedge and Double-plane Kite
+.sp 1
 
 Flying-wedge or double-plane kites are made in several
 shapes and sizes with the planes arranged at different angles
@@ -4611,8 +4720,10 @@ bevelled plane, also the outer edges of the rear plane, and in
 this manner a double kite is made that will be found a strong
 and steady puller.
 
-
+.sp 2
+.h3 id=section_viii_10
 Kite-reels
+.sp 1
 
 Kite-reels are always useful things to help haul in long
 lengths of string, and particularly if the kite is a strong
@@ -4793,8 +4904,10 @@ from as to wind in with.
 Chapter IX||FISHING-TACKLE
 .sp 2
 
-
+.sp 2
+.h3 id=section_ix_1
 Choice of Tackle
+.sp 1
 
 Every boy knows how to go a-fishing, but an intelligent
 boy is not long in learning that the mere getting
@@ -5052,8 +5165,10 @@ many which could have been devised only by a person who
 was no angler. Those already spoken of are all that seem
 essential.
 
-
+.sp 2
+.h3 id=section_ix_2
 Bait-rods and Fly-rods
+.sp 1
 
 Probably most boys are too sensible to fall into the error
 which seems to beset many adults—namely, that the possession
@@ -5214,8 +5329,10 @@ cast a short one well; and well means not only with a high
 back cast and straight forward, but also accurately as to
 aim and delicately.
 
-
+.sp 2
+.h3 id=section_ix_3
 Repairs, Knots, and Splices
+.sp 1
 
 As has been said already it hardly pays nowadays to
 make one’s own tackle, at least for a beginner. But a few
@@ -5318,8 +5435,10 @@ loosened by pushing the main line back a little way.
 .il id=i_172 fn=i_172.jpg w=819px alt=''
 .ca <i>Fig. 6</i>
 
-
+.sp 2
+.h3 id=section_ix_4
 Aids for Young Anglers
+.sp 1
 
 How often has it happened that on reaching a camping-ground,
 hotel, or boarding-house near river or lake where
@@ -5473,8 +5592,10 @@ A good bait for large fish is a strip cut from the under side
 of a small pickerel, perch, or sunfish, which is placed on the
 hook as shown in Fig. 14.
 
-
+.sp 2
+.h3 id=section_ix_5
 Baits, and Where to Find Them
+.sp 1
 
 As a rule, the young fisherman naturally considers the
 angle-worm to be the only bait he need have when he goes
@@ -5594,8 +5715,10 @@ carry. It is also a good plan to open the stomach of the
 first fish you catch, and offer to its companions the same
 kind of food found inside of it.
 
-
+.sp 2
+.h3 id=section_ix_6
 A Trap for Small Fish
+.sp 1
 
 Many of the boys and girls who live near the sea-side are
 interested in making and stocking aquariums, and many, no
@@ -5649,8 +5772,10 @@ The trap can be made by making a frame of hoops and
 lath and covering it with mosquito-netting, but it is not so
 desirable as the fine wire, being more easily torn.
 
-
+.sp 2
+.h3 id=section_ix_7
 A Water-turtle Trap
+.sp 1
 
 Some time ago, while spending the summer in the country,
 I began the pleasing amusement of making an aquarium.
@@ -5686,8 +5811,10 @@ of turtles. The smaller ones furnish a charming addition to
 an aquarium, and the larger ones, if properly dressed, make
 a capital stew.
 
-
+.sp 2
+.h3 id=section_ix_8
 An Eel-pot
+.sp 1
 
 All along the Atlantic coast eel-pots are made on the
 same general plan, a bottle-shaped basket having a funnel
@@ -5783,8 +5910,10 @@ and drop it overboard. Run the pots morning and night,
 and remove the eels by unstrapping the cap and dumping
 them into a barrel which may be carried on the boat.
 
-
+.sp 2
+.h3 id=section_ix_9
 A Scap-net
+.sp 1
 
 A scap-net for crabbing or landing fish on a hook may
 be made from a ring of heavy galvanized iron driven into
@@ -5805,8 +5934,10 @@ over a small galvanized-iron sail-ring. All the strings should
 be tied in square knots so that they will not become undone
 after the net has been used for a while.
 
-
+.sp 2
+.h3 id=section_ix_10
 A Hoop Drop-net
+.sp 1
 
 A hoop drop-net such as shown at Fig. 24 may easily be
 made from three galvanized-wire rings and a mesh of tied
@@ -5836,8 +5967,10 @@ and over the top hoop faster than you can haul it up.
 Chapter X||LAND-YACHTS AND PUSHMOBILES
 .sp 2
 
-
+.sp 2
+.h3 id=section_x_1
 A Land-yacht
+.sp 1
 
 A few years ago the only kind of yacht known to the
 boys were those that sailed in the water, but in this
@@ -5989,8 +6122,10 @@ give the wheels a good spread.
 Wheels with rubber tires will make the running motion
 easier and so add to the owner’s comfort.
 
-
+.sp 2
+.h3 id=section_x_2
 A Sail-wagon
+.sp 1
 
 For level streets or sidewalks where trees do not interfere
 and where the walks are wide, a sail-wagon will afford much
@@ -6088,8 +6223,10 @@ sprit the boom will clear the boy on the deck when it swings
 over. To stiffen the sail bind the outer edge with thin rope
 or cotton line a trifle smaller than clothes-line.
 
-
+.sp 2
+.h3 id=section_x_3
 A Pushmobile
+.sp 1
 
 The pushmobile (Fig. 10) is another interesting road or
 sidewalk car and one with which two boys can share considerable
@@ -6236,8 +6373,10 @@ stop.
 Chapter XI||FIRE-ENGINES AND TRUCKS
 .sp 2
 
-
+.sp 2
+.h3 id=section_xi_1
 The Engine
+.sp 1
 
 Every boy is interested in fire-engines and fires, and
 in the absence of the real thing there is a great deal of
@@ -6376,8 +6515,10 @@ Trip-gongs and signal-lamps should, of course, be provided,
 for without these appurtenances the engine would be
 a flat failure.
 
-
+.sp 2
+.h3 id=section_xi_2
 The Hose-carriage
+.sp 1
 
 A hose-carriage (Fig. 4) to accompany the engine is made
 of wood and constructed on the same lines as the engine.
@@ -6457,8 +6598,10 @@ straps of iron, as shown at Fig. 6 D, are screwed fast over the
 angle when the reel is in place. With a coat or two of paint
 this hose-carriage will be ready for use.
 
-
+.sp 2
+.h3 id=section_xi_3
 The Hook-and-Ladder Truck
+.sp 1
 
 To complete the outfit a hook-and-ladder truck (Fig. 7)
 will be necessary, on the racks of which four hooks, three
@@ -6585,8 +6728,10 @@ find one that he can make from boards and sticks, at a slight
 cost, and which if properly rigged and adjusted will develop
 a considerable amount of power.
 
-
+.sp 2
+.h3 id=section_xii_1
 A Simple Paddle-wheel
+.sp 1
 
 The simple paddle-wheel, as shown at Fig. 1, is made
 from an axle three inches square, four spokes, and four
@@ -6619,8 +6764,10 @@ of the shaft the connection is made for power. In place of
 the iron strap another piece of wood may be cut and clamped
 down over the axle end as shown at C.
 
-
+.sp 2
+.h3 id=section_xii_2
 A Wagon Wheel
+.sp 1
 
 Another variety of water-wheel may be made from the
 hubs and spokes of two old wheels, preferably those from a
@@ -6647,8 +6794,10 @@ pockets to hold the water, and the overshot-wheel should
 have them too if all the available force and weight of water
 is to be employed.
 
-
+.sp 2
+.h3 id=section_xii_3
 A Barrel-wheel
+.sp 1
 
 A very simple and efficient device is shown in the drawing
 of a barrel-wheel (Fig. 3). This consists of an oil or pork
@@ -6690,8 +6839,10 @@ WATER-WHEELS
 // 218.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_xii_4
 An Undershot-wheel
+.sp 1
 
 For a brook an undershot-wheel can be made with two
 round ends and ten or twelve blades according to the size of
@@ -6702,8 +6853,10 @@ battens as shown in Fig. 4 A. These are arranged on a
 square axle and the blades are made fast between them with
 long screws or steel nails. Fig. 4 B.
 
-
+.sp 2
+.h3 id=section_xii_5
 A Power-wheel
+.sp 1
 
 To utilize the power from a rapidly running brook place
 two tree-trunks across the brook about six feet apart as
@@ -6738,8 +6891,10 @@ POWER-WHEEL AND WHEEL-RACE
 the speed or power of the wheel, the other end being
 securely attached to a tree-trunk with hinges.
 
-
+.sp 2
+.h3 id=section_xii_6
 A Wheel-race
+.sp 1
 
 The water from a wide, shallow brook may be directed so
 as to throw its full force against the blades of a wheel by
@@ -6804,8 +6959,10 @@ in making a good one, but for the still more important
 reason that the safety of all on board is dependent upon his
 skill and conscientious work.
 
-
+.sp 2
+.h3 id=section_xiii_1
 Punt and Scow
+.sp 1
 
 A punt with a flat bottom is about the easiest and
 safest boat for a boy to make and own, for it is straight in
@@ -6889,8 +7046,10 @@ feet wide. It may be provided with two or three seats, and
 when complete both the punt and scow should receive two
 or three good coats of paint.
 
-
+.sp 2
+.h3 id=section_xiii_2
 A Sharpy
+.sp 1
 
 It is not a difficult matter to make a sharpy like the one
 shown in Fig. 5, but care must be taken in its construction
@@ -7042,8 +7201,10 @@ enable a boy to sail before the wind in a quiet breeze, but
 rough-weather sailing should not be attempted in this
 style of open boat.
 
-
+.sp 2
+.h3 id=section_xiii_3
 A Dory
+.sp 1
 
 A dory (Fig. 11), is somewhat similar to a sharpy but
 has higher sides and a narrower bottom, therefore it draws
@@ -7101,8 +7262,10 @@ A dory of this description makes an ideal fishing-boat
 where the water is rough, since it can be rowed either forward
 or backward.
 
-
+.sp 2
+.h3 id=section_xiii_4
 A Sailing Sharpy
+.sp 1
 
 A rowing sharpy can be converted into a sail-boat by
 partially decking it over, making a mast-step, and providing
@@ -7216,8 +7379,10 @@ an hour, and two boys can have a great deal of fun out of
 her. Care should be exercised in handling the boat; and be
 sure to reef the sail in case of a strong breeze.
 
-
+.sp 2
+.h3 id=section_xiii_5
 A Centre-board Sharpy
+.sp 1
 
 When making a sharpy to sail in, a trunk and centre-board
 should be built when the keel is laid so that the cumbersome
@@ -7294,8 +7459,10 @@ the centre-board.
 The deck ribs and the planking are put in the same as
 described for the sailing sharpy.
 
-
+.sp 2
+.h3 id=section_xiii_6
 A Proa
+.sp 1
 
 In the South Sea Islands the natives dig out the trunk of
 a tree, rig a lateen sail on a single stick, and arrange a counter-balance
@@ -7364,8 +7531,10 @@ days apart, so that one will dry thoroughly before the next
 one is laid on. Never put thick or gummy paint on a boat;
 thin it down and apply two coats rather than one thick one.
 
-
+.sp 2
+.h3 id=section_xiii_7
 A Lark
+.sp 1
 
 Perhaps the safest kind of a sailing-craft next to a catamaran
 is a lark with a broad beam and flat at both bow
@@ -7489,8 +7658,10 @@ Manila-rope should be used for the halyards and sheets.
 This lark will ride well on the water, and if properly
 rigged it should be a very speedy boat.
 
-
+.sp 2
+.h3 id=section_xiii_8
 A Power-boat
+.sp 1
 
 A novel feature for the propulsion of a flat-bottom boat
 or punt is shown in Fig. 30. Two small paddle-wheels
@@ -7584,8 +7755,10 @@ one-day camping outfit for a visit up the river or lake.
 Chapter XIV||CATAMARANS
 .sp 2
 
-
+.sp 2
+.h3 id=section_xiv_1
 A Rowing Catamaran
+.sp 1
 
 For safety on the water, as nearly as safety can be
 assured, there is nothing to compare with a catamaran,
@@ -7654,8 +7827,10 @@ a board. With another boy at the stern sitting on the
 deck this catamaran will be well balanced and will prove
 very seaworthy, as well as a light boat to row.
 
-
+.sp 2
+.h3 id=section_xiv_2
 A Sailing Catamaran
+.sp 1
 
 It is almost impossible to upset a sailing catamaran even
 in a gale, and for boys a boat of this kind affords a great
@@ -7823,8 +7998,10 @@ catamaran. With these wedge-shaped boats you can sail
 quite close to the wind, but if round-bottomed and shallower
 boats are used they will have to be provided with centre-boards.
 
-
+.sp 2
+.h3 id=section_xiv_3
 A Side-wheel Catamaran
+.sp 1
 
 The rowing catamaran can easily be converted into a side-wheel
 boat by removing the middle slat of the deck and
@@ -7883,8 +8060,10 @@ to hold the rudder steady.
 Chapter XV||ICE-BOATS
 .sp 2
 
-
+.sp 2
+.h3 id=section_xv_1
 A Sloop-rigged Ice-yacht
+.sp 1
 
 For travelling over the ice there is nothing to beat an
 ice-yacht, and some that have been constructed on the
@@ -8001,8 +8180,10 @@ cream-colored deck and black metal parts, are pleasing combinations,
 but a boy’s own ideas can be carried out with the
 paint-pot and brush.
 
-
+.sp 2
+.h3 id=section_xv_2
 A Twin-mast Ice-boat
+.sp 1
 
 The twin-mast ice-boat shown in Fig. 4 is the same size
 as the other one, and built in the same manner except that
@@ -8040,8 +8221,10 @@ in a stiff breeze.
 // 267.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_xv_3
 Scoots and Scooters
+.sp 1
 
 Scoots and scooters are the latest wrinkle in ice-boats.
 Down on the Great South Bay, on the southern side of Long
@@ -8155,8 +8338,10 @@ A small centre-board mounted in a trunk will be necessary
 for water sailing, and with several coats of paint the
 scooter will be ready for use.
 
-
+.sp 2
+.h3 id=section_xv_4
 A Wind-runner
+.sp 1
 
 An interesting boat for a boy to sail is a wind-runner like
 the one shown in Fig. 9.
@@ -8207,8 +8392,10 @@ carry four or five boys.
 Chapter XVI||HOUSE-BOATS AND RAFTS
 .sp 2
 
-
+.sp 2
+.h3 id=section_xvi_1
 A House-punt
+.sp 1
 
 A house-punt of very simple construction is shown in
 Fig. 1. The punt is from sixteen to twenty-four feet
@@ -8414,8 +8601,10 @@ and in the winter when not in use the punt can be hauled
 out on shore, the windows boarded up, and old canvas
 drawn over the decks to protect them from the sun.
 
-
+.sp 2
+.h3 id=section_xvi_2
 A House-raft
+.sp 1
 
 Almost any boy can build a fairly good boat, even if it is
 a flat-bottomed sharpy. But to build a raft of the proper
@@ -8718,8 +8907,10 @@ from two hundred to three hundred dollars, including
 all labor and material, according to the locality in which it
 is constructed.
 
-
+.sp 2
+.h3 id=section_xvi_3
 A Float
+.sp 1
 
 In the spring, when every one who owns a boat of any sort
 is painting and repairing his craft, boat-houses, and floats, a
@@ -8838,8 +9029,10 @@ temporarily made fast to a dock, the loop or eye being
 thrown over the spile on the pier. Let us first consider the
 making of the latter splice.
 
-
+.sp 2
+.h3 id=section_xvii_1
 Splices
+.sp 1
 
 <sc>The Eye-splice</sc> (Fig. 1).—Open the end of the rope and
 lay the strands 1, 2, 3 upon the standing part as shown in
@@ -8886,8 +9079,10 @@ the short and eye splice. The remaining strands will be
 treated in the same manner, after which stretch the rope
 well and cut off the ends.
 
-
+.sp 2
+.h3 id=section_xvii_2
 Knots
+.sp 1
 
 <sc>Reef Knot</sc> (Fig. 4).—This commonly used knot is also
 known as a flat knot and square knot, and is one of the
@@ -9089,8 +9284,10 @@ is all that is necessary for the young reader to become expert
 in their manufacture. Let us first consider the bends in
 general use.
 
-
+.sp 2
+.h3 id=section_xvii_3
 Bends
+.sp 1
 
 <sc>Common Bend</sc> (Fig. 25).—This is also known as a single
 bend, and is used for making one rope fast to another in a
@@ -9139,8 +9336,10 @@ them from slipping.
 <i>Fig. 33</i>
 .ca-
 
-
+.sp 2
+.h3 id=section_xvii_4
 Hitches
+.sp 1
 
 <sc>Two Half Hitches</sc> (Fig. 31).—This is an exceedingly
 simple way of fastening a rope, and it has the double advantage
@@ -9277,8 +9476,10 @@ necessity will teach him, and much satisfaction may be had
 in constructing bunks and tables and the other varied paraphernalia
 of camp life.
 
-
+.sp 2
+.h3 id=section_xviii_1
 A Tent of Medium Size
+.sp 1
 
 Fig. 1 shows a serviceable and roomy tent and fly of
 medium size, which measures eight feet wide, ten feet long,
@@ -9427,8 +9628,10 @@ turn the canvas covering. The stakes are driven three feet
 out on either side of the aprons so that the stanchion-ropes
 will line with the pitch of the tent.
 
-
+.sp 2
+.h3 id=section_xviii_2
 A Large Camping-tent
+.sp 1
 
 For a company of boys numbering from four to eight a
 large camping-tent is shown in Fig. 7.
@@ -9512,8 +9715,10 @@ Always select a level, dry place for the tent, and if possible
 erect it on ground that is slightly higher than that
 around it so as to drain the surface-water away.
 
-
+.sp 2
+.h3 id=section_xviii_3
 Flies and Canopies
+.sp 1
 
 Every camping-tent should have a fly—that is, an extra
 canvas roof—for no matter how good the canvas of which
@@ -9560,8 +9765,10 @@ fast. Through these stanchion-ropes may be reared wherever
 it is necessary to attach the sheet to branches or poles set in
 the ground.
 
-
+.sp 2
+.h3 id=section_xviii_4
 A House-tent
+.sp 1
 
 One of the latest features in the modern camp is the
 house-tent, in which the lower part is floored and boarded
@@ -9660,8 +9867,10 @@ A coat or two of paint on the wood-work will improve its
 appearance greatly and preserve the wood, if the house is to
 be used for a number of seasons.
 
-
+.sp 2
+.h3 id=section_xviii_5
 The New Tent
+.sp 1
 
 One great drawback to the pitched or army tent is that
 in wet weather, when one has to stay in-doors, it is not
@@ -9751,8 +9960,10 @@ The double-peg anchorage is better than a single one,
 and with this new rope-fastener it will be an easy matter
 to stay a tent to withstand any wind-storm.
 
-
+.sp 2
+.h3 id=section_xviii_6
 Canvas Cots and Hammocks
+.sp 1
 
 Cots are very necessary parts of the camping outfit, and
 may be made either of canvas and poles or of boughs and
@@ -9855,8 +10066,10 @@ spread, to make a soft mattress, and on these in turn a
 blanket or two can be spread and tied down at the corners,
 so that the leaves may not become dislodged.
 
-
+.sp 2
+.h3 id=section_xviii_7
 Tables and Benches
+.sp 1
 
 Every boy should know how to make a table from some
 fence boards, a rail or two, and stakes for the legs. The
@@ -9929,8 +10142,10 @@ shown in Fig. 27.
 // 328.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_xviii_8
 Camping Equipment
+.sp 1
 
 In fitting out for a camping expedition it is always best
 to make a memorandum of the things you will need some time
@@ -9957,8 +10172,10 @@ to have in camp, and while a boy may think that he
 knows what is wanted, it would be well for him to take
 his mother’s or older sister’s advice on the subject.
 
-
+.sp 2
+.h3 id=section_xviii_9
 Lockers and Mess-kits
+.sp 1
 
 Lock-boxes with handles, in which to store dry groceries
 and foods, and mess-kits for the kitchen and dining ware,
@@ -10027,8 +10244,10 @@ and when in camp it may be hung from one end by rings, so
 that the pockets occupy a horizontal position and the contents
 can be easily gotten at.
 
-
+.sp 2
+.h3 id=section_xviii_10
 A Stone Stove and Camp-fires
+.sp 1
 
 The old-time tripod and kettle over an open fire of brush
 and logs is an unhandy means of cooking, for a sudden gust
@@ -10213,8 +10432,10 @@ be burned out without danger to the oven. Carefully
 remove all dirt, and keep up a fire for half a day before
 attempting to bake. Fig. 34. (See page 321.)
 
-
+.sp 2
+.h3 id=section_xviii_11
 Camp-cooking
+.sp 1
 
 Even the finest of camps is a dreary place unless the commissary
 department is well organized. “Uncle Harry,” who
@@ -10388,8 +10609,10 @@ and nourishing.”
 
 And the boys agreed with him.
 
-
+.sp 2
+.h3 id=section_xviii_12
 The Care of a Gun
+.sp 1
 
 Aside from the pride and satisfaction which every sportsman
 should take in keeping his favorite weapon bright and
@@ -10510,8 +10733,10 @@ still be abundant if the game laws had been observed.
 Chapter XIX||TRAPS AND TRAPPING
 .sp 2
 
-
+.sp 2
+.h3 id=section_xix_1
 Snares and Deadfalls
+.sp 1
 
 The ways of trapping are as various as the ingenuity of
 savage or civilized man can devise. I like best the
@@ -10976,8 +11201,10 @@ days.
 The following ideas and suggestions may be of service,
 and they have all been tested in practical experience.
 
-
+.sp 2
+.h3 id=section_xx_1
 A Low Twin-tree Hut
+.sp 1
 
 A very serviceable twin-tree hut is shown in Fig. 1, and
 it can easily be constructed, at a small cost, from ordinary
@@ -11127,8 +11354,10 @@ or five shelves are arranged as shown in Fig. 6 C. A door
 made from the box-cover is attached with hinges, and a
 catch or hasp will keep it closed.
 
-
+.sp 2
+.h3 id=section_xx_2
 A High Twin-tree Hut
+.sp 1
 
 Twelve or fifteen feet above the ground, and built in
 between the trunks of two stout trees, a high tree hut is
@@ -11215,8 +11444,10 @@ of the boy owners may be added as need arises.
 // 371.png
 .pn +1
 
-
+.sp 2
+.h3 id=section_xx_3
 A Single-tree Hut
+.sp 1
 
 In the spreading branches of a large oak-tree a very snug
 roost can be made high above the ground as shown in Fig.
@@ -11264,8 +11495,10 @@ is too high to reach with a bucket, and, located as it is, a
 perfect draught will fan a small flame into a raging fire in
 no time.
 
-
+.sp 2
+.h3 id=section_xx_4
 A Low Single-tree Hut
+.sp 1
 
 It is not always best to build a hut in high trees, nor
 is it possible to do so in every case, because there may not
@@ -11293,8 +11526,10 @@ from two-by-three-inch spruce rails with hickory rungs, or
 two-by-one-inch hard-wood sticks securely nailed to the
 rails.
 
-
+.sp 2
+.h3 id=section_xx_5
 A Brush-house
+.sp 1
 
 In nearly every part of the country where there is low
 ground one may generally find a high growth of plant life
@@ -11397,8 +11632,10 @@ The roof is woven the same as the sides but is thatched
 closer; and about four inches of the roof should extend
 over the sides, front, and rear.
 
-
+.sp 2
+.h3 id=section_xx_6
 A Brush “Lean-to”
+.sp 1
 
 The general lines of a miniature barn are shown in the
 illustration of a brush “lean-to” (Fig. 18). This is constructed
@@ -11443,8 +11680,10 @@ to an inaccessible eyrie.
 Chapter XXI||WALKING-STICKS
 .sp 2
 
-
+.sp 2
+.h3 id=section_xxi_7
 How to Grow Them for Pleasure and Profit
+.sp 1
 
 Here are some suggestions for an entirely new and fascinating
 out-of-doors occupation.
