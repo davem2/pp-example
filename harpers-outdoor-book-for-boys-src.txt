@@ -184,33 +184,85 @@ FIG. 11—A SINGLE-TREE HUT
 .pn +1
 .pb
 
-.if t
+
+
+.if h
+.de .title { padding-top: 3em; }
+.de .title .xxlarge { font-size: 0.91em; }
+.de .title .xlarge { font-size: 1.05em; letter-spacing: 0.2em; margin-right: -0.2em; }
+.de .title .large { font-size: 0.77em; }
+.de .title .small { font-size: 0.85em; letter-spacing: 0.2em; margin-right: -0.2em; }
+.de .title .xsmall { font-size: 0.77em; }
+.de .title .xxsmall { font-size: 0.6em; letter-spacing: 0.14em; margin-right: -0.14em; }
+.de .border { width: 100%; height: auto; text-align: center; background: url('images/i_005a.jpg') no-repeat center; }
+.de @media handheld { .border { display: none; } }
+
+.li
+<div class="border">
+<div class="title">
+.li-
+.if h-
+
 .h1
-HARPER’S|OUTDOOR BOOK|FOR BOYS
+<g>HARPER’S|OUTDOOR BOOK|<fs="smaller">FOR BOYS</fs></g>
 .nf c
-BY
 
-JOSEPH H. ADAMS
 
-WITH CONTRIBUTIONS BY
-KIRK MUNROE, TAPPAN ADNEY
-CAPT. HOWARD PATTERSON
-LEROY MILTON YALE
-AND OTHERS
 
-WITH MANY ILLUSTRATIONS
+<l>BY</l>
+
+<xl>JOSEPH H. ADAMS</xl>
+
+
+
+<xs>WITH CONTRIBUTIONS BY</xs>
+<xs>KIRK MUNROE, TAPPAN ADNEY</xs>
+<xs>CAPT. HOWARD PATTERSON</xs>
+<xs>LEROY MILTON YALE</xs>
+<xs>AND OTHERS</xs>
+
+
+<xs>WITH MANY ILLUSTRATIONS</xs>
+
+
 .nf-
 
-.il id=i_005 fn=i_005.jpg w=994px alt=''
-
-.nf c
-HARPER & BROTHERS PUBLISHERS
-NEW YORK AND LONDON
-.nf-
+.if t
+.ce
+[Illustration]
 .if-
+.if h
+.il id=i_005 fn=i_005b.jpg w=20% alt=''
+.if-
+
+.nf c
+
+
+<s>HARPER & BROTHERS PUBLISHERS</s>
+<xxs>NEW YORK AND LONDON</xxs>
+.nf-
+
+.pm sp-htmlonly 6em
 
 .if h
 .li
+</div>
+</div>
+.li-
+.if h-
+
+
+.if-
+
+.ig
+.if h
+.de .toc {}
+.de .toc .large { font-size: 0.91em; }
+.de .toc .small { font-size: 0.85em; }
+.de .toc .xsmall { font-size: 0.82em; }
+.de .toc .xlarge { font-size: 1.05em; }
+.li
+<div class="title">
 // Background graphic
 <h1 class='center'>
 <span class=''>HARPER’S</span><br />
@@ -235,6 +287,7 @@ NEW YORK AND LONDON
 </div>
 .li-
 .if-
+.ig-
 
 // 006.png
 .pn +1
@@ -12746,7 +12799,9 @@ Yacht, a land, #177#-#182#.
 .ad
 
 
-THE END
+.sp 3
+.ce
+<B>THE END</B>
 
 
 // Standard TN (copy to end of ppgen source)
