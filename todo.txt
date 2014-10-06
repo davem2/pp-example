@@ -1,0 +1,327 @@
+Project Setup
+----------------------------------------------------------------------
+- Go to Project page
+	- Read details and requirements
+	- Read the project forum page and note issues raised by proofers
+	- Download project file(s) page scans, illustrations, proofed text
+- Create project folder 
+	- Duplicate template project (NEW_PROJECT_TEMPLATE) and name it based on book title. Template project contains the following
+		originals/* - Projects files downloaded from PGDP go here (proofed text, good/bad word lists, book page scans downloaded from project, hi res illustrations)
+		images/ - Processed versions of illustrations used in HTML version go here
+		todo.txt - Prepopulated checklist of standard tasks remaining to complete. Remove tasks from file once completed or add new tasks/reminders as needed.
+		notes.txt - TDB.. may not be needed.. TN notes? 
+- Unzip files
+	- Unzip all project files into project/originals
+	- Move files into appropriate directories
+- Copy proofed text from originals to project_root/projectname-src.txt
+- Update PROJECTNAME in Makefile
+- Set up version control for project
+	- git init
+	- git add *.txt
+	- git commit -m "Initial version"
+
+Illustrations - First pass
+----------------------------------------------------------------------
+- If needed, rename illustrations to i_NNN[ab..] format where NNN is the scan page number. Multiple illustrations per page are named i_NNNa, i_NNNb, ...
+- Convert illustrations to .png (or some other lossless format, .tif? .psd?)
+	- mogrify -format png *.jpg
+- Clean up master illustrations
+	- Make background white (where applicable)
+	- Crop extra space
+    - Break up multi-illustration pages into seperate images (where applicable), use i_NNNa, i_NNNb... naming 
+	- Remove Fig. text (where applicable)
+	- Do not scale images at this point
+    
+Main Processing
+----------------------------------------------------------------------
+- Convert file to UTF-8 encoding
+git commit -am "Convert to UTF-8"
+
+- Fix up page seperators and blank pages
+    - Using PPPrep
+        - ppprep book-src.txt -p book-src.txt
+        - Set page numbering to match original
+            - Add .pn i, .pn 1 statements where needed
+    - Manually
+        - Fixup page seperators:
+              search for  : ^-----File: (\d+\.png).*
+              replace with: // \1
+        - Remove blank pages
+              search for  : [Blank Page]
+              replace with: // [Blank Page]
+        - Add page numbers
+              search for  : // (\d{3,4}.png)
+              replace with: // \1\r\n.pn +1
+              Set starting pages .pn i or .pn 1
+git commit -am "Add page numbering, comment out [Blank Page]'s"
+
+- Resolve proofer comments marked with "[**"
+git commit -am "Resolve [** issues flagged during proofing rounds"
+
+- Resolve hyphenation issues
+  search for: -*
+  search for: *-
+git commit -am "Resolve hyphenation issues flagged during proofing rounds"
+
+- Start a transcriber's note based on corrections made to text
+	- Copy template from boilerplate.txt to end of ppgen source file
+	- If desired, copy template for Italics/bold/Superscript warning for text version up front (customize based on what styles are actually used in text)
+git commit -am "Create Transcriber's Note"
+
+- Convert to single and double quotes to curly quotes
+	- ppsmq -i book-src.txt -o book-src2.txt
+	- Edit book-src2.txt resolve @ marked issues, and any unconverted single/double quotes (commonly opening single quote and apostrophized words like ’till)
+		- Search for @, ", ', ∯
+		- Curly quote reference
+		  ‘ left single quotation mark
+		  ’ left single quotation mark (used as apostrophy too)
+		  “ left double quotation mark
+		  ” left double quotation mark
+	- Quotes inside HTML tags (should not be many at this early stage in PP) will have been mapped like this: single quotes became ∮ and double quotes became ∯ characters. Change them back to ' and "
+	- Copy changes from book-src2.txt back to original book-src.txt
+git commit -am "Change to curly quotes"
+
+- Replace characters with UTF8
+	- Replace "--" with "—" verify usage during search/replace
+git commit -am "Convert -- to UTF8 —"
+	- Fractions?
+		-  http://symbolcodes.tlt.psu.edu/bylanguage/mathchart.html
+	- any letters with diacritic markup (e.g. [)a] for a with breve) to the correct unicode letters. An easy way to find the letters is to copy and past from the Wikipedia articles on macron, breve, etc.
+	- Do the same for [oe] to œ, [OE] or [Oe] to Œ, asterisms (⁂), and any other odd symbols.
+	- If there are ditto marks proofed as double quotes, change them to „
+git commit -am "Replace characters with UTF8"
+
+- Greek? Transliterations?
+	- First, unless you are a scholar in ancient Greek, post links to your original page and also copies of what your proofers and formatters came up with [http://www.pgdp.net/phpBB2/viewtopic.php?t=15744: here] or [http://www.pgdp.net/phpBB2/viewtopic.php?t=16124: here]. Within a few hours Greek scholars will give you any corrections or tell you it is all just perfect!
+	- search for \[[^FISB]
+
+- Markup chapter headings
+    - PPPrep method ------------------------------
+        - Run a dry run and verify heading outline looks correct
+            - ppprep book-src.txt -cd
+        - If outline looks good run for real (if there are a couple issues run with -k and manually choose from original/generated)
+            - ppprep book-src.txt -c
+        - Search for PPPREP comments
+            - Double check chapter headings were flagged correctly
+            - Remove original/generated version as needed
+            - Apply ppgen markup as needed to make chapter headings look like original
+    - Manual method ------------------------------
+        - Find Chapter headings (4 blank lines (text) 2 blank lines) FIXME (first search/replace need to be fixed.. only will work with one line chapter string)
+          search for  : ^\r\n\r\n\r\n\r\n(.*)$\r\n\r\n\r\n
+          replace with: \r\n.sp 4\r\n.h2 id=CHANGEME\r\n\1\r\n.sp 2\r\n\r\n
+        - Find Chapter headings with chapter summaries (4 blank lines (text))
+          search for  : ^\r\n\r\n\r\n\r\n(.*)$
+          replace with: \r\n.sp 4\r\n.h2 id=CHANGEME\r\n\1\r\n.sp 2
+        - Set heading IDs
+          search for  : CHANGEME
+          replace with: chapter_i (take heading text, convert to lowercase and replace spaces with _)
+git commit -am "Markup chapter headings"
+
+- Markup section headings
+    - PPPrep method ------------------------------
+        - TBD.. detection routine is basically useless in PPPrep, format manually for now. Might be able to automate section_id naming after sections are marked with CHANGEME
+    - Manual method ------------------------------
+        - Find section headings (2 blank lines (text) 1 blank line) (will get lots of false hits)
+          search for  : ^\r\n\r\n(.*)$
+          replace with: \r\n.sp 2\r\n.h3 id=CHANGEME\r\n\1\r\n.sp 1
+            or
+          manually replace with:
+            .sp 2
+            .h3 id=section_id
+            Section Name
+            .sp 1
+        - Find Chapter headings with chapter summaries (4 blank lines (text))
+          search for  : ^\r\n\r\n\r\n\r\n(.*)$
+          replace with: \r\n.sp 4\r\n.h2 id=CHANGEME\r\n\1\r\n.sp 2
+        - Set heading IDs
+          search for  : CHANGEME
+          replace with: section_i_1 (example for first section of Chapter I)
+git commit -am "Markup section headings"
+
+
+- Replace [Illustration tags with ppgen markup
+    - PPimg method ------------------------------
+        - ppimg book-src.txt -i
+    - Relocate *[Illustrations as flagged
+
+
+- Process footnotes
+    - PPPrep method ------------------------------
+        - Call ppprep with the desired footnote "landing zone"
+            - ppprep book-src.txt -f --fndest=paragraphend 
+            - ppprep book-src.txt -f --fndest=chapterend 
+            - ppprep book-src.txt -f --fndest=bookend 
+    - Manual method ------------------------------
+        - Reindex footnotes from [A]..[B].. to [1]..[2]..
+            search for  : \[[\d\w]\]
+            replace with: [N] 1..
+        - Replace [Footnote:] markup
+            .fm
+            .fn 1
+            See Bill Bolton and The Winged Cartwheels.
+            .fn-
+        - Relocate footnote markup to .. end of paragraph, end of page, end of chapter, end of book?
+git commit -am "Process footnotes"
+
+- Process sidenotes
+	- TBD
+git commit -am "Process sidenotes"
+
+- Markup index
+    - Enclose in:
+	    .na
+	    .in 2
+	    .nf l
+	       ....
+	       ....
+	    .nf-
+	    .in
+	    .ad
+    - Set up index links
+	search for  : (\d+)
+	replace with: #\1# (in selection)
+    - Revert back lines that should not have been changed (TODO.. make regex above ignore lines that match these)
+	// xxx.png 
+	// .pn +1
+git commit -am "Markup index"
+
+
+- Add ppgen title markup
+    - .dt The Project Gutenberg eBook of BOOKNAMEGOESHERE, by AUTHOR
+
+- Markup title page and front matter
+    - .h1 THIS|<s>is</s>|Three lines
+    - Enclose all but h1 in .nf .nf- block (no wrap)
+git commit -am "Markup front matter"
+
+- Markup Table of Contents and Table of Illustrations (if one exists)
+	- Page links
+	  search for  : \|([0-9]*)$
+	  replace with: |#\1#
+	  or
+	  replace with: |#\1:chapter_i#
+git commit -am "Markup TOC"
+
+
+- Markup sections marked with out-of-line formatting /* */ /# #/ such as tables, poetry, block quotes.. 
+    search for  : (\/\#|\/\*)
+    replace with: 
+        - poetry (.nf b ... .nf-)
+        - tables (.ta lr ... .ta-)
+        - blockquote (.in 4 .ll -4 ... .ll .in)
+        TBD...
+git commit -am "Markup out-of-line formatting"
+
+
+- Process inline formatting <i> tags
+	- verify that usage is correct and consistent
+	- change <i> where appropriate
+		- <em> </em> is used when a word is italic for emphasis in the text.
+		- <cite> </cite> is used when a reference is cited. The New York Times, Washington Irving, etc.
+		- <i lang="fr" xml:lang="fr"> </i> is used to indicate a language other than the original's in the text. ("Bonjour, m'ami!" he shouted.)
+		- explained in more detail here: http://www.pgdp.org/~jana/best-practices/pages/case-studies/inline-formatting/
+		  or (PPGen recommended way)
+		- <i><lang="fr"> </lang></i> is used to indicate a language other than the original's in the text. ("Bonjour, m'ami!" he shouted.)
+	- useful regex
+		search for  : <i>(.+)</i>
+		replace with: <em>\1</em>
+git commit -am "Process <i> markup"
+
+- Process inline formatting <b>, <sc> tags
+	- verify that usage is correct and consistent
+	- apply <SC></SC> to first word(s) of chapter If book uses that style
+	- Use alternate <B> and <SC> tags when you want effect only in HTML version (first word of chapter is a good candidate for this). The text verison will not have _italics_ =BOLD= SMALLCAPS changes. Warning: "removing markup" is consided an error during PPV.. have a good reason to use.
+	- useful regex
+		search for  : \n\n\n\n\n(\w+)
+		replace with: \n\n\n\n\n<SC>\1</SC>
+git commit -am "Process <b>, <sc> markup"
+
+- Second pass on illustrations
+	- for each .il statement set align= parameter as needed
+	- scale illustrations
+		- view project in browser at 800px wide
+		- for each .il statement set w= to approximate image width in percent based on page scans (grid overlay on page scans can be useful for more exact measure)
+			- build html, inspect result, repeat until satisfied
+TODO: ppimg process needs to be better
+	- move w= to ew=
+		- ppimg -w book-src.txt
+	- rescale images/
+		- ppimg --calcimagewidths --maxwidth=800 book-src.txt
+		- make
+		- ppimg -w book-src.txt
+
+- Add Drop caps
+- Paragraph indent
+
+- Run error checks
+	- make errorcheck
+		- bookloupe
+		- jeebies
+		- pptxt
+		- ppspell
+		- pphtml
+git commit -am "Correct issues found in errorcheck
+
+
+Main Processing
+----------------------------------------------------------------------
+
+
+Error checks
+----------------------------------------------------------------------
+- Gutcheck etc..
+- Google ngram for checking hyphenated words
+
+
+Final processing / verification
+----------------------------------------------------------------------
+- Diff F2 / text
+	- Use pptools: http://pptools-pptools.rhcloud.com/
+- Diff text / HTML
+	- Use pptools: http://pptools-pptools.rhcloud.com/
+- Diff text / text-utf8
+	- Use pptools: http://pptools-pptools.rhcloud.com/
+- Set line breaks in text version to DOS
+- Optimize images (jpegoptim, optipng, pngquant)
+
+- Clean up HTML
+	- pphtml -i a_rational_wages_system.html -o pphtml.log
+	- Remove unused CSS
+		- CSS Usage addon for firebug,
+		  - Tools->Web Developer->FireBug
+		  - CSS Usage->Scan
+		  - Remove red entries
+		- sudo packer -Ss nodejs-uncss
+		  uncss file.html > stylesused.css
+		
+- Validate HTML (http://www.asylumcs.net/pplink.php can do all tests below)
+	- HTML tidy 
+		- tidy -f errs.txt -q file.html
+	- Validate HTML - http://validator.w3.org/
+	- Validate CSS - http://jigsaw.w3.org/css-validator/
+	- Validate Links - http://validator.w3.org/checklink
+	- pptools - http://pptools-pptools.rhcloud.com/ (https://github.com/bibimbop/pptools-openshift)
+	- Ensure the HTML header title contains the line <title>The Project Gutenberg eBook of Name of Book, by Name of Author</title> 
+	
+- Validate ePUB - http://epubmaker.pglaf.org/
+
+- Create latin-1, UTF-8 version, check for encoding issues
+	- iconv, recode, unitame
+
+
+Testing
+----------------------------------------------------------------------
+- Test HTML version on different browsers
+- Test EPUB on different readers
+	- Desktop
+		- ADE http://www.adobe.com/products/digital-editions/download.html
+		- Kindle Previewer http://www.amazon.com/gp/feature.html/?docId=1000765261
+		- EPUBReader Plugin for FireFox http://www.epubread.com/en/
+	- Mobile
+		- Use DropBox for easy transfer to Android/iPad
+		- Readers
+		- Load on Nook, Kindle etc.. (if available)
+- Submit for Smooth Reading (Include links to HTML,EPUB,Kindle in SR note)
+
+
+
