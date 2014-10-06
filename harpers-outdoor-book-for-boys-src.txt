@@ -12012,742 +12012,738 @@ INDEX
 .sp 2
 
 
-/*
-Aerial toys, 81-98;
-  elastic flying-machine, 81-86;
-  self-acting aerial car, 86-91;
-  aerial boat-sailing, 91-95;
-  a “high-flyer,” 95-98.
+.na
+.in 2
+.nf l
+Aerial toys, #81#-#98#;
+  elastic flying-machine, #81#-#86#;
+  self-acting aerial car, #86#-#91#;
+  aerial boat-sailing, #91#-#95#;
+  a “high-flyer,” #95#-#98#.
 
-Air-ship kite, an, 126, 127, 128.
+Air-ship kite, an, #126#, #127#, #128#.
 
-Anglers, aids for young, 160-165.
+Anglers, aids for young, #160#-#165#.
 
-Aquarium, an, construction of, 14-18;
-  stocking, 19, 22, 23, 169, 171,172;
+Aquarium, an, construction of, #14#-#18#;
+  stocking, #19#, #22#, #23#, #169#, #171#,#172#;
   changing the water in, <i>ibid.</i>;
-  rockeries for, 20;
+  rockeries for, #20#;
   how to manage, <i>ibid.</i>;
-  plants for, 21;
-  aërating, 22.
+  plants for, #21#;
+  aërating, #22#.
 
-Arrow weather-vane, the, 64, 65.
+Arrow weather-vane, the, #64#, #65#.
 
-Artificial bait for fish, 168, 169.
+Artificial bait for fish, #168#, #169#.
 
 
-Badger, curing the skin of, 347.
+Badger, curing the skin of, #347#.
 
-Bait, box for, 150;
+Bait, box for, #150#;
   bag for, <i>ibid.</i>;
-  worms as, 151, 161, 166;
-  minnows as, 151, 161, 166, 167, 168;
-  seine for catching live, 161, 162, 163;
-  boat for, 162, 163;
-  for large fish, 166;
-  for chub, <i>ibid.</i;
-  for bass, 166, 167;
+  worms as, #151#, #161#, #166#;
+  minnows as, #151#, #161#, #166#, #167#, #168#;
+  seine for catching live, #161#, #162#, #163#;
+  boat for, #162#, #163#;
+  for large fish, #166#;
+  for chub, <i>ibid.</i>;
+  for bass, #166#, #167#;
   for perch, <i>ibid.</i>;
   for trout, <i>ibid.</i>;
-  where to find, 166-169;
-  dobsons as, 167;
-  pails for, 168;
-  artificial, 168, 169;
-  darning-needles as, 169;
-  for eel-pots, 175.
+  where to find, #166#-#169#;
+  dobsons as, #167#;
+  pails for, #168#;
+  artificial, #168#, #169#;
+  darning-needles as, #169#;
+  for eel-pots, #175#.
 
-Bait-rods, 151-153.
+Bait-rods, #151#-#153#.
 
-Basket-ball vane, a, 67, 68, 69.
+Basket-ball vane, a, #67#, #68#, #69#.
 
-Bat-wing kite, the, 128.
+Bat-wing kite, the, #128#.
 
-Bear, curing the skin of, 347, 349·
+Bear, curing the skin of, #347#, #349#·
 
-Beaver, curing the skin of, 347.
+Beaver, curing the skin of, #347#.
 
-“Becket hitch,” the, 160.
+“Becket hitch,” the, #160#.
 
-Bends: the common, 288, 289;
+Bends: the common, #288#, #289#;
   the Carrick, <i>ibid.</i>;
   the fisherman’s, <i>ibid.</i>;
-  the sheet, 289;
+  the sheet, #289#;
   diagrams showing, <i>ibid.</i>
   <i>See also</i> Hitches and Knots.
 
-Bird shelters, 32-34;
-  martin-boxes, 30.
+Bird shelters, #32#-#34#;
+  martin-boxes, #30#.
 
-Blackwall hitch, the, 290, 291.
+Blackwall hitch, the, #290#, #291#.
 
-Boats: home-made, 211-238;
-  a punt, 212-214;
-  a scow, 214, 215;
-  a sharpy, 215-218;
-  a dory, 219-221;
-  a sailing sharpy, 221-225;
-  a centre-board sharpy, 225-228;
-  a proa, 228-230; a lark, 230-235;
-  a power-boat, 235-238;
-  a rowing catamaran, 239-241;
-  a sailing catamaran, 241-247;
-  a side-wheel catamaran, 247, 248;
-  a house-punt, 261-267;
-  a house-raft, 267-277.
+Boats: home-made, #211#-#238#;
+  a punt, #212#-#214#;
+  a scow, #214#, #215#;
+  a sharpy, #215#-#218#;
+  a dory, #219#-#221#;
+  a sailing sharpy, #221#-#225#;
+  a centre-board sharpy, #225#-#228#;
+  a proa, #228#-#230#; a lark, #230#-#235#;
+  a power-boat, #235#-#238#;
+  a rowing catamaran, #239#-#241#;
+  a sailing catamaran, #241#-#247#;
+  a side-wheel catamaran, #247#, #248#;
+  a house-punt, #261#-#267#;
+  a house-raft, #267#-#277#.
   <i>See also</i> Ice-boats.
 
-Bob-sled, a, 107, 108, 109.
+Bob-sled, a, #107#, #108#, #109#.
 
-Boughs, a cot of, 310, 313.
+Boughs, a cot of, #310#, #313#.
 
-Bowline knot, the, 283, 285.
+Bowline knot, the, #283#, #285#.
 
-Box kites, 132, 133.
+Box kites, #132#, #133#.
 
-Brush-house, a, 361-364.
+Brush-house, a, #361#-#364#.
 
-Brush lean-to, a, 364-366.
+Brush lean-to, a, #364#-#366#.
 
 
-Cages, for squirrels, 45-47;
-  for chipmunks, 45, 46;
+Cages, for squirrels, #45#-#47#;
+  for chipmunks, #45#, #46#;
   for white rats, <i>ibid.</i>
 
-Camp-cooking, 323, 325-330.
+Camp-cooking, #323#, #325#-#330#.
 
-Camp-fires, how to make, 320, 321, 322, 323.
+Camp-fires, how to make, #320#, #321#, #322#, #323#.
 
-Camping equipment, 316, 317, 318.
+Camping equipment, #316#, #317#, #318#.
 
-Camps and camping, 295-333;
-  a tent of medium size, 295-300;
-  a large camping-tent, 300-303;
-  flies and canopies, 303, 304;
-  a house-tent, 304-307;
-  the new tent, 307-310;
-  canvas cots and hammocks, 310-313;
-  tables and benches, 301, 313-315;
-  camping equipment, 316, 317, 318;
-*/
+Camps and camping, #295#-#333#;
+  a tent of medium size, #295#-#300#;
+  a large camping-tent, #300#-#303#;
+  flies and canopies, #303#, #304#;
+  a house-tent, #304#-#307#;
+  the new tent, #307#-#310#;
+  canvas cots and hammocks, #310#-#313#;
+  tables and benches, #301#, #313#-#315#;
+  camping equipment, #316#, #317#, #318#;
 // 390.png
 .pn +1
-/*
-  lockers and mess-kits, 316-319;
-  a stone stove, 319, 320;
-  camp-fires, 320, 321, 322;
-  camp-cooking, 323, 325-330;
-  care of a gun, 330-333.
+  lockers and mess-kits, #316#-#319#;
+  a stone stove, #319#, #320#;
+  camp-fires, #320#, #321#, #322#;
+  camp-cooking, #323#, #325#-#330#;
+  care of a gun, #330#-#333#.
 
-Canopy, a toadstool tree, 54, 55.
+Canopy, a toadstool tree, #54#, #55#.
 
-Canvas cot, a, 310, 311;
-  a folding, 311, 312.
+Canvas cot, a, #310#, #311#;
+  a folding, #311#, #312#.
 
-Carriage, a hose, 195-198.
+Carriage, a hose, #195#-#198#.
 
-Carrick bend, the, 288, 289.
+Carrick bend, the, #288#, #289#.
 
-Carry-all, a, for campers, 318, 319.
+Carry-all, a, for campers, #318#, #319#.
 
-Cased fur, manner of preparing, 347, 348.
+Cased fur, manner of preparing, #347#, #348#.
 
-Casting, fly, 153-156.
+Casting, fly, #153#-#156#.
 
-Catamaran, a rowing, 239-241;
-  a sailing,  241-247;
-  a side-wheel, 247, 248.
+Catamaran, a rowing, #239#-#241#;
+  a sailing,  #241#-#247#;
+  a side-wheel, #247#, #248#.
 
-Catspaw hitch, the, 291, 292.
+Catspaw hitch, the, #291#, #292#.
 
-Chairs for camp life, 314, 315.
+Chairs for camp life, #314#, #315#.
 
-Chest-reel, a, 139, 140.
+Chest-reel, a, #139#, #140#.
 
-Chicken-coops, 41-43.
+Chicken-coops, #41#-#43#.
 
-Chinese-junk kite, the, 122, 123, 124.
+Chinese-junk kite, the, #122#, #123#, #124#.
 
-Clove hitch, the, 289, 290.
+Clove hitch, the, #289#, #290#.
 
-Coasters, skees, and snow-shoes, 101-114;
-  toboggans, 102-104;
-  a rocker-coaster, 103, 105;
-  a single-runner coaster, 106, 107, 108;
-  a bob-sled, 107-109;
-  skees, 110, 111;
-  snow-shoes, 111-114.
+Coasters, skees, and snow-shoes, #101#-#114#;
+  toboggans, #102#-#104#;
+  a rocker-coaster, #103#, #105#;
+  a single-runner coaster, #106#, #107#, #108#;
+  a bob-sled, #107#-#109#;
+  skees, #110#, #111#;
+  snow-shoes, #111#-#114#.
 
-Common bend, the, 288, 289.
+Common bend, the, #288#, #289#.
 
-Coops for chickens, 41-43.
+Coops for chickens, #41#-#43#.
 
-Cot, a canvas, 310, 311;
-  a folding, 311, 312;
-  of boughs, 310, 313.
+Cot, a canvas, #310#, #311#;
+  a folding, #311#, #312#;
+  of boughs, #310#, #313#.
 
-Cotes, pigeon, 34-36.
+Cotes, pigeon, #34#-#36#.
 
-Crowned wall knot, the, 284, 285, 286.
+Crowned wall knot, the, #284#, #285#, #286#.
 
-Crown-top kite, the, 128.
+Crown-top kite, the, #128#.
 
-Curing of skins, the, 346-349.
-
-
-Deadfalls, for muskrat, 340, 341, 342;
-  for skunk, 342, 346;
-  the “wigwam,” 344, 345, 346.
-
-Diagrams, showing splices, 281;
-  showing knots, 285;
-  showing bends, 289;
-  showing hitches, 289, 291.
-
-Diamond knot, the, 285, 286.
-
-Dog-kennels, 36-39.
-
-Dory, a, how to make, 219-221.
-
-Double-plane kite, the, 136, 137, 138.
-
-Double wall and double crown knot, the, 285, 286.
+Curing of skins, the, #346#-#349#.
 
 
-Eel-pot, a, how to make, 172, 173, 174;
-  baiting, 175.
+Deadfalls, for muskrat, #340#, #341#, #342#;
+  for skunk, #342#, #346#;
+  the “wigwam,” #344#, #345#, #346#.
 
-Elastic flying-machine, 81-86.
+Diagrams, showing splices, #281#;
+  showing knots, #285#;
+  showing bends, #289#;
+  showing hitches, #289#, #291#.
 
-Engine, a fire, 191-195.
+Diamond knot, the, #285#, #286#.
 
-Equipment for camping, 316, 317, 318.
+Dog-kennels, #36#-#39#.
+
+Dory, a, how to make, #219#-#221#.
+
+Double-plane kite, the, #136#, #137#, #138#.
+
+Double wall and double crown knot, the, #285#, #286#.
 
 
-Fires, camp, how to make, 320, 321, 322, 323.
+Eel-pot, a, how to make, #172#, #173#, #174#;
+  baiting, #175#.
 
-Fire-engine, a, 191-195.
+Elastic flying-machine, #81#-#86#.
 
-Fisherman’s bend, the, 288, 289.
+Engine, a fire, #191#-#195#.
 
-Fish, for aquariums, 19, 20, 22, 23, 169;
-  cleaning, 145;
-  bait for, 151, 161, 166-169;
-  trap for small, 169-171.
+Equipment for camping, #316#, #317#, #318#.
 
-Fishing, pleasure in, 144;
-  secret of success in, 146.
 
-Fishing-tackle, 144-166;
-  testing, 147;
+Fires, camp, how to make, #320#, #321#, #322#, #323#.
+
+Fire-engine, a, #191#-#195#.
+
+Fisherman’s bend, the, #288#, #289#.
+
+Fish, for aquariums, #19#, #20#, #22#, #23#, #169#;
+  cleaning, #145#;
+  bait for, #151#, #161#, #166#-#169#;
+  trap for small, #169#-#171#.
+
+Fishing, pleasure in, #144#;
+  secret of success in, #146#.
+
+Fishing-tackle, #144#-#166#;
+  testing, #147#;
   care of, <i>ibid.</i>;
-  rods, 148, 149, 158;
-  lines, 149;
-  hooks, 149, 150, 158;
-  reels, 150;
-  floats, 150, 152, 164;
+  rods, #148#, #149#, #158#;
+  lines, #149#;
+  hooks, #149#, #150#, #158#;
+  reels, #150#;
+  floats, #150#, #152#, #164#;
   sinkers, <i>ibid.</i>;
-  landing-nets, 151;
+  landing-nets, #151#;
   flies, <i>ibid.</i>;
-  repairing, 156-160.
+  repairing, #156#-#160#.
 
-Float, a, 277-279.
+Float, a, #277#-#279#.
 
-Floats, fish, 150, 152, 164.
+Floats, fish, #150#, #152#, #164#.
 
-Flies for camping-tents, 303, 304.
+Flies for camping-tents, #303#, #304#.
 
-Fly-casting, 153-156.
+Fly-casting, #153#-#156#.
 
-Fly-rods, 153-156.
+Fly-rods, #153#-#156#.
 
-Flying-wedge kite, the, 135, 136.
+Flying-wedge kite, the, #135#, #136#.
 
-Fountain, a, how made, 9-14.
+Fountain, a, how made, #9#-#14#.
 
-Fox, curing the skin of, 347;
-  stretcher, 349.
-
-
-Ground-hogs, how to trap, 346.
-
-Grubs for fish bait, 167.
-
-Guinea-pig houses, 39-41.
-
-Gun, the care of a, 330, 331;
-  the handling of a, 331-333.
+Fox, curing the skin of, #347#;
+  stretcher, #349#.
 
 
-Half hitches, two, 289, 290.
+Ground-hogs, how to trap, #346#.
 
-Hammock, a canvas, 312, 313.
+Grubs for fish bait, #167#.
 
-Handles for walking-sticks, 374, 375.
+Guinea-pig houses, #39#-#41#.
 
-“High-flyer,” a, 95-98.
+Gun, the care of a, #330#, #331#;
+  the handling of a, #331#-#333#.
 
-Hitches:  the “Becket,” 160;
-  two half, 289, 290;
+
+Half hitches, two, #289#, #290#.
+
+Hammock, a canvas, #312#, #313#.
+
+Handles for walking-sticks, #374#, #375#.
+
+“High-flyer,” a, #95#-#98#.
+
+Hitches:  the “Becket,” #160#;
+  two half, #289#, #290#;
   the clove, <i>ibid.</i>;
-  the slippery, 290, 291;
+  the slippery, #290#, #291#;
   the Blackwall, <i>ibid.</i>;
-*/
 // 391.png
 .pn +1
-/*
   the timber, <i>ibid.</i>;
   the rolling, <i>ibid.</i>;
-  the Magnus, 291;
-  the catspaw, 291, 292;
+  the Magnus, #291#;
+  the catspaw, #291#, #292#;
   the sheep-shank, <i>ibid.</i>;
   the marling, <i>ibid.</i>
   <i>See also</i> Bends and Knots.
 
-Hook-and-ladder truck, a, 198-200.
+Hook-and-ladder truck, a, #198#-#200#.
 
-Hooks, fish, 149, 150;
-  putting, to gut, 158.
+Hooks, fish, #149#, #150#;
+  putting, to gut, #158#.
 
-Hoop drop-net, a, how to make, 176.
+Hoop drop-net, a, how to make, #176#.
 
-Hoop-stretcher, a, 347, 349.
+Hoop-stretcher, a, #347#, #349#.
 
-Hose-carriage, a, 195-198.
+Hose-carriage, a, #195#-#198#.
 
-House-boats, 261-277;
-  a house-punt, 261-267;
-  a house-raft, 267-277.
+House-boats, #261#-#277#;
+  a house-punt, #261#-#267#;
+  a house-raft, #267#-#277#.
 
-Houses for guinea-pigs, 39-41.
+Houses for guinea-pigs, #39#-#41#.
 
-How to grow walking-sticks, 367-369.
+How to grow walking-sticks, #367#-#369#.
 
-Hut, a low twin-tree, 350-356;
-  a high twin-tree, 350-356;
-  a single-tree, 359, 360;
-  a low single-tree, 360, 361.
+Hut, a low twin-tree, #350#-#356#;
+  a high twin-tree, #350#-#356#;
+  a single-tree, #359#, #360#;
+  a low single-tree, #360#, #361#.
 
-Hutches for rabbits, 43-45.
-
-
-Ice-boats, 249-260;
-  a sloop-rigged ice-yacht, 249-253;
-  a twin-mast ice-yacht, 253, 254;
-  scoots and scooters, 255-259;
-  a wind-runner, 259, 260.
-
-Ice-sail, a square-rigged, 118.
-
-Ice-yacht, a sloop-rigged, how to make, 249-253;
-  a twin-mast, 253, 254.
-
-“Invisible,” or “whip-finish,” knot, the, 158, 160.
+Hutches for rabbits, #43#-#45#.
 
 
-Kennels for dogs, 36-39.
+Ice-boats, #249#-#260#;
+  a sloop-rigged ice-yacht, #249#-#253#;
+  a twin-mast ice-yacht, #253#, #254#;
+  scoots and scooters, #255#-#259#;
+  a wind-runner, #259#, #260#.
 
-Kites: the ship, 120-122;
-  the Chinese-junk, 122-124;
-  the schooner, 124, 125;
-  a balloon, 125, 126;
-  an air-ship, 126, 127;
-  bat-wing, 128;
+Ice-sail, a square-rigged, #118#.
+
+Ice-yacht, a sloop-rigged, how to make, #249#-#253#;
+  a twin-mast, #253#, #254#.
+
+“Invisible,” or “whip-finish,” knot, the, #158#, #160#.
+
+
+Kennels for dogs, #36#-#39#.
+
+Kites: the ship, #120#-#122#;
+  the Chinese-junk, #122#-#124#;
+  the schooner, #124#, #125#;
+  a balloon, #125#, #126#;
+  an air-ship, #126#, #127#;
+  bat-wing, #128#;
   crown-top, <i>ibid.</i>;
-  Sandwich Island bird, 129-131;
-  box, 132, 133;
-  the “paralleloplane,” 134, 135;
-  the flying-wedge, 135-138;
+  Sandwich Island bird, #129#-#131#;
+  box, #132#, #133#;
+  the “paralleloplane,” #134#, #135#;
+  the flying-wedge, #135#-#138#;
   the double-plane, <i>ibid.</i>;
-  reels, 138-143.
+  reels, #138#-#143#.
 
-Knots: the “invisible,” or “whip-finish,” 158, 160;
-  the reef, 282, 283, 285;
-  the bowline, 283, 285;
-  the bowline on a bight, 283, 284, 285;
-  the running bowline, 284, 285;
+Knots: the “invisible,” or “whip-finish,” #158#, #160#;
+  the reef, #282#, #283#, #285#;
+  the bowline, #283#, #285#;
+  the bowline on a bight, #283#, #284#, #285#;
+  the running bowline, #284#, #285#;
   the wall, <i>ibid.</i>;
-  the crown wall, 284, 285, 286;
-  diagrams showing, 285;
-  the double wall and double crown, 285, 286;
+  the crown wall, #284#, #285#, #286#;
+  diagrams showing, #285#;
+  the double wall and double crown, #285#, #286#;
   a stopper, <i>ibid.</i>;
   a man rope, <i>ibid.</i>;
   the Matthew Walker, <i>ibid.</i>;
   the diamond, <i>ibid.</i>;
-  the Turk’s head, 285, 287;
+  the Turk’s head, #285#, #287#;
   the rope yarn, <i>ibid.</i>;
   the lark’s head, <i>ibid.</i>
   <i>See also</i> Bends and Hitches.
 
-Knotting of gut, 158, 159, 160.
+Knotting of gut, #158#, #159#, #160#.
 
 
-Landing-net, a, for fish, 151.
+Landing-net, a, for fish, #151#.
 
-Land-yacht, a, 177-182.
+Land-yacht, a, #177#-#182#.
 
-Lark, a, how to make, 230-235.
+Lark, a, how to make, #230#-#235#.
 
-Lark’s head knot, the, 285, 287.
+Lark’s head knot, the, #285#, #287#.
 
-Lee-board, a, 225.
+Lee-board, a, #225#.
 
-Lines, fish, 149.
+Lines, fish, #149#.
 
-Lizards, pens for, 47, 48, 50, 51.
+Lizards, pens for, #47#, #48#, #50#, #51#.
 
-Lock-boxes for camping outfit, 316, 317, 318.
-
-
-Magnus hitch, the, 291.
-
-Man rope knot, a, 285, 286.
-
-Marling hitch, the, 291, 292.
-
-Marten-trap, a, 344.
-
-Merry-go-round, a, construction of, 24-28;
-  vane, 69, 70.
-
-Mink, curing the skin of, 347, 348, 349;
-  stretcher, 349.
-
-Mink-trap, a, 342, 343, 344.
-
-Minnows for fish bait, 151, 161, 166, 167, 168.
-
-Mortar, a snowball, 118, 119.
-
-Muskrat-trap, a,  339,  340, 341, 342.
+Lock-boxes for camping outfit, #316#, #317#, #318#.
 
 
-Nest of pockets, a, for camping outfit, 317, 318.
+Magnus hitch, the, #291#.
+
+Man rope knot, a, #285#, #286#.
+
+Marling hitch, the, #291#, #292#.
+
+Marten-trap, a, #344#.
+
+Merry-go-round, a, construction of, #24#-#28#;
+  vane, #69#, #70#.
+
+Mink, curing the skin of, #347#, #348#, #349#;
+  stretcher, #349#.
+
+Mink-trap, a, #342#, #343#, #344#.
+
+Minnows for fish bait, #151#, #161#, #166#, #167#, #168#.
+
+Mortar, a snowball, #118#, #119#.
+
+Muskrat-trap, a,  #339#,  #340#, #341#, #342#.
 
 
-Oak walking-sticks, 371.
+Nest of pockets, a, for camping outfit, #317#, #318#.
 
-Opossum, curing the skin of, 347.
 
-Ovens, camp, how to make, 323, 324, 325.
+Oak walking-sticks, #371#.
 
-Paddle-wheels: different kinds, 201;
-  the modern turbine, 202;
-  a simple paddle-wheel, 202, 203;
-  a wagon wheel, 203, 204;
-  a barrel-wheel, 204, 205;
-  an undershot-wheel, 206;
-*/
+Opossum, curing the skin of, #347#.
+
+Ovens, camp, how to make, #323#, #324#, #325#.
+
+Paddle-wheels: different kinds, #201#;
+  the modern turbine, #202#;
+  a simple paddle-wheel, #202#, #203#;
+  a wagon wheel, #203#, #204#;
+  a barrel-wheel, #204#, #205#;
+  an undershot-wheel, #206#;
 // 392.png
 .pn +1
-/*
-  a power-wheel, 206, 207, 208.
+  a power-wheel, #206#, #207#, #208#.
 
-Pens for reptiles, 47-51.
+Pens for reptiles, #47#-#51#.
 
-Pet shelters, 29-51;
-  for martins, 30-32;
-  for birds, 32-34;
-  for pigeons, 34-36;
-  for dogs, 36-39;
-  for guinea-pigs, 39-41;
-  for chickens, 41-43;
-  for rabbits, 43-45;
-  for squirrels, 45-47;
+Pet shelters, #29#-#51#;
+  for martins, #30#-#32#;
+  for birds, #32#-#34#;
+  for pigeons, #34#-#36#;
+  for dogs, #36#-#39#;
+  for guinea-pigs, #39#-#41#;
+  for chickens, #41#-#43#;
+  for rabbits, #43#-#45#;
+  for squirrels, #45#-#47#;
   for chipmunks, <i>ibid.</i>;
   for white rats, <i>ibid.</i>;
-  for reptiles, 47-51.
+  for reptiles, #47#-#51#.
 
-Pergola, a back-yard, 53, 54;
-  a rustic, 55, 56, 57;
-  a circular, 57, 58.
+Pergola, a back-yard, #53#, #54#;
+  a rustic, #55#, #56#, #57#;
+  a circular, #57#, #58#.
 
-Pigeon-cotes, 34-36.
+Pigeon-cotes, #34#-#36#.
 
-Pinion-wheel, weather-vane, a, 60-62;
-  a barrel-hoop, 72.
+Pinion-wheel, weather-vane, a, #60#-#62#;
+  a barrel-hoop, #72#.
 
-Pockets, a nest of, for camping outfit, 317, 318.
+Pockets, a nest of, for camping outfit, #317#, #318#.
 
-Power-boat, a, how to make, 235-238.
+Power-boat, a, how to make, #235#-#238#.
 
-Proa, a, how to make, 228-230.
+Proa, a, how to make, #228#-#230#.
 
-Pumping windmill, a, 73, 77.
+Pumping windmill, a, #73#, #77#.
 
-Punt, a, how to make, 212-214;
-  a house, 261.
+Punt, a, how to make, #212#-#214#;
+  a house, #261#.
 
-Pushmobile, a, 185-190.
+Pushmobile, a, #185#-#190#.
 
-Putting the hook to gut, 157, 158, 159, 160.
-
-
-Rabbit, hutches, 43-45;
-  snares, 335, 336, 337, 338;
-  traps, 338, 339.
-
-Raccoon, curing the skin of, 347, 349.
-
-Reef knot, the, 282, 283, 285.
-
-Reel, a chest, 139, 140;
-  a box, 141, 142, 143.
-
-Reels, kite, 138-143;
-  fish, 150.
-
-Repairing fishing-tackle, 156-160.
-
-Reptile pens, 47-51.
-
-Rocker-coaster, a, 103, 105.
-
-Rods, fishing, elasticity of, 148;
-  bait, 148, 151;
-  fly, 148, 149, 153-156;
-  split-bamboo, 149;
-  handling of, 151, 152, 153;
-  repairing, 157, 158, 159.
-
-Rolling hitch, the, 290, 291.
-
-Rope yarn knot, the, 285, 287.
-
-Running bowline knot, the, 284, 285.
+Putting the hook to gut, #157#, #158#, #159#, #160#.
 
 
-Sable, trap for, 344;
-  curing the skin of, 347.
+Rabbit, hutches, #43#-#45#;
+  snares, #335#, #336#, #337#, #338#;
+  traps, #338#, #339#.
 
-Sail-skating and snowball artillery, 115-119;
-  a skating sail, 115-117;
-  a square-rigged ice-sail, 118;
-  a snowball mortar, 118, 119.
+Raccoon, curing the skin of, #347#, #349#.
 
-Sail-wagon, a, 182-185.
+Reef knot, the, #282#, #283#, #285#.
 
-Sandwich Island bird kite, the, 129, 130, 131, 132.
+Reel, a chest, #139#, #140#;
+  a box, #141#, #142#, #143#.
 
-Scap-net, how made, 19, 175, 176.
+Reels, kite, #138#-#143#;
+  fish, #150#.
 
-Scoots and scooters, “ice-water boats,” 255-259.
+Repairing fishing-tackle, #156#-#160#.
 
-Scow, a, how to make, 214, 215.
+Reptile pens, #47#-#51#.
 
-Seine for catching live bait, 161, 162, 163.
+Rocker-coaster, a, #103#, #105#.
 
-Self-acting aërial-car, 86-91.
+Rods, fishing, elasticity of, #148#;
+  bait, #148#, #151#;
+  fly, #148#, #149#, #153#-#156#;
+  split-bamboo, #149#;
+  handling of, #151#, #152#, #153#;
+  repairing, #157#, #158#, #159#.
 
-Sharpy, a, how to make, 215-218;
-  a sailing, 221-225;
-  a centre-board, 225-228.
+Rolling hitch, the, #290#, #291#.
 
-Sheepshank hitch, the, 291, 292.
+Rope yarn knot, the, #285#, #287#.
 
-Sheet bend, the, 289.
+Running bowline knot, the, #284#, #285#.
 
-Shelters for pets, 29-51;
-  for martins, 30-32;
-  for birds, 32-34;
-  for pigeons, 34-36;
-  for dogs, 36-39;
-  for guinea-pigs, 39-41;
-  for chickens, 41-43;
-  for rabbits, 43-45,
-  for squirrels, 45-47;
+
+Sable, trap for, #344#;
+  curing the skin of, #347#.
+
+Sail-skating and snowball artillery, #115#-#119#;
+  a skating sail, #115#-#117#;
+  a square-rigged ice-sail, #118#;
+  a snowball mortar, #118#, #119#.
+
+Sail-wagon, a, #182#-#185#.
+
+Sandwich Island bird kite, the, #129#, #130#, #131#, #132#.
+
+Scap-net, how made, #19#, #175#, #176#.
+
+Scoots and scooters, “ice-water boats,” #255#-#259#.
+
+Scow, a, how to make, #214#, #215#.
+
+Seine for catching live bait, #161#, #162#, #163#.
+
+Self-acting aërial-car, #86#-#91#.
+
+Sharpy, a, how to make, #215#-#218#;
+  a sailing, #221#-#225#;
+  a centre-board, #225#-#228#.
+
+Sheepshank hitch, the, #291#, #292#.
+
+Sheet bend, the, #289#.
+
+Shelters for pets, #29#-#51#;
+  for martins, #30#-#32#;
+  for birds, #32#-#34#;
+  for pigeons, #34#-#36#;
+  for dogs, #36#-#39#;
+  for guinea-pigs, #39#-#41#;
+  for chickens, #41#-#43#;
+  for rabbits, #43#-#45#,
+  for squirrels, #45#-#47#;
   for chipmunks, <i>ibid.</i>;
   for white rats, <i>ibid.</i>;
-  for reptiles, 47-51.
+  for reptiles, #47#-#51#.
 
-Ship kite, the, 120, 121, 122.
+Ship kite, the, #120#, #121#, #122#.
 
-Single-runner coaster, a, 106, 107, 108.
+Single-runner coaster, a, #106#, #107#, #108#.
 
-Sinkers, fish, 150, 152, 164.
+Sinkers, fish, #150#, #152#, #164#.
 
-Skating-sail, a, 115-117.
+Skating-sail, a, #115#-#117#.
 
-Skees, Norway, 110, 111.
+Skees, Norway, #110#, #111#.
 
-Skins, animal, how to cure, 346-349.
+Skins, animal, how to cure, #346#-#349#.
 
-Skunks, trap for, 342, 346;
-  curing the skin of, 347.
+Skunks, trap for, #342#, #346#;
+  curing the skin of, #347#.
 
-Sled-toboggan, a, 103, 104.
+Sled-toboggan, a, #103#, #104#.
 
-Slippery hitch, the, 290, 291.
+Slippery hitch, the, #290#, #291#.
 
-Snails, for aquariums, 20, 23.
+Snails, for aquariums, #20#, #23#.
 
-Snakes, pens for, 47, 48, 49.
+Snakes, pens for, #47#, #48#, #49#.
 
-Snares, 334;
-  for rabbits, 335, 336, 337, 338.
+Snares, #334#;
+  for rabbits, #335#, #336#, #337#, #338#.
 
-Snowball mortar, a, 118, 119.
+Snowball mortar, a, #118#, #119#.
 
-Snow-shoes, the Iroquois, 111, 112;
-  the Esquimaux, 112, 113;
-  oval, 114.
+Snow-shoes, the Iroquois, #111#, #112#;
+  the Esquimaux, #112#, #113#;
+  oval, #114#.
 
-South Sea Island proa, a, how to make, 228-230.
-*/
+South Sea Island proa, a, how to make, #228#-#230#.
 // 393.png
 .pn +1
-/*
 
-Splices: how made, 159;
-  different kinds, 280;
-  the eye-splice, 280, 281;
-  diagrams showing, 281;
-  the short splice, 281, 282;
-  the long splice, 282.
+Splices: how made, #159#;
+  different kinds, #280#;
+  the eye-splice, #280#, #281#;
+  diagrams showing, #281#;
+  the short splice, #281#, #282#;
+  the long splice, #282#.
 
-Splicing a fishing-rod, 157, 158.
+Splicing a fishing-rod, #157#, #158#.
 
-Square-rigged ice-sail, a, 118.
+Square-rigged ice-sail, a, #118#.
 
-Squirrel cages, 45-47.
+Squirrel cages, #45#-#47#.
 
-Stone stoves for campers, 319, 320, 321.
+Stone stoves for campers, #319#, #320#, #321#.
 
-Stopper knot, a, 285, 286.
+Stopper knot, a, #285#, #286#.
 
-Stoves, stone, for campers, 319, 320, 321.
+Stoves, stone, for campers, #319#, #320#, #321#.
 
-Stretchers for drying skins, 347, 348, 349.
+Stretchers for drying skins, #347#, #348#, #349#.
 
-Summer-house, a simple, 52-53, 58.
+Summer-house, a simple, #52#-#53#, #58#.
 
 
-Tables for camp life, 301, 313, 314, 315.
+Tables for camp life, #301#, #313#, #314#, #315#.
 
-Tadpoles for aquariums, 20.
+Tadpoles for aquariums, #20#.
 
-Tent, for camping out, 295;
-  a medium-size, 295-300;
-  a large camping, 300-303;
-  a house, 304-307;
-  the new, 307-310.
+Tent, for camping out, #295#;
+  a medium-size, #295#-#300#;
+  a large camping, #300#-#303#;
+  a house, #304#-#307#;
+  the new, #307#-#310#.
 
-Tepees,square, 6, 7;
-  ridge-pole, 7, 8, 9.
+Tepees,square, #6#, #7#;
+  ridge-pole, #7#, #8#, #9#.
 
-Timber hitch, the, 290, 291.
+Timber hitch, the, #290#, #291#.
 
-Toadstool tree canopy, a, 54, 55.
+Toadstool tree canopy, a, #54#, #55#.
 
-Toboggan, an eight-foot, 102, 103;
-  a sled, 103.
+Toboggan, an eight-foot, #102#, #103#;
+  a sled, #103#.
 
-Trap, a, for small fish, 169-171;
-  for water-turtles, 171, 172.
+Trap, a, for small fish, #169#-#171#;
+  for water-turtles, #171#, #172#.
 
-Traps and trapping, 334-349;
-  rabbit-traps, 338, 339;
-  muskrat-traps, 339, 340, 341, 342;
-  mink-traps, 342, 343;
-  skunk-traps, 342, 346;
-  deadfalls, 342, 344, 345;
-  sable-traps, 344;
+Traps and trapping, #334#-#349#;
+  rabbit-traps, #338#, #339#;
+  muskrat-traps, #339#, #340#, #341#, #342#;
+  mink-traps, #342#, #343#;
+  skunk-traps, #342#, #346#;
+  deadfalls, #342#, #344#, #345#;
+  sable-traps, #344#;
   martin-traps, <i>ibid.</i>;
-  woodchuck-traps, 346;
+  woodchuck-traps, #346#;
   ground-hog-traps, <i>ibid.</i>
   <i>See also</i> Snares.
 
-Tree huts and brush-houses, 350-366;
-  a low twin-tree hut, 350-356;
-  a high twin-tree hut, 355-358;
-  a single-tree hut, 359, 360;
-  a low single-tree hut, 360, 361;
-  a brush-house, 361-364;
-  a brush “lean-to,” 364-366.
+Tree huts and brush-houses, #350#-#366#;
+  a low twin-tree hut, #350#-#356#;
+  a high twin-tree hut, #355#-#358#;
+  a single-tree hut, #359#, #360#;
+  a low single-tree hut, #360#, #361#;
+  a brush-house, #361#-#364#;
+  a brush “lean-to,” #364#-#366#.
 
-Truck, a hook-and-ladder, 198-200.
+Truck, a hook-and-ladder, #198#-#200#.
 
-Turk’s head knot, the, 285, 287.
+Turk’s head knot, the, #285#, #287#.
 
-Turtles, water, a trap for, 171, 172.
+Turtles, water, a trap for, #171#, #172#.
 
-“Twitch-up,” a, for rabbits, 335, 336;
-  a French, 336, 337, 338.
+“Twitch-up,” a, for rabbits, #335#, #336#;
+  a French, #336#, #337#, #338#.
 
-Two half hitches, 289, 290.
+Two half hitches, #289#, #290#.
 
 
-Wagon, a sail, 182-185.
+Wagon, a sail, #182#-#185#.
 
-Walker, Matthew, knot, the, 285, 286.
+Walker, Matthew, knot, the, #285#, #286#.
 
-Walking-sticks, 367-375;
-  how to grow, 367-369;
-  holly, 370, 371;
-  ash, 371;
+Walking-sticks, #367#-#375#;
+  how to grow, #367#-#369#;
+  holly, #370#, #371#;
+  ash, #371#;
   oak, <i>ibid.</i>;
   elm, <i>ibid.</i>;
-  from fruit trees, 371, 372;
-  from wild orange, 372;
-  method of treatment, 372, 373, 374;
-  handles for, 374;
-  demand for, 375.
+  from fruit trees, #371#, #372#;
+  from wild orange, #372#;
+  method of treatment, #372#, #373#, #374#;
+  handles for, #374#;
+  demand for, #375#.
 
-Wall knot, the, 284, 285.
+Wall knot, the, #284#, #285#.
 
-Water in aquariums, to aërate, 22.
+Water in aquariums, to aërate, #22#.
 
-Water-turtles, a trap for, 171, 172.
+Water-turtles, a trap for, #171#, #172#.
 
-Water-wheels: different kinds, 201;
-  the modern turbine, 202;
-  a simple paddle-wheel, 202, 203;
-  a wagon wheel, 203, 204;
-  a barrel-wheel, 204, 205;
-  an undershot-wheel, 206;
-  a power-wheel, 206, 207, 208.
+Water-wheels: different kinds, #201#;
+  the modern turbine, #202#;
+  a simple paddle-wheel, #202#, #203#;
+  a wagon wheel, #203#, #204#;
+  a barrel-wheel, #204#, #205#;
+  an undershot-wheel, #206#;
+  a power-wheel, #206#, #207#, #208#.
 
-Weasel, curing the skin of, 347.
+Weasel, curing the skin of, #347#.
 
-Weather-vanes, 59-80;
-  a pinion-wheel, 60-62;
-  a wind-speeder, 62-64;
-  the arrow, 64, 65;
-  wooden, 65, 66;
-  a wind-pennant, 66, 67;
-  a basket-ball, 67-69;
-  a merry-go-round, 69-71.
+Weather-vanes, #59#-#80#;
+  a pinion-wheel, #60#-#62#;
+  a wind-speeder, #62#-#64#;
+  the arrow, #64#, #65#;
+  wooden, #65#, #66#;
+  a wind-pennant, #66#, #67#;
+  a basket-ball, #67#-#69#;
+  a merry-go-round, #69#-#71#.
 
-Wheel-race, a, construction of, 208.
+Wheel-race, a, construction of, #208#.
 
-Wigwams, Indian, 3-6.
+Wigwams, Indian, #3#-#6#.
 
-Windmills, 59-80;
-  wind turbine, 71-73;
-  pumping, 73-77;
-  tower, 78-80.
+Windmills, #59#-#80#;
+  wind turbine, #71#-#73#;
+  pumping, #73#-#77#;
+  tower, #78#-#80#.
 
-Wind-pennant, a, 66, 67.
+Wind-pennant, a, #66#, #67#.
 
-Wind-runner, a, how to make, 259, 260.
+Wind-runner, a, how to make, #259#, #260#.
 
-Wind-sails, 115, 116, 117, 118.
+Wind-sails, #115#, #116#, #117#, #118#.
 
-Wind-speeder, a, 62, 63.
+Wind-speeder, a, #62#, #63#.
 
-Wind turbine, a, 71-73.
+Wind turbine, a, #71#-#73#.
 
-Woodchucks, how to trap, 346.
+Woodchucks, how to trap, #346#.
 
-Wooden weather-vanes, 63, 65, 66.
+Wooden weather-vanes, #63#, #65#, #66#.
 
-Wolf, curing the skin of, 347.
+Wolf, curing the skin of, #347#.
 
-Worms for fish bait, 150, 151, 152, 161, 166.
+Worms for fish bait, #150#, #151#, #152#, #161#, #166#.
 
 
-Yacht, a land, 177-182.
-*/
+Yacht, a land, #177#-#182#.
+.nf-
+.in
+.ad
 
 
 THE END
